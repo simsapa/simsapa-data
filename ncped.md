@@ -5,10 +5,11 @@ title = "New Concise Pali - English Dictionary (NCPED)"
 description = "Pali - English"
 creator = "Simsapa Dhamma Reader"
 source = "https://simsapa.github.io"
-cover_path = "cover.jpg"
+cover_path = "default_cover.jpg"
 book_id = "NcpedDictionarySimsapa"
 created_date_human = ""
 created_date_opf = ""
+use_velthuis = false
 is_epub = true
 is_mobi = false
 ```
