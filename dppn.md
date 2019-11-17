@@ -4,14 +4,15 @@
 title = "Dictionary of Pali Proper Names (DPPN)"
 description = "Pali - English"
 creator = "Simsapa Dhamma Reader"
+email = ""
 source = "https://simsapa.github.io"
 cover_path = "default_cover.jpg"
 book_id = "DppnDictionarySimsapa"
+version = "0.2.0-alpha.1"
 created_date_human = ""
 created_date_opf = ""
-use_velthuis = false
-is_epub = true
-is_mobi = false
+word_prefix = ""
+add_velthuis = false
 ```
 
 --- DICTIONARY WORD ENTRIES ---
@@ -19,12 +20,16 @@ is_mobi = false
 ``` toml
 dict_label = "DPPN"
 word = "ababa"
-summary = "Ababa A name given not to a special purgatory but"
+summary = "A name given not to a special purgatory but to a p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ababa
 
 A name given not to a special purgatory but to a period of time in Avīci.
 
@@ -35,24 +40,32 @@ One term of Ababa is equal to four hundred of Abbuda; an Abbuda being reckoned a
 ``` toml
 dict_label = "DPPN"
 word = "abbhavalāhakā"
-summary = "Abbhavalāhakā One of the Cloud-group of devas. The"
+summary = "One of the Cloud-group of devas. They are embodied"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Abbhavalāhakā
 
 One of the Cloud\-group of devas. They are embodied in the thunder clouds (cumulus clouds), and when they wish to revel and delight themselves, thunder clouds make their appearance in the sky. SN.iii.256
 
 ``` toml
 dict_label = "DPPN"
 word = "abbuda"
-summary = "Abbuda A period of suffering in Avīci, the time ta"
+summary = "A period of suffering in Avīci, the time taken to"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Abbuda
 
 A period of suffering in Avīci, the time taken to remove twenty cartloads of tila\-seeds, taking one seed at the end of each century. Snp.p.126 SN.i.152
 
@@ -63,7 +76,13 @@ dict_label = "DPPN"
 word = "abhaya "
 summary = "Abhaya 1 A monk whose verse concerning the bewilde"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Abhaya <sup>1</sup>
@@ -85,24 +104,32 @@ A Licchavi of Vesāli. On one occasion he comes with another Licchavi, Paṇḍi
 ``` toml
 dict_label = "DPPN"
 word = "abhayamātā"
-summary = "Abhayamātā A Therī. Two verses attributed to her a"
+summary = "A Therī. Two verses attributed to her are found in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Abhayamātā
 
 A Therī. Two verses attributed to her are found in the Therigatha. Thig.33–34
 
 ``` toml
 dict_label = "DPPN"
 word = "abhayā"
-summary = "Abhayā A Therī. Two verses are attributed to her i"
+summary = "A Therī. Two verses are attributed to her in the T"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Abhayā
 
 A Therī. Two verses are attributed to her in the Therīgāthā. Thig.35 Thig.46
 
@@ -111,7 +138,13 @@ dict_label = "DPPN"
 word = "abhibhū"
 summary = "Abhibhū1 Chief disciple of Sikhī Buddha. DN.ii.9 I"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Abhibhū<sup>1</sup>
@@ -127,12 +160,16 @@ A class of devas belonging to the formless plane. MN.i.1 They live in the same p
 ``` toml
 dict_label = "DPPN"
 word = "abhibhūta"
-summary = "Abhibhūta Three verses ascribed to Abhibhūta occur"
+summary = "Three verses ascribed to Abhibhūta occur in the Th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Abhibhūta
 
 Three verses ascribed to Abhibhūta occur in the Theragāthā, addressd to his kinsmen and retainers. Thag.255–257 The second of these verses is elsewhere SN.i.156 attributed to Abhibhū, chief disciple of Sikhī Buddha. In the Mahāparinibbāna Sutta DN.ii.121 the second and third verses are ascribed to the Buddha.
 
@@ -141,7 +178,13 @@ dict_label = "DPPN"
 word = "abhirūpanandā"
 summary = "AbhirūpanandāAbhirūpaNandā The two verses preached"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AbhirūpanandāAbhirūpaNandā
@@ -153,7 +196,13 @@ dict_label = "DPPN"
 word = "abhiñjika"
 summary = "AbhiñjikaAbhijikaĀbhiñjika A student of Anuruddha."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AbhiñjikaAbhijikaĀbhiñjika
@@ -165,36 +214,48 @@ The Buddha sends for them and admonishes them. Having heard his discourse, they 
 ``` toml
 dict_label = "DPPN"
 word = "accuta"
-summary = "Accuta A Pacceka Buddha, mentioned in a list of Pa"
+summary = "A Pacceka Buddha, mentioned in a list of Pacceka B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Accuta
 
 A Pacceka Buddha, mentioned in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "accutadevā"
-summary = "Accutadevā A class of devas mentioned among those"
+summary = "A class of devas mentioned among those assembled o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Accutadevā
 
 A class of devas mentioned among those assembled on the occasion of the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "accutagāmabyāmaka"
-summary = "Accutagāmabyāmaka One of the Pacceka Buddhas in a"
+summary = "One of the Pacceka Buddhas in a nominal list. MN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Accutagāmabyāmaka
 
 One of the Pacceka Buddhas in a nominal list. MN.iii.70
 
@@ -203,7 +264,13 @@ dict_label = "DPPN"
 word = "acelakassapa"
 summary = "Acelakassapa1AcelaKassapa A naked ascetic. He visi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Acelakassapa<sup>1</sup>AcelaKassapa
@@ -221,12 +288,16 @@ An old family friend of Cittagapahati. Having been for thirty years a *paribbāj
 ``` toml
 dict_label = "DPPN"
 word = "aciravata"
-summary = "Aciravata A novice who had a conversation with Pri"
+summary = "A novice who had a conversation with Prince Jayase"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aciravata
 
 A novice who had a conversation with Prince Jayasena on the life of the bhikkhu. Aciravata repeats this conversation to the Buddha who thereupon preaches the Dantabhūmi Sutta. MN.iii.128*ff.*
 
@@ -235,12 +306,16 @@ The novice is throughout addressed as Aggivessana.
 ``` toml
 dict_label = "DPPN"
 word = "aciravatī"
-summary = "Aciravatī A river, the modern Rāpti in Uttar Prade"
+summary = "A river, the modern Rāpti in Uttar Pradesh; one of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aciravatī
 
 A river, the modern Rāpti in Uttar Pradesh; one of the *pañca\-mahānadī*, Vin.ii.237 the five great rivers flowing from the Himālaya eastwards (*pācīnaninnā*) SN.v.39 into the sea. During the hot season it ran dry, leaving a bed of sand. AN.iv.101 It flowed through Kosala, and at Sāvatthī an udumbara grove grew on its banks; it, could be seen from the terrace of Pasenadi’s palace. Vin.iv.111–112 To the south of it was Manasākaṭa, and on its southern bank was a mango grove where the Buddha sometimes resided. DN.i.235–236 The Tevijjā Sutta was preached here, and the Aciravatī is used in a simile to prove the futility of sacrifices and prayers: it is of no use standing on one bank of the river and calling to the other bank to come over.
 
@@ -259,36 +334,48 @@ Near the river was Dandakappa, a Kosalan village, and while staying there Ānand
 ``` toml
 dict_label = "DPPN"
 word = "addhakāsī"
-summary = "Addhakāsī A prostitute in Rājagaha who entered the"
+summary = "A prostitute in Rājagaha who entered the Order of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Addhakāsī
 
 A prostitute in Rājagaha who entered the Order of the bhikkhunis. Wishing to obtain the higher ordination from the Buddha, she set out for Sāvatthī, but was waylaid and stopped by libertines. So she sent a man to ask the Buddha’s advice and he permitted her to be ordained by a messenger. Thig.25–26 Vin.ii.277 Later she attained arahantship.
 
 ``` toml
 dict_label = "DPPN"
 word = "addhariyā"
-summary = "Addhariyā The word occurs in a list of brahmin tea"
+summary = "The word occurs in a list of brahmin teachers in t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Addhariyā
 
 The word occurs in a list of brahmin teachers in the Tevijja Sutta. DN.i.237 They teach a state of union with Brahmā. These are evidently Adhvaryu brahmins.
 
 ``` toml
 dict_label = "DPPN"
 word = "adhikakkā"
-summary = "Adhikakkā A ford, evidently a well-known bathing-g"
+summary = "A ford, evidently a well-known bathing-ghat, where"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Adhikakkā
 
 A ford, evidently a well\-known bathing\-ghat, where pilgrims used to bathe in order to obtain purification from their sins. It is mentioned in a list of rivers and ghats. MN.i.39
 
@@ -297,24 +384,32 @@ A ford, evidently a well\-known bathing\-ghat, where pilgrims used to bathe in o
 ``` toml
 dict_label = "DPPN"
 word = "adhimutta"
-summary = "Adhimutta A Brahmin of Sāvatthī. A verse addressed"
+summary = "A Brahmin of Sāvatthī. A verse addressed by him to"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Adhimutta
 
 A Brahmin of Sāvatthī. A verse addressed by him to some corpulent monks is found in the Theragāthā. Thag.114
 
 ``` toml
 dict_label = "DPPN"
 word = "aggaḷapura"
-summary = "Aggaḷapura A city where Revata went on his way fro"
+summary = "A city where Revata went on his way from Soreyya t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aggaḷapura
 
 A city where Revata went on his way from Soreyya to Sahajāti, prior to the Council of Vesālī. Vin.ii.300
 
@@ -323,12 +418,16 @@ A city where Revata went on his way from Soreyya to Sahajāti, prior to the Coun
 ``` toml
 dict_label = "DPPN"
 word = "aggidatta"
-summary = "Aggidatta A brahmin of Khemavatī, father of the Bu"
+summary = "A brahmin of Khemavatī, father of the Buddha Kakus"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aggidatta
 
 A brahmin of Khemavatī, father of the Buddha Kakusandha. His wife was named Visākhā. DN.ii.7
 
@@ -337,7 +436,13 @@ dict_label = "DPPN"
 word = "aggikabhāradvāja"
 summary = "Aggikabhāradvāja1AggikaBhāradvāja A brahmin of Sāv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Aggikabhāradvāja<sup>1</sup>AggikaBhāradvāja
@@ -346,17 +451,21 @@ A brahmin of Sāvatthī, of the Bhāradvāja clan. The Buddha, while on his roun
 
 Aggikabhāradvāja<sup>2</sup>AggikaBhāradvāja
 
-A brahmin of Rājagaha, a fire\-tender. He prepares a meal for sacrifice, and when the Buddha, out of compassion for him, appears before his house for alms, he says the meal is meant only for one who has the “threefold lore” (the three Vedas). The Buddha gives the brahmin another interpretation of the “threefold lore”; (see Aggika Sutta). The brahmin, thereupon, becomes a convert, enters the Order, and, in due course, attains arahantship. SN.i.166*f.*
+A brahmin of Rājagaha, a fire\-tender. He prepares a meal for sacrifice, and when the Buddha, out of compassion for him, appears before his house for alms, he says the meal is meant only for one who has the “threefold lore” (the three Vedas). The Buddha gives the brahmin another interpretation of the “threefold lore”;. The brahmin, thereupon, becomes a convert, enters the Order, and, in due course, attains arahantship. SN.i.166*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "aggivessana"
-summary = "Aggivessana Probably the name of a brahmin clan, t"
+summary = "Probably the name of a brahmin clan, the Agnivesyā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aggivessana
 
 Probably the name of a brahmin clan, the Agnivesyāyanas, and the Ksatriyas who were so styled, took the name from their brahmin priests.
 
@@ -369,7 +478,13 @@ dict_label = "DPPN"
 word = "aggāḷave cetiye"
 summary = "Aggāḷave CetiyeAggālavacetiya The chief shrine at"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Aggāḷave CetiyeAggālavacetiya
@@ -383,12 +498,16 @@ The Chabbaggiyā are censured here for a *nissaggiya* offence. Vin.iii.224 The V
 ``` toml
 dict_label = "DPPN"
 word = "ahaha"
-summary = "Ahaha One of the purgatories mentioned in the Sutt"
+summary = "One of the purgatories mentioned in the Sutta-Nipā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ahaha
 
 One of the purgatories mentioned in the Sutta\-Nipāta list. Snp.p.126 It is the name given to a period of suffering in Avīci and is equivalent in duration to twenty Ababā. SN.i.152
 
@@ -399,7 +518,13 @@ dict_label = "DPPN"
 word = "ahiṃsakabhāradvāja"
 summary = "AhiṃsakabhāradvājaAhiṃsakaBhāradvāja One of the Bh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AhiṃsakabhāradvājaAhiṃsakaBhāradvāja
@@ -409,12 +534,16 @@ One of the Bhāradvāja brothers. He came to the Buddha at Sāvatthī and the Bu
 ``` toml
 dict_label = "DPPN"
 word = "ahogaṅgā"
-summary = "Ahogaṅgā A mountain in North India, on the Upper G"
+summary = "A mountain in North India, on the Upper Ganges. Th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ahogaṅgā
 
 A mountain in North India, on the Upper Ganges. There, for some time, lived the Thera Sambhūta Sānavāsi, and it was there that Yasa Kākandakaputta saw him. The meeting of arahants to discuss what measures should be taken against the Vesālī monks was also held there, and at the meeting were present monks from the Western country and from Avanti\-Dakkhiṇāpatha. Vin.ii.298–289
 
@@ -423,24 +552,32 @@ A mountain in North India, on the Upper Ganges. There, for some time, lived the 
 ``` toml
 dict_label = "DPPN"
 word = "ajakalāpaka"
-summary = "Ajakalāpaka A Yakkha who tried to frighten the Bud"
+summary = "A Yakkha who tried to frighten the Buddha, but who"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ajakalāpaka
 
 A Yakkha who tried to frighten the Buddha, but who, later, became his disciple. Ud.4–5
 
 ``` toml
 dict_label = "DPPN"
 word = "ajakalāpakacetiya"
-summary = "Ajakalāpakacetiya A shrine at Pāvā at which sacrif"
+summary = "A shrine at Pāvā at which sacrifices were offered"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ajakalāpakacetiya
 
 A shrine at Pāvā at which sacrifices were offered to Ajakalāpaka. Ud.4
 
@@ -449,12 +586,16 @@ A shrine at Pāvā at which sacrifices were offered to Ajakalāpaka. Ud.4
 ``` toml
 dict_label = "DPPN"
 word = "ajakaraṇī"
-summary = "Ajakaraṇī The river on whose banks was the Lonagir"
+summary = "The river on whose banks was the Lonagiri (or Lena"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ajakaraṇī
 
 The river on whose banks was the Lonagiri (or Lena°) *vihāra* where lived the Thera Sabbaka (Sappaka). Thag.307–310
 
@@ -467,12 +608,16 @@ Gandak2river
 ``` toml
 dict_label = "DPPN"
 word = "ajapālanigrodha"
-summary = "Ajapālanigrodha A banyan tree in Uruvelā, on the b"
+summary = "A banyan tree in Uruvelā, on the banks of the Nera"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ajapālanigrodha
 
 A banyan tree in Uruvelā, on the banks of the Nerañjara, near the Bodhi tree. A week after the Enlightenment the Buddha went there and spent a week cross\-legged at the foot of the tree. There he met the Huhuṅkajātika Brahmin. Vin.i.2–3 Two weeks later he went there again from the Rajāyatana. Vin.i.4 It was then that the Brahma Sahampati appeared to him and persuaded him to preach the doctrine, in spite of the difficulty of the task. Vin.i.5–7 When the Buddha wishes to have someone as his teacher, Sahampati appears again and suggests to him that the Dhamma be considered his teacher. AN.ii.20*f.* SN.i.138*f.*
 
@@ -489,7 +634,13 @@ dict_label = "DPPN"
 word = "ajita"
 summary = "Ajita1 A monk. He devoted his time to explaining t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ajita<sup>1</sup>
@@ -513,7 +664,13 @@ dict_label = "DPPN"
 word = "ajitakesakambala"
 summary = "AjitakesakambalaKesakambalaAjita Head of one of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AjitakesakambalaKesakambalaAjita
@@ -531,7 +688,13 @@ dict_label = "DPPN"
 word = "ajitamāṇava"
 summary = "AjitamāṇavaAjita One of the disciples of Bāvarī wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AjitamāṇavaAjita
@@ -547,24 +710,32 @@ The Ajita\-pucchā are referred to in the Saṃyutta, SN.ii.47*f.* where they ar
 ``` toml
 dict_label = "DPPN"
 word = "ajjuka"
-summary = "Ajjuka A monk of Vesālī. In settling a dispute reg"
+summary = "A monk of Vesālī. In settling a dispute regarding"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ajjuka
 
 A monk of Vesālī. In settling a dispute regarding the estate of his lay\-supporter, he was accused of partisanship by one of the parties concerned and was reported to Ānanda. The case went up before Upāli, who decided in favour of Ajjuka. Vin.iii.66–67
 
 ``` toml
 dict_label = "DPPN"
 word = "ajjuna"
-summary = "Ajjuna A monk whose Theragāthā verse describes und"
+summary = "A monk whose Theragāthā verse describes understand"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ajjuna
 
 A monk whose Theragāthā verse describes understanding the Dhamma as like drawing oneself from water to dry land. Thag.88
 
@@ -573,7 +744,13 @@ dict_label = "DPPN"
 word = "ajātasattu"
 summary = "AjātasattuVedehiputta Son of Bimbisāra, King of Mā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AjātasattuVedehiputta
@@ -609,12 +786,16 @@ It was he who built the fortress of Pāṭāliputta, which later became the capi
 ``` toml
 dict_label = "DPPN"
 word = "akaniṭṭhā"
-summary = "Akaniṭṭhā A class of devas, living in the highest"
+summary = "A class of devas, living in the highest of the fiv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Akaniṭṭhā
 
 A class of devas, living in the highest of the five Suddhāvasā (Pure Abodes). DN.iii.237
 
@@ -625,12 +806,16 @@ In the Sakkapañha Sutta. DN.ii.286 Sakka speaks of them as the highest devas, a
 ``` toml
 dict_label = "DPPN"
 word = "allakappa"
-summary = "Allakappa A country near Māgadha, perhaps near Vet"
+summary = "A country near Māgadha, perhaps near Vethadīpaka."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Allakappa
 
 A country near Māgadha, perhaps near Vethadīpaka. When the Bulis of Allakappa heard of the Buddha’s death, they sent messengers to the Mallas asking for a portion of the relics, claiming that they too, like the Buddha, were *khattiya*s. Having obtained them, they later built a thūpa over them. DN.ii.166–167
 
@@ -639,12 +824,16 @@ near Māgadha, perhaps near Vethadīpaka3region
 ``` toml
 dict_label = "DPPN"
 word = "amalakīvana"
-summary = "Amalakīvana A grove in Cātumā where the Buddha pre"
+summary = "A grove in Cātumā where the Buddha preached the Kū"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Amalakīvana
 
 A grove in Cātumā where the Buddha preached the Kūṭadanta Sutta.
 
@@ -653,12 +842,16 @@ A grove in Cātumā where the Buddha preached the Kūṭadanta Sutta.
 ``` toml
 dict_label = "DPPN"
 word = "ambagāma"
-summary = "Ambagāma One of the villages near Vesāli visited b"
+summary = "One of the villages near Vesāli visited by the Bud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ambagāma
 
 One of the villages near Vesāli visited by the Buddha on his last tour D.ii.123. It was between Bhandagāma and Bhoganagara, on the road from Vesāli to Kusināra. This was evidently the road which led from Vesāli northwards to the Malla Country, for other villages in the vicinity of Ambagāma were Hatthigāma and Jambugāma.
 
@@ -669,7 +862,13 @@ dict_label = "DPPN"
 word = "ambalaṭṭhikā"
 summary = "Ambalaṭṭhikā1 A royal park on the road between Rāj"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ambalaṭṭhikā<sup>1</sup>
@@ -689,12 +888,16 @@ Magadha3park
 ``` toml
 dict_label = "DPPN"
 word = "ambapālivana"
-summary = "Ambapālivana The grove presented by Ambapālī to th"
+summary = "The grove presented by Ambapālī to the Buddha and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ambapālivana
 
 The grove presented by Ambapālī to the Buddha and the Order. It was in Vesāli and was given to the Buddha during his last tour in that town, at the conclusion of the meal to which Ambapālī had invited him. Vin.i.231–233 But both the Buddha and the monks seem to have stayed there previously during their visits to Vesāli. DN.ii.94 SN.v.301
 
@@ -709,7 +912,13 @@ dict_label = "DPPN"
 word = "ambapālī"
 summary = "AmbapālīAmbapālikā A courtesan of Vesāli. She beca"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AmbapālīAmbapālikā
@@ -729,7 +938,13 @@ dict_label = "DPPN"
 word = "ambaraambaravatī"
 summary = "The double name of a city in Uttarakuru. DN.iii.20"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AmbaraambaravatīAmbara\-ambaravatī
@@ -741,12 +956,16 @@ The double name of a city in Uttarakuru. DN.iii.201
 ``` toml
 dict_label = "DPPN"
 word = "ambasaṇḍā"
-summary = "Ambasaṇḍā A brahmin village in Māgadha to the east"
+summary = "A brahmin village in Māgadha to the east of Rājaga"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ambasaṇḍā
 
 A brahmin village in Māgadha to the east of Rājagaha.
 
@@ -759,7 +978,13 @@ dict_label = "DPPN"
 word = "ambatittha"
 summary = "AmbatitthaAmbatitthāAmbatiṭṭha A village in the Ce"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AmbatitthaAmbatitthāAmbatiṭṭha
@@ -773,7 +998,13 @@ dict_label = "DPPN"
 word = "ambaṭṭha"
 summary = "AmbaṭṭhaAmbaṭṭhamāṇava A brahmin youth of the Amba"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AmbaṭṭhaAmbaṭṭhamāṇava
@@ -791,7 +1022,13 @@ dict_label = "DPPN"
 word = "ambāṭakavana"
 summary = "AmbāṭakavanaAmbālavana A grove at Macchikāsaṇḍa, b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AmbāṭakavanaAmbālavana
@@ -811,24 +1048,32 @@ Among eminent Elders who visited the place wer.
 ``` toml
 dict_label = "DPPN"
 word = "anantajina"
-summary = "Anantajina An epithet of the Buddha. When Upaka, t"
+summary = "An epithet of the Buddha. When Upaka, the ājīvika,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anantajina
 
 An epithet of the Buddha. When Upaka, the *ājīvika*, saw the Buddha, and heard of his attainments, Anantajina was one of the names he used in uttering the Buddha’s praises.
 
 ``` toml
 dict_label = "DPPN"
 word = "andhakavinda"
-summary = "Andhakavinda A village in the Māgadha country, thr"
+summary = "A village in the Māgadha country, three gāvuta fro"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Andhakavinda
 
 A village in the Māgadha country, three gāvuta from Rājagaha. Between it and Rājagaha is the river Sappinī, which rises in the Gijjhakūṭa. Vin.i.109 Once the Buddha went from Benares to Andhakavinda with 1,250 monks, and many people followed them carrying cartloads of provisions that they might feed them in turn. There were so many awaiting their turn that a certain brahmin (referred to as Andhakavindabrāhmana) had to wait two months for his to come round. At the end of two months, finding that his own affairs were going to ruin and that there was no likelihood of his turn coming soon, the brahmin went to the provision\-room to see what deficiency he could possibly supply. Seeing there neither rice, milk, nor honey\-lumps, he approached Ānanda, and having, through him, obtained the Buddha’s permission, the brahmin prepared a meal of milk\-rice and honey\-lumps for the Buddha and the monks. At the conclusion of the meal the Buddha spoke of the tenfold good qualities of milk\-rice. Vin.i.220*f.* It was this praise uttered by the Buddha that made Visākhā ask him, as a favour, that she should be allowed to supply milk\-rice to the monks throughout her life. Vin.i.293
 
@@ -841,12 +1086,16 @@ Once when the Buddha was staying at Andhakavinda the Brahmā Sahampati came and 
 ``` toml
 dict_label = "DPPN"
 word = "andhavana"
-summary = "Andhavana A grove to the south of Sāvatthī, one gā"
+summary = "A grove to the south of Sāvatthī, one gāvuta away"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Andhavana
 
 A grove to the south of Sāvatthī, one *gāvuta* away from the city. It was well guarded and monks and nuns used to resort there in search of solitude. The Bhikkhunī Saṃyutta contains stories of nuns who were tempted by Māra in the Andhavana, e.g., Āḷavikā, Soma, Kisāgotamī, Vijayā, Uppalavaṇṇā, Cālā, Upacālā, Sisūpacālā, Selā, Vajirā. Snp5
 
@@ -865,24 +1114,32 @@ The rule forbidding monks to enter a village clad only in their waist cloth and 
 ``` toml
 dict_label = "DPPN"
 word = "anejakā"
-summary = "Anejakā A class of devas mentioned as having been"
+summary = "A class of devas mentioned as having been present"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anejakā
 
 A class of devas mentioned as having been present on the occasion of the preaching of the Mahāsamaya Sutta. DN.ii.160
 
 ``` toml
 dict_label = "DPPN"
 word = "annabhāra"
-summary = "Annabhāra A well-known paribbājaka who lived in th"
+summary = "A well-known paribbājaka who lived in the Paribbāj"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Annabhāra
 
 A well\-known *paribbājaka* who lived in the Paribbājakārāma on the banks of the River Sappinī near Rājagaha. He is mentioned as staying with the well\-known *paribbājakas*, Varadhara and Sakuludāyi. The Buddha visits them and talks about the four factors of Dhamma (*dhammapadāni*) which are held in esteem by everyone: not\-coveting, not\-malice, right\-mindfulness, right\-concentration. AN.ii.29–31
 
@@ -891,24 +1148,32 @@ On another occasion they discuss the “brahmin truth.” The Buddha visits them
 ``` toml
 dict_label = "DPPN"
 word = "anopamā"
-summary = "Anopamā Daughter of the Treasurer Majjha of Sāketa"
+summary = "Daughter of the Treasurer Majjha of Sāketa. She wa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anopamā
 
 Daughter of the Treasurer Majjha of Sāketa. She was so called ('Peerless”) because of her beauty. When she grew up, all sorts of eminent men sought her hand with rich gifts, but she was unwilling to marry. She heard the Buddha preach and, meditating on his sermon, attained the Third Fruit of the Path. Later she entered the Order, and on the seventh day thereafter became an arahant. Thig.151–156
 
 ``` toml
 dict_label = "DPPN"
 word = "anotatta"
-summary = "Anotatta A semi-mythical lake, said to be in the H"
+summary = "A semi-mythical lake, said to be in the Himalayas."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anotatta
 
 A semi\-mythical lake, said to be in the Himalayas. Thag.430
 
@@ -917,24 +1182,32 @@ Himalaya5lake
 ``` toml
 dict_label = "DPPN"
 word = "anugāra"
-summary = "Anugāra An eminent wandering ascetic. He is mentio"
+summary = "An eminent wandering ascetic. He is mentioned as l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anugāra
 
 An eminent wandering ascetic. He is mentioned as living in the Paribbājakārāma in the Moranivāpa in Veḷuvana near Rājagaha. He was probably one of the company who was with Sakuludāyi when the Buddha came to visit the latter. MN.ii.1
 
 ``` toml
 dict_label = "DPPN"
 word = "anupiya"
-summary = "Anupiya A township in the Malla country to the eas"
+summary = "A township in the Malla country to the east of Kap"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anupiya
 
 A township in the Malla country to the east of Kapilavatthu. Large numbers of Sākiyan princes joined the Order there, including Bhaddiya, Anuruddha, Ānanda, Bhagu, Kimbila, Devadatta and their barber, Upāli. Vin.ii.180*f.*
 
@@ -945,12 +1218,16 @@ From Anupiya the Buddha went to Kosambi. Vin.ii.184 Near Anupiya was the park wh
 ``` toml
 dict_label = "DPPN"
 word = "anuruddha"
-summary = "Anuruddha First cousin of the Buddha and one of hi"
+summary = "First cousin of the Buddha and one of his most emi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anuruddha
 
 First cousin of the Buddha and one of his most eminent disciples. He was the son of the Sākyan Amitodana and brother of Mahānāma. When members of other Sākyan families had joined the Order of their distinguished kinsman, Mahānāma was grieved that none had gone forth from his own. He therefore suggested to his brother that one of them should leave household life. Anuruddha was at first reluctant to agree, for he had been reared most delicately and luxuriously, dwelling in a different house for each season, surrounded by dancers and mimes. But on hearing from Mahānāma of the endless round of household cares he agreed to go. He could not, however, get his mother’s consent until he persuaded his cousin Bhaddiya to go with him. Together they went with Ānanda, Bhagu, Kimbila, Devadatta and their barber Upāli, to the Blessed One at the Anupiya Mango Grove and were ordained. Before the rainy season was over Anuruddha acquired the divine eye. Vin.ii.180–183 He was later ranked foremost among those who had obtained this attainment. AN.i.23
 
@@ -975,24 +1252,32 @@ His *iddhi*, however, does not seem to have enabled him to prevent his fellow\-d
 ``` toml
 dict_label = "DPPN"
 word = "anurādha"
-summary = "Anurādha An Elder. Once when he was staying in a f"
+summary = "An Elder. Once when he was staying in a forest hut"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anurādha
 
 An Elder. Once when he was staying in a forest hut in the Mahāvana in Vesāli, near to where the Buddha was, certain wandering ascetics came to him and asked him whether or not a Tathāgata exists after death; dissatisfied with his answer they called him “fool” and went away. Thereupon Anurādha sought advice from the Buddha, who asked him “How, inasmuch as it cannot be said of a Tathāgata even in this very life that he really exists, can anything be said regarding him after death?” SN.iii.116–119 SN.iv.380–386
 
 ``` toml
 dict_label = "DPPN"
 word = "anāthapiṇḍika"
-summary = "Anāthapiṇḍika A banker (seṭṭhi) of Sāvatthī who be"
+summary = "A banker (seṭṭhi) of Sāvatthī who became famous be"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anāthapiṇḍika
 
 A banker (*seṭṭhi*) of Sāvatthī who became famous because of his unparalleled generosity to the Buddha. His first meeting with the Buddha was during the first year after the Enlightenment, in Rājagaha., Vin.ii.154*ff.* whither Anāthapiṇḍika had come on business.
 
@@ -1009,36 +1294,48 @@ Anāthapiṇḍika’s personal name was Sudatta, but he was always called Anāt
 ``` toml
 dict_label = "DPPN"
 word = "anīgha"
-summary = "Anīgha A Pacceka Buddha; occurs in a list of Pacce"
+summary = "A Pacceka Buddha; occurs in a list of Pacceka Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anīgha
 
 A Pacceka Buddha; occurs in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "anūpama"
-summary = "Anūpama A monk whose verses are recorded in the Th"
+summary = "A monk whose verses are recorded in the Theragāthā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Anūpama
 
 A monk whose verses are recorded in the Theragāthā. Thag.213–214
 
 ``` toml
 dict_label = "DPPN"
 word = "aparagoyāna"
-summary = "Aparagoyāna One of the four great continents into"
+summary = "One of the four great continents into which the ea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aparagoyāna
 
 One of the four great continents into which the earth is divided. According to the Aṅguttara Nikāya, AN.i.227 AN.v.59 each *cakkavāla* (world\-system) has an Aparagoyāna.
 
@@ -1047,24 +1344,32 @@ One of the four great continents into which the earth is divided. According to t
 ``` toml
 dict_label = "DPPN"
 word = "aparājita"
-summary = "Aparājita One of the Pacceka Buddhas mentioned in"
+summary = "One of the Pacceka Buddhas mentioned in the Isigil"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aparājita
 
 One of the Pacceka Buddhas mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "appamāṇasubhā"
-summary = "Appamāṇasubhā A class of devas of the Rupaloka bel"
+summary = "A class of devas of the Rupaloka belonging to the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Appamāṇasubhā
 
 A class of devas of the Rupaloka belonging to the plane of third *jhāna*.
 
@@ -1073,12 +1378,16 @@ Beings are born there who are possessed of faith, virtue, learning, munificence 
 ``` toml
 dict_label = "DPPN"
 word = "appamāṇābhā"
-summary = "Appamāṇābhā A class of devas of the Rūpaloka, belo"
+summary = "A class of devas of the Rūpaloka, belonging to the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Appamāṇābhā
 
 A class of devas of the Rūpaloka, belonging to the plane of second *jhāna*.
 
@@ -1087,12 +1396,16 @@ Beings are born there who have absorbed the idea of boundless brilliancy, MN.iii
 ``` toml
 dict_label = "DPPN"
 word = "aputtaka"
-summary = "Aputtaka A wealthy burgess of Sāvatthī who died in"
+summary = "A wealthy burgess of Sāvatthī who died intestate."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aputtaka
 
 A wealthy burgess of Sāvatthī who died intestate. In the Saṃyutta Nikāya SN.i.89–91 we find Pasenadi, King of Kosala, visiting the Buddha at noonday and telling him that he had just finished having the banker’s wealth removed to the royal coffers, “eight millions of gold to say nothing of silver.” And yet Aputtaka ate nothing except sour husk\-gruel left over from the previous day and wore only hempen garments.
 
@@ -1101,24 +1414,32 @@ In the next Sutta of the same Nikāya SN.i.91–93 the Buddha is reported as rev
 ``` toml
 dict_label = "DPPN"
 word = "araka"
-summary = "Araka The Bodhisatta, born as a brahmin teacher. I"
+summary = "The Bodhisatta, born as a brahmin teacher. In the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Araka
 
 The Bodhisatta, born as a brahmin teacher. In the Aṅguttara Nikāya AN.iv.136–138 we are told that among Araka’s pupils those who followed his teachings were born in the Brahma\-world, while the others were born in various purgatories.
 
 ``` toml
 dict_label = "DPPN"
 word = "aranemi"
-summary = "Aranemi A brahmin teacher of a past age, given in"
+summary = "A brahmin teacher of a past age, given in a list o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aranemi
 
 A brahmin teacher of a past age, given in a list of six teachers, who were purohitas. AN.iii.373 The others were Sunetta, Mūgapakkha, Kuddālaka, Hatthipāla and Jotipāla. In the Aṅguttara AN.iv.135*f.* a seventh name is added, Araka.
 
@@ -1127,24 +1448,32 @@ They practised harmlessness and, abstaining from flesh, got rid of their lusts. 
 ``` toml
 dict_label = "DPPN"
 word = "arati"
-summary = "Arati One of the three daughters of Māra, the othe"
+summary = "One of the three daughters of Māra, the others bei"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Arati
 
 One of the three daughters of Māra, the others being Taṇhā and Ragā. Seeing their father disconsolate after his repeated attempts to foil Gotama’s quest for Enlightenment, they offered to tempt the Buddha with their wiles. This was in the fifth week after the Enlightenment. With Māra’s approval, they came to the Buddha in various forms and in various guises, as he sat at the foot of the Ajapala banyan tree, and danced and sang before him. In the end the Buddha told them that he was beyond temptation by the pleasures of the senses and they went back to their father SN.i.124–127 Snp.835
 
 ``` toml
 dict_label = "DPPN"
 word = "arañña"
-summary = "Arañña Four great Araññas (Wildernesses) are often"
+summary = "Four great Araññas (Wildernesses) are often mentio"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Arañña
 
 Four great Araññas (Wildernesses) are often mentioned: Dandaka°, Kāliṅga°, Mejjha°, and Mātaṅga°. MN.i.378 They had once been the sites of very populous and prosperous kingdoms, but had later been destroyed by the gods because of offences committed by their kings against holy men.
 
@@ -1153,12 +1482,16 @@ Four great Araññas (Wildernesses) are often mentioned: Dandaka°, Kāliṅga°
 ``` toml
 dict_label = "DPPN"
 word = "araññakuṭikā"
-summary = "Araññakuṭikā A forest hermitage near Rājagaha, whe"
+summary = "A forest hermitage near Rājagaha, where the novice"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Araññakuṭikā
 
 A forest hermitage near Rājagaha, where the novice Aciravata sometimes stayed. MN.iii.128
 
@@ -1169,7 +1502,13 @@ dict_label = "DPPN"
 word = "ariṭṭha"
 summary = "Ariṭṭha1 A monk. He had been subjected by the Saṅg"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ariṭṭha<sup>1</sup>
@@ -1199,12 +1538,16 @@ A messenger of Vessavaṇa, employed by him to take his proclamations and publis
 ``` toml
 dict_label = "DPPN"
 word = "ariṭṭhakā"
-summary = "Ariṭṭhakā A class of devas who were present at the"
+summary = "A class of devas who were present at the preaching"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ariṭṭhakā
 
 A class of devas who were present at the preaching of the Mahāsamaya Sutta.
 
@@ -1213,12 +1556,16 @@ They were like azure flowers in hue (*ummāpupphanibhāsino*). DN.ii.260
 ``` toml
 dict_label = "DPPN"
 word = "asama"
-summary = "Asama A devaputta who once visited the Buddha at V"
+summary = "A devaputta who once visited the Buddha at Veḷuvan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asama
 
 A *devaputta* who once visited the Buddha at Veḷuvana, in the company of Sahali, Ninka, Ākoṭaka, Vetambarī and Mānava\-Gāmiya.
 
@@ -1227,36 +1574,48 @@ They were disciples of different teachers and, standing before the Buddha, each 
 ``` toml
 dict_label = "DPPN"
 word = "asamā"
-summary = "Asamā A class of devas, present at the preaching o"
+summary = "A class of devas, present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asamā
 
 A class of devas, present at the preaching of the Mahāsamaya Sutta. They are mentioned together with the Yama twins. DN.ii.259
 
 ``` toml
 dict_label = "DPPN"
 word = "asaññasattā"
-summary = "Asaññasattā Inhabitants of the fifth of the nine a"
+summary = "Inhabitants of the fifth of the nine abodes of bei"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asaññasattā
 
 Inhabitants of the fifth of the nine abodes of beings (*sattāvāsā*). These beings are unconscious and experience nothing. AN.iv.401 As soon as an idea occurs to them they fall from their state. DN.i.28
 
 ``` toml
 dict_label = "DPPN"
 word = "asibandhakaputta"
-summary = "Asibandhakaputta A headman (gāmani). He came to th"
+summary = "A headman (gāmani). He came to the Buddha in the P"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asibandhakaputta
 
 A headman (*gāmani*). He came to the Buddha in the Pārileyyaka Mango Grove in Nāḷandā and asked him various questions, recorded in the Saṃyutta Nikāya. SN.iv.312*ff.* One of these related to the custom among the Western (*Pacchābhūmakā*) brahmins of lifting a man up when dead and carrying him out, calling him by name to speed him heavenward. Surely the Buddha who is an arahant, etc., could make the whole world go to heaven thus if he chose. To this the Buddha answers no, and explains, by various similes, that only a man’s kamma can determine where he will be reborn. On another occasion, the Buddha tells him, in answer to a question, that the Buddha teaches the Dhamma in full only to certain disciples and not to others; just as a farmer sowing seed selects, first the best field, then the moderate, and lastly, the field with the worst soil.
 
@@ -1269,12 +1628,16 @@ Is it true that the Buddha extols compassion to clansmen? Why, then, does the Bu
 ``` toml
 dict_label = "DPPN"
 word = "asipattavana"
-summary = "Asipattavana One of the tortures of purgatory. In"
+summary = "One of the tortures of purgatory. In the distance"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asipattavana
 
 One of the tortures of purgatory. In the distance the grove appears as a mango grove, and when the inhabitants of purgatory enter, wishing to eat the mangoes, leaves which are sharp like swords fall on them, cutting off their limbs. Snp.673
 
@@ -1285,7 +1648,13 @@ dict_label = "DPPN"
 word = "asita"
 summary = "Asita1KaṇhāsiriKāladevala An ascetic who possessed"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Asita<sup>1</sup>KaṇhāsiriKāladevala
@@ -1299,24 +1668,32 @@ A sage (*isi*). His story is given in the Assalāyana Sutta. MN.ii.154*ff.* Once
 ``` toml
 dict_label = "DPPN"
 word = "asoka"
-summary = "Asoka A monk of Ñātikā. Once when the Buddha was s"
+summary = "A monk of Ñātikā. Once when the Buddha was staying"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asoka
 
 A monk of Ñātikā. Once when the Buddha was staying at Ñātikā in the Giñjakāvasatha, Ānanda mentions to the Buddha that Asoka Thera had died, and asks where he had gone. The Buddha tells him that Asoka was an arahant and had realised Nibbana. SN.i.358
 
 ``` toml
 dict_label = "DPPN"
 word = "asokā"
-summary = "Asokā A nun of Ñātikā. When Ānanda announces her d"
+summary = "A nun of Ñātikā. When Ānanda announces her death t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asokā
 
 A nun of Ñātikā. When Ānanda announces her death to the Buddha at Ñātikā in the Giñjakāvasatha, and inquires where she had been born, the Buddha says that she had been reborn spontaneously in the Suddhāvāsā, there to pass away, destined never to return. SN.v.358
 
@@ -1325,7 +1702,13 @@ dict_label = "DPPN"
 word = "assaji"
 summary = "Assaji1 The fifth of the Pañcavaggiyā monks. When"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Assaji<sup>1</sup>
@@ -1349,12 +1732,16 @@ One of the leaders of the Assaji\-Punabbasukā, the other being Punabbasu. He wa
 ``` toml
 dict_label = "DPPN"
 word = "assajipunabbasukā"
-summary = "Assajipunabbasukā The followers of Assaji and Puna"
+summary = "The followers of Assaji and Punabbasu. They lived"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Assajipunabbasukā
 
 The followers of Assaji and Punabbasu. They lived in Kīṭāgiri, between Sāvatthī and Ālavi, and were guilty of various evil practices. They used to grow flowers, make wreaths and garlands, and send them to girls and women of respectable families and also to slave girls, to lie with such women, and disregard the precepts regarding the eating of food at the wrong time, using perfumes, visiting shows, singing and playing games of various sorts. Their abandoned ways of life won popularity for them, and virtuous monks, who did not belong to their group, were not welcomed by the people of the neighbourhood.
 
@@ -1367,12 +1754,16 @@ But elsewhere MN.i.473*ff.* even the Buddha is represented as having been lightl
 ``` toml
 dict_label = "DPPN"
 word = "assaka"
-summary = "Assaka The country of Assaka is one of the sixteen"
+summary = "The country of Assaka is one of the sixteen Mahāja"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Assaka
 
 The country of Assaka is one of the sixteen Mahājanapadas mentioned in the Aṅguttara Nikāya.AN.i.213 AN.iv.252 AN.iv.256 AN.iv.260 It does not, however; occur in the list of twelve countries given in the Janavasabha Sutta. The capital of Assaka, was called Potana. DN.ii.235 The Assakas had settlements on the Godāvarī, and Bāvarī’s hermitage Snp.977 was in their territory, in close proximity to the Alaka or Mūlaka (the district round Paithan).
 
@@ -1383,12 +1774,16 @@ In the time of King Reṇu, the Assaka king of Potana was Brahmadatta. DN.ii.236
 ``` toml
 dict_label = "DPPN"
 word = "assalāyana"
-summary = "Assalāyana A young brahmin, sixteen years old, of"
+summary = "A young brahmin, sixteen years old, of Sāvatthī, v"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Assalāyana
 
 A young brahmin, sixteen years old, of Sāvatthī, very learned in the Vedas and allied subjects. Five hundred brahmins staying in the city asked him to hold a discussion with the Buddha and refute his views. He agreed only after repeated requests, because, he said, Gotama was a thinker with views of his own and, therefore, difficult to defeat in controversy.
 
@@ -1399,12 +1794,16 @@ The Buddha points out to him that such pretensions are baseless, and that virtue
 ``` toml
 dict_label = "DPPN"
 word = "assapura"
-summary = "Assapura A city in the kingdom of Aṅga. It was her"
+summary = "A city in the kingdom of Aṅga. It was here that th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Assapura
 
 A city in the kingdom of Aṅga. It was here that the Mahā Assapura and Cūḷa Assapura Suttas were preached by the Buddha. MN.i.271*ff.* MN.i.281*ff.*
 
@@ -1413,36 +1812,48 @@ Aṅga3town
 ``` toml
 dict_label = "DPPN"
 word = "assatara"
-summary = "Assatara A tribe of Nāgas present at the preaching"
+summary = "A tribe of Nāgas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Assatara
 
 A tribe of Nāgas present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
 dict_label = "DPPN"
 word = "assāroha"
-summary = "Assāroha Probably a nickname for the horse-trainer"
+summary = "Probably a nickname for the horse-trainer whose vi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Assāroha
 
 Probably a nickname for the horse\-trainer whose visit to the Buddha is recorded in the Assa Sutta. He is described as a *gāmani* (head man of a village). SN.iv.310
 
 ``` toml
 dict_label = "DPPN"
 word = "asura"
-summary = "Asura In Pali Literature the Asuras are classed am"
+summary = "In Pali Literature the Asuras are classed among th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Asura
 
 In Pali Literature the Asuras are classed among the inferior deities together with the *supaṇṇas*, *gandhabbas*, *yakkhas*, *garuḍas* and *nāgas*. Rebirth as an Asura is considered as one of the four unhappy rebirths or evil states (*apāya*), the others being hell, animal, and ghost realms. It.93
 
@@ -1459,7 +1870,13 @@ dict_label = "DPPN"
 word = "asurindakabhāradvāja"
 summary = "AsurindakabhāradvājaAsurindakaBhāradvāja A brahmin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AsurindakabhāradvājaAsurindakaBhāradvāja
@@ -1469,40 +1886,52 @@ A brahmin, one of three brothers who had conversations with the Buddha and were 
 ``` toml
 dict_label = "DPPN"
 word = "atappādevā"
-summary = "Atappādevā A class of devas whose company mortals"
+summary = "A class of devas whose company mortals long for.MN"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Atappādevā
 
 A class of devas whose company mortals long for.MN.i.289 MN.iii.103 They belong to the Suddhāvāsā. DN.ii.52 DN.iii.237
 
 ``` toml
 dict_label = "DPPN"
 word = "avakaṇṇaka"
-summary = "Avakaṇṇaka Given in the Pācittiya rules’ as an exa"
+summary = "Given in the Pācittiya rules’ as an example of a l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Avakaṇṇaka
 
 Given in the Pācittiya rules’ as an example of a low name (*hīnanāma*). Vin.iv.6*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "avanti"
-summary = "Avanti One of the four great monarchies in the tim"
+summary = "One of the four great monarchies in the time of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = ["called Avanti Dakkhiṇāpatha"]
+also_written_as = []
 ```
-
-Avanti
 
 One of the four great monarchies in the time of the Buddha, the other three being Māgadha, Kosala and Vaṃsa (or Vatsa). Avanti is also mentioned among the sixteen Great Nations. AN.i.213 AN.iv.252 AN.iv.256 AN.iv.260
 
-Its capital was Ujjenī. But according to another account, DN.ii.235 Māhissati is mentioned as having been, at least for some time, the capital of Avanti. It is quite likely that ancient Avanti was divided into two parts, the northern part having its capital at Ujjenī and the southern part (also called Avanti Dakkhiṇāpatha) at Māhissati (Māhismatī).
+Its capital was Ujjenī. But according to another account, DN.ii.235 Māhissati is mentioned as having been, at least for some time, the capital of Avanti. It is quite likely that ancient Avanti was divided into two parts, the northern part having its capital at Ujjenī and the southern part at Māhissati (Māhismatī).
 
 The King of Avanti was Pajjota, a man of violent temper Vin.i.277 and therefore known as Caṇḍa Pajjota. He wished to conquer the neighbouring kingdom of Kosambī, of which Udena was king, but his plans did not work out as he had anticipated.
 
@@ -1534,12 +1963,16 @@ Avanti is now identified with the country north of the Vindhaya Mountains and no
 ``` toml
 dict_label = "DPPN"
 word = "avantiputta"
-summary = "Avantiputta King of Madhurā. He once went in royal"
+summary = "King of Madhurā. He once went in royal state to vi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Avantiputta
 
 King of Madhurā. He once went in royal state to visit Mahā Kaccāna who was staying in the Gundā Grove in Madhurā.
 
@@ -1550,24 +1983,32 @@ It is said that after the interview Avantiputta became a follower of the Buddha�
 ``` toml
 dict_label = "DPPN"
 word = "avihā"
-summary = "Avihā A class of devas. Their world ranks among th"
+summary = "A class of devas. Their world ranks among the five"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Avihā
 
 A class of devas. Their world ranks among the five foremost of the rupa\-worlds, the Suddhāvāsā.DN.ii.52 DN.iii.237 DN.iii.237 Anāgāmīs are born in Avihā and there attain arahantship. The Buddha once visited Avihā. DN.ii.50–51
 
 ``` toml
 dict_label = "DPPN"
 word = "avīci"
-summary = "Avīci Hell. Descriptions of it are to be found in"
+summary = "Hell. Descriptions of it are to be found in severa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Avīci
 
 Hell. Descriptions of it are to be found in several places in the four Nikāyas MN.iii.183 AN.i.141–142 It is a quadrangular space, one hundred leagues each way, four\-doored, walled all round and above with steel and with floor of incandescent molten steel.
 
@@ -1582,7 +2023,13 @@ dict_label = "DPPN"
 word = "ayujjhā"
 summary = "AyujjhāAyojjhā Two visits of the Buddha to this ci"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AyujjhāAyojjhā
@@ -1596,7 +2043,13 @@ dict_label = "DPPN"
 word = "añjanavana"
 summary = "AñjanavanaAñcanavana A garden at Sāketa. In it was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AñjanavanaAñcanavana
@@ -1612,12 +2065,16 @@ There Sujātā met the Buddha, and having listened to his discourse became an ar
 ``` toml
 dict_label = "DPPN"
 word = "añjanāvaniya"
-summary = "Añjanāvaniya He dwelt in the Añjanavana in a small"
+summary = "He dwelt in the Añjanavana in a small hut, and the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Añjanāvaniya
 
 He dwelt in the Añjanavana in a small hut, and there he became Awakened. Thag.55
 
@@ -1626,7 +2083,13 @@ dict_label = "DPPN"
 word = "aññātakoṇḍañña"
 summary = "AññātakoṇḍaññaKoṇḍañña One of the five ascetics kn"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AññātakoṇḍaññaKoṇḍañña
@@ -1644,7 +2107,13 @@ dict_label = "DPPN"
 word = "aḷaka"
 summary = "AḷakaMūḷaka A country on the banks of the Godhāvar"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AḷakaMūḷaka
@@ -1656,12 +2125,16 @@ A country on the banks of the Godhāvarī River. It was at a spot between the te
 ``` toml
 dict_label = "DPPN"
 word = "aṅga"
-summary = "Aṅga One of the 16 Great Nations (Mahājanapadā), m"
+summary = "One of the 16 Great Nations (Mahājanapadā), mentio"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aṅga
 
 One of the 16 Great Nations (Mahājanapadā), mentioned in the Pitakas. The countries mentioned are Aṅga, Māgadha, Kāsī, Kosala, Vajji, Mallā, Ceti, Vaṃsa, Kuru, Pañcāla, Macchā, Sūrasena, Assaka, Avantī, Gandhāra, and Kamboja. AN.i.213 AN.iv.252 AN.iv.256 AN.iv.260 DN.ii.200
 
@@ -1678,12 +2151,16 @@ Several discourses were preached in the Aṅga country, among them being the So�
 ``` toml
 dict_label = "DPPN"
 word = "aṅgaka"
-summary = "Aṅgaka Nephew (sister’s son) of Soṇadaṇḍa. DN.i.12"
+summary = "Nephew (sister’s son) of Soṇadaṇḍa. DN.i.123"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aṅgaka
 
 Nephew (sister’s son) of Soṇadaṇḍa. DN.i.123
 
@@ -1692,7 +2169,13 @@ dict_label = "DPPN"
 word = "aṅgaṇikabhāradvāja"
 summary = "AṅgaṇikabhāradvājaAṅgaṇikaBhāradvāja A brahmin fir"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AṅgaṇikabhāradvājaAṅgaṇikaBhāradvāja
@@ -1704,7 +2187,13 @@ dict_label = "DPPN"
 word = "aṅgulimāla"
 summary = "AṅgulimālaAhiṃsakaGaggaMantāniputta A robber and m"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 AṅgulimālaAhiṃsakaGaggaMantāniputta
@@ -1724,12 +2213,16 @@ It was on his account that the rule not to ordain a captured robber was enacted.
 ``` toml
 dict_label = "DPPN"
 word = "aṅguttarāpa"
-summary = "Aṅguttarāpa A country north of the river Mahī, evi"
+summary = "A country north of the river Mahī, evidently a par"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aṅguttarāpa
 
 A country north of the river Mahī, evidently a part of Aṅga on the other side of that river .
 
@@ -1748,7 +2241,13 @@ dict_label = "DPPN"
 word = "aṅgīrasi"
 summary = "Aṅgīrasi1 A term of affection (Radiant One) used b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Aṅgīrasi<sup>1</sup>
@@ -1764,12 +2263,16 @@ The same ten are also mentioned as being composers and reciters of the Vedas. DN
 ``` toml
 dict_label = "DPPN"
 word = "aṭaṭa"
-summary = "Aṭaṭa One of the Avīci hells. SN.i.150 Snp.126 5he"
+summary = "One of the Avīci hells. SN.i.150 Snp.126 5hell"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aṭaṭa
 
 One of the Avīci hells. SN.i.150 Snp.126
 
@@ -1780,7 +2283,13 @@ dict_label = "DPPN"
 word = "aṭṭhaka"
 summary = "Aṭṭhaka1 A celebrated sage, composer and reciter o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Aṭṭhaka<sup>1</sup>
@@ -1798,12 +2307,16 @@ A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "aṭṭhakanāgara"
-summary = "Aṭṭhakanāgara A city from which came the household"
+summary = "A city from which came the householder Dasama who,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aṭṭhakanāgara
 
 A city from which came the householder Dasama who, while on a visit to Pāṭaliputta on business, went to see Ānanda at Beluvagāma and questioned him. MN.i.349*f.* AN.v.342–347
 
@@ -1812,24 +2325,32 @@ A city from which came the householder Dasama who, while on a visit to Pāṭali
 ``` toml
 dict_label = "DPPN"
 word = "aṭṭhama"
-summary = "Aṭṭhama Pacceka Buddha, one of the names given in"
+summary = "Pacceka Buddha, one of the names given in a list o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Aṭṭhama
 
 Pacceka Buddha, one of the names given in a list of such. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "badarikārāma"
-summary = "Badarikārāma A park about three miles from Kosambī"
+summary = "A park about three miles from Kosambī SN.iii.126 w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Badarikārāma
 
 A park about three miles from Kosambī SN.iii.126 where Khemaka stayed during his illness. Rāhula spent a whole night in the Buddha’s toilet at the Badarikārāma because he was unwilling to violate the rule laid down by the Buddha that no novice should share the room of an ordained monk. Vin.iv.16
 
@@ -1838,12 +2359,16 @@ A park about three miles from Kosambī SN.iii.126 where Khemaka stayed during hi
 ``` toml
 dict_label = "DPPN"
 word = "bahudhīti"
-summary = "Bahudhīti A brahmin of the Bhāradvājagotta who had"
+summary = "A brahmin of the Bhāradvājagotta who had seven wid"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bahudhīti
 
 A brahmin of the Bhāradvājagotta who had seven widowed daughters and was much in debt. One day he lost fourteen oxen, and, after searching for them for six days, he came across the Buddha in a forest tract. He spoke the praises of the Buddha’s freedom, unperturbed by the anxieties to which he himself was a prey for the Buddha had no nagging wife, no creditors, no vermin disturbing his sleep. The Buddha agreed with him, and he was so pleased with the Buddha’s words that he asked to be ordained. The Buddha ordained him. SN.i.170*f.*
 
@@ -1852,7 +2377,13 @@ dict_label = "DPPN"
 word = "bahukā"
 summary = "BahukāBāhukā A river to which sacrifices were offe"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BahukāBāhukā
@@ -1866,7 +2397,13 @@ dict_label = "DPPN"
 word = "bahuputta cetiya"
 summary = "Bahuputta CetiyaBahuputtacetiyaBahuputtakacetiyaBa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bahuputta CetiyaBahuputtacetiyaBahuputtakacetiyaBahuputtaBahuputtaka
@@ -1878,12 +2415,16 @@ A shrine in the neighbourhood of Vesāli, to the north of that city. DN.iii.9 Th
 ``` toml
 dict_label = "DPPN"
 word = "bahuputtakanigrodha"
-summary = "Bahuputtakanigrodha Mahā Kassapa says that while y"
+summary = "Mahā Kassapa says that while yet a “learner” he pa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bahuputtakanigrodha
 
 Mahā Kassapa says that while yet a “learner” he paid homage to the Buddha at a Bahuputtaka\-nigrodha where the Buddha had gone to meet him. The Buddha taught him of the training to be followed and, profiting by the lesson, eight days later Mahā Kassapa became an arahant. This was on the road from Rājagaha to Nāḷandā. SN.ii.220
 
@@ -1892,12 +2433,16 @@ Mahā Kassapa says that while yet a “learner” he paid homage to the Buddha a
 ``` toml
 dict_label = "DPPN"
 word = "baka"
-summary = "Baka A Brahmā. When the Buddha was once staying at"
+summary = "A Brahmā. When the Buddha was once staying at Ukka"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Baka
 
 A Brahmā. When the Buddha was once staying at Ukkaṭṭha in the Subhagavana, he read the thoughts of Baka, who had conceived the idea that this world was permanent and free from decay and death; and the Buddha visited him in order to point out his error.
 
@@ -1908,7 +2453,13 @@ dict_label = "DPPN"
 word = "bakkula"
 summary = "BakkulaBākulaVakkula At the age of eighty, Bakkula"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BakkulaBākulaVakkula
@@ -1922,7 +2473,13 @@ dict_label = "DPPN"
 word = "baliharaṇa"
 summary = "BaliharaṇaBaliharana A forest tract near Kusinārā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BaliharaṇaBaliharana
@@ -1936,7 +2493,13 @@ dict_label = "DPPN"
 word = "bandhumatī"
 summary = "Bandhumatī1 The city of birth of Vipassī Buddha. D"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bandhumatī<sup>1</sup>
@@ -1950,24 +2513,32 @@ Wife of King Bandhumā and mother of Vipassī Buddha. DN.i.7
 ``` toml
 dict_label = "DPPN"
 word = "bandhumā"
-summary = "Bandhumā A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bandhumā
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "bandhura"
-summary = "Bandhura A monk whose Theragāthā verse speaks of n"
+summary = "A monk whose Theragāthā verse speaks of not wantin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bandhura
 
 A monk whose Theragāthā verse speaks of not wanting to drink poison after tasting the Dhamma. Thag.103
 
@@ -1976,7 +2547,13 @@ dict_label = "DPPN"
 word = "belaṭṭhakaccāna"
 summary = "BelaṭṭhakaccānaKaccānaBelaṭṭha A sugar dealer. On"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BelaṭṭhakaccānaKaccānaBelaṭṭha
@@ -1986,12 +2563,16 @@ A sugar dealer. On his way from Andhakkavinda to Rājagaha he met the Buddha sea
 ``` toml
 dict_label = "DPPN"
 word = "belaṭṭhasīsa"
-summary = "Belaṭṭhasīsa An arahant, preceptor of Ānanda. He w"
+summary = "An arahant, preceptor of Ānanda. He was once affli"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Belaṭṭhasīsa
 
 An arahant, preceptor of Ānanda. He was once afflicted with scurvy and his robes clung to him. The monks thereupon applied water to the robes, but when the Buddha heard of it he made a rule allowing necessary therapeutic measures. Vin.i.202 Vin.i.295*f.*
 
@@ -2002,7 +2583,13 @@ dict_label = "DPPN"
 word = "belaṭṭhānika"
 summary = "BelaṭṭhānikaBelaṭṭhakāni A monk whose Theragāthā v"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BelaṭṭhānikaBelaṭṭhakāni
@@ -2014,7 +2601,13 @@ dict_label = "DPPN"
 word = "beluva"
 summary = "BeluvaBeluvagāmaVeluvaVeluvagāma A village near Ve"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BeluvaBeluvagāmaVeluvaVeluvagāma
@@ -2036,7 +2629,13 @@ dict_label = "DPPN"
 word = "bhadda"
 summary = "Bhadda1 A lay disciple of Nādikā who, the Buddha d"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bhadda<sup>1</sup>
@@ -2052,12 +2651,16 @@ A monk of this name, possibly the same person, is mentioned as staying at the Ku
 ``` toml
 dict_label = "DPPN"
 word = "bhaddavatikā"
-summary = "Bhaddavatikā A market town near Kosambī. The Buddh"
+summary = "A market town near Kosambī. The Buddha went there"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaddavatikā
 
 A market town near Kosambī. The Buddha went there and was warned by cowherds and others not to approach Ambatiṭṭha as a fierce Nāga dwelt there. Sāgata Thera, hearing this, went to Ambatiṭṭha and subdued the Nāga, afterwards rejoining the Buddha at Bhaddavatikā. Vin.iv.108*f.*
 
@@ -2068,12 +2671,16 @@ The town is probably identical with Bhaddavatī, and was in the Cetiya Country. 
 ``` toml
 dict_label = "DPPN"
 word = "bhaddavāggiyā"
-summary = "Bhaddavāggiyā A group of thirty young men, convert"
+summary = "A group of thirty young men, converted by the Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaddavāggiyā
 
 A group of thirty young men, converted by the Buddha.
 
@@ -2084,7 +2691,13 @@ dict_label = "DPPN"
 word = "bhaddiya"
 summary = "Bhaddiya1 An anāgāmī, one of seven persons who bec"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bhaddiya<sup>1</sup>
@@ -2112,7 +2725,13 @@ dict_label = "DPPN"
 word = "bhaddā"
 summary = "Bhaddā1 Wife of King Muṇḍa. At her death the king"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bhaddā<sup>1</sup>
@@ -2136,48 +2755,64 @@ Daughter of the Gandhabba Timbarū and beloved of Pañcasikha.
 ``` toml
 dict_label = "DPPN"
 word = "bhaddāli"
-summary = "Bhaddāli When the Buddha, at Jetavana, laid down t"
+summary = "When the Buddha, at Jetavana, laid down the rule t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaddāli
 
 When the Buddha, at Jetavana, laid down the rule that monks should eat one meal a day and that in the morning, Bhaddāli protested and refused to keep this rule because he said that, in so eating, he would be a prey to scruples and misgivings. For three months he avoided the Buddha, until, just before the Buddha was starting on a journey, Bhaddāli, acting on the advice of his fellow monks, confessed his fault to the Buddha and begged for forgiveness. MN.i.437*ff.* The Buddha praised this action and preached to him the Bhaddāli Sutta.
 
 ``` toml
 dict_label = "DPPN"
 word = "bhadragaka"
-summary = "Bhadragaka A headman of Uruvelakappa and father of"
+summary = "A headman of Uruvelakappa and father of Ciravāsi."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhadragaka
 
 A headman of Uruvelakappa and father of Ciravāsi. SN.iv.327
 
 ``` toml
 dict_label = "DPPN"
 word = "bhadrā"
-summary = "Bhadrā A bhikkhunī whose Therīgāthā verses speak o"
+summary = "A bhikkhunī whose Therīgāthā verses speak of going"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhadrā
 
 A bhikkhunī whose Therīgāthā verses speak of going forth out of faith and attaining the Dhamma. Thig.9
 
 ``` toml
 dict_label = "DPPN"
 word = "bhadrāvudha"
-summary = "Bhadrāvudha One of the sixteen disciples of Bāvarī"
+summary = "One of the sixteen disciples of Bāvarī, who, at hi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhadrāvudha
 
 One of the sixteen disciples of Bāvarī, who, at his request, visited the Buddha. Snp.1008
 
@@ -2188,12 +2823,16 @@ This question and answer are contained in the Bhadrāvudhamāṇavaa\-puccha. Sn
 ``` toml
 dict_label = "DPPN"
 word = "bhaggava"
-summary = "Bhaggava A potter in Rājagaha in whose dwelling th"
+summary = "A potter in Rājagaha in whose dwelling the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaggava
 
 A potter in Rājagaha in whose dwelling the Buddha met and conversed with Pukkusāti. MN.iii.237
 
@@ -2202,12 +2841,16 @@ Bhaggava seems to have been a generic name for all potters, perhaps a special fo
 ``` toml
 dict_label = "DPPN"
 word = "bhaggavagotta"
-summary = "Bhaggavagotta A clothed Wanderer who lived in a pl"
+summary = "A clothed Wanderer who lived in a pleasance near A"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaggavagotta
 
 A clothed Wanderer who lived in a pleasance near Anupiya.
 
@@ -2216,12 +2859,16 @@ He was a friend of Sunakkhatta. The Buddha once visited him, and their conversat
 ``` toml
 dict_label = "DPPN"
 word = "bhaggā"
-summary = "Bhaggā The name of a tribe and a country, the capi"
+summary = "The name of a tribe and a country, the capital of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaggā
 
 The name of a tribe and a country, the capital of which was Suṃsumāragiri. The Bhagga country lay between Vesāli and Sāvatthī.
 
@@ -2238,7 +2885,13 @@ dict_label = "DPPN"
 word = "bhagu"
 summary = "Bhagu1 A famous sage of old. Vin.i.245 DN.i.104 DN"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bhagu<sup>1</sup>
@@ -2256,7 +2909,13 @@ dict_label = "DPPN"
 word = "bhallika"
 summary = "BhallikaBhalliyaBhalluka Together with Tapussa the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BhallikaBhalliyaBhalluka
@@ -2270,7 +2929,13 @@ dict_label = "DPPN"
 word = "bharata"
 summary = "Bharata1 A monk whose Theragāthā verses call on Na"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bharata<sup>1</sup>
@@ -2284,12 +2949,16 @@ King of the Sovīras in the time of Reṇu. His capital was in Roruva. DN.ii.235
 ``` toml
 dict_label = "DPPN"
 word = "bharaṇḍukālāma"
-summary = "Bharaṇḍukālāma A recluse, once a co-disciple of th"
+summary = "A recluse, once a co-disciple of the Buddha in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bharaṇḍukālāma
 
 A recluse, once a co\-disciple of the Buddha in the holy life. Once, when the Buddha visited Kapilavatthu and wanted lodging for the night, Mahānāma suggested that he should go to the hermitage of Bharaṇḍu. The Buddha acted on this suggestion and spent the night there.
 
@@ -2300,12 +2969,16 @@ Here Bharaṇḍu chimed in and asked Mahānāma to say they would be the same. 
 ``` toml
 dict_label = "DPPN"
 word = "bharukaccha"
-summary = "Bharukaccha A seaport in the country of Bharu. It"
+summary = "A seaport in the country of Bharu. It is identical"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bharukaccha
 
 A seaport in the country of Bharu. It is identical with Barygaza of Ptolemy and the Periplus of the Erythrean Sea. Bharukaccha is the modern Broach in Kathiawar. The people of Bharukaccha are called Bharukacchakā. There is story of a monk of Bharukaccha who having lain with a woman in his dream while on the road to Bharukaccha, thought he was guilty of a *pārājika* offence. But Upāli ruled that he was blameless. Vin.iii.39
 
@@ -2314,36 +2987,48 @@ A seaport in the country of Bharu. It is identical with Barygaza of Ptolemy and 
 ``` toml
 dict_label = "DPPN"
 word = "bhayasīva"
-summary = "Bhayasīva A Pacceka Buddha. MN.iii.69"
+summary = "A Pacceka Buddha. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhayasīva
 
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "bhañña"
-summary = "Bhañña The word occurs in the compound Ukkalā-Vass"
+summary = "The word occurs in the compound Ukkalā-Vassa-Bhaññ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhañña
 
 The word occurs in the compound Ukkalā\-Vassa\-Bhaññā, SN.iii.73 MN.iii.78 AN.ii.31 a group described as *ahetuvādā*, *akiriyavādā*, *natthikavāda*, but who, nevertheless, agreed that the *khandhas* might be divided into past, present and future and who accepted the teaching of the Great Forty. They also accepted non covetousness, non malice, right mindfulness and right concentration as worthy.
 
 ``` toml
 dict_label = "DPPN"
 word = "bhaṇḍagāma"
-summary = "Bhaṇḍagāma A Vajjian village between Vesāli and Ha"
+summary = "A Vajjian village between Vesāli and Hatthigāma an"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhaṇḍagāma
 
 A Vajjian village between Vesāli and Hatthigāma and near the former.
 
@@ -2356,7 +3041,13 @@ dict_label = "DPPN"
 word = "bhaṇḍu"
 summary = "BhaṇḍuBhaṇḍa A colleague of Ānanda whom Kassapa re"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BhaṇḍuBhaṇḍa
@@ -2366,12 +3057,16 @@ A colleague of Ānanda whom Kassapa reported to the Buddha at Veḷuvana for dis
 ``` toml
 dict_label = "DPPN"
 word = "bhesakalāvana"
-summary = "Bhesakalāvana A grove in the Bhagga country. It co"
+summary = "A grove in the Bhagga country. It contained a Deer"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhesakalāvana
 
 A grove in the Bhagga country. It contained a Deer Park wherein the Buddhastayed, on Suṃsumāragiri. Nearby was the house in which lived Nakulapitā and Nakulamātā. AN.ii.61 AN.iii.295 SN.iii.1 SN.iv.116
 
@@ -2384,12 +3079,16 @@ It was while staying in this grove that Mahā Moggallāna was molested by Māra 
 ``` toml
 dict_label = "DPPN"
 word = "bhesikā"
-summary = "Bhesikā The barber of Lohicca. DN.i.224"
+summary = "The barber of Lohicca. DN.i.224"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhesikā
 
 The barber of Lohicca. DN.i.224
 
@@ -2398,7 +3097,13 @@ dict_label = "DPPN"
 word = "bhiyyasa"
 summary = "BhiyyasaBhīya One of the two chief disciples of Ko"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BhiyyasaBhīya
@@ -2410,7 +3115,13 @@ dict_label = "DPPN"
 word = "bhoganagara"
 summary = "BhoganagaraBhogaBhogagāmanagara A village in the V"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BhoganagaraBhogaBhogagāmanagara
@@ -2426,12 +3137,16 @@ Bhoga was one of the places passed by Bāvari’s pupils on their way to Rājaga
 ``` toml
 dict_label = "DPPN"
 word = "bhojaputta"
-summary = "Bhojaputta Evidently the name for a resident of th"
+summary = "Evidently the name for a resident of the Bhoja cou"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhojaputta
 
 Evidently the name for a resident of the Bhoja country, modern Vidarbha.
 
@@ -2440,24 +3155,32 @@ In the Saṃyutta Nikāya SN.i.6*f.* the *devaputta* Rohitassa says that he was 
 ``` toml
 dict_label = "DPPN"
 word = "bhummaja"
-summary = "Bhummaja One of the Chabbaggiyā. His followers wer"
+summary = "One of the Chabbaggiyā. His followers were called"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhummaja
 
 One of the Chabbaggiyā. His followers were called Bhummajakā.
 
 ``` toml
 dict_label = "DPPN"
 word = "bhummā"
-summary = "Bhummā A class of devas, earth bound deities. They"
+summary = "A class of devas, earth bound deities. They belong"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhummā
 
 A class of devas, earth bound deities. They belong to the lowest category of devas. AN.iv.119
 
@@ -2466,7 +3189,13 @@ dict_label = "DPPN"
 word = "bhusāgāra"
 summary = "BhusāgāraBhusāgra The threshing floor in Atumā whe"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BhusāgāraBhusāgra
@@ -2480,12 +3209,16 @@ Atumā3building
 ``` toml
 dict_label = "DPPN"
 word = "bhuñjatī"
-summary = "Bhuñjatī Wife of Vessavaṇa and a devout follower o"
+summary = "Wife of Vessavaṇa and a devout follower of the Bud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhuñjatī
 
 Wife of Vessavaṇa and a devout follower of the Buddha. Once, when Sakka went to see the Buddha at the Salaḷāgāra, he found the Buddha engaged in meditation, Bhuñjatī waiting on him and worshipping him with clasped hands. Sakka asked her to salute the Buddha in his name when he should awake from his meditation. DN.ii.270*f.*
 
@@ -2494,7 +3227,13 @@ dict_label = "DPPN"
 word = "bhāradvāja"
 summary = "Bhāradvāja1 A monk whose Theragāthā verses speak o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bhāradvāja<sup>1</sup>
@@ -2542,24 +3281,32 @@ Later he is himself converted and becomes an arahant. SN.i.161*f.*
 ``` toml
 dict_label = "DPPN"
 word = "bhāvitatta"
-summary = "Bhāvitatta The name of two Pacceka Buddhas. MN.iii"
+summary = "The name of two Pacceka Buddhas. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhāvitatta
 
 The name of two Pacceka Buddhas. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "bhūmija"
-summary = "Bhūmija Uncle of Prince Jayasena. He was a friend"
+summary = "Uncle of Prince Jayasena. He was a friend of Sambh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bhūmija
 
 Uncle of Prince Jayasena. He was a friend of Sambhūta, and, when the latter left the household, he was accompanied by his friends Bhūmija, Jeyyasena and Abhirādhana, all of whom joined the Order. MN.iii.138*ff.*
 
@@ -2568,7 +3315,13 @@ dict_label = "DPPN"
 word = "bhūta "
 summary = "Bhūta A monk whose Theragāthā verses speak of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bhūta
@@ -2580,7 +3333,13 @@ dict_label = "DPPN"
 word = "bilaṅgika"
 summary = "BilaṅgikaBhāradvāja One of the Bhāradvāja brothers"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BilaṅgikaBhāradvāja
@@ -2592,7 +3351,13 @@ dict_label = "DPPN"
 word = "bimbisāra"
 summary = "BimbisāraSeniya King of Māgadha and patron of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BimbisāraSeniya
@@ -2610,24 +3375,32 @@ Bimbisāra’s death was a sad one: he was mirdered by his own son. Vin.ii.190*f
 ``` toml
 dict_label = "DPPN"
 word = "bimbī"
-summary = "Bimbī An eminent laywoman, follower of the Buddha."
+summary = "An eminent laywoman, follower of the Buddha. AN.iv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bimbī
 
 An eminent laywoman, follower of the Buddha. AN.iv.347
 
 ``` toml
 dict_label = "DPPN"
 word = "bodhi"
-summary = "Bodhi He lived at Suṃsumāragiri in the Bhagga coun"
+summary = "He lived at Suṃsumāragiri in the Bhagga country an"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bodhi
 
 He lived at Suṃsumāragiri in the Bhagga country and built a palace called Kokanada. When the palace was completed, the Buddha was staying at Bhesakalāvana near by, and Bodhi sent a message by Sañjikāputta, inviting the Buddha to the palace, that he might bless it by being its first occupant. The Buddha agreed to come and, the next day, arrived with the monks for a meal. Bodhi came, with his retinue, to meet them at the foot of the steps and asked the Buddha to step on to the carpeting which was spread there. Three times the request was made, three times the Buddha kept silence. Thereupon Ānanda asked for the carpeting to be removed, saying that the Buddha’s refusal to step thereon was as an example to future generations. After the meal, Bodhi had a discussion with the Buddha, Vin.ii.127*f.* MN.ii.91*ff.* recorded in the Bodhirājakumāra Sutta.
 
@@ -2636,12 +3409,16 @@ Bodhi was the son of Udena, king of Kosambi, and his mother was the daughter of 
 ``` toml
 dict_label = "DPPN"
 word = "bodhisatta"
-summary = "Bodhisatta The name given to a being who aspires t"
+summary = "The name given to a being who aspires to Bodhi or"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bodhisatta
 
 The name given to a being who aspires to Bodhi or Awakening. Originally only in connection with the last life of a Buddha, especially after having left home, in such contexts as “in the days before my Awakening, when I was only a Bodhisatta”. MN.i.17 MN.i.114 MN.i.163 DN.ii.13 MN.iii.119
 
@@ -2650,7 +3427,13 @@ dict_label = "DPPN"
 word = "bojjhā"
 summary = "BojjhāBocchā An eminent laywoman. The Aṅguttara Ni"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BojjhāBocchā
@@ -2662,7 +3445,13 @@ dict_label = "DPPN"
 word = "brahmadatta"
 summary = "Brahmadatta1 King of Kāsi. He captured Kosala and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Brahmadatta<sup>1</sup>
@@ -2684,24 +3473,32 @@ Pupil of the wanderer Suppiya. A conversation between these two led to the preac
 ``` toml
 dict_label = "DPPN"
 word = "brahmadeva"
-summary = "Brahmadeva The son of a brahmin woman. Having join"
+summary = "The son of a brahmin woman. Having joined the Orde"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Brahmadeva
 
 The son of a brahmin woman. Having joined the Order, he dwelt in solitude and became an arahant. One day he went to Sāvatthī for alms, and, in due course, arrived at his mother’s house. She was in the habit of making an oblation to Brahmā, but, on that day, Sahampati appeared before her and told her to bestow her gifts on her son. SN.i.140*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "brahmaloka"
-summary = "Brahmaloka The highest of the celestial worlds, th"
+summary = "The highest of the celestial worlds, the abode of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Brahmaloka
 
 The highest of the celestial worlds, the abode of the Brahmas.
 
@@ -2710,24 +3507,32 @@ The highest of the celestial worlds, the abode of the Brahmas.
 ``` toml
 dict_label = "DPPN"
 word = "brahmāli"
-summary = "Brahmāli A monk whose Theragāthā verses speak of h"
+summary = "A monk whose Theragāthā verses speak of how even t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Brahmāli
 
 A monk whose Theragāthā verses speak of how even the gods envy one such as he, with senses tamed. Thag.205–206
 
 ``` toml
 dict_label = "DPPN"
 word = "brahmāyu"
-summary = "Brahmāyu A brahmin foremost in Mithilā in his know"
+summary = "A brahmin foremost in Mithilā in his knowledge of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Brahmāyu
 
 A brahmin foremost in Mithilā in his knowledge of the Vedas.
 
@@ -2740,7 +3545,13 @@ dict_label = "DPPN"
 word = "buddha"
 summary = "BuddhaBhagavāTathāgataSiddhatthaGotamaSugataSatthā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BuddhaBhagavāTathāgataSiddhatthaGotamaSugataSatthā
@@ -2754,7 +3565,13 @@ dict_label = "DPPN"
 word = "bulī "
 summary = "Bulī The name of a gotta. They claimed one eighth"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bulī
@@ -2766,7 +3583,13 @@ dict_label = "DPPN"
 word = "bāhiya"
 summary = "Bāhiya1Dārucīriya As an ascetic, he came himself t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bāhiya<sup>1</sup>Dārucīriya
@@ -2788,12 +3611,16 @@ A monk, fellow dweller of Anuruddha at the Ghositārāma. He seems to have taken
 ``` toml
 dict_label = "DPPN"
 word = "bāhumati"
-summary = "Bāhumati A holy river where men bathe in order to"
+summary = "A holy river where men bathe in order to expiate t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bāhumati
 
 A holy river where men bathe in order to expiate their sins. MN.i.39
 
@@ -2802,12 +3629,16 @@ A holy river where men bathe in order to expiate their sins. MN.i.39
 ``` toml
 dict_label = "DPPN"
 word = "bāhuna"
-summary = "Bāhuna A monk who is said to have asked the Buddha"
+summary = "A monk who is said to have asked the Buddha, while"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bāhuna
 
 A monk who is said to have asked the Buddha, while on the banks of the Gaggarā Lake in Campā, about the conditions from which the Tathāgata is released and emancipated. The Buddha enumerated ten such. AN.v.151*f.*
 
@@ -2816,7 +3647,13 @@ dict_label = "DPPN"
 word = "bāhuraggi"
 summary = "BāhuraggiBahunandi One of seven beings born in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BāhuraggiBahunandi
@@ -2828,7 +3665,13 @@ dict_label = "DPPN"
 word = "bālakaloṇakāra"
 summary = "Bālakaloṇakāra BākalonakārāgamaBālakalonakārāma A"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Bālakaloṇakāra BākalonakārāgamaBālakalonakārāma
@@ -2846,7 +3689,13 @@ dict_label = "DPPN"
 word = "bārānasī"
 summary = "BārānasīBenares The capital of Kāsi-janapada. It w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 BārānasīBenares
@@ -2868,12 +3717,16 @@ Later, when Ajātasattu succeeded in establishing his sway over Kos.
 ``` toml
 dict_label = "DPPN"
 word = "bāvarī"
-summary = "Bāvarī A brahmin ascetic who went from Sāvatthī to"
+summary = "A brahmin ascetic who went from Sāvatthī to Dakkhi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bāvarī
 
 A brahmin ascetic who went from Sāvatthī to Dakkhiṇāpatha and lived on the banks of the Godhāvarī in a hermitage which lay half in the territory of Assaka and half in that of Alaka.
 
@@ -2886,24 +3739,32 @@ When Bāvari told him of his poverty, the brahmin cursed him saying that his hea
 ``` toml
 dict_label = "DPPN"
 word = "bījaka"
-summary = "Bījaka The son of Sudinna Kalandakaputta by the wi"
+summary = "The son of Sudinna Kalandakaputta by the wife of h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Bījaka
 
 The son of Sudinna Kalandakaputta by the wife of his lay days. He was conceived after Sudinna had already been ordained. His wife came to him during her period and begged him to give her an offspring. As the rule against unchastity had not then been promulgated, Sudinna yielded to her importunities, thus prompting the Buddha to lay down the first *Pārājika*. The son was called Bījaka, and so Sudinna came to be called Bījakapitā and the mother Bījakamātā. Both Bījaka and his mother later left the world and became arahants. Vin.iii.17–19
 
 ``` toml
 dict_label = "DPPN"
 word = "cakkaratana"
-summary = "Cakkaratana The Wheel Treasure that is one of the"
+summary = "The Wheel Treasure that is one of the seven treasu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cakkaratana
 
 The Wheel Treasure that is one of the seven treasures of a Wheel Turning Monarch (*cakkavatti*). The Cakkaratana is the Cakkavatti’s chief symbol of office; on its appearance before him, he sprinkles it with water and asks it to travel to the various quarters of the world, winning them for him. This the Cakkaratana does, carrying with it through the air the Cakkavatti with his fourfold army. Wherever the Cakkaratana halts, all the chiefs of that quarter acclaim the Cakkavatti as their overlord and declare their allegiance to him. Having thus traversed the four quarters of the earth, it returns to the Cakkavatti’s capital, and remains fixed as an ornament on the open terrace in front of his inner apartments. DN.ii.173*f.* MN.iii.173*ff.*
 
@@ -2912,12 +3773,16 @@ When a Cakkavatti dies or leaves the world, the Cakkaratana disappears from the 
 ``` toml
 dict_label = "DPPN"
 word = "cakkavatti"
-summary = "Cakkavatti A World ruler. The world itself means “"
+summary = "A World ruler. The world itself means “Turner of t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cakkavatti
 
 A World ruler. The world itself means “Turner of the Wheel,” the Wheel (*Cakka*) being the well known Indian symbol of empire. More than one thousand sons are his; his dominions extend throughout the earth to its ocean bounds; and is established not by the scourge, nor by the sword, but by righteousness. Particulars are found chiefly in the Mahāsudassana, Mahāpadāna, Cakkavattisīhanāda, Bālapaṇḍita and Ambaṭṭha Suttas. SN.v.98
 
@@ -2932,12 +3797,16 @@ A Cakkavatti is as worthy of a thūpa as a Buddha. DN.ii.143
 ``` toml
 dict_label = "DPPN"
 word = "cakkavāla"
-summary = "Cakkavāla The name given to a whole world-system,"
+summary = "The name given to a whole world-system, there bein"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cakkavāla
 
 The name given to a whole world\-system, there being countless such systems.
 
@@ -2946,24 +3815,32 @@ The name given to a whole world\-system, there being countless such systems.
 ``` toml
 dict_label = "DPPN"
 word = "cakkhupāla"
-summary = "Cakkhupāla A monk whose Theragāthā verse says that"
+summary = "A monk whose Theragāthā verse says that though he"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cakkhupāla
 
 A monk whose Theragāthā verse says that though he is walking blind on a wilderness road he will not go on with an evil companion. Thag.95
 
 ``` toml
 dict_label = "DPPN"
 word = "campā"
-summary = "Campā A city in India on the river of the same nam"
+summary = "A city in India on the river of the same name; it"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Campā
 
 A city in India on the river of the same name; it was the capital of Aṅga and was celebrated for its beautiful lake, the Gaggarā\-pokkharaṇī. On its banks was a grove of campaka\-trees, well known for the fragrance of their marvellous white flowers, and there, in the Buddha’s time, wandering teachers were wont to lodge. The Buddha himself stayed thereon several occasions.Vin.i.312 SN.i.195 AN.iv.59 AN.iv.168 AN.v.151 Vin.i.3121 Sāriputta AN.iv.59 and Vaṅgīsa SN.i.195 are also said to have stayed there. The Mahā Parinibbāna Sutta DN.ii.147 mentions Campā as one of the six important cities of India, its foundation being ascribed to Mahāgovinda. DN.ii.235 In the Buddha’s time the people of Campā owed allegiance to Bimbisāra, as king of Māgadha, and Bimbisāra had given a royal fief in Campā to the brahmin Soṇadaṇḍa. DN.i.111
 
@@ -2978,7 +3855,13 @@ dict_label = "DPPN"
 word = "candana"
 summary = "Candana1 A deva, vassal of the Four Regent Gods. D"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Candana<sup>1</sup>
@@ -2992,12 +3875,16 @@ A monk whose Theragāthā verses speak of how he was visited by his wife and chi
 ``` toml
 dict_label = "DPPN"
 word = "candanaṅgalika"
-summary = "Candanaṅgalika A lay-disciple of the Buddha in Sāv"
+summary = "A lay-disciple of the Buddha in Sāvatthī. He was p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Candanaṅgalika
 
 A lay\-disciple of the Buddha in Sāvatthī. He was present when five rājās, including Pasenadi, visited the Buddha and asked him which was the highest sensual pleasure. When the Buddha had answered their question, Candanaṅgalika obtained his permission and uttered averse in his praise. The rājās thereupon gave Candanangala five robes which he presented to the Buddha. SN.i.81*f.*
 
@@ -3006,24 +3893,32 @@ The story is very similar to that of the brahmin Piṅgiyāni and the verse spok
 ``` toml
 dict_label = "DPPN"
 word = "candikāputta"
-summary = "Candikāputta A discourse on the teaching of Devada"
+summary = "A discourse on the teaching of Devadatta, delivere"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Candikāputta
 
 A discourse on the teaching of Devadatta, delivered by Candikāputta to the monks, is recorded in the Silāyūpa Sutta. AN.iv.402*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "candimā"
-summary = "Candimā The name of the devaputta whose abode is t"
+summary = "The name of the devaputta whose abode is the moon"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Candimā
 
 The name of the *devaputta* whose abode is the moon (*Canda*), sometimes also called Candimā. There are other devas besides Canda who dwell in the moon.
 
@@ -3034,7 +3929,13 @@ dict_label = "DPPN"
 word = "cañcalikappa"
 summary = "CañcalikappaCaṇḍalakappa A locality in Kosala; it"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CañcalikappaCaṇḍalakappa
@@ -3046,12 +3947,16 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "caṅkī"
-summary = "Caṅkī A great brahmin, contemporary of the Buddha,"
+summary = "A great brahmin, contemporary of the Buddha, reput"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Caṅkī
 
 A great brahmin, contemporary of the Buddha, reputed for his great learning and highly esteemed in brahmin gatherings—e.g., at Icchānaṅgala Snp.p.115 and at Manasākaṭa. DN.i.235
 
@@ -3062,24 +3967,32 @@ Caṅkī lived in the brahmin village of Opasāda, on a royal fief granted him b
 ``` toml
 dict_label = "DPPN"
 word = "caṇḍa"
-summary = "Caṇḍa A headman of Sāvatthī. He came to see the Bu"
+summary = "A headman of Sāvatthī. He came to see the Buddha a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Caṇḍa
 
 A headman of Sāvatthī. He came to see the Buddha at Jetavana and asked him why some people earned the reputation of being wrathful and others of being kindly. The Buddha explained that the one man gives way to passion, resentment and illusion; therefore, others harass him; he shows vexation and comes to be called wrathful. The other shows opposite qualities and is called kindly. SN.iv.305
 
 ``` toml
 dict_label = "DPPN"
 word = "caṇḍakālī"
-summary = "Caṇḍakālī A nun, well known for her quarrelsome pr"
+summary = "A nun, well known for her quarrelsome propensities"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Caṇḍakālī
 
 A nun, well known for her quarrelsome propensities. She was a friend of Thullanandā, during whose absence the other nuns once expelled Caṇḍakālī from their midst. This act was greatly resented by Thullanandā and Caṇḍakālī was readmitted. Vin.iv.230
 
@@ -3090,12 +4003,16 @@ She was charged with frequenting gatherings of laymen, Vin.iv.293 Vin.iv.309 and
 ``` toml
 dict_label = "DPPN"
 word = "caṇḍappajjota"
-summary = "Caṇḍappajjota King of Avanti in the time of the Bu"
+summary = "King of Avanti in the time of the Buddha. His name"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Caṇḍappajjota
 
 King of Avanti in the time of the Buddha. His name was Pajjota, the sobriquet being added on account of his violent temper.
 
@@ -3106,12 +4023,16 @@ Pajjota was the friend of Bimbisāra, and when the latter was put to death by Aj
 ``` toml
 dict_label = "DPPN"
 word = "caṇḍā"
-summary = "Caṇḍā A bhikkhunī whose Therīgāthā verses speak of"
+summary = "A bhikkhunī whose Therīgāthā verses speak of how,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Caṇḍā
 
 A bhikkhunī whose Therīgāthā verses speak of how, with no family or friends, she wandering begging food to survive. One day she met Paṭācārā who had just finished eating. Paṭācārā, seeing her pitiable condition, gave her some food and, when she had eaten, discoursed to her. Delighted by Paṭācārā’s sermon, Caṇḍā renounced the world and soon afterwards attained arahantship. Thig.122–126
 
@@ -3120,7 +4041,13 @@ dict_label = "DPPN"
 word = "cetiya"
 summary = "CetiyaCetiCetīCedi One of the sixteen Great Nation"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CetiyaCetiCetīCedi
@@ -3134,12 +4061,16 @@ The Aṅguttara Nikāya AN.iii.355*f.* AN.v.41*f.* AN.v.157*ff.* are discources 
 ``` toml
 dict_label = "DPPN"
 word = "chabbaggiyā"
-summary = "Chabbaggiyā A group of six monks, contemporary wit"
+summary = "A group of six monks, contemporary with the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Chabbaggiyā
 
 A group of six monks, contemporary with the Buddha, frequently mentioned as being guilty of various Vinaya offences. Vin.i.84*f.* Vin.i.104 Vin.i.106 Vin.i.111 Vin.i.113 Vin.i.114 Vin.i.138 Vin.i.160 Vin.i.170 Vin.i.185 Vin.i.189 Vin.i.192 Vin.i.194 Vin.i.203*f.* Vin.i.216 Vin.i.285 Vin.i.306 Vin.i.316 Vin.ii.73 Vin.ii.105*ff.* Vin.ii.145*ff.* Vin.ii.213*ff.* Vin.ii.241 Vin.ii.262
 
@@ -3150,24 +4081,32 @@ There were also nuns in their following, who likewise violated the Vinaya rules 
 ``` toml
 dict_label = "DPPN"
 word = "chabbyāputtā"
-summary = "Chabbyāputtā A royal clan of Nāgas. Vin.ii.110 AN."
+summary = "A royal clan of Nāgas. Vin.ii.110 AN.ii.72"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Chabbyāputtā
 
 A royal clan of Nāgas. Vin.ii.110 AN.ii.72
 
 ``` toml
 dict_label = "DPPN"
 word = "chaddantā"
-summary = "Chaddantā One of the seven great lakes of the Himā"
+summary = "One of the seven great lakes of the Himālaya regio"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Chaddantā
 
 One of the seven great lakes of the Himālaya region. AN.iv.101
 
@@ -3178,7 +4117,13 @@ dict_label = "DPPN"
 word = "channa"
 summary = "Channa1 A Wanderer, classed among those who wore c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Channa<sup>1</sup>
@@ -3200,24 +4145,32 @@ Later the Buddha decreed on him the carrying out of the Brahmadaṇḍa whereby 
 ``` toml
 dict_label = "DPPN"
 word = "ciravāsī"
-summary = "Ciravāsī The son of Bhadragaka. Bhadragaka visited"
+summary = "The son of Bhadragaka. Bhadragaka visited the Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ciravāsī
 
 The son of Bhadragaka. Bhadragaka visited the Buddha and told him that he was always anxiously waiting for news of Ciravāsī, who was away at school. SN.iv.329
 
 ``` toml
 dict_label = "DPPN"
 word = "citrā"
-summary = "Citrā The name of certain Supaṇṇas. DN.ii.259"
+summary = "The name of certain Supaṇṇas. DN.ii.259"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Citrā
 
 The name of certain Supaṇṇas. DN.ii.259
 
@@ -3226,7 +4179,13 @@ dict_label = "DPPN"
 word = "citta"
 summary = "Citta1 A householder of Macchikāsaṇḍa, where he wa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Citta<sup>1</sup>
@@ -3250,60 +4209,80 @@ He was a friend of Poṭṭhapāda, and when he had returned for the sixth time 
 ``` toml
 dict_label = "DPPN"
 word = "cittaka"
-summary = "Cittaka A monk whose Theragāthā verse speaks of ho"
+summary = "A monk whose Theragāthā verse speaks of how the cr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cittaka
 
 A monk whose Theragāthā verse speaks of how the cries of the beautiful peacocks wake the meditator to practice. Thag.22
 
 ``` toml
 dict_label = "DPPN"
 word = "cittapāṭali"
-summary = "Cittapāṭali A tree in the Asurabhavana SN.v.238 wh"
+summary = "A tree in the Asurabhavana SN.v.238 which lives fo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cittapāṭali
 
 A tree in the Asurabhavana SN.v.238 which lives for a whole aeon.
 
 ``` toml
 dict_label = "DPPN"
 word = "cittasena"
-summary = "Cittasena A Gandhabba present at the preaching of"
+summary = "A Gandhabba present at the preaching of the Mahāsa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cittasena
 
 A Gandhabba present at the preaching of the Mahāsamaya Sutta. DN.ii.258 He is elsewhere DN.iii.204 mentioned as a Yakkha chieftain who should be invoked by the Buddha’s followers when troubled by evil spirits.
 
 ``` toml
 dict_label = "DPPN"
 word = "cittā"
-summary = "Cittā A nun whose Therīgāthāspeak of how in her ol"
+summary = "A nun whose Therīgāthāspeak of how in her old age"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cittā
 
 A nun whose Therīgāthāspeak of how in her old age she went to Gijjhakūṭa and there, after meditation, she attained arahantship. Thig.27–28
 
 ``` toml
 dict_label = "DPPN"
 word = "codanāvatthu"
-summary = "Codanāvatthu A valley (?) near Rājagaha, visited b"
+summary = "A valley (?) near Rājagaha, visited by the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Codanāvatthu
 
 A valley (?) near Rājagaha, visited by the Buddha in the course of his wanderings. Here he laid down a rule, allowing monks to recite the *pātimokkha* under a learned monk if the leader of their own company should be inefficient. Vin.i.116*f.*
 
@@ -3314,7 +4293,13 @@ dict_label = "DPPN"
 word = "cullakokanadā"
 summary = "CullakokanadāCūḷakokanadāCūlakokanadā The younger"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CullakokanadāCūḷakokanadāCūlakokanadā
@@ -3326,7 +4311,13 @@ dict_label = "DPPN"
 word = "cunda"
 summary = "Cunda1 A worker in metals living in Pāvā. When the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Cunda<sup>1</sup>
@@ -3350,12 +4341,16 @@ Cunda is mentioned SN.iv.50*f.* MN.iii.263*f.* as having accompanied Sāriputta 
 ``` toml
 dict_label = "DPPN"
 word = "cāla"
-summary = "Cāla He was ordained by Khadiravaniya. Thag.42 He"
+summary = "He was ordained by Khadiravaniya. Thag.42 He is me"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cāla
 
 He was ordained by Khadiravaniya. Thag.42
 
@@ -3364,12 +4359,16 @@ He is mentioned as living at the Kūṭāgārasālā, which place he left when t
 ``` toml
 dict_label = "DPPN"
 word = "cālikā"
-summary = "Cālikā A village near the Cālikapabbata visited by"
+summary = "A village near the Cālikapabbata visited by the Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cālikā
 
 A village near the Cālikapabbata visited by the Buddha. His attendant on one of these visits was Meghiya. Close to Cālikā was the village of Jantu where Meghiya went for alms. In the neighbourhood was the river Kimikālā, on whose banks was a mango grove. AN.iv.354 Ud.iv.1
 
@@ -3380,7 +4379,13 @@ dict_label = "DPPN"
 word = "cālā "
 summary = "Cālā It is said Thig.182–188 SN.i.132 that one day"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Cālā
@@ -3392,7 +4397,13 @@ dict_label = "DPPN"
 word = "cāpā"
 summary = "CāpāCāvā Her Therīgāthā verses speak of who her hu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CāpāCāvā
@@ -3404,7 +4415,13 @@ dict_label = "DPPN"
 word = "cāpāla cetiya"
 summary = "Cāpāla CetiyaCāpālacetiya A shrine near Vesāli. He"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Cāpāla CetiyaCāpālacetiya
@@ -3416,12 +4433,16 @@ A shrine near Vesāli. Here the Buddha, three months before his *parinibbāna*, 
 ``` toml
 dict_label = "DPPN"
 word = "cātuma"
-summary = "Cātuma A Sākiyan village containing a mote-hall; n"
+summary = "A Sākiyan village containing a mote-hall; near it"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cātuma
 
 A Sākiyan village containing a mote\-hall; near it was the Amalakīvana where the Buddha once stayed and preached the Cātuma Sutta. MN.i.456*f.*
 
@@ -3430,24 +4451,32 @@ A Sākiyan village containing a mote\-hall; near it was the Amalakīvana where t
 ``` toml
 dict_label = "DPPN"
 word = "cātumeyyakā"
-summary = "Cātumeyyakā The inhabitants of Cātuma. MN.i.457"
+summary = "The inhabitants of Cātuma. MN.i.457"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cātumeyyakā
 
 The inhabitants of Cātuma. MN.i.457
 
 ``` toml
 dict_label = "DPPN"
 word = "cātummahārājikā"
-summary = "Cātummahārājikā The inhabitants of the lowest deva"
+summary = "The inhabitants of the lowest deva world. his worl"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cātummahārājikā
 
 The inhabitants of the lowest deva world. his world derives its name from the Four Great Kings (*Cattāro Mahārājāno*) who dwell there as guardians of the four quarters: Dhataraṭṭha of the East, Virūḷhaka of the South, Virūpakkha of the West, and Vessarana of the North. DN.ii.207*f.* DN.iii.194*f.* They keep large retinues consisting, respectively, of Gandhabbas, Kumbhandas, Nāgas and Yakkhas, all of whom dwell in the same world as their lords and accompany them on their travels. These kings are mentioned DN.ii.257*f.* as having undertaken the protection of the Buddha from the moment of his conception in his mother’s womb, and in the Āṭānāṭiya Sutta, they appear as protectors not only of the Buddha but also of his followers.
 
@@ -3460,12 +4489,16 @@ Beings are born there as a result of various acts of piety and faith which, howe
 ``` toml
 dict_label = "DPPN"
 word = "cātumāsini"
-summary = "Cātumāsini Occurs in the phrase Komudi Cātumāsini,"
+summary = "Occurs in the phrase Komudi Cātumāsini, probably r"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cātumāsini
 
 Occurs in the phrase Komudi Cātumāsini, probably referring to the Cātumāsya festival which is performed in the month of Kattika, Komudi being the full\-moon day of Kattika. Vin.i.55 DN.i.47
 
@@ -3474,7 +4507,13 @@ dict_label = "DPPN"
 word = "cūladeva"
 summary = "CūladevaCūḷadeva A Thera, an eminent teacher of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CūladevaCūḷadeva
@@ -3486,7 +4525,13 @@ dict_label = "DPPN"
 word = "cūḷagavaccha"
 summary = "CūḷagavacchaCūlagavaccha A monk whose Theragāthā v"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CūḷagavacchaCūlagavaccha
@@ -3496,12 +4541,16 @@ A monk whose Theragāthā verse speaks of how a joyful monk would realize the st
 ``` toml
 dict_label = "DPPN"
 word = "cūḷajālī"
-summary = "Cūḷajālī A Pacceka Buddha mentioned in a list of t"
+summary = "A Pacceka Buddha mentioned in a list of these. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cūḷajālī
 
 A Pacceka Buddha mentioned in a list of these. MN.iii.70
 
@@ -3510,7 +4559,13 @@ dict_label = "DPPN"
 word = "cūḷaka"
 summary = "CūḷakaCūlaka A monk whose Theragāthā verses speak"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 CūḷakaCūlaka
@@ -3520,12 +4575,16 @@ A monk whose Theragāthā verses speak of his delight in the beautiful peacocks 
 ``` toml
 dict_label = "DPPN"
 word = "cūḷapanthaka"
-summary = "Cūḷapanthaka An eminent arahant, declared chief am"
+summary = "An eminent arahant, declared chief among monks ski"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Cūḷapanthaka
 
 An eminent arahant, declared chief among monks skilled in creating forms by mind\-power and in mental “evolution” (*cetovivaṭṭa*). AN.i.23
 
@@ -3538,12 +4597,16 @@ The Udāna Ud.v.10 contains a verse sung by the Buddha in praise of Cūḷapanth
 ``` toml
 dict_label = "DPPN"
 word = "dabbamallaputta"
-summary = "Dabbamallaputta An arahant. With the Buddha’s sanc"
+summary = "An arahant. With the Buddha’s sanction, and wishin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dabbamallaputta
 
 An arahant. With the Buddha’s sanction, and wishing to be of service to the Order, he took upon himself the task of appointing night’s\-lodgings to travelling monks and of directing them to meals. He performed his duties most diligently and with great intelligence, and his fame spread far and wide. Monks coming from afar, wishing to witness his skill, would deliberately arrive late and ask for lodgings in some place remote from Rājagaha; Dabba would “burst into flame” and walk ahead of them, with his finger burning to light them on the way.
 
@@ -3556,36 +4619,48 @@ Dabba evidently died young. The Udāna Ud.viii.9 contains an account of his deat
 ``` toml
 dict_label = "DPPN"
 word = "dabbila"
-summary = "Dabbila A Pacceka Buddha, mentioned in a nominal l"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dabbila
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "dadhimukha"
-summary = "Dadhimukha A Yakkha chieftain who should be invoke"
+summary = "A Yakkha chieftain who should be invoked by discip"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dadhimukha
 
 A Yakkha chieftain who should be invoked by disciples of the Buddha in times of need. DN.iii.205
 
 ``` toml
 dict_label = "DPPN"
 word = "dakkhiṇāgiri"
-summary = "Dakkhiṇāgiri A region in India. It contained the c"
+summary = "A region in India. It contained the city of Vedisa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dakkhiṇāgiri
 
 A region in India. It contained the city of Vedisa. Dakkhiṇāgiri lay to the south\-west of Rājagaha, beyond the hills that surrounded the city—hence its name. In the district was the brahmin village of Ekanālā.Snp.p.13 The Buddha traversed it in the course of his periodical tours through Māgadha, residing in the Dakkhiṇāgiri monastery in Ekanālā.SN.i.172 Vin.i.80 It was during one of these tours that he converted Kasī\-Bhāradvāja and Dhammasava and his father. On another of these occasions the Buddha saw the Magadhakhetta, which gave him the idea of designing the robe of a monk to resemble a field Vin.i.287 Ānanda is also said to have travelled through Dakkhiṇāgiri, gathering a large number of young men into the Order, who, however, do not appear to have been very serious in their intentions, as their behaviour earned for Ānanda the censure of Mahā Kassapa. SN.ii.217*f.* Later, we find Puṇṇa with a large following in Dakkhiṇāgiri refusing to join in the findings of the Rājagaha Council, and preferring to follow the Dhamma according to his own lights. Vin.ii.289
 
@@ -3596,12 +4671,16 @@ Dakkhiṇāgiri was the residence of Nandamātā of Velukantaka and she was visi
 ``` toml
 dict_label = "DPPN"
 word = "dakkhiṇāpatha"
-summary = "Dakkhiṇāpatha In the old Pāḷi literature the name"
+summary = "In the old Pāḷi literature the name Dakkhiṇāpatha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dakkhiṇāpatha
 
 In the old Pāḷi literature the name Dakkhiṇāpatha would seem to indicate only a remote settlement or colony on the banks of the upper Godāvarī. Thus, we are told that Bāvarī had his hermitage in Dakkhiṇāpatha territory, midway between the kingdoms of Assaka and Alaka. Snp.976 Elsewhere the name is coupled with Avanti as Avantidakkhiṇāpatha and seems to refer, but more vaguely, to the same limited district. Vin.i.195 Vin.i.196 Vin.ii.298
 
@@ -3620,7 +4699,13 @@ dict_label = "DPPN"
 word = "dalhika"
 summary = "DalhikaDaḷhika A monk of Sāgala. A pupil of his on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 DalhikaDaḷhika
@@ -3630,72 +4715,96 @@ A monk of Sāgala. A pupil of his once stole a turban from a shopkeeper and conf
 ``` toml
 dict_label = "DPPN"
 word = "dandakī"
-summary = "Dandakī King of Kumbhavatī in Kaliṅga. MN.i.378"
+summary = "King of Kumbhavatī in Kaliṅga. MN.i.378"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dandakī
 
 King of Kumbhavatī in Kaliṅga. MN.i.378
 
 ``` toml
 dict_label = "DPPN"
 word = "dantikā"
-summary = "Dantikā One day, during her meditation on Gijjhakū"
+summary = "One day, during her meditation on Gijjhakūṭa, she"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dantikā
 
 One day, during her meditation on Gijjhakūṭa, she saw how a well tamed elephant obeyed its master’s commands, and developing insight on this theme, she became an arahant. Thig.48–50
 
 ``` toml
 dict_label = "DPPN"
 word = "dasama"
-summary = "Dasama A householder of Aṭṭhakanāgara. One day, ha"
+summary = "A householder of Aṭṭhakanāgara. One day, having fi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dasama
 
 A householder of Aṭṭhakanāgara. One day, having finished some business which took him to Pāṭaliputta, he visited the Kukkuṭārāma to call upon Ānanda. Learning that Ānanda was at Beluvagāma near Vesāli, he visited him there and held a discussion with him, which is recorded in the Aṭṭhakanāgara Sutta. Later, assembling the monks from Pāṭaliputta and Vesāli, he entertained them and presented each with two lengths of cloth, while to Ānanda he gave a suit of three robes and built for him a cell costing five hundred pieces. MN.i.349*ff.* AN.v.342*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "dasārahā"
-summary = "Dasārahā A group of Khattiyas, owners of the Ānaka"
+summary = "A group of Khattiyas, owners of the Ānaka-drum. SN"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dasārahā
 
 A group of Khattiyas, owners of the Ānaka\-drum. SN.ii.266*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "daḷhanemi"
-summary = "Daḷhanemi A Cakkavatti of long ago. When his cakka"
+summary = "A Cakkavatti of long ago. When his cakka showed si"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Daḷhanemi
 
 A Cakkavatti of long ago. When his *cakka* showed signs of disappearing, he handed the kingdom over to his eldest son and became a hermit. Later he taught his son how he, in turn, could become a Cakkavatti. DN.iii.59*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "daṇḍakappaka"
-summary = "Daṇḍakappaka A township of the Kosalans near the A"
+summary = "A township of the Kosalans near the Aciravatī; it"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Daṇḍakappaka
 
 A township of the Kosalans near the Aciravatī; it was visited by the Buddha during a tour in Kosala. There he preached the Udāna Sutta in answer to a question by Ānanda, as to how the Buddha knew of the unregenerate wickedness of Devadatta. AN.iii.402
 
@@ -3706,7 +4815,13 @@ dict_label = "DPPN"
 word = "daṇḍakīrañña"
 summary = "DaṇḍakīraññaDandakārañña The forest which overgrew"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 DaṇḍakīraññaDandakārañña
@@ -3718,24 +4833,32 @@ Kaliṅga3forest
 ``` toml
 dict_label = "DPPN"
 word = "daṇḍapāṇi"
-summary = "Daṇḍapāṇi A Sākiyan of Kapilavatthu. It is recorde"
+summary = "A Sākiyan of Kapilavatthu. It is recorded MN.i.108"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Daṇḍapāṇi
 
 A Sākiyan of Kapilavatthu. It is recorded MN.i.108 that Daṇḍapāṇi once met the Buddha in Kapilavatthu and questioned him on his teachings. The Buddha explained them to him, but he was not satisfied, and went away “shaking his head, wagging his tongue, with his brow puckered into three wrinkles.”
 
 ``` toml
 dict_label = "DPPN"
 word = "devadaha"
-summary = "Devadaha A township (nigama) of the Sākiyans. The"
+summary = "A township (nigama) of the Sākiyans. The Buddha st"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devadaha
 
 A township (nigama) of the Sākiyans. The Buddha stayed there during his tours and preached to the monks on various topics S.iii.5f; S.iv.124f; M.ii.214.
 
@@ -3744,12 +4867,16 @@ A township (nigama) of the Sākiyans. The Buddha stayed there during his tours a
 ``` toml
 dict_label = "DPPN"
 word = "devadatta"
-summary = "Devadatta A monk, a close relative of the Buddha,"
+summary = "A monk, a close relative of the Buddha, who split"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devadatta
 
 A monk, a close relative of the Buddha, who split the Sangha, and attempted to overthrow the Buddha and have him murdered. In one passage in the Vinaya, Vin.ii.189 Devadatta is spoken of as Godhiputta, the son of Godhi.
 
@@ -3784,36 +4911,48 @@ Only once is mention made AN.iv.402*f.* of the text of a sermon by Devadatta. Ca
 ``` toml
 dict_label = "DPPN"
 word = "devadhammika"
-summary = "Devadhammika A class of ascetics mentioned in a no"
+summary = "A class of ascetics mentioned in a nominal list. T"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devadhammika
 
 A class of ascetics mentioned in a nominal list. They are doomed to purgatory. AN.iii.277
 
 ``` toml
 dict_label = "DPPN"
 word = "devahita"
-summary = "Devahita A brahmin of Sāvatthī. Once when the Budd"
+summary = "A brahmin of Sāvatthī. Once when the Buddha was il"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devahita
 
 A brahmin of Sāvatthī. Once when the Buddha was ill with cramp and desired hot water Upavāna obtained from Devahita hot water and molasses, which he sent on a pingo by a serving man. Hot fomentations and the administering of molasses cured the Buddha’s complaint. Devahita came later to the Buddha, and after some conversation he was converted. SN.i.174*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "devakatasobbha"
-summary = "Devakatasobbha A pool near Kosambī. Close by was t"
+summary = "A pool near Kosambī. Close by was the Pilakkhaguhā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devakatasobbha
 
 A pool near Kosambī. Close by was the Pilakkhaguhā and the Paribbājakārāma, where Ānanda once visited Sandaka and held a discussion with him. MN.i.513
 
@@ -3822,24 +4961,32 @@ A pool near Kosambī. Close by was the Pilakkhaguhā and the Paribbājakārāma,
 ``` toml
 dict_label = "DPPN"
 word = "devasabha"
-summary = "Devasabha A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of how one wi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devasabha
 
 A monk whose Theragāthā verse speaks of how one with right effort will overcome defilements. Thag.100
 
 ``` toml
 dict_label = "DPPN"
 word = "devasūta"
-summary = "Devasūta One of the Yakkha chiefs mentioned in the"
+summary = "One of the Yakkha chiefs mentioned in the Āṭānāṭiy"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Devasūta
 
 One of the Yakkha chiefs mentioned in the Āṭānāṭiya Sutta. DN.iii.204
 
@@ -3848,7 +4995,13 @@ dict_label = "DPPN"
 word = "dhamma"
 summary = "Dhamma1 The palace built by Vissakamma for Mahāsud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhamma<sup>1</sup>
@@ -3864,12 +5017,16 @@ The lake in front of the palace mentioned above. DN.ii.184.
 ``` toml
 dict_label = "DPPN"
 word = "dhammadinnā"
-summary = "Dhammadinnā An eminent Therī, ranked foremost amon"
+summary = "An eminent Therī, ranked foremost among nuns who p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dhammadinnā
 
 An eminent Therī, ranked foremost among nuns who possessed the gift of preaching. AN.i.25 Her Therīgāthā verse says that one without attachment is bound upstream. Thig.12 In Rājagaha her former husband Visakha asked her a series of profound questions on the Dhamma. The questions and answers are given in the Cūḷavedalla Sutta. MN.i.299*ff.* Visākha reported this interview to the Buddha, who praised her great wisdom and commended her eloquence.
 
@@ -3878,7 +5035,13 @@ dict_label = "DPPN"
 word = "dhammapāla "
 summary = "Dhammapāla A monk whose Theragāthā verses praise t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhammapāla
@@ -3888,12 +5051,16 @@ A monk whose Theragāthā verses praise the young monk who by virtue of his prac
 ``` toml
 dict_label = "DPPN"
 word = "dhammasava"
-summary = "Dhammasava A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of going fort"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dhammasava
 
 A monk whose Theragāthā verse speaks of going forth and attaining the three knowledges. Thag.107
 
@@ -3902,7 +5069,13 @@ dict_label = "DPPN"
 word = "dhammasava-pitā"
 summary = "Father of Dhammasava. He was one hundred and twent"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhammasava\-pitā
@@ -3914,7 +5087,13 @@ dict_label = "DPPN"
 word = "dhammika "
 summary = "Dhammika A monk whose Theragāthā verses speak of t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhammika
@@ -3926,7 +5105,13 @@ dict_label = "DPPN"
 word = "dhammā "
 summary = "Dhammā A bhikkhunī whose Therīgāthā verse tells of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhammā
@@ -3936,24 +5121,32 @@ A bhikkhunī whose Therīgāthā verse tells of how one day, while returning fro
 ``` toml
 dict_label = "DPPN"
 word = "dhanavatī"
-summary = "Dhanavatī A brahmin lady, mother of Kassapa Buddha"
+summary = "A brahmin lady, mother of Kassapa Buddha. Her husb"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dhanavatī
 
 A brahmin lady, mother of Kassapa Buddha. Her husband was Brahmadatta. DN.ii.7
 
 ``` toml
 dict_label = "DPPN"
 word = "dhanitthaka"
-summary = "Dhanitthaka An example of a low family name. Vin.i"
+summary = "An example of a low family name. Vin.iv.6 Vin.iv.1"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dhanitthaka
 
 An example of a low family name. Vin.iv.6 Vin.iv.13
 
@@ -3962,7 +5155,13 @@ dict_label = "DPPN"
 word = "dhaniya"
 summary = "Dhaniya1Dhanika A herdsman living on the bank of t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhaniya<sup>1</sup>Dhanika
@@ -3976,12 +5175,16 @@ A monk whose Theragāthā verses urge one who wants to live happily as a monk to
 ``` toml
 dict_label = "DPPN"
 word = "dharaṇī"
-summary = "Dharaṇī A lake in Kuvera’s city. DN.iii.201 5lake"
+summary = "A lake in Kuvera’s city. DN.iii.201 5lake"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dharaṇī
 
 A lake in Kuvera’s city. DN.iii.201
 
@@ -3992,7 +5195,13 @@ dict_label = "DPPN"
 word = "dhataraṭṭha"
 summary = "Dhataraṭṭha1 One of the Cātummahārājikā, the ruler"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhataraṭṭha<sup>1</sup>
@@ -4010,12 +5219,16 @@ A class of Nāgas. DN.ii.259
 ``` toml
 dict_label = "DPPN"
 word = "dhotaka"
-summary = "Dhotaka One of Bāvarī’s disciples; he was among th"
+summary = "One of Bāvarī’s disciples; he was among those who"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dhotaka
 
 One of Bāvarī’s disciples; he was among those who visited the Buddha at Bāvarī’s request. Snp.p.194 The questions he asked of the Buddha on this occasion, and the answers given, are found in the Dhotakamāṇavapucchā. Snp.p.204*f.*
 
@@ -4024,7 +5237,13 @@ dict_label = "DPPN"
 word = "dhīrā"
 summary = "Dhīrā1 A bhikkhunī whose Therīgāthā verse speaks o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Dhīrā<sup>1</sup>
@@ -4038,36 +5257,48 @@ A bhikkhunī whose Therīgāthā verse speaks of how the heroic one overcomes M�
 ``` toml
 dict_label = "DPPN"
 word = "disampati"
-summary = "Disampati A king of long ago. His son was Reṇu and"
+summary = "A king of long ago. His son was Reṇu and his chief"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Disampati
 
 A king of long ago. His son was Reṇu and his chief stewards were firstly Govinda and later Jotipāla. DN.ii.230*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "disā"
-summary = "Disā A slave-woman of Okkāka. She was the mother o"
+summary = "A slave-woman of Okkāka. She was the mother of Kaṇ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Disā
 
 A slave\-woman of Okkāka. She was the mother of Kaṇha, ancestor of the Kaṇhāyanā\-gotta. DN.i.93
 
 ``` toml
 dict_label = "DPPN"
 word = "doṇa"
-summary = "Doṇa A brahmin. He was at Kusinārā at the time of"
+summary = "A brahmin. He was at Kusinārā at the time of the B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Doṇa
 
 A brahmin. He was at Kusinārā at the time of the Buddha’s death, and it was his intervention which prevented a quarrel among the kings who assembled there to claim the Buddha’s relics. He pointed out to them the impropriety of a quarrel over anything connected with the Buddha, the teacher of Peace. The claimants thereupon asked Doṇa to undertake the distribution of the relics. He divided them into eight parts, one of which he gave to each king. He himself kept the vessel used for collecting and dividing the relics, and over it he built a thūpa, celebrating a feast in its honour. DN.ii.166*f.*
 
@@ -4076,60 +5307,80 @@ Doṇa first met the Buddha on the road between Ukkaṭṭha and Setavyā. He sa
 ``` toml
 dict_label = "DPPN"
 word = "dukkhamūla"
-summary = "Dukkhamūla A Pacceka Buddha, mentioned in a nomina"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dukkhamūla
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "dummukha"
-summary = "Dummukha A Licchavi chieftain. He was present at t"
+summary = "A Licchavi chieftain. He was present at the discus"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dummukha
 
 A Licchavi chieftain. He was present at the discussion of the Nigaṇṭha Saccaka with the Buddha, and seeing Saccaka discomfited in the debate, Dummukha compared him to a crab pulled out of a pond and ill\-treated by village boys. MN.i.234
 
 ``` toml
 dict_label = "DPPN"
 word = "dāmali"
-summary = "Dāmali A devaputta who visits the Buddha at Jetava"
+summary = "A devaputta who visits the Buddha at Jetavana and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dāmali
 
 A *devaputta* who visits the Buddha at Jetavana and tells him that an arahant has to work hard for nothing. The Buddha points out to him that there is nothing left for an arahant to do. SN.i.47
 
 ``` toml
 dict_label = "DPPN"
 word = "dānaveghasā"
-summary = "Dānaveghasā A class of Asuras, present at the Mahā"
+summary = "A class of Asuras, present at the Mahāsamaya. DN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dānaveghasā
 
 A class of Asuras, present at the Mahāsamaya. DN.ii.259
 
 ``` toml
 dict_label = "DPPN"
 word = "dāsaka"
-summary = "Dāsaka A monk whose Theragāthā verse says that one"
+summary = "A monk whose Theragāthā verse says that one who ea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dāsaka
 
 A monk whose Theragāthā verse says that one who eats much and is lazy will keep being reborn. Thag.17
 
@@ -4138,60 +5389,80 @@ Perhaps it is this same Dāsaka who is mentioned in the Saṃyutta Nikāya SN.ii
 ``` toml
 dict_label = "DPPN"
 word = "dīghajāṇu"
-summary = "Dīghajāṇu A Koliyan, inhabitant of Kakkarapatta. T"
+summary = "A Koliyan, inhabitant of Kakkarapatta. There he vi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dīghajāṇu
 
 A Koliyan, inhabitant of Kakkarapatta. There he visited the Buddha and asked for a teaching which would bring happiness both in this world and the next. The Buddha explained to him the four conditions of temporal welfare and the four conditions of spiritual welfare. In this discourse the Buddha addresses him as Byagghapajja. AN.iv.281*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "dīghakārāyana"
-summary = "Dīghakārāyana Nephew of Bandhula, commander-in-chi"
+summary = "Nephew of Bandhula, commander-in-chief of Pasenadi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dīghakārāyana
 
 Nephew of Bandhula, commander\-in\-chief of Pasenadi. After Bandhula’s death, Dīgha was appointed in his place and accompanied the king. Once, during their travels, they came to Nangaraka and, hearing that the Buddha was at Medatalumpa, went to see him, but Dīgha stayed outside while the Buddha talked to Pasenadi. MN.ii.118*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "dīghalaṭṭhi"
-summary = "Dīghalaṭṭhi A devaputta who once visited the Buddh"
+summary = "A devaputta who once visited the Buddha at the Kal"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dīghalaṭṭhi
 
 A *devaputta* who once visited the Buddha at the Kalandakanivāpa in Veḷuvana and spoke a verse. SN.i.52
 
 ``` toml
 dict_label = "DPPN"
 word = "dīghanakha"
-summary = "Dīghanakha A wanderer. He visited the Buddha at Sū"
+summary = "A wanderer. He visited the Buddha at Sūkarakhatale"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dīghanakha
 
 A wanderer. He visited the Buddha at Sūkarakhatalena and the Buddha preached to him the Dīghanakha Sutta, at the end of which he became a sotāpanna. In the sutta he is addressed as Aggivessana. MN.i.497*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "dīghatapassī"
-summary = "Dīghatapassī A Nigaṇṭha, follower of Nāṭaputta. He"
+summary = "A Nigaṇṭha, follower of Nāṭaputta. He once visited"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dīghatapassī
 
 A Nigaṇṭha, follower of Nāṭaputta. He once visited the Buddha at Nāḷandā, and there followed a discussion on actions and their efficiency. Dīghatapassī reported this discussion to Nāṭaputta and Upāli, who was listening, went, against the advice of Dīghatapassī, to the Buddha and challenged him to a discussion, at the end of which Upāli was converted. MN.i.371*ff.*
 
@@ -4200,7 +5471,13 @@ dict_label = "DPPN"
 word = "dīghāyu"
 summary = "DīghāyuDīghāvu Son of Dīghīti, king of Kosala. Aft"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 DīghāyuDīghāvu
@@ -4212,7 +5489,13 @@ dict_label = "DPPN"
 word = "dīghīti"
 summary = "DīghītiDīghati A king of Kosala. His kingdom was c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 DīghītiDīghati
@@ -4222,12 +5505,16 @@ A king of Kosala. His kingdom was captured by Brahmadatta, king of Kāsi, and he
 ``` toml
 dict_label = "DPPN"
 word = "dūsī"
-summary = "Dūsī Name of Māra in the time of Kakusandha Buddha"
+summary = "Name of Māra in the time of Kakusandha Buddha. He"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Dūsī
 
 Name of Māra in the time of Kakusandha Buddha. He was, in that birth, son of Kāḷī, sister of Moggallāna. He first incited the brahmin householders to revile Kakusandha’s monks, chief of whom were Vidhura and Sañjīva; when that effort failed owing to the thoughts of goodwill, pity, sympathy and equanimity, developed by the monks, he next incited the brahmins to show great honour to the monks, hoping, in that way, to tempt them. But, owing to the intervention of Kakusandha, Dūsī’s attempts failed and he was born in the Mahā Niraya. The story is given in the Māratajjanīya Sutta MN.i.333*ff.* Thag.1187–1191
 
@@ -4236,7 +5523,13 @@ dict_label = "DPPN"
 word = "ekadhammasavanīya"
 summary = "EkadhammasavanīyaEkadhammasavaniyaEkadhammika A mo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 EkadhammasavanīyaEkadhammasavaniyaEkadhammika
@@ -4246,12 +5539,16 @@ A monk whose verse is found in the Theragāthā. Thag.67
 ``` toml
 dict_label = "DPPN"
 word = "ekanāḷā"
-summary = "Ekanāḷā A brahmin village near Dakkhiṇāgiri, to th"
+summary = "A brahmin village near Dakkhiṇāgiri, to the south"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ekanāḷā
 
 A brahmin village near Dakkhiṇāgiri, to the south of Rājagaha. Once, during the eleventh year of his ministry, the Buddha visited the village and preached to Kāsī\-Bhāradvāja the sutta which bears his name and which converted him to the faith. Snp.p.12*ff.* SN.i.172*ff.*
 
@@ -4262,7 +5559,13 @@ dict_label = "DPPN"
 word = "ekapuṇḍarīka"
 summary = "Ekapuṇḍarīka1 A monastery of the wanderers, the re"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ekapuṇḍarīka<sup>1</sup>
@@ -4276,12 +5579,16 @@ An elephant belonging to Pasenadi. It was while riding on this elephant that the
 ``` toml
 dict_label = "DPPN"
 word = "ekasālā"
-summary = "Ekasālā A Brahmin village in the Kosala kingdom. T"
+summary = "A Brahmin village in the Kosala kingdom. The Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ekasālā
 
 A Brahmin village in the Kosala kingdom. The Buddha once stayed there, and when a large congregation of the laity were listening to him, Māra, thinking to darken their intelligence, suggested to him that he should not teach others. The Buddha refuted the suggestion of Māra, who retired discomfited. SN.i.111
 
@@ -4292,7 +5599,13 @@ dict_label = "DPPN"
 word = "ekuddāniya"
 summary = "EkuddāniyaEkuddāna A monk whose verse in the Thera"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 EkuddāniyaEkuddāna
@@ -4304,72 +5617,96 @@ The verse attributed above to Ekuddāniya, occurs in the Vinaya Vin.iv.54 as hav
 ``` toml
 dict_label = "DPPN"
 word = "eraka"
-summary = "Eraka A verse admonishing this monk is found in th"
+summary = "A verse admonishing this monk is found in the Ther"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Eraka
 
 A verse admonishing this monk is found in the Theragāthā. Thag.93
 
 ``` toml
 dict_label = "DPPN"
 word = "erāpatha"
-summary = "Erāpatha A royal family of Nāgas, mentioned togeth"
+summary = "A royal family of Nāgas, mentioned together with V"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Erāpatha
 
 A royal family of Nāgas, mentioned together with Virūpakkhas, Chabbyāputtas, and Kaṇhāgotamakas. For their own protection, monks are advised to fill their hearts with amity for these four classes of Nāgas. AN.ii.72 Vin.ii.109*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "erāvaṇa"
-summary = "Erāvaṇa In the Dhammika Sutta. Snp.379 Erāvaṇa is"
+summary = "In the Dhammika Sutta. Snp.379 Erāvaṇa is mentione"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Erāvaṇa
 
 In the Dhammika Sutta. Snp.379 Erāvaṇa is mentioned among the devas who visited the Buddha to pay him homage. He is also mentioned among the Nāgas present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "esukārī"
-summary = "Esukārī A brahmin who visits the Buddha at Jetavan"
+summary = "A brahmin who visits the Buddha at Jetavana and as"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Esukārī
 
 A brahmin who visits the Buddha at Jetavana and asks him various questions on castes and their distinctions, from the point of view of their functions. The Buddha replies that birth’s invidious bar has been laid down by the brahmins, without consulting anybody else; all four castes alike can live the good life, which is the true service, and follow the Dhamma, which is the true wealth. At the end of the discourse Esukārī declares himself to be a follower of the Buddha. MN.ii.177*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "eḷeyya"
-summary = "Eḷeyya A rājā, probably of Māgadha. He was a devou"
+summary = "A rājā, probably of Māgadha. He was a devout follo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Eḷeyya
 
 A rājā, probably of Māgadha. He was a devout follower of Uddaka\-Rāmaputta. In his retinue were Yamaka, Moggalla, Ugga, Nāvindakī, Gandhabba, and Aggivessa, all of whom were also followers of the same teacher. AN.ii.180*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "eṇikūla"
-summary = "Eṇikūla A town on the river Eṇi. One of Baka’s goo"
+summary = "A town on the river Eṇi. One of Baka’s good deeds"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Eṇikūla
 
 A town on the river Eṇi. One of Baka’s good deeds which brought him rebirth in the Brahma\-world was that of having set free the inhabitants when the village was raided. SN.i.143
 
@@ -4380,7 +5717,13 @@ dict_label = "DPPN"
 word = "gagga"
 summary = "Gagga1 A monk. He became insane, and in this condi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gagga<sup>1</sup>
@@ -4394,12 +5737,16 @@ A brahmin, father of Aṅgulimāla. MN.ii.102 Gagga may have been a gotta\-name.
 ``` toml
 dict_label = "DPPN"
 word = "gahvaratīriya"
-summary = "Gahvaratīriya A monk whose Theragāthā verse speaks"
+summary = "A monk whose Theragāthā verse speaks of enduring t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gahvaratīriya
 
 A monk whose Theragāthā verse speaks of enduring the discomforts of the forest life. Thag.31
 
@@ -4408,7 +5755,13 @@ dict_label = "DPPN"
 word = "gajaṅgala"
 summary = "GajaṅgalaKajaṅgalaKajaṅgalā A township which forme"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GajaṅgalaKajaṅgalaKajaṅgalā
@@ -4420,24 +5773,32 @@ A township which formed the eastern boundary of the Middle Country. Beyond it wa
 ``` toml
 dict_label = "DPPN"
 word = "gandhabba"
-summary = "Gandhabba An attendant of King Eḷeyya and a follow"
+summary = "An attendant of King Eḷeyya and a follower of Udda"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gandhabba
 
 An attendant of King Eḷeyya and a follower of Uddaka Rāmaputta. AN.ii.180
 
 ``` toml
 dict_label = "DPPN"
 word = "gandhabbā"
-summary = "Gandhabbā A class of semi-divine beings who inhabi"
+summary = "A class of semi-divine beings who inhabit the Cātu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gandhabbā
 
 A class of semi\-divine beings who inhabit the Cātummahārājika realm and are the lowest among the devas. DN.ii.212 They are generally classed together with the Asuras and the Nāgas AN.iv.200 AN.iv.204 AN.iv.207 Beings are born among them as a result of having practised the lowest form of sīla. DN.ii.212 DN.ii.271
 
@@ -4454,7 +5815,13 @@ dict_label = "DPPN"
 word = "gandhāra"
 summary = "Gandhāra1 A Pacceka Buddha mentioned in a nominal"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gandhāra<sup>1</sup>
@@ -4472,7 +5839,13 @@ dict_label = "DPPN"
 word = "gandhāravijjā"
 summary = "GandhāravijjāGandhārīvijjā A charm whereby one cou"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GandhāravijjāGandhārīvijjā
@@ -4484,7 +5857,13 @@ dict_label = "DPPN"
 word = "garuḷā"
 summary = "GaruḷāGaruḍāSupannaSuvaṇṇa A class of mythical bir"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GaruḷāGaruḍāSupannaSuvaṇṇa
@@ -4494,12 +5873,16 @@ A class of mythical birds generally mentioned in company with Nāgas.
 ``` toml
 dict_label = "DPPN"
 word = "gavesī"
-summary = "Gavesī A follower of Kassapa Buddha. Five hundred"
+summary = "A follower of Kassapa Buddha. Five hundred others"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gavesī
 
 A follower of Kassapa Buddha. Five hundred others were associated with him, and at first their spiritual life was poor. Gavesī, realising this, put forth effort and, step by step, attained greater proficiency until, at last, he became an arahant. His followers imitated him in every step of his spiritual advancement, and they, too, became arahants.
 
@@ -4508,12 +5891,16 @@ The Buddha related this story to Ānanda during a tour in Kosala. They came to a
 ``` toml
 dict_label = "DPPN"
 word = "gayā"
-summary = "Gayā A town in India. It lay on the road between t"
+summary = "A town in India. It lay on the road between the Bo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gayā
 
 A town in India. It lay on the road between the Bodhi\-tree and Benares. It was between the Bodhimanda and Gayā that the Buddha, on his way to Isipatana, met Upaka. Vin.i.8
 
@@ -4526,24 +5913,32 @@ It was at a spring festival in Gayā that Senaka Thera was converted by the Budd
 ``` toml
 dict_label = "DPPN"
 word = "gayākassapa"
-summary = "Gayākassapa One of the three Kassapa brothers. The"
+summary = "One of the three Kassapa brothers. They all lived"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gayākassapa
 
 One of the three Kassapa brothers. They all lived at Gayāsīsa. When Uruvelā\-Kassapa was converted, Gayā\-Kassapa, with his followers, joined the Order, and at the conclusion of the Ādittapariyāya Sutta they all became arahants. Vin.i.33*f.* Gayā\-Kassapa is reported Thag.345*f.* to have said that he used to bathe three times a day at Gayātittha, in order to wash away his sins during the festival of Gayāphaggu.
 
 ``` toml
 dict_label = "DPPN"
 word = "gayāsīsa"
-summary = "Gayāsīsa A hill near Gayā. Here the Buddha came fr"
+summary = "A hill near Gayā. Here the Buddha came from Uruvel"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gayāsīsa
 
 A hill near Gayā. Here the Buddha came from Uruvelā after converting the Tebhātika\-Jaṭilā (the three Kassapa ascetics), and here he lived with one thousand monks. On this occasion of his coming he taught the Adittapariyāya Sutta . Vin.i.34*f.* SN.iv.19*f.* AA.i.57 PvA.21 Ud.i.9 DhA.i.72
 
@@ -4558,12 +5953,16 @@ The hill stands about one mile to the south\-west of Gayā and is now called Bra
 ``` toml
 dict_label = "DPPN"
 word = "gaṅgātīriya"
-summary = "Gaṅgātīriya A monk whose Theragāthā verses speak o"
+summary = "A monk whose Theragāthā verses speak of his auster"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gaṅgātīriya
 
 A monk whose Theragāthā verses speak of his austere life by the Ganges river. Thag.127–128
 
@@ -4572,7 +5971,13 @@ dict_label = "DPPN"
 word = "gaṇaka-moggallāna"
 summary = "A brahmin teacher of Sāvatthī. He visited the Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gaṇaka\-Moggallāna
@@ -4582,36 +5987,48 @@ A brahmin teacher of Sāvatthī. He visited the Buddha at the Pubbārāma, and t
 ``` toml
 dict_label = "DPPN"
 word = "geyya"
-summary = "Geyya The second of the nine portions (aṅgas) into"
+summary = "The second of the nine portions (aṅgas) into which"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Geyya
 
 The second of the nine portions (*aṅgas*) into which the Buddhist scriptures were arranged before the development of the Tipiṭaka. It includes all the suttas composed in verse, especially the whole Sagāthakavagga of the Saṃyutta Nikāya.
 
 ``` toml
 dict_label = "DPPN"
 word = "ghaṭāya"
-summary = "Ghaṭāya A Sākiyan of Kapilavatthu, who built a mon"
+summary = "A Sākiyan of Kapilavatthu, who built a monastery a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ghaṭāya
 
 A Sākiyan of Kapilavatthu, who built a monastery attached to the Nigrodhārāma. There the Mahā Suññatā Sutta was preached. MN.iii.110
 
 ``` toml
 dict_label = "DPPN"
 word = "ghaṭīkāra"
-summary = "Ghaṭīkāra In the time of Kassapa Buddha he was a p"
+summary = "In the time of Kassapa Buddha he was a potter of V"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ghaṭīkāra
 
 In the time of Kassapa Buddha he was a potter of Vehaliṅga, looking after his blind parents. He was a very pious and devoted follower of the Buddha, ministering to him better than anyone else, and the Buddha accepted his invitation in preference to that of the king of Benares. It is said that when the Buddha was in need of anything he would go to Ghaṭīkāra’s house and take it, whether he were at home or not, so great was his confidence in Ghaṭīkāra’s piety. Once, when Ghaṭīkāra was absent, the people, at the Buddha’s suggestion, took away the thatch from his house to roof the hut of Tathāgata. For three months Ghaṭīkāra’s house remained open to the sky, but no rain fell on it, so great was his faith.
 
@@ -4622,12 +6039,16 @@ According to the Saṃyutta Nikāya, SN.i.35*f.* Ghaṭīkāra visited the Buddh
 ``` toml
 dict_label = "DPPN"
 word = "ghoṭamukha"
-summary = "Ghoṭamukha A brahmin, probably of Pāṭaliputta. On"
+summary = "A brahmin, probably of Pāṭaliputta. On coming to v"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ghoṭamukha
 
 A brahmin, probably of Pāṭaliputta. On coming to visit Benares, he saw Udena there in Khemiyambavana and had a conversation with him, recorded in the Ghoṭamukha Sutta. At the conclusion of the talk he declared himself converted and wished to offer to Udena the daily allowance of five hundred **kahāpanas** which he regularly received from the king of Aṅga. Udena suggested that the money might be utilised to build an assembly\-hall for the Order at Pāṭaliputta. The suggestion was agreed to and the assembly\-hall, when built, was called Ghotamukhī. MN.ii.157*ff.*
 
@@ -4636,7 +6057,13 @@ dict_label = "DPPN"
 word = "gijjhakūṭa"
 summary = "GijjhakūṭaVulture’s Peak One of the five hills enc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GijjhakūṭaVulture’s Peak
@@ -4670,24 +6097,32 @@ The Sūkara\-khatalena was on the slope of Gijjhakūṭa, and there the Buddha w
 ``` toml
 dict_label = "DPPN"
 word = "giraggasamajjā"
-summary = "Giraggasamajjā A festival held from time to time i"
+summary = "A festival held from time to time in Rājagaha. Acc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Giraggasamajjā
 
 A festival held from time to time in Rājagaha. According to the Vinaya accounts Vin.ii.107*f.* Vin.ii.150 Vin.iv.85 Vin.iv.267 there were dancing, singing and music.
 
 ``` toml
 dict_label = "DPPN"
 word = "girimānanda"
-summary = "Girimānanda A monk whose Theragāthā verses speak o"
+summary = "A monk whose Theragāthā verses speak of his deligh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Girimānanda
 
 A monk whose Theragāthā verses speak of his delight in meditating in his small hut while it rains. Thag.325–329
 
@@ -4696,12 +6131,16 @@ The Giri Sutta was preached in reference to Girimānanda, when he lay grievously
 ``` toml
 dict_label = "DPPN"
 word = "giñjakāvasatha"
-summary = "Giñjakāvasatha A brick hall at Nādikā. The Buddha"
+summary = "A brick hall at Nādikā. The Buddha stayed there on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Giñjakāvasatha
 
 A brick hall at Nādikā. The Buddha stayed there on various occasions during his visits to Nādikā. It was during one of these visits that Ambapāli presented her park to the Buddha and the Order. Vin.i.232
 
@@ -4716,48 +6155,64 @@ The “Brick Hall” was, however, not designed for the Buddha and his monks alo
 ``` toml
 dict_label = "DPPN"
 word = "godatta"
-summary = "Godatta The Theragāthā Thag.659–672 contains sever"
+summary = "The Theragāthā Thag.659–672 contains several stanz"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Godatta
 
 The Theragāthā Thag.659–672 contains several stanzas attributed to him, which speak of remaining even among the challenges of life, and the importance of holding to wisdom and righteousness.
 
 ``` toml
 dict_label = "DPPN"
 word = "godha"
-summary = "Godha A Sākiyan. A conversation between him and Ma"
+summary = "A Sākiyan. A conversation between him and Mahānāma"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Godha
 
 A Sākiyan. A conversation between him and Mahānāma the Sākiyan is recorded in the Godha Sutta. SN.v.371
 
 ``` toml
 dict_label = "DPPN"
 word = "godhi"
-summary = "Godhi Probably the mother of Devadatta, who is som"
+summary = "Probably the mother of Devadatta, who is sometimes"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Godhi
 
 Probably the mother of Devadatta, who is sometimes called Godhiputta. Vin.ii.189
 
 ``` toml
 dict_label = "DPPN"
 word = "godhika"
-summary = "Godhika A monk whose Theragāthā verse speaks of hi"
+summary = "A monk whose Theragāthā verse speaks of his deligh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Godhika
 
 A monk whose Theragāthā verse speaks of his delight in meditating while the rain falls on his little hut. Thag.51
 
@@ -4768,7 +6223,13 @@ dict_label = "DPPN"
 word = "godhāvarī"
 summary = "GodhāvarīGodhāvari A river in Dakkhiṇāpatha, of wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GodhāvarīGodhāvari
@@ -4780,12 +6241,16 @@ A river in Dakkhiṇāpatha, of which it forms the southern boundary, rising in 
 ``` toml
 dict_label = "DPPN"
 word = "gomagga"
-summary = "Gomagga A spot in Siṃsapāvana near Āḷavī. The Budd"
+summary = "A spot in Siṃsapāvana near Āḷavī. The Buddha once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gomagga
 
 A spot in Siṃsapāvana near Āḷavī. The Buddha once stayed there during the cold season and was visited by Hatthaka Āḷavaka. AN.i.136
 
@@ -4796,7 +6261,13 @@ dict_label = "DPPN"
 word = "gomatakakandarā"
 summary = "GomatakakandarāGomatakandarāGomatakaṇḍarā A grotto"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GomatakakandarāGomatakandarāGomatakaṇḍarā
@@ -4808,12 +6279,16 @@ A grotto some distance from Veḷuvana in Rājagaha. Monks coming to Rājagaha f
 ``` toml
 dict_label = "DPPN"
 word = "gonaddha"
-summary = "Gonaddha One of the places passed by Bāvarī's disc"
+summary = "One of the places passed by Bāvarī's disciples on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gonaddha
 
 One of the places passed by Bāvarī's disciples on their way from Bāvarī's hermitage to see the Buddha at Rājagaha.  
 
@@ -4826,7 +6301,13 @@ dict_label = "DPPN"
 word = "gopaka"
 summary = "Gopaka2 A monk. He once stayed at the Kukkuṭārāma"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gopaka<sup>2</sup>
@@ -4840,12 +6321,16 @@ A deva. A series of verses attributed to Gopaka are given in the Sakkapañha Sut
 ``` toml
 dict_label = "DPPN"
 word = "gopāla"
-summary = "Gopāla One of the Yakkha chieftains, to be invoked"
+summary = "One of the Yakkha chieftains, to be invoked by the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gopāla
 
 One of the Yakkha chieftains, to be invoked by the Buddha’s followers in time of need. DN.iii.205
 
@@ -4854,7 +6339,13 @@ dict_label = "DPPN"
 word = "gosiṅgasālavanadāya"
 summary = "Gosiṅgasālavanadāya1 A forest tract near Nādikā. O"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gosiṅgasālavanadāya<sup>1</sup>
@@ -4872,7 +6363,13 @@ dict_label = "DPPN"
 word = "gosāla "
 summary = "Gosāla A monk whose Theragāthā verse speaks of how"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gosāla
@@ -4884,7 +6381,13 @@ dict_label = "DPPN"
 word = "gotama"
 summary = "Gotama1BuddhaSiddhatthaSakyamunīTathāgataAṅgīrasa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Gotama<sup>1</sup>BuddhaSiddhatthaSakyamunīTathāgataAṅgīrasa
@@ -4894,12 +6397,16 @@ He was a Sākiyan, son of Suddhodana and of Mahā Māyā, Suddhodana’s chief c
 ``` toml
 dict_label = "DPPN"
 word = "gotamadvāra"
-summary = "Gotamadvāra The gate by which the Buddha left Pāṭa"
+summary = "The gate by which the Buddha left Pāṭaligāma, afte"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gotamadvāra
 
 The gate by which the Buddha left Pāṭaligāma, after having eaten there at the invitation of Sunidha and Vassakāra. Vin.i.230 Ud.viii.6 DN.ii.89
 
@@ -4908,12 +6415,16 @@ Pāṭaliputta2building
 ``` toml
 dict_label = "DPPN"
 word = "gotamaka"
-summary = "Gotamaka A class of ascetics, enumerated in a list"
+summary = "A class of ascetics, enumerated in a list of such"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gotamaka
 
 A class of ascetics, enumerated in a list of such classes. AN.iii.276
 
@@ -4922,7 +6433,13 @@ dict_label = "DPPN"
 word = "gotamakacetiya"
 summary = "GotamakacetiyaGotamaka Cetiya A shrine near and to"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GotamakacetiyaGotamaka Cetiya
@@ -4934,12 +6451,16 @@ A shrine near and to the south of Vesāli. DN.iii.9 It was considered one of the
 ``` toml
 dict_label = "DPPN"
 word = "gotamatittha"
-summary = "Gotamatittha The ford by which the Buddha crossed"
+summary = "The ford by which the Buddha crossed the Ganges, a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gotamatittha
 
 The ford by which the Buddha crossed the Ganges, after leaving Pāṭaligāma. Vin.i.230 Ud.viii.6 DN.ii.89
 
@@ -4948,12 +6469,16 @@ The ford by which the Buddha crossed the Ganges, after leaving Pāṭaligāma. V
 ``` toml
 dict_label = "DPPN"
 word = "govinda"
-summary = "Govinda The steward or treasurer of King Disampati"
+summary = "The steward or treasurer of King Disampati. He had"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Govinda
 
 The steward or treasurer of King Disampati. He had a son, Jotipāla, who succeeded him after his death and came to be known as Mahā Govinda. DN.ii.230*f.*
 
@@ -4962,24 +6487,32 @@ The steward or treasurer of King Disampati. He had a son, Jotipāla, who succeed
 ``` toml
 dict_label = "DPPN"
 word = "govindiya"
-summary = "Govindiya Evidently the title given to the High Tr"
+summary = "Evidently the title given to the High Treasurer. D"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Govindiya
 
 Evidently the title given to the High Treasurer. DN.ii.232
 
 ``` toml
 dict_label = "DPPN"
 word = "goyogapilakkha"
-summary = "Goyogapilakkha A spot near Benares, visited by the"
+summary = "A spot near Benares, visited by the Buddha on his"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Goyogapilakkha
 
 A spot near Benares, visited by the Buddha on his begging rounds. AN.i.280
 
@@ -4988,12 +6521,16 @@ A spot near Benares, visited by the Buddha on his begging rounds. AN.i.280
 ``` toml
 dict_label = "DPPN"
 word = "gulissāni"
-summary = "Gulissāni A monk living in the wilds, who once cam"
+summary = "A monk living in the wilds, who once came on some"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gulissāni
 
 A monk living in the wilds, who once came on some business to see the monks at the Kalandakanivāpa. It was on his account that the Gulissāni Sutta was preached. MN.i.469
 
@@ -5002,7 +6539,13 @@ dict_label = "DPPN"
 word = "gundāvana"
 summary = "GundāvanaKundāvanaGuṇḍāvanaKuṇḍāvana A forest in M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 GundāvanaKundāvanaGuṇḍāvanaKuṇḍāvana
@@ -5014,12 +6557,16 @@ A forest in Madhurā. Mahā Kaccāna stayed there and was visited by Avantiputta
 ``` toml
 dict_label = "DPPN"
 word = "gutijjita"
-summary = "Gutijjita A Pacceka Buddha, whose name occurs in a"
+summary = "A Pacceka Buddha, whose name occurs in a nominal l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gutijjita
 
 A Pacceka Buddha, whose name occurs in a nominal list. MN.iii.70
 
@@ -5028,7 +6575,13 @@ dict_label = "DPPN"
 word = "guttā "
 summary = "Guttā A bhikkhunī to whom several Therīgāthā verse"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Guttā
@@ -5038,36 +6591,48 @@ A bhikkhunī to whom several Therīgāthā verses are addressed, encourageing he
 ``` toml
 dict_label = "DPPN"
 word = "guḷa"
-summary = "Guḷa A Yakkha chief who should be invoked when unb"
+summary = "A Yakkha chief who should be invoked when unbeliev"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Guḷa
 
 A Yakkha chief who should be invoked when unbelieving Yakkhas molest any follower of the Buddha. DN.iii.204
 
 ``` toml
 dict_label = "DPPN"
 word = "gāthā"
-summary = "Gāthā One of the nine portions (aṅga) into which t"
+summary = "One of the nine portions (aṅga) into which the Bud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gāthā
 
 One of the nine portions (*aṅga*) into which the Buddhist scriptures were organized before the Tipiṭaka. It includes the Theragāthā and Therīgāthā, and other verses. Vin.iii.8
 
 ``` toml
 dict_label = "DPPN"
 word = "gūtha"
-summary = "Gūtha One of the hells. It is next to the Mahā Nir"
+summary = "One of the hells. It is next to the Mahā Niraya, a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Gūtha
 
 One of the hells. It is next to the Mahā Niraya, and is the habitation of needle\-mouthed creatures who rip away the skin, flesh, tendons, etc., of the victim and then devour his marrow. MN.iii.185
 
@@ -5076,12 +6641,16 @@ One of the hells. It is next to the Mahā Niraya, and is the habitation of needl
 ``` toml
 dict_label = "DPPN"
 word = "haliddavasana"
-summary = "Haliddavasana A township of the Koliyans. The Budd"
+summary = "A township of the Koliyans. The Buddha, when stayi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Haliddavasana
 
 A township of the Koliyans. The Buddha, when staying there, preached the Kukkuravatika Sutta to Puṇṇa\-koliyaputta and Seniya Kukkuravatika. MN.i.387 Another Buddha is also mentioned as having preached a sermon there. SN.v.115*f.*
 
@@ -5090,12 +6659,16 @@ Koliya3town
 ``` toml
 dict_label = "DPPN"
 word = "harayodevā"
-summary = "Harayodevā A class of devas present at the preachi"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Harayodevā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -5104,7 +6677,13 @@ dict_label = "DPPN"
 word = "hatthaka"
 summary = "Hatthaka1 A monk. He was a Sākyan and loved holdin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Hatthaka<sup>1</sup>
@@ -5122,12 +6701,16 @@ After death, Hatthaka was born in Avihā, there to pass away entirely. From ther
 ``` toml
 dict_label = "DPPN"
 word = "hatthigāmaka"
-summary = "Hatthigāmaka A village on the road from Vesāli to"
+summary = "A village on the road from Vesāli to Bhoganagara."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hatthigāmaka
 
 A village on the road from Vesāli to Bhoganagara. It was the residence of Ugga\-gahapati and is described as a village of the Vajjians.
 
@@ -5140,60 +6723,80 @@ On his last journey he again rested in the village. DN.ii.123
 ``` toml
 dict_label = "DPPN"
 word = "hatthipāla"
-summary = "Hatthipāla A teacher of old, with a following of m"
+summary = "A teacher of old, with a following of many hundred"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hatthipāla
 
 A teacher of old, with a following of many hundred disciples to whom he taught the way to union with Brahmā. AN.iii.371 AN.ii.373 AN.iv.135
 
 ``` toml
 dict_label = "DPPN"
 word = "hatthāroha"
-summary = "Hatthāroha A headman of Rājagaha who visited the B"
+summary = "A headman of Rājagaha who visited the Buddha and a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hatthāroha
 
 A headman of Rājagaha who visited the Buddha and asked him what destiny awaited him after death. The Buddha reluctantly replied that he would be born in the Sārañjita hell. SN.iv.310
 
 ``` toml
 dict_label = "DPPN"
 word = "hatthārohaputta"
-summary = "Hatthārohaputta A monk whose Theragāthā verse spea"
+summary = "A monk whose Theragāthā verse speaks of taming thi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hatthārohaputta
 
 A monk whose Theragāthā verse speaks of taming this mind like an elephant. Thag.77
 
 ``` toml
 dict_label = "DPPN"
 word = "hemaka"
-summary = "Hemaka One of Bāvarī’s disciples. He went to the B"
+summary = "One of Bāvarī’s disciples. He went to the Buddha,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hemaka
 
 One of Bāvarī’s disciples. He went to the Buddha, asked questions, and became an arahant Snp.1006 Snp.1084–1087
 
 ``` toml
 dict_label = "DPPN"
 word = "hemavata"
-summary = "Hemavata A Yakkha chief, to be invoked by follower"
+summary = "A Yakkha chief, to be invoked by followers of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hemavata
 
 A Yakkha chief, to be invoked by followers of the Buddha in time of need. DN.iii.204
 
@@ -5204,12 +6807,16 @@ He was the friend of Sātāgira.
 ``` toml
 dict_label = "DPPN"
 word = "heraññakāni"
-summary = "Heraññakāni A monk whose Theragāthā verses speak o"
+summary = "A monk whose Theragāthā verses speak of the imperm"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Heraññakāni
 
 A monk whose Theragāthā verses speak of the impermanence of life, and the bitter fruit of evil deeds. Thag.145–146
 
@@ -5218,7 +6825,13 @@ dict_label = "DPPN"
 word = "himavā"
 summary = "HimavāHimācalaHimavantaHimālaya The Himālaya mount"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 HimavāHimācalaHimavantaHimālaya
@@ -5230,12 +6843,16 @@ Himalaya1region
 ``` toml
 dict_label = "DPPN"
 word = "hiraññavatī"
-summary = "Hiraññavatī A river, on the bank of which was the"
+summary = "A river, on the bank of which was the Upavattana S"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hiraññavatī
 
 A river, on the bank of which was the Upavattana Sālavana of the Mallas of Kusināra, where the Buddha died. DN.ii.137
 
@@ -5244,48 +6861,64 @@ Hirakinari1river
 ``` toml
 dict_label = "DPPN"
 word = "hiri"
-summary = "Hiri A Yakkha chieftain to be invoked in time of n"
+summary = "A Yakkha chieftain to be invoked in time of need b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hiri
 
 A Yakkha chieftain to be invoked in time of need by followers of the Buddha. DN.iii.205
 
 ``` toml
 dict_label = "DPPN"
 word = "hiṅga"
-summary = "Hiṅga A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hiṅga
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "hiṅgū"
-summary = "Hiṅgū A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hiṅgū
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "huhuṅka"
-summary = "Huhuṅka The descriptive name of a brahmin who visi"
+summary = "The descriptive name of a brahmin who visited the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Huhuṅka
 
 The descriptive name of a brahmin who visited the Buddha at the Ajapālanigrodha seven days after his Enlightenment and asked him questions regarding the true brahmin. The Buddha explained the matter, but made no impression on him. Vin.i.2 Ud.i.4
 
@@ -5294,7 +6927,13 @@ dict_label = "DPPN"
 word = "hāliddakāni"
 summary = "HāliddakāniHāliddakāni An eminent lay disciple of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 HāliddakāniHāliddakāni
@@ -5306,12 +6945,16 @@ On another occasion SN.iv.115*f.* he questioned the Elder regarding the diversit
 ``` toml
 dict_label = "DPPN"
 word = "hāragajā"
-summary = "Hāragajā A class of devas present at the preaching"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Hāragajā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -5320,7 +6963,13 @@ dict_label = "DPPN"
 word = "hārika"
 summary = "HārikaHārita A bandit of Rājagaha. After death he"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 HārikaHārita
@@ -5332,7 +6981,13 @@ dict_label = "DPPN"
 word = "hārita"
 summary = "Hārita1 A Mahā Brahmā who was present at the preac"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Hārita<sup>1</sup>
@@ -5350,12 +7005,16 @@ A monk whose Theragāthā verses speak of doing what is good, and the peace of N
 ``` toml
 dict_label = "DPPN"
 word = "icchānaṅgalaka"
-summary = "Icchānaṅgalaka An upāsaka of Icchānaṅgala. Once he"
+summary = "An upāsaka of Icchānaṅgala. Once he visited the Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Icchānaṅgalaka
 
 An *upāsaka* of Icchānaṅgala. Once he visited the Buddha at Jetavana after a long interval, and on being asked why he had been absent so long, he replied that he had been kept busy by various duties. Thereupon the Buddha sang the joy of the life free from ties. Ud.p.13
 
@@ -5364,7 +7023,13 @@ dict_label = "DPPN"
 word = "iccānaṅgala"
 summary = "IccānaṅgalaIcchānaṅkala A brahmin village in the K"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 IccānaṅgalaIcchānaṅkala
@@ -5382,7 +7047,13 @@ dict_label = "DPPN"
 word = "inda"
 summary = "Inda1 Given in the Āṭānāṭiya Sutta as the name of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Inda<sup>1</sup>
@@ -5402,12 +7073,16 @@ Inda was a special protector of cows, and when men began to kill these creatures
 ``` toml
 dict_label = "DPPN"
 word = "indakūṭa"
-summary = "Indakūṭa A peak near Rājagaha, the abode of the ya"
+summary = "A peak near Rājagaha, the abode of the yakkha Inda"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Indakūṭa
 
 A peak near Rājagaha, the abode of the *yakkha* Indaka. The Buddha once lived there. SN.i.206
 
@@ -5416,12 +7091,16 @@ A peak near Rājagaha, the abode of the *yakkha* Indaka. The Buddha once lived t
 ``` toml
 dict_label = "DPPN"
 word = "indapatta"
-summary = "Indapatta A town in the Kuru country. In the Kurud"
+summary = "A town in the Kuru country. In the Kurudhamma Jata"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Indapatta
 
 A town in the Kuru country. In the Kurudhamma Jataka J.ii.365f; also J.iii.400; J.iv.361; J.v.457; J.vi.255; Cyp.i.3, Cyp.v.1, Dhananjaya Koravya, is mentioned as its king and as the owner of Anjanavasabha, the elephant of wondrous power.
 
@@ -5438,12 +7117,16 @@ The modern Delhi stands on the site of Indapatta.
 ``` toml
 dict_label = "DPPN"
 word = "indasālaguhā"
-summary = "Indasālaguhā A cave on the Vediya mountain, to the"
+summary = "A cave on the Vediya mountain, to the north of Amb"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Indasālaguhā
 
 A cave on the Vediya mountain, to the north of Ambasaṇḍā, which was a brahmin village, east of Rājagaha. Once, when the Buddha was staying there, Sakka visited him and asked him the questions recorded in the Sakkapañha Sutta. DN.ii.263
 
@@ -5454,7 +7137,13 @@ dict_label = "DPPN"
 word = "isidatta"
 summary = "Isidatta1 A verse uttered by Isidatta, in response"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Isidatta<sup>1</sup>
@@ -5480,24 +7169,32 @@ Isidatta is mentioned by the Buddha among those who had the six qualities that b
 ``` toml
 dict_label = "DPPN"
 word = "isidāsa"
-summary = "Isidāsa A thera. He had a brother, also a monk, na"
+summary = "A thera. He had a brother, also a monk, named Isib"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Isidāsa
 
 A thera. He had a brother, also a monk, named Isibhatta. Having spent the rainy season in Sāvatthī, they went to take up their abode in a certain village. The people there gave them food and robes, but they refused to accept their share of these, because, according to the rule, the robes are the property of the Saṅgha until the Kaṭhina\-ceremony has been performed. The story is mentioned in connection with accepting robes elsewhere than in the spot where the rainy season has been spent. Vin.i.299
 
 ``` toml
 dict_label = "DPPN"
 word = "isidāsī"
-summary = "Isidāsī She was the daughter of a good and wealthy"
+summary = "She was the daughter of a good and wealthy merchan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Isidāsī
 
 She was the daughter of a good and wealthy merchant of Ujjenī. Having come of age, she was given in marriage to the son of a merchant in Sāketa.
 
@@ -5510,7 +7207,13 @@ dict_label = "DPPN"
 word = "isigili"
 summary = "IsigiliIsigilapassa One of the five mountains roun"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 IsigiliIsigilapassa
@@ -5536,7 +7239,13 @@ dict_label = "DPPN"
 word = "isipatana"
 summary = "IsipatanaMigadayaDeer Park An open space near Bena"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 IsipatanaMigadayaDeer Park
@@ -5566,24 +7275,32 @@ Mention is made, too, of a discourse in which several monks staying at Isipatana
 ``` toml
 dict_label = "DPPN"
 word = "itivuttaka"
-summary = "Itivuttaka One of the nine divisions (aṅga) into w"
+summary = "One of the nine divisions (aṅga) into which the Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Itivuttaka
 
 One of the nine divisions (*aṅga*) into which the Buddha’s preaching was classified in the early texts.
 
 ``` toml
 dict_label = "DPPN"
 word = "jambudīpa"
-summary = "Jambudīpa Greater India. One of the four Mahādīpas"
+summary = "Greater India. One of the four Mahādīpas, or great"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jambudīpa
 
 Greater India. One of the four Mahādīpas, or great continents. They are grouped round Mount Sineru. In Jambudīpa is Himavā with its eighty\-four thousand peaks, its lakes, mountain ranges, etc. This continent derives its name from the Jambū\-tree which grows there, its trunk fifteen yojanas in girth, its outspreading branches fifty yojanas in length, its shade one hundred yojanas in extent and its height one hundred yojanas. Vin.i.30 On account of this tree, Jambudīpa is also known as Jambusanda. Snp.552
 
@@ -5596,12 +7313,16 @@ India1continent
 ``` toml
 dict_label = "DPPN"
 word = "jambugāma"
-summary = "Jambugāma A village which the Buddha visited durin"
+summary = "A village which the Buddha visited during his last"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jambugāma
 
 A village which the Buddha visited during his last tour. It lay between Ambagāma and Bhoganagara. DN.ii.194
 
@@ -5612,7 +7333,13 @@ dict_label = "DPPN"
 word = "jambugāmika"
 summary = "JambugāmikaJambugāmiya A monk whose Theragāthā ver"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JambugāmikaJambugāmiya
@@ -5624,7 +7351,13 @@ dict_label = "DPPN"
 word = "jambuka "
 summary = "Jambuka A monk whose Theragāthā verses speak of ho"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Jambuka
@@ -5634,36 +7367,48 @@ A monk whose Theragāthā verses speak of how he practiced severe austerities fo
 ``` toml
 dict_label = "DPPN"
 word = "jambukhādaka"
-summary = "Jambukhādaka A wanderer. The Saṃyutta Nikāya recor"
+summary = "A wanderer. The Saṃyutta Nikāya records visits pai"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jambukhādaka
 
 A wanderer. The Saṃyutta Nikāya records visits paid by him to Sāriputta at Nālakagāma and discussions between them on various topics, such as nibbāna, arahantship, the *āsavas*, sakkāya, ignorance, the Noble Eightfold Path, etc. SN.iv.251–260
 
 ``` toml
 dict_label = "DPPN"
 word = "janapadakalyāṇī"
-summary = "Janapadakalyāṇī An epithet meaning the most beauti"
+summary = "An epithet meaning the most beautiful woman in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Janapadakalyāṇī
 
 An epithet meaning the most beautiful woman in the land. It was used for the former wife of Nanda, the memory of whose beauty tormented him while he was a monk. Ud.iii.2
 
 ``` toml
 dict_label = "DPPN"
 word = "janesabha"
-summary = "Janesabha A Gandhabba, a vassal of the Four Regent"
+summary = "A Gandhabba, a vassal of the Four Regent Gods. He"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Janesabha
 
 A Gandhabba, a vassal of the Four Regent Gods. He was present at the preaching of the Mahāsamaya. DN.ii.258
 
@@ -5674,12 +7419,16 @@ He is probably identical with Janavasabha.
 ``` toml
 dict_label = "DPPN"
 word = "janogha"
-summary = "Janogha A city in Uttarakuru, Kuvera’s kingdom. DN"
+summary = "A city in Uttarakuru, Kuvera’s kingdom. DN.iii.20"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Janogha
 
 A city in Uttarakuru, Kuvera’s kingdom. DN.iii.20
 
@@ -5688,24 +7437,32 @@ A city in Uttarakuru, Kuvera’s kingdom. DN.iii.20
 ``` toml
 dict_label = "DPPN"
 word = "jantu"
-summary = "Jantu A devaputta. He saw a number of monks in a f"
+summary = "A devaputta. He saw a number of monks in a forest-"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jantu
 
 A *devaputta*. He saw a number of monks in a forest\-lodge on the slopes of the Himālaya, muddled in mind, loose of speech and heedless. He appeared before them on an uposatha day and reminded them of their duties. SN.i.61*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "jantugāma"
-summary = "Jantugāma A village near Cālikā; close by was the"
+summary = "A village near Cālikā; close by was the river Kimi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jantugāma
 
 A village near Cālikā; close by was the river Kimikālā with the mango\-grove on its banks. Meghiya, while staying with the Buddha at Cālikā, once went to Jantugāma for alms. AN.iv.354 Ud.iv.1
 
@@ -5714,12 +7471,16 @@ A village near Cālikā; close by was the river Kimikālā with the mango\-grove
 ``` toml
 dict_label = "DPPN"
 word = "jatilagāhī"
-summary = "Jatilagāhī The name given to a bhikkhunī, who, so"
+summary = "The name given to a bhikkhunī, who, so Ānanda tell"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jatilagāhī
 
 The name given to a bhikkhunī, who, so Ānanda tells Udāyī, came to see him at the Añjanavana in Sāketā. The nun asked him for what purpose the Buddha requested that samādhi should be practised and Ānanda answered that it was for the purpose of obtaining insight. AN.iv.427*f.*
 
@@ -5728,7 +7489,13 @@ dict_label = "DPPN"
 word = "jatukaṇṇī"
 summary = "JatukaṇṇīJatukannika One of Bāvarī’s disciples. Hi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JatukaṇṇīJatukannika
@@ -5738,36 +7505,48 @@ One of Bāvarī’s disciples. His question and the Buddha’s answer are found 
 ``` toml
 dict_label = "DPPN"
 word = "javakannaka"
-summary = "Javakannaka A family name, not considered of high"
+summary = "A family name, not considered of high social stand"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Javakannaka
 
 A family name, not considered of high social standing. Vin.iv.8 Vin.iv.13
 
 ``` toml
 dict_label = "DPPN"
 word = "jayanta"
-summary = "Jayanta A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jayanta
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "jayasena"
-summary = "Jayasena A prince who once visited the novice Acir"
+summary = "A prince who once visited the novice Aciravata at"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jayasena
 
 A prince who once visited the novice Aciravata at Veḷuvana in Rājagaha and asked him to teach the Doctrine. Reluctantly the novice did so, but at the end of the exposition Jayasena declared that he was unable to agree with it.
 
@@ -5778,24 +7557,32 @@ A discussion which Jayasena had with his uncle Bhūmiya Thera is recorded in the
 ``` toml
 dict_label = "DPPN"
 word = "jaṭila"
-summary = "Jaṭila A class of brahmanical ascetics, so called"
+summary = "A class of brahmanical ascetics, so called on acco"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jaṭila
 
 A class of brahmanical ascetics, so called on account of their matted hair.
 
 ``` toml
 dict_label = "DPPN"
 word = "jaṭābhāradvāja"
-summary = "Jaṭābhāradvāja A brahmin of the Bhāradvājagotta. H"
+summary = "A brahmin of the Bhāradvājagotta. He goes to the B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jaṭābhāradvāja
 
 A brahmin of the Bhāradvājagotta. He goes to the Buddha and asks him the questions given in the Jaṭā Sutta. The Buddha gives the same answer. SN.i.165
 
@@ -5804,7 +7591,13 @@ dict_label = "DPPN"
 word = "jenta"
 summary = "Jenta1 A monk whose Theragāthā verse speaks of how"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Jenta<sup>1</sup>
@@ -5820,7 +7613,13 @@ dict_label = "DPPN"
 word = "jentā"
 summary = "JentāJentī A bhikkhunī whose Therīgāthā verses spe"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JentāJentī
@@ -5832,7 +7631,13 @@ dict_label = "DPPN"
 word = "jeta"
 summary = "Jeta1 A prince. Owner of Jetavana, which he sold t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Jeta<sup>1</sup>
@@ -5848,7 +7653,13 @@ dict_label = "DPPN"
 word = "jetavana"
 summary = "JetavanaJeta’s GroveAnāthapiṇḍaka’s ParkAnāthapiṇḍ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JetavanaJeta’s GroveAnāthapiṇḍaka’s ParkAnāthapiṇḍikassa ārāmaAnāthapiṇḍada’s Park
@@ -5862,60 +7673,80 @@ The monastery became the Buddha’s favorite residence, and the bulk of all disc
 ``` toml
 dict_label = "DPPN"
 word = "jinadattā"
-summary = "Jinadattā A bhikkhunī mentioned in the Therīgāthā"
+summary = "A bhikkhunī mentioned in the Therīgāthā verses of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jinadattā
 
 A bhikkhunī mentioned in the Therīgāthā verses of Isidāsi, who describes Jinadattā as a learned and virtuous expert in the Vinaya. Thig.427
 
 ``` toml
 dict_label = "DPPN"
 word = "jita"
-summary = "Jita A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jita
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "joti"
-summary = "Joti A class of gods, present at the Mahāsamaya. D"
+summary = "A class of gods, present at the Mahāsamaya. DN.ii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Joti
 
 A class of gods, present at the Mahāsamaya. DN.ii.261
 
 ``` toml
 dict_label = "DPPN"
 word = "jotidāsa"
-summary = "Jotidāsa A monk whose Theragāthā verses speak of k"
+summary = "A monk whose Theragāthā verses speak of kamma. Tha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jotidāsa
 
 A monk whose Theragāthā verses speak of kamma. Thag.143–144
 
 ``` toml
 dict_label = "DPPN"
 word = "jotika"
-summary = "Jotika A householder of Rājagaha and father of Dīg"
+summary = "A householder of Rājagaha and father of Dīghāvu. W"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jotika
 
 A householder of Rājagaha and father of Dīghāvu. When Dīghāvu fell ill he sent Jotika to tell the Buddha. SN.v.344*f.*
 
@@ -5924,7 +7755,13 @@ dict_label = "DPPN"
 word = "jotipāla"
 summary = "Jotipāla1 The Bodhisatta born as a brahmin of Veha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Jotipāla<sup>1</sup>
@@ -5944,7 +7781,13 @@ dict_label = "DPPN"
 word = "jāli"
 summary = "JāliJāḷi The name of two Pacceka Buddhas, occurrin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JāliJāḷi
@@ -5954,48 +7797,64 @@ The name of two Pacceka Buddhas, occurring in a nominal list. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "jālina"
-summary = "Jālina A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jālina
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "jālinī"
-summary = "Jālinī A goddess of Tāvatiṃsā, a former wife of An"
+summary = "A goddess of Tāvatiṃsā, a former wife of Anuruddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jālinī
 
 A goddess of Tāvatiṃsā, a former wife of Anuruddha. Once seeing him old and feeble, she appeared before him in Kosala and bade him aspire to rebirth among the gods. Anuruddha told her there would be no rebirth for him. SN.i.200 Thag.908
 
 ``` toml
 dict_label = "DPPN"
 word = "jāliya"
-summary = "Jāliya A wanderer who, with his friend Mandissa, v"
+summary = "A wanderer who, with his friend Mandissa, visited"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jāliya
 
 A wanderer who, with his friend Mandissa, visited the Buddha at the Ghositārāma. DN.i.159 The Buddha preached to them the Jāliya Sutta. According to the Pātika Sutta, when Jāliya heard that Pātika could not come to hold a discussion with the Buddha at Vesāli, he went to the Tindukkhāna\-paribbājakārāma and tried to get Pātikaputta to come. But the latter was unable to come, being fixed in his seat. Jāliya thereupon spoke insultingly to him, calling him boaster, etc. DN.iii.22*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "jātiyāvana"
-summary = "Jātiyāvana A grove near Bhaddiya. The Buddha, when"
+summary = "A grove near Bhaddiya. The Buddha, when once stayi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jātiyāvana
 
 A grove near Bhaddiya. The Buddha, when once staying there, laid down a rule about the use of slippers by monks. Vin.i.189*f.* There the banker Meṇḍaka visited him and provided meals for him and the monks. Vin.i.242*f.* Meṇḍaka’s grandson, Uggaha, did likewise. AN.iii.36*f.*
 
@@ -6006,12 +7865,16 @@ The Sutta Vibhaṅga Vin.iii.37*f.* contains the story of an arahant on whom a w
 ``` toml
 dict_label = "DPPN"
 word = "jāṇussoṇi"
-summary = "Jāṇussoṇi A great brahmin, ranking with eminent br"
+summary = "A great brahmin, ranking with eminent brahmins suc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jāṇussoṇi
 
 A great brahmin, ranking with eminent brahmins such as Caṅkī, Tārukkha, Pokkharasāti and Todeyya. Snp.p.115 He is mentioned as staying in Icchānaṅgala, MN.ii.196 where he evidently took part in the periodical gatherings of brahmin leaders—and also at Manasākaṭa. DN.i.235 He was a follower of the Buddha, of whom he was a great admirer. He appears to have been in the habit of talking to well known teachers of other schools and hearing their opinion of the Buddha, either for the purpose of comparing his own faith in him or of discovering their views. Two such conversations are recorded—one with Subha Todeyyaputta, MN.ii.209 the other with Pilotika. MN.i.175*ff.* His discussion with Pilotika he reported to the Buddha, who expanded it to form the Cūḷahatthipadopama Sutta. The Buddha also preached to Jāṇussoṇi the Bhayabherava Sutta. MN.i.16*ff.* Jāṇussoṇi’s permanent residence was Sāvatthī, and he often visited the Buddha at Jetavana, consulting him on many topics, such as: results of actions, AN.i.56 Nibbana here and now, AN.i.157 brahmins and the threefold knowledge, AN.i.166 fearlessness of death, AN.ii.173 the ideals of various classes of persons, AN.iii.362 true celibacy, AN.iv.54 the Paccārohani ceremony, AN.v.233*ff.* AN.v.249*ff.* the efficacy of gifts, AN.v.269*ff.* and eternalism and annihilation. SN.ii.76 He had a white chariot with silver fittings and white trappings drawn by four pure white mares. He would drive about in this, wearing white garments, turban\-cloths and sandals and fanned by a white fan. The reins, the goads and the canopy were also of white. His chariot was considered the finest in all Sāvatthī. SN.v.4*f.* MN.i.175 MN.ii.208
 
@@ -6020,7 +7883,13 @@ dict_label = "DPPN"
 word = "jīvaka"
 summary = "JīvakaJīvakakomārabhacca A celebrated physician, a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JīvakaJīvakakomārabhacca
@@ -6036,12 +7905,16 @@ At Jīvaka’s request, the Buddha enjoined upon monks to take exercise; Jīvaka
 ``` toml
 dict_label = "DPPN"
 word = "jīvakambavana"
-summary = "Jīvakambavana A mango-grove in Rājagaha, belonging"
+summary = "A mango-grove in Rājagaha, belonging to Jīvaka, wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Jīvakambavana
 
 A mango\-grove in Rājagaha, belonging to Jīvaka, which he made over to the Buddha and his monks. He built a monastery in the grove, and there the Buddha stayed several times. On one such occasion Ajātasattu visited the Buddha and the Sāmaññaphala Sutta was preached. DN.i.47*ff.*
 
@@ -6052,7 +7925,13 @@ dict_label = "DPPN"
 word = "jīvā"
 summary = "JīvāJīvanti Daughter of Ubbirī, whose tragic death"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 JīvāJīvanti
@@ -6064,7 +7943,13 @@ dict_label = "DPPN"
 word = "kaccāna"
 summary = "Kaccāna1 See Mahā-Kaccāna, Pakudha-Kaccāna, Pubba-"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kaccāna<sup>1</sup>
@@ -6080,12 +7965,16 @@ The Kaccānagotta is mentioned among the higher castes, together with Moggallān
 ``` toml
 dict_label = "DPPN"
 word = "kaddamadaha"
-summary = "Kaddamadaha A river where Mahākaccāyana sometimes"
+summary = "A river where Mahākaccāyana sometimes stayed. Avan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaddamadaha
 
 A river where Mahākaccāyana sometimes stayed.
 
@@ -6096,7 +7985,13 @@ dict_label = "DPPN"
 word = "kajangala"
 summary = "KajangalaKajangalā A township which formed the eas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KajangalaKajangalā
@@ -6108,24 +8003,32 @@ A township which formed the eastern boundary of the Middle Country. Beyond it wa
 ``` toml
 dict_label = "DPPN"
 word = "kajaṅgalā"
-summary = "Kajaṅgalā A nun who lived in Kajangala. Once when"
+summary = "A nun who lived in Kajangala. Once when the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kajaṅgalā
 
 A nun who lived in Kajangala. Once when the Buddha was residing in the Veḷuvana there, the inhabitants of the village went to her and asked her to explain in detail what the Buddha had taught them in brief. This she did, and when the matter was reported to the Buddha, he praised her very highly. AN.v.54*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "kakkarapatta"
-summary = "Kakkarapatta A township of the Koliyans. It was wh"
+summary = "A township of the Koliyans. It was while the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kakkarapatta
 
 A township of the Koliyans. It was while the Buddha was staying there that the Koliyan Dīghajāṇu came to see him. AN.iv.281
 
@@ -6136,7 +8039,13 @@ dict_label = "DPPN"
 word = "kakkaṭa"
 summary = "Kakkaṭa2 An eminent monk mentioned, with Cāla, Upa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kakkaṭa<sup>2</sup>
@@ -6148,7 +8057,13 @@ dict_label = "DPPN"
 word = "kakudha"
 summary = "Kakudha1Kakkaṭa A lay disciple of the Buddha who d"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kakudha<sup>1</sup>Kakkaṭa
@@ -6166,7 +8081,13 @@ dict_label = "DPPN"
 word = "kakudhā"
 summary = "Kakudhā Kakuṭṭhā Kakutthā Kukuṭṭhā Kukutthā A rive"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kakudhā Kakuṭṭhā Kakutthā Kukuṭṭhā Kukutthā
@@ -6178,12 +8099,16 @@ near Kusinārā2river
 ``` toml
 dict_label = "DPPN"
 word = "kakusandha"
-summary = "Kakusandha A Buddha of a past era. His chief disci"
+summary = "A Buddha of a past era. His chief disciples were V"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kakusandha
 
 A Buddha of a past era. His chief disciples were Vidhura and Sañjīva among monks, and Sama and Campā among nuns. His personal attendant was Buddhija. Accuta and Samaṇa, Nandā and Sunandā were his most eminent lay\-supporters. DN.ii.7 In Kakusandha’s time a Māra, named Dūsī (a previous birth of Moggallāna), gave a great deal of trouble to the Buddha and his followers, trying greatly the Buddha’s patience.MN.i.333*ff.* Thag.1187 The Saṃyutta Nikāya SN.ii.190*f.* mentions that during the time of Kakusandha, the Mount Vepulla of Rājagaha was named Pacina\-vaṃsa and the inhabitants were called Tivarā.
 
@@ -6192,7 +8117,13 @@ dict_label = "DPPN"
 word = "kalandagāma"
 summary = "KalandagāmaKalandaKalaṇḍaka A village near Vesāli;"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KalandagāmaKalandaKalaṇḍaka
@@ -6206,7 +8137,13 @@ dict_label = "DPPN"
 word = "kallavāḷaputta"
 summary = "KallavāḷaputtaKallavālaKanavālamutta A village in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KallavāḷaputtaKallavālaKanavālamutta
@@ -6218,12 +8155,16 @@ Māgadha3town
 ``` toml
 dict_label = "DPPN"
 word = "kambala"
-summary = "Kambala A tribe of Nāgas. They were present at the"
+summary = "A tribe of Nāgas. They were present at the Mahāsam"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kambala
 
 A tribe of Nāgas. They were present at the Mahāsamaya. DN.ii.258
 
@@ -6232,7 +8173,13 @@ dict_label = "DPPN"
 word = "kamboja"
 summary = "KambojaKambojjaKambujaKambujjaKambojaka One of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KambojaKambojjaKambujaKambujjaKambojaka
@@ -6248,7 +8195,13 @@ dict_label = "DPPN"
 word = "kammāsadhamma"
 summary = "KammāsadhammaKammāsadammaKammasadammaKammasadhamma"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KammāsadhammaKammāsadammaKammasadammaKammasadhamma
@@ -6262,12 +8215,16 @@ Several important discourses were preached at Kammāsadamma, among them being th
 ``` toml
 dict_label = "DPPN"
 word = "kandaraka"
-summary = "Kandaraka A wandering ascetic who visited the Budd"
+summary = "A wandering ascetic who visited the Buddha at Camp"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kandaraka
 
 A wandering ascetic who visited the Buddha at Campā, on the banks of Lake Gaggarā together with Pessa the elephant trainer’s son. Pessa saluted the Buddha and sat down, while Kandaraka, after his salutation, remained standing. Surveying the assembly of monks gathered round the Buddha and observing their great silence, Kandaraka expressed his admiration of the Buddha’s training. The Buddha explained that all Buddhas school their disciples in the four satipaṭṭhānas. Pessa stated that it was far more difficult to train men than animals. The Buddha agreed and enumerated the four kinds of people in the world: those who torment themselves, torment others, torment both themselves and others, and, lastly, those who torment neither, dwelling beyond appetites, in bliss and holiness. Pessa stated that he respected only the fourth class, and having given his reasons went away. The Buddha expressed his regret that Pessa could not wait to hear the differences between these four kinds of people; and at the request of the monks the Buddha proceeded to describe them. MN.i.339*ff.*
 
@@ -6276,7 +8233,13 @@ dict_label = "DPPN"
 word = "kandarāyana"
 summary = "KandarāyanaKundarāyana A brahmin. He visited Mahā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KandarāyanaKundarāyana
@@ -6286,12 +8249,16 @@ A brahmin. He visited Mahā Kaccāna at the Gundavana near Madhurā and accused 
 ``` toml
 dict_label = "DPPN"
 word = "kannakujja"
-summary = "Kannakujja A district in Jambudīpa; it is mentione"
+summary = "A district in Jambudīpa; it is mentioned in a list"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kannakujja
 
 A district in Jambudīpa; it is mentioned in a list of places passed by the Buddha on his way from Verañjā to Bārānasī, across the Ganges, the route passing through Verañjā, Soreyya, Sankassa, Kannakujja, Payāgatittha, here crossing the river to Benares Vin.iii.11.
 
@@ -6304,12 +8271,16 @@ According to Hiouen Thsang, the distance from Sankassa to Kannakujja was two hun
 ``` toml
 dict_label = "DPPN"
 word = "kapilavatthu"
-summary = "Kapilavatthu A city near the Himalaya, capital of"
+summary = "A city near the Himalaya, capital of the Sākiyan r"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kapilavatthu
 
 A city near the Himalaya, capital of the Sākiyan republic. The administration and judicial business of the city and all other matters of importance were discussed and decided in the Santhāgārasālā. DN.i.91 The Buddha and his company lived in the Nigrodhārāma or the Mahāvana. When the Buddha returned a few years after his enlightenment, he met many of his family, and several of them ordained, including Nanda and Rāhula. Vin.i.82 Vin.ii.180
 
@@ -6340,12 +8311,16 @@ It was not mentioned by Ānanda among the great cities, in one of which, in his 
 ``` toml
 dict_label = "DPPN"
 word = "kapinaccanā"
-summary = "Kapinaccanā Kapinaccanā may have been a name for t"
+summary = "Kapinaccanā may have been a name for the cemetery"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kapinaccanā
 
 Kapinaccanā may have been a name for the cemetery near Vesāli where Kappitaka lived. Vin.iv.306
 
@@ -6354,24 +8329,32 @@ near Vesāli3park
 ``` toml
 dict_label = "DPPN"
 word = "kaplia"
-summary = "Kaplia A sinful monk who lived in a village near K"
+summary = "A sinful monk who lived in a village near Kosambī."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaplia
 
 A sinful monk who lived in a village near Kosambī. He was the friend of Paṇḍaka. Vin.iii.67
 
 ``` toml
 dict_label = "DPPN"
 word = "kapotakandara"
-summary = "Kapotakandara A grotto, probably near Rājagaha. On"
+summary = "A grotto, probably near Rājagaha. On one occasion"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kapotakandara
 
 A grotto, probably near Rājagaha. On one occasion Sāriputta, having recently shaved his head, was seated there wrapt in samādhi, and a *yakkha*, passing overhead with his friend to an assembly of *yakkhas*, yielded, despite the warning of his friend, to the temptation to give a knock on the monk’s shining head. The *yakkha* immediately fell down and was swallowed up in the fires of hell. Sāriputta had but a slight headache after the blow, which was, it is said, heavy enough to crush an elephant. Ud.39*f.*
 
@@ -6382,7 +8365,13 @@ dict_label = "DPPN"
 word = "kappa"
 summary = "Kappa1 One of Bāvarī’s disciples. The questions he"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kappa<sup>1</sup>
@@ -6400,24 +8389,32 @@ In the Saṃyutta Nikāya. SN.i.144 Bakabrahma is identified with Kappa’s teac
 ``` toml
 dict_label = "DPPN"
 word = "kappatakura"
-summary = "Kappatakura A monk whose verses are found in the T"
+summary = "A monk whose verses are found in the Theragāthā. T"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kappatakura
 
 A monk whose verses are found in the Theragāthā. Thag.199–200
 
 ``` toml
 dict_label = "DPPN"
 word = "kappitaka"
-summary = "Kappitaka He was upajjhāya to Upāli, and once live"
+summary = "He was upajjhāya to Upāli, and once lived in a cem"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kappitaka
 
 He was *upajjhāya* to Upāli, and once lived in a cemetery near Vesāli. In the cemetery the group of six nuns buried the ashes of one of their leaders and erected a shrine near Kappitaka’s cell. The Elder, disturbed by the sound of their lamentations, broke the shrine and scattered the materials. The nuns, greatly angered, plotted to kill him, but he was warned by Upāli, and lay hidden elsewhere until the nuns had destroyed his cell and gone away under the impression that he was dead. The nuns blamed Upāli for upsetting their arrangements. Vin.iv.308
 
@@ -6426,7 +8423,13 @@ dict_label = "DPPN"
 word = "kappāsika vanasaṇḍa"
 summary = "Kappāsika VanasaṇḍaKappāsiya Vanasaṇḍa A grove nea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kappāsika VanasaṇḍaKappāsiya Vanasaṇḍa
@@ -6438,24 +8441,32 @@ A grove near Uruvelā. There the a group of men came across the Buddha while see
 ``` toml
 dict_label = "DPPN"
 word = "karatiya"
-summary = "Karatiya A Yakkha, mentioned in the Āṭānāṭiya Sutt"
+summary = "A Yakkha, mentioned in the Āṭānāṭiya Sutta as bein"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Karatiya
 
 A Yakkha, mentioned in the Āṭānāṭiya Sutta as being one of the chief Yakkhas who should be invoked by followers of the Buddha when they need protection. DN.iii.204
 
 ``` toml
 dict_label = "DPPN"
 word = "karerikuṭikā"
-summary = "Karerikuṭikā A building in the Jetavana where the"
+summary = "A building in the Jetavana where the Mahāpadāna Su"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Karerikuṭikā
 
 A building in the Jetavana where the Mahāpadāna Sutta was taught. DN.ii.1*ff.*
 
@@ -6464,12 +8475,16 @@ Jetavana3building
 ``` toml
 dict_label = "DPPN"
 word = "karerimaṇḍalamāḷa"
-summary = "Karerimaṇḍalamāḷa A pavilion near the Karerikutikā"
+summary = "A pavilion near the Karerikutikā, evidently a hall"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Karerimaṇḍalamāḷa
 
 A pavilion near the Karerikutikā, evidently a hall with a thatched roof supported by wooden pillars, but with no walls.DN.ii.1 The monks seem to have been in the habit of sitting out here and talking on various topics at the close of the day. One such topic is recorded in the Udāna, Ud.p.30*f.* for discussing which the monks drew on themselves the Buddha’s stern rebuke.
 
@@ -6478,12 +8493,16 @@ Jetavana3building
 ``` toml
 dict_label = "DPPN"
 word = "karumhā"
-summary = "Karumhā A class of spirits, present at the Mahāsam"
+summary = "A class of spirits, present at the Mahāsamaya. DN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Karumhā
 
 A class of spirits, present at the Mahāsamaya. DN.ii.260
 
@@ -6492,7 +8511,13 @@ dict_label = "DPPN"
 word = "kasivantā"
 summary = "kapīvantā A city to the north of Uttarakuru. DN.ii"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 kasivantākapīvantā
@@ -6506,7 +8531,13 @@ dict_label = "DPPN"
 word = "kassapa"
 summary = "Kassapa1 One of the seven Buddhas mentioned in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kassapa<sup>1</sup>
@@ -6542,7 +8573,13 @@ dict_label = "DPPN"
 word = "kassapagotta"
 summary = "Kassapagotta1 A monk living in Vāsabhagāma in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kassapagotta<sup>1</sup>
@@ -6562,7 +8599,13 @@ dict_label = "DPPN"
 word = "kassapakārāma"
 summary = "KassapakārāmaKassapārāma A monastery in Rājagaha,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KassapakārāmaKassapārāma
@@ -6574,12 +8617,16 @@ A monastery in Rājagaha, probably near Veḷuvana. It was here that Assaji stay
 ``` toml
 dict_label = "DPPN"
 word = "kasībhāradvāja"
-summary = "Kasībhāradvāja A brahmin of the Bhāradvāja clan, l"
+summary = "A brahmin of the Bhāradvāja clan, living at Ekanāl"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kasībhāradvāja
 
 A brahmin of the Bhāradvāja clan, living at Ekanālā, in Dakkhiṇāgiri, and so called on account of his profession of agriculture. On the day of his festive sowing, the Buddha visited him alone, and stood near the place where food was being distributed to a very large number of people engaged in the festival. The brahmin, seeing the Buddha begging for alms, suggests that the Buddha should work for his living—plough and sow just as he does. The Buddha answers that he, too, is a farmer, and explains his meaning to the bewildered brahmin, who, greatly pleased, offers him a large bowl filled with milk\-rice. The Buddha refuses the gift on the plea that Buddhas never accept wages for their sermons. At the Buddha’s own suggestion the food is cast into the river because no one is capable of digesting food once offered to a Tathāgata. When the rice touches the water it crackles and smokes and the brahmin, greatly marvelling, falls at the Buddha’s feet and professes himself henceforth the Buddha’s follower. Snp.12*ff.* SN.i.171*ff.*
 
@@ -6588,7 +8635,13 @@ dict_label = "DPPN"
 word = "katamorakatissa"
 summary = "KatamorakatissaKatamorakatissaka One of the monks"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KatamorakatissaKatamorakatissaka
@@ -6604,7 +8657,13 @@ dict_label = "DPPN"
 word = "katissabha"
 summary = "KatissabhaKaṭissaha A lay disciple of the Buddha a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KatissabhaKaṭissaha
@@ -6614,12 +8673,16 @@ A lay disciple of the Buddha at Nādikā, one of those, who, after their death, 
 ``` toml
 dict_label = "DPPN"
 word = "kattikā"
-summary = "Kattikā Name of a constellation and also of a mont"
+summary = "Name of a constellation and also of a month (Octob"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kattikā
 
 Name of a constellation and also of a month (October to November), during which the full moon is near the constellation of Pleiades. It is the last month of the rainy season.
 
@@ -6628,7 +8691,13 @@ dict_label = "DPPN"
 word = "kaḷimbha"
 summary = "KaḷimbhaKalimma One of the monks who lived in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaḷimbhaKalimma
@@ -6638,12 +8707,16 @@ One of the monks who lived in the Kūṭāgārasālā in Vesālī. Finding that 
 ``` toml
 dict_label = "DPPN"
 word = "kaḷārajanaka"
-summary = "Kaḷārajanaka King of Mithilā. He was the son of Ni"
+summary = "King of Mithilā. He was the son of Nimi and belong"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaḷārajanaka
 
 King of Mithilā. He was the son of Nimi and belonged to the Makhādeva dynasty. Whereas other kings of his race left the household at the approach of old age, he broke the tradition by not doing so. He was the last king of this dynasty. His son was called Samankara. MN.ii.82
 
@@ -6652,7 +8725,13 @@ dict_label = "DPPN"
 word = "kaṇha"
 summary = "Kaṇha1 Son of Disā, a slave girl of Okkāka. He was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kaṇha<sup>1</sup>
@@ -6666,12 +8745,16 @@ A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.71
 ``` toml
 dict_label = "DPPN"
 word = "kaṇhadinna"
-summary = "Kaṇhadinna A monk whose Theragāthā verses describe"
+summary = "A monk whose Theragāthā verses describe how he hea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaṇhadinna
 
 A monk whose Theragāthā verses describe how he heard the Dhamma, practiced, and overcame all defileents. Thag.179–180
 
@@ -6680,7 +8763,13 @@ dict_label = "DPPN"
 word = "kaṇhāgotamikā"
 summary = "KaṇhāgotamikāKaṇhāgotamaka A royal family of Nāgas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaṇhāgotamikāKaṇhāgotamaka
@@ -6690,12 +8779,16 @@ A royal family of Nāgas. AN.ii.72
 ``` toml
 dict_label = "DPPN"
 word = "kaṇhāyanā"
-summary = "Kaṇhāyanā The name of the family to which belonged"
+summary = "The name of the family to which belonged Ambaṭṭha."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaṇhāyanā
 
 The name of the family to which belonged Ambaṭṭha. DN.i.93 The family was descended from a sage named Kaṇha.
 
@@ -6704,7 +8797,13 @@ dict_label = "DPPN"
 word = "kaṇḍakīvana"
 summary = "KaṇḍakīvanaKantakīvanaTikantakī A grove near Sāket"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaṇḍakīvanaKantakīvanaTikantakī
@@ -6716,12 +8815,16 @@ A grove near Sāketa. The conversation which took place there between Sāriputta
 ``` toml
 dict_label = "DPPN"
 word = "kaṇṇakatthala"
-summary = "Kaṇṇakatthala A deer-park in Ujuññā. There the Bud"
+summary = "A deer-park in Ujuññā. There the Buddha sometimes"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaṇṇakatthala
 
 A deer\-park in Ujuññā. There the Buddha sometimes stayed; he was once visited there by Acela Kassapa, to whom he preached the Kassapasīhanāda Sutta, DN.i.161 and again by Pasenadi, king of Kosala; to him he preached the Kaṇṇakatthala Sutta. MN.ii.125
 
@@ -6732,7 +8835,13 @@ dict_label = "DPPN"
 word = "kaṇṇakujja"
 summary = "KaṇṇakujjaKaṇṇagocchakaKaṇṇagotta A district in In"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaṇṇakujjaKaṇṇagocchakaKaṇṇagotta
@@ -6746,7 +8855,13 @@ dict_label = "DPPN"
 word = "kaṇṇamuṇḍā"
 summary = "KaṇṇamuṇḍāKannamuṇḍaka One of the seven great lake"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaṇṇamuṇḍāKannamuṇḍaka
@@ -6760,7 +8875,13 @@ dict_label = "DPPN"
 word = "kaṇṭaka"
 summary = "Kaṇṭaka Kaṇḍaka A novice ordained by Upananda. Kaṇ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kaṇṭaka Kaṇḍaka
@@ -6772,7 +8893,13 @@ dict_label = "DPPN"
 word = "kaṇṭakā"
 summary = "KaṇṭakāKaṇḍakā A nun who was guilty of unchastity"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaṇṭakāKaṇḍakā
@@ -6782,12 +8909,16 @@ A nun who was guilty of unchastity with the novice Kaṇṭaka. Vin.i.85
 ``` toml
 dict_label = "DPPN"
 word = "kaṭissaha"
-summary = "Kaṭissaha He was one of those who were staying wit"
+summary = "He was one of those who were staying with the Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kaṭissaha
 
 He was one of those who were staying with the Buddha at the Kūṭāgārasālā in Vesāli. When the Licchavis began to visit the Buddha in large numbers, they left the monastery and retired to places of solitude, such as Gosiṅgasālavana. AN.v.133
 
@@ -6796,7 +8927,13 @@ dict_label = "DPPN"
 word = "kaṭṭhakā"
 summary = "KaṭṭhakāKathakā A class of devas present at the Ma"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KaṭṭhakāKathakā
@@ -6808,7 +8945,13 @@ dict_label = "DPPN"
 word = "kesamutta"
 summary = "KesamuttaKesaputta A township of the Kosalans and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KesamuttaKesaputta
@@ -6820,36 +8963,48 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "kesava"
-summary = "Kesava An ascetic in Himavā. He is identified with"
+summary = "An ascetic in Himavā. He is identified with Baka B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kesava
 
 An ascetic in Himavā. He is identified with Baka Brahmā. SN.i.144
 
 ``` toml
 dict_label = "DPPN"
 word = "ketumbarāga"
-summary = "Ketumbarāga The name of a Pacceka Buddha. MN.iii.7"
+summary = "The name of a Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ketumbarāga
 
 The name of a Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "ketumā"
-summary = "Ketumā A Pacceka Buddha, mentioned in a list of th"
+summary = "A Pacceka Buddha, mentioned in a list of their nam"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ketumā
 
 A Pacceka Buddha, mentioned in a list of their names. MN.iii.70
 
@@ -6858,7 +9013,13 @@ dict_label = "DPPN"
 word = "kevaṭṭa "
 summary = "Kevaṭṭa KevaḍḍhaKevaddha A householder of Nāḷandā."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kevaṭṭa KevaḍḍhaKevaddha
@@ -6870,7 +9031,13 @@ dict_label = "DPPN"
 word = "keṇiya "
 summary = "Keṇiya A brahmanical matted hair ascetic. He lived"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Keṇiya
@@ -6882,12 +9049,16 @@ According to the Sutta Nipāta Snp.p.104 MN.ii.146*f.* it was owing to the elabo
 ``` toml
 dict_label = "DPPN"
 word = "khara"
-summary = "Khara A yakkha, friend of Sūciloma. He was passing"
+summary = "A yakkha, friend of Sūciloma. He was passing throu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khara
 
 A *yakkha*, friend of Sūciloma. He was passing through Gayā with Sūciloma when the latter questioned the Buddha on his doctrine, as recorded in the Sūciloma Sutta. SN.i.207*f.* Snp.p.47*f.*
 
@@ -6896,7 +9067,13 @@ dict_label = "DPPN"
 word = "khattiyānī"
 summary = "KhattiyānīVelāmikā Chief of the eighty-four thousa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KhattiyānīVelāmikā
@@ -6906,48 +9083,64 @@ Chief of the eighty\-four thousand women who waited on the Bodhisatta when he wa
 ``` toml
 dict_label = "DPPN"
 word = "khaṇḍa"
-summary = "Khaṇḍa The chief disciple of Vipassī Buddha. DN.ii"
+summary = "The chief disciple of Vipassī Buddha. DN.ii.11 DN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khaṇḍa
 
 The chief disciple of Vipassī Buddha. DN.ii.11 DN.ii.40
 
 ``` toml
 dict_label = "DPPN"
 word = "khaṇḍadeva"
-summary = "Khaṇḍadeva A monk. He had been a disciple of the B"
+summary = "A monk. He had been a disciple of the Buddha and w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khaṇḍadeva
 
 A monk. He had been a disciple of the Buddha and was born in the Aviha Brahma\-world, where he attained to arahantship at the moment of his birth. He is mentioned with six others, all in like circumstances, by Ghaṭīkāra, on the occasion of a visit he paid to the Buddha. SN.i.35 SN.i.60
 
 ``` toml
 dict_label = "DPPN"
 word = "khaṇḍadeviyāputta"
-summary = "Khaṇḍadeviyāputta A monk, one of the associates of"
+summary = "A monk, one of the associates of Devadatta, mentio"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khaṇḍadeviyāputta
 
 A monk, one of the associates of Devadatta, mentioned with Kokālika, Katamoraka Tissa and Samuddadatta. They helped Devadatta in his attempt to cause a rift in the Saṅgha.Vin.ii.196 Vin.iii.171 Khaṇḍadeviyāputta defended Devadatta when others blamed him Vin.iii.174 and was held in great esteem by Thullanandā. Vin.iii.66 Vin.iv.335
 
 ``` toml
 dict_label = "DPPN"
 word = "khaṇḍasumana"
-summary = "Khaṇḍasumana A monk whose Theragāthā verse says th"
+summary = "A monk whose Theragāthā verse says that he made an"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khaṇḍasumana
 
 A monk whose Theragāthā verse says that he made an offering of one flower, dwelt in heaven a long period, then became enlightened. Thag.96
 
@@ -6956,7 +9149,13 @@ dict_label = "DPPN"
 word = "khema"
 summary = "Khema1 A Khattiya in the time of Kakusandha Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Khema<sup>1</sup>
@@ -6974,24 +9173,32 @@ An arahant. AN.iii.358
 ``` toml
 dict_label = "DPPN"
 word = "khemaka"
-summary = "Khemaka An arahant. Once, when he lay very ill at"
+summary = "An arahant. Once, when he lay very ill at the Bada"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khemaka
 
 An arahant. Once, when he lay very ill at the Badarikārāmā, near Kosambī, some monks, staying at the Ghositārāma, sent one of their number, Dāsaka, with a message to Khemaka, inquiring whether he managed to bear his pains. Dāsaka returned with the reply that he did not; he was sent again to ask if Khemaka had seen the self in the five *khandhas*; when Dāsaka returned with the answer that he had not, be was sent a third time to ask whether Khemaka was an arahant. “No,” came the answer, and Dāsaka had to visit him a fourth time with the inquiry, What did Khemaka mean by self? In exasperation Khemaka came himself to Ghositārāma and explained how, even when the Noble Disciple has put away the five lower fetters, there still clings to him a subtle remnant of the “I” conceit. It is said that as a result of the sermon Khemaka himself and sixty others became arahants. SN.iii.126*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "khemavatī"
-summary = "Khemavatī The capital of King Khemaṅkara and the b"
+summary = "The capital of King Khemaṅkara and the birthplace"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khemavatī
 
 The capital of King Khemaṅkara and the birthplace of Kakusandha. DN.ii.7
 
@@ -7002,7 +9209,13 @@ dict_label = "DPPN"
 word = "khemaṅkara"
 summary = "Khemaṅkara1Khemaṅkura The constant attendant of Si"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Khemaṅkara<sup>1</sup>Khemaṅkura
@@ -7016,12 +9229,16 @@ The king of Khema or Khemavatī, where the Buddha Kakusandha was born. DN.ii.7
 ``` toml
 dict_label = "DPPN"
 word = "khemiyambavana"
-summary = "Khemiyambavana A mango grove near Benares. Udena o"
+summary = "A mango grove near Benares. Udena once stayed ther"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khemiyambavana
 
 A mango grove near Benares. Udena once stayed there and preached the Ghoṭamukha Sutta. MN.ii.157
 
@@ -7030,12 +9247,16 @@ A mango grove near Benares. Udena once stayed there and preached the Ghoṭamukh
 ``` toml
 dict_label = "DPPN"
 word = "khemiyā"
-summary = "Khemiyā A class of gods, present at the preaching"
+summary = "A class of gods, present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khemiyā
 
 A class of gods, present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
@@ -7044,7 +9265,13 @@ dict_label = "DPPN"
 word = "khemā "
 summary = "Khemā An arahant, chief of the Buddha’s women disc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Khemā
@@ -7056,12 +9283,16 @@ Once when Khemā was at Toraṇavatthu, between Sāvatthī and Sāketa, Pasenadi
 ``` toml
 dict_label = "DPPN"
 word = "khemābhirata"
-summary = "Khemābhirata A Pacceka Buddha mentioned in a nomin"
+summary = "A Pacceka Buddha mentioned in a nominal list. MN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khemābhirata
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
@@ -7070,7 +9301,13 @@ dict_label = "DPPN"
 word = "khitaka"
 summary = "Khitaka1 A monk whose Theragāthā verse speaks of h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Khitaka<sup>1</sup>
@@ -7086,7 +9323,13 @@ dict_label = "DPPN"
 word = "khiḍḍāpadosikā"
 summary = "KhiḍḍāpadosikāKhiḍḍāpadūsikā A class of devas who"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KhiḍḍāpadosikāKhiḍḍāpadūsikā
@@ -7096,12 +9339,16 @@ A class of devas who live in the Cātummahārājika world. For ages they spend t
 ``` toml
 dict_label = "DPPN"
 word = "khomadussa"
-summary = "Khomadussa A township in the Sākyan country. The B"
+summary = "A township in the Sākyan country. The Buddha once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khomadussa
 
 A township in the Sākyan country. The Buddha once stayed there and preached to an assembly of brahmin householders. It is said that the brahmins were at first hostile to the Buddha, but that he won them over. SN.i.184
 
@@ -7110,36 +9357,48 @@ A township in the Sākyan country. The Buddha once stayed there and preached to 
 ``` toml
 dict_label = "DPPN"
 word = "khomadussakā"
-summary = "Khomadussakā An inhabitant of Khomadussa. SN.i.184"
+summary = "An inhabitant of Khomadussa. SN.i.184"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khomadussakā
 
 An inhabitant of Khomadussa. SN.i.184
 
 ``` toml
 dict_label = "DPPN"
 word = "khujjasobhita"
-summary = "Khujjasobhita A monk whose Theragāthā verses speak"
+summary = "A monk whose Theragāthā verses speak of learned as"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khujjasobhita
 
 A monk whose Theragāthā verses speak of learned ascetics of Pāṭaliputta. Thag.234–236 He was evidently one of the Pācīnaka ('Eastern”) monks who proclaimed the ten indulgences at Vesāli. He was one of their representatives on the Committee of the Saṅgha appointed to settle the dispute between the monks of Vesāli and the orthodox monks. Vin.ii.305
 
 ``` toml
 dict_label = "DPPN"
 word = "khujjuttarā"
-summary = "Khujjuttarā The Buddha declared her foremost among"
+summary = "The Buddha declared her foremost among lay women b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khujjuttarā
 
 The Buddha declared her foremost among lay women by reason of her extensive knowledge. A.i.26
 
@@ -7148,12 +9407,16 @@ Khujjuttarā is several times mentioned as the paragon among lay\-women disciple
 ``` toml
 dict_label = "DPPN"
 word = "khārodakā"
-summary = "Khārodakā A river in Avīci, flowing alongside the"
+summary = "A river in Avīci, flowing alongside the Asipattava"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Khārodakā
 
 A river in Avīci, flowing alongside the Asipattavana. MN.iii.185
 
@@ -7164,10 +9427,14 @@ dict_label = "DPPN"
 word = "khāṇumata"
 summary = "A brahmin village of Māgadha, presented to Kūṭadan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-khāṇumata
 
 A brahmin village of Māgadha, presented to Kūṭadanta by Bimbisāra. The Buddha once stayed there at the Ambalaṭṭhikā pleasance, and there he preached the Kūṭadanta Sutta. DN.i.127
 
@@ -7176,12 +9443,16 @@ Māgadha3town
 ``` toml
 dict_label = "DPPN"
 word = "kikī"
-summary = "Kikī King of Benares at the time of the Buddha Kas"
+summary = "King of Benares at the time of the Buddha Kassapa."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kikī
 
 King of Benares at the time of the Buddha Kassapa. When the Buddha arrived in Benares, the king, having listened to his sermon, entertained the Buddha and his monks at the palace. When the Buddha was asked to spend the rainy season there he refused, as he had already accepted the invitation of Ghaṭīkāra of Vehaliṅga. Kikī was at first hurt by the refusal, but when the Buddha described Ghaṭīkāra’s virtues, the king was pleased and sent five hundred cartloads of provisions to Ghaṭīkāra who, however, curtly refused the gift. DN.ii.7 MN.ii.49*ff.*
 
@@ -7190,7 +9461,13 @@ dict_label = "DPPN"
 word = "kimbila"
 summary = "KimbilaKimilaKimmila A Sākiyan of Kapilavatthu. He"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KimbilaKimilaKimmila
@@ -7206,7 +9483,13 @@ dict_label = "DPPN"
 word = "kimilā"
 summary = "KimilāKimbilā A town on the banks of the Ganges. I"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KimilāKimbilā
@@ -7218,24 +9501,32 @@ Ayojjhā3park
 ``` toml
 dict_label = "DPPN"
 word = "kinnughaṇḍu"
-summary = "Kinnughaṇḍu One of the great Yakkhas, mentioned in"
+summary = "One of the great Yakkhas, mentioned in the Āṭānāṭi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kinnughaṇḍu
 
 One of the great Yakkhas, mentioned in the Āṭānāṭiya Sutta, to be invoked when disciples of the Buddha are worried by evil spirits. DN.iii.204 He is one of the vassals of the Four Regent Gods. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "kirapatika"
-summary = "Kirapatika A household of Vesalī, a pious follower"
+summary = "A household of Vesalī, a pious follower of the Bud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kirapatika
 
 A household of Vesalī, a pious follower of the Buddha. Once when the Buddha was staying in Vesalī, a poor man, wishing to give alms to him and to the monks, asked Kirapatika for money to provide the alms; Kirapatika gladly gave him much money and the Buddha and the monks were invited. But the monks, having heard of the man’s poverty, had a full meal earlier, so that when the man served them with the food he had prepared they could eat but very little. The man was greatly offended and the Buddha, hearing of it, made an order to the monks prohibiting such conduct. Vin.iv.75*f.*
 
@@ -7244,7 +9535,13 @@ dict_label = "DPPN"
 word = "kisasaṅkicca"
 summary = "KisasaṅkiccaKisaSaṅkicca A naked ascetic, contempo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KisasaṅkiccaKisaSaṅkicca
@@ -7258,7 +9555,13 @@ dict_label = "DPPN"
 word = "kisāgotamī "
 summary = "Kisāgotamī A nun who was declared chief among wome"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kisāgotamī
@@ -7272,12 +9575,16 @@ The Saṃyutta Nikāya SN.i.129*f.* records a visit paid to her by Māra as she 
 ``` toml
 dict_label = "DPPN"
 word = "kokanada"
-summary = "Kokanada The palace of Bodhirājakumāra, to which h"
+summary = "The palace of Bodhirājakumāra, to which he invited"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kokanada
 
 The palace of Bodhirājakumāra, to which he invited the Buddha and the monks to a meal when the Buddha was staying at Bhesakalāvana; the palace was just completed. Vin.ii.127 Vin.iv.199 MN.ii.91
 
@@ -7286,12 +9593,16 @@ Bhesakalāvana3building
 ``` toml
 dict_label = "DPPN"
 word = "kokanadā"
-summary = "Kokanadā Two daughters of Pajjunna, both called Ko"
+summary = "Two daughters of Pajjunna, both called Kokanadā, t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kokanadā
 
 Two daughters of Pajjunna, both called Kokanadā, though the younger was sometimes called Cūḷa\-Kokanadā. They visited the Buddha at the Kūṭāgārasālā and spoke verses in praise of the Buddha, the Dhamma and the Saṅgha. SN.i.29*f.*
 
@@ -7300,7 +9611,13 @@ dict_label = "DPPN"
 word = "kokanuda"
 summary = "KokanudaKokanada A Paribbājaka. He meets Ānanda on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KokanudaKokanada
@@ -7312,7 +9629,13 @@ dict_label = "DPPN"
 word = "kokālika"
 summary = "KokālikaKokāliya A monk, one of the chief partisan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KokālikaKokāliya
@@ -7322,24 +9645,32 @@ A monk, one of the chief partisans of Devadatta. Knowing the Buddha’s might, h
 ``` toml
 dict_label = "DPPN"
 word = "koliyaputta"
-summary = "Koliyaputta An epithet of Kakudha, Moggallāna’s at"
+summary = "An epithet of Kakudha, Moggallāna’s attendant. Vin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Koliyaputta
 
 An epithet of Kakudha, Moggallāna’s attendant. Vinii.185
 
 ``` toml
 dict_label = "DPPN"
 word = "komudi"
-summary = "Komudi The full-moon day of the fourth month, Katt"
+summary = "The full-moon day of the fourth month, Kattika, us"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Komudi
 
 The full\-moon day of the fourth month, Kattika, usually found in the phrase Komudi Cātumāsini. Vin.i.155 Vin.i.176*f.* DN.i.47 MN.iii.79 MN.iii.80
 
@@ -7348,7 +9679,13 @@ dict_label = "DPPN"
 word = "korabya"
 summary = "KorabyaKoravyaKorabba Perhaps the generic name giv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KorabyaKoravyaKorabba
@@ -7360,7 +9697,13 @@ dict_label = "DPPN"
 word = "korakkhatta"
 summary = "KorakkhattaKorakkhattiya A naked ascetic in Uttara"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KorakkhattaKorakkhattiya
@@ -7370,12 +9713,16 @@ A naked ascetic in Uttarakā. He bellowed like a dog, walked on all fours, and l
 ``` toml
 dict_label = "DPPN"
 word = "koratiya"
-summary = "Koratiya One of the greater Yakkhas who should be"
+summary = "One of the greater Yakkhas who should be invoked b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Koratiya
 
 One of the greater Yakkhas who should be invoked by a follower of the Buddha when assailed by evil spirits. DN.iii.204
 
@@ -7384,7 +9731,13 @@ dict_label = "DPPN"
 word = "kosala"
 summary = "Kosala1 A country inhabited by the Kosalans, to th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kosala<sup>1</sup>
@@ -7408,12 +9761,16 @@ A Pacceka Buddha, mentioned in a list of names. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "kosalakā"
-summary = "Kosalakā The inhabitants of Kosala. DN.i.150"
+summary = "The inhabitants of Kosala. DN.i.150"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kosalakā
 
 The inhabitants of Kosala. DN.i.150
 
@@ -7422,7 +9779,13 @@ dict_label = "DPPN"
 word = "kosalavihārī"
 summary = "KosalavihārīKosallavihārī A monk whose Theragāthā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KosalavihārīKosallavihārī
@@ -7432,24 +9795,32 @@ A monk whose Theragāthā verses say that he went forth in faith and dwells dili
 ``` toml
 dict_label = "DPPN"
 word = "kosambakā"
-summary = "Kosambakā The monks of Kosambī, who brought about"
+summary = "The monks of Kosambī, who brought about schism in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kosambakā
 
 The monks of Kosambī, who brought about schism in the Order.
 
 ``` toml
 dict_label = "DPPN"
 word = "kosambī"
-summary = "Kosambī The capital of the Vatsas or Vaṃsas. In th"
+summary = "The capital of the Vatsas or Vaṃsas. In the time o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kosambī
 
 The capital of the Vatsas or Vaṃsas. In the time of the Buddha its king was Parantapa, and after him reigned his son Udena. Kosambī was evidently a city of great importance at the time of the Buddha for we find Ānanda mentioning it as one of the places suitable for the Buddha’s Parinibbāna.DN.ii.146 DN.ii.169 It was also the most important halt for traffic coming to Kosala and Māgadha from the south and the west. Vin.i.277
 
@@ -7472,12 +9843,16 @@ Kosambī is mentioned in the Saṃyutta Nikāya SN.iv.179 as being on the Ganges
 ``` toml
 dict_label = "DPPN"
 word = "kosinārakā"
-summary = "Kosinārakā Inhabitants of Kusinārā. Vin.i.247"
+summary = "Inhabitants of Kusinārā. Vin.i.247"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kosinārakā
 
 Inhabitants of Kusinārā. Vin.i.247
 
@@ -7486,7 +9861,13 @@ dict_label = "DPPN"
 word = "kosiya"
 summary = "Kosiya1Kosiyagotta The name of a brahmin clan. In"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kosiya<sup>1</sup>Kosiyagotta
@@ -7502,12 +9883,16 @@ A monk whose Theragāthā verses emphasize the importance of listening to a teac
 ``` toml
 dict_label = "DPPN"
 word = "koḷiyā"
-summary = "Koḷiyā One of the republican clans in the time of"
+summary = "One of the republican clans in the time of the Bud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Koḷiyā
 
 One of the republican clans in the time of the Buddha. The Koḷiyā owned two chief settlements—one at Rāmagāma and the other at Devadaha.
 
@@ -7524,7 +9909,13 @@ dict_label = "DPPN"
 word = "koṇāgamana"
 summary = "KoṇāgamanaKonāgamanaKanakamuniKanakāgamanaKaṇakāga"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KoṇāgamanaKonāgamanaKanakamuniKanakāgamanaKaṇakāgamana
@@ -7536,24 +9927,32 @@ In Koṇāgamana’s time Mount Vepulla was known as Vaṅkaka, and the people l
 ``` toml
 dict_label = "DPPN"
 word = "koṇḍañña"
-summary = "Koṇḍañña The name of a clan (gotta). It was eviden"
+summary = "The name of a clan (gotta). It was evidently commo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Koṇḍañña
 
 The name of a clan (*gotta*). It was evidently common to both brahmans and *khattiya*s, for we find the brahman Aññāta\-Koṇḍañña belonging to it, as well as the three Buddhas Vipassī, Sikhī and Vessabhū, all *khattiya*s. DN.ii.3*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "koṭigāma"
-summary = "Koṭigāma A village in the vicinity of Bhaddiyanaga"
+summary = "A village in the vicinity of Bhaddiyanagara. Durin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Koṭigāma
 
 A village in the vicinity of Bhaddiyanagara. During his last tour the Buddha crossed the river at Pāṭaligāma, went on to Koṭigāma, and remained in that village preaching to the monks. Hearing that the Buddha was there, Ambapāli and hosts of Licchavis came from Vesāli to visit him, and Ambapāli gave him a meal. From Koṭigāma the Buddha went to Nādikā. Vin.i.230*f.* DN.ii.90*f.*
 
@@ -7566,7 +9965,13 @@ dict_label = "DPPN"
 word = "kuddāla"
 summary = "KuddālaKuddālaka He is mentioned in a list of six"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KuddālaKuddālaka
@@ -7576,12 +9981,16 @@ He is mentioned in a list of six famous teachers of the past, who were well know
 ``` toml
 dict_label = "DPPN"
 word = "kukkuṭārāma"
-summary = "Kukkuṭārāma A park in Pāṭaliputta. It was evidentl"
+summary = "A park in Pāṭaliputta. It was evidently the reside"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kukkuṭārāma
 
 A park in Pāṭaliputta. It was evidently the residence of monks from very early times, probably, for some time, of the Buddha himself. The Mahāvagga Vin.i.300 mentions the names of several theras who lived there: Nilavāsi, Sānavāsi, Gopaka, Bhagu, Phalikasandana. The Saṃyutta Nikāya SN.v.15*f.* SN.v.171*f.* records several discussions which took place there between Ānanda and Bhadda. It may have been a favourite resort of Ānanda, for we find the householder Dasama of Aṭṭhakanāgara going there to enquire as to his whereabouts.AN.v.342 MN.i.349 At a later date it was the residence of Nārada who converted King Muṇḍa. AN.iii.57*f.*
 
@@ -7590,60 +9999,80 @@ A park in Pāṭaliputta. It was evidently the residence of monks from very earl
 ``` toml
 dict_label = "DPPN"
 word = "kulavaddhaka"
-summary = "Kulavaddhaka Given as a name used ironically to in"
+summary = "Given as a name used ironically to insult another."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kulavaddhaka
 
 Given as a name used ironically to insult another. Vin.iv.8
 
 ``` toml
 dict_label = "DPPN"
 word = "kulla"
-summary = "Kulla The Theragāthā verses Thag.393–398 ascribed"
+summary = "The Theragāthā verses Thag.393–398 ascribed to him"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kulla
 
 The Theragāthā verses Thag.393–398 ascribed to him speak of the contemplation of the foulness of the body.
 
 ``` toml
 dict_label = "DPPN"
 word = "kumbhaṇḍa"
-summary = "Kumbhaṇḍa A class of spirits mentioned with Yakkha"
+summary = "A class of spirits mentioned with Yakkhas, Asuras"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kumbhaṇḍa
 
 A class of spirits mentioned with Yakkhas, Asuras and Nāgas. They live in the South and Virūḷha is their king. DN.ii.257 DN.iii.198
 
 ``` toml
 dict_label = "DPPN"
 word = "kumbhīra"
-summary = "Kumbhīra A Yakkha who lived in the Vepulla mountai"
+summary = "A Yakkha who lived in the Vepulla mountain outside"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kumbhīra
 
 A Yakkha who lived in the Vepulla mountain outside Rājagaha. He was present at the preaching of the Mahāsamaya Sutta with a train of over one hundred thousand. DN.ii.257
 
 ``` toml
 dict_label = "DPPN"
 word = "kumuda"
-summary = "Kumuda A hell, or a period of suffering. It is equ"
+summary = "A hell, or a period of suffering. It is equal to t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kumuda
 
 A hell, or a period of suffering. It is equal to twelve Padumas. The Kokālika monk was born in Kumuda hell.SN.i.152*f.* Snp.p.126
 
@@ -7654,7 +10083,13 @@ dict_label = "DPPN"
 word = "kumārakassapa "
 summary = "Kumārakassapa He was foremost among those who had"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kumārakassapa
@@ -7668,12 +10103,16 @@ Kassapa’s upasampadā took place in his twentieth year. A doubt arose as to wh
 ``` toml
 dict_label = "DPPN"
 word = "kuru"
-summary = "Kuru A country, one of the sixteen Great Nations.D"
+summary = "A country, one of the sixteen Great Nations.DN.ii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kuru
 
 A country, one of the sixteen Great Nations.DN.ii.200 AN.i.213 During the Buddha’s time the chieftain of Kuru was called Koravya, and his discussion with the Elder Raṭṭhapāla, who was himself the scion of a noble family of the Kurus, is recounted in the Raṭṭhapāla Sutta.MN.ii.65*ff.* Koravya had a park called Migacīra. Discourses to the Kurus include the Mahānidāna Sutta, the Mahāsatipaṭṭhāna Sutta, the Māgaṇḍiya Sutta, the Anañjasappāya Sutta, the Sammosa Sutta and the Ariyavasā Sutta. All these were preached at Kammāssadhamma, which is described as a nigama of the Kurūs, where the Buddha resided from time to time. Another town of the Kurūs, which we find mentioned, is Thullakoṭṭhika, the birthplace of Raṭṭhapāla, and here the Buddha stayed during a tour. MN.ii.54
 
@@ -7684,12 +10123,16 @@ The Kuru country is generally identified as the district around Thānesar, with 
 ``` toml
 dict_label = "DPPN"
 word = "kusinārā"
-summary = "Kusinārā The capital of the Mallas and the scene o"
+summary = "The capital of the Mallas and the scene of the Bud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kusinārā
 
 The capital of the Mallas and the scene of the Buddha’s death. At that time it was a small city, “a branch\-township with wattle\-and\-daub houses in the midst of the jungle,” and Ānanda was, at first, disappointed that the Buddha should have chosen it for his Parinibbāna. But the Buddha pointed out to him that in ancient times it had been Kusāvatī, the royal city of Mahā\-Sudassana. DN.ii.146*ff.* It was twelve leagues in length and twelve in breadth, prosperous and full of people, like Āḷakamandā. It was then at the head of eighty\-four Towns. SN.iii.144. DN.ii.170*f.*
 
@@ -7706,12 +10149,16 @@ The people of Kusinārā are called Kosinārakā. DN.ii.167
 ``` toml
 dict_label = "DPPN"
 word = "kusināṭā"
-summary = "Kusināṭā One of the cities of Uttarakuru. DN.iii.2"
+summary = "One of the cities of Uttarakuru. DN.iii.200 town"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kusināṭā
 
 One of the cities of Uttarakuru. DN.iii.200
 
@@ -7722,7 +10169,13 @@ dict_label = "DPPN"
 word = "kuvera"
 summary = "KuveraKubera King of Uttarakuru. His royal residen"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KuveraKubera
@@ -7732,24 +10185,32 @@ King of Uttarakuru. His royal residence is Āḷakamandā and his citadel Visā�
 ``` toml
 dict_label = "DPPN"
 word = "kuveranālinī"
-summary = "Kuveranālinī A name given to Dharaṇī. DN.iii.202"
+summary = "A name given to Dharaṇī. DN.iii.202"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kuveranālinī
 
 A name given to Dharaṇī. DN.iii.202
 
 ``` toml
 dict_label = "DPPN"
 word = "kuṇālā"
-summary = "Kuṇālā The name of a river which flows out of the"
+summary = "The name of a river which flows out of the Kuṇālad"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kuṇālā
 
 The name of a river which flows out of the Kuṇāladaha. It dries up when, at the end of the aeon, the fourth sun rises.AN.iv.101
 
@@ -7760,7 +10221,13 @@ dict_label = "DPPN"
 word = "kuṇḍadhāna"
 summary = "KuṇḍadhānaKoṇḍadhānaKoṇṭhadhānaKuḍḍadhāna A monk w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KuṇḍadhānaKoṇḍadhānaKoṇṭhadhānaKuḍḍadhāna
@@ -7774,7 +10241,13 @@ dict_label = "DPPN"
 word = "kuṇḍadhānavana"
 summary = "KuṇḍadhānavanaKuṇḍiṭṭhānaKuṇḍikāKuṇḍiyāKuṇhāna It"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KuṇḍadhānavanaKuṇḍiṭṭhānaKuṇḍikāKuṇḍiyāKuṇhāna
@@ -7788,7 +10261,13 @@ dict_label = "DPPN"
 word = "kuṇḍala"
 summary = "KuṇḍalaKulakuṇḍalaKuḷakuṇḍalaKulaKuḷa The verse at"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KuṇḍalaKulakuṇḍalaKuḷakuṇḍalaKulaKuḷa
@@ -7798,12 +10277,16 @@ The verse attributed to Kundala in the Theragāthā Thag.19 occurs twice in the 
 ``` toml
 dict_label = "DPPN"
 word = "kuṇḍaliya"
-summary = "Kuṇḍaliya A Paribbājaka who visits the Buddha at t"
+summary = "A Paribbājaka who visits the Buddha at the Añjanav"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kuṇḍaliya
 
 A Paribbājaka who visits the Buddha at the Añjanavana in Sāketa. He asks the Buddha what profit comes from the Buddha’s way of living.
 
@@ -7812,12 +10295,16 @@ The conversation leads to a discussion of the bojjhangas, the satipaṭṭhāna,
 ``` toml
 dict_label = "DPPN"
 word = "kuṭeṇḍu"
-summary = "Kuṭeṇḍu A vassal of the Cātummahārājikas, present"
+summary = "A vassal of the Cātummahārājikas, present at the p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kuṭeṇḍu
 
 A vassal of the Cātummahārājikas, present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
@@ -7826,7 +10313,13 @@ dict_label = "DPPN"
 word = "kuṭivihārī"
 summary = "Kuṭivihārī1 The monk was so called because he obta"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kuṭivihārī<sup>1</sup>
@@ -7840,12 +10333,16 @@ A monk whose Theragāthā verse is an encouragement to be content with his old h
 ``` toml
 dict_label = "DPPN"
 word = "kāka"
-summary = "Kāka Slave of King Caṇḍapajjota. His father was no"
+summary = "Slave of King Caṇḍapajjota. His father was non-hum"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāka
 
 Slave of King Caṇḍapajjota. His father was non\-human, and he himself could travel sixty leagues a day. When Pajjota discovered that Jīvaka had fled, after administering to him some medicine containing ghee, he sent Kāka to overtake Jīvaka and bring him back, giving Kāka strict injunctions not to eat anything offered by Jīvaka.
 
@@ -7854,36 +10351,48 @@ Kāka came upon the physician at Kosambī having his breakfast. Jīvaka invited 
 ``` toml
 dict_label = "DPPN"
 word = "kāla"
-summary = "Kāla A Pacceka Buddha, mentioned in a list of Pacc"
+summary = "A Pacceka Buddha, mentioned in a list of Pacceka B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāla
 
 A Pacceka Buddha, mentioned in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "kālakañjakā"
-summary = "Kālakañjakā A class of Asuras. They were present a"
+summary = "A class of Asuras. They were present at the Mahāsa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kālakañjakā
 
 A class of Asuras. They were present at the Mahāsamaya, and are spoken of as being of a fearsome shape. DN.ii.259 They are the very lowest of the Asura groups, and the Buddha warns Sunakkhatta that Korakkhattiya will, after his death from epilepsy, be born among them; and it did so happen. DN.iii.7*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "kālakhemaka"
-summary = "Kālakhemaka A Sākyan. His name was Khemaka, but as"
+summary = "A Sākyan. His name was Khemaka, but as he was dark"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kālakhemaka
 
 A Sākyan. His name was Khemaka, but as he was dark he was called Kālakhemaka. He built a monastery in Nigrodhārāma, near Kapilavatthu, and once, during robe\-making time, many monks lived there. On this occasion the Buddha preached the Mahā\-Suññatā Sutta. MN.iii.109
 
@@ -7892,7 +10401,13 @@ dict_label = "DPPN"
 word = "kāliṅga"
 summary = "Kāliṅga1 An inhabitant of Ñātika. While staying in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kāliṅga<sup>1</sup>
@@ -7912,7 +10427,13 @@ dict_label = "DPPN"
 word = "kālāma"
 summary = "Kālāma1 The name of a family. Mention is made of a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kālāma<sup>1</sup>
@@ -7922,36 +10443,48 @@ The name of a family. Mention is made of a town belonging to them in Kosala, whi
 ``` toml
 dict_label = "DPPN"
 word = "kāmabhū"
-summary = "Kāmabhū A monk, evidently held in high esteem by h"
+summary = "A monk, evidently held in high esteem by his colle"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāmabhū
 
 A monk, evidently held in high esteem by his colleagues. He is mentioned as staying in Kosambī, in Ghosita Park, and as asking Ānanda certain questions, recorded in the Kāmabhū Sutta. SN.iv.165 Two other suttas bearing the same name record visits paid to Kāmabhū by Cittagahapati at Ambāṭakavana in Macchikāsaṇḍa. SN.iv.291 SN.iv.293
 
 ``` toml
 dict_label = "DPPN"
 word = "kāmada"
-summary = "Kāmada A devaputta who visited the Buddha and told"
+summary = "A devaputta who visited the Buddha and told him th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāmada
 
 A *devaputta* who visited the Buddha and told him that the path of the Ariyan disciples was hard to follow and their goal hard to win. The Buddha pointed out to him that the difficult thing had been and was being accomplished. SN.i.48
 
 ``` toml
 dict_label = "DPPN"
 word = "kāmaseṭṭha"
-summary = "Kāmaseṭṭha One of the greater yakkhas who should b"
+summary = "One of the greater yakkhas who should be invoked i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāmaseṭṭha
 
 One of the greater *yakkhas* who should be invoked if any follower of the Buddha be molested by an evil spirit. DN.iii.204
 
@@ -7962,7 +10495,13 @@ dict_label = "DPPN"
 word = "kāmaṇḍā"
 summary = "KāmaṇḍāKāmandā A village in which was the mango gr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KāmaṇḍāKāmandā
@@ -7976,7 +10515,13 @@ dict_label = "DPPN"
 word = "kāpathika"
 summary = "KāpathikaKāpaṭika A young brahmin, sixteen years o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KāpathikaKāpaṭika
@@ -7988,7 +10533,13 @@ dict_label = "DPPN"
 word = "kārambhī"
 summary = "Kāranvī A wood in which the Elder Cittaka sojourne"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 kārambhīKāranvī
@@ -8002,7 +10553,13 @@ dict_label = "DPPN"
 word = "kāsi"
 summary = "KāsiKāsikaKāsigāmaKāsinigama One of the sixteen Gr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 KāsiKāsikaKāsigāmaKāsinigama
@@ -8022,12 +10579,16 @@ Besides those already referred to, other names of places mentioned in literature
 ``` toml
 dict_label = "DPPN"
 word = "kātiyāna"
-summary = "Kātiyāna A monk to whom several Theragāthā verses"
+summary = "A monk to whom several Theragāthā verses on the ne"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kātiyāna
 
 A monk to whom several Theragāthā verses on the need for energetic striving were addressed. Thag.411–416
 
@@ -8036,7 +10597,13 @@ dict_label = "DPPN"
 word = "kātiyānī "
 summary = "Kātiyānī A lay devotee, declared by the Buddha to"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kātiyānī
@@ -8046,12 +10613,16 @@ A lay devotee, declared by the Buddha to be most eminent among women for unwaver
 ``` toml
 dict_label = "DPPN"
 word = "kāḷasilā"
-summary = "Kāḷasilā The black rock by the side of Isigili. It"
+summary = "The black rock by the side of Isigili. It was ther"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāḷasilā
 
 The black rock by the side of Isigili.
 
@@ -8068,12 +10639,16 @@ In the Cūḷadukkhakkhandha Sutta, MN.i.92 it is said that Kāḷasilā was als
 ``` toml
 dict_label = "DPPN"
 word = "kāḷudāyī"
-summary = "Kāḷudāyī A monk whose verses in the Theragāthā tel"
+summary = "A monk whose verses in the Theragāthā tell depict"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kāḷudāyī
 
 A monk whose verses in the Theragāthā tell depict him encouraging the Buddha to return to his kinsmen. When the rains fell, covering the earth with the glory of leaves and flowers, Kāḷudāyī felt that it was time for the Buddha to visit his kinsmen, and gave him their invitation, singing the season’s beauties in a series of verses. He was declared pre\-eminent among those who gladdened the clans AN.i.25 Thag.527–536
 
@@ -8084,7 +10659,13 @@ dict_label = "DPPN"
 word = "kāḷī"
 summary = "Kāḷī1Kururagharikā Described among laywomen as the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Kāḷī<sup>1</sup>Kururagharikā
@@ -8106,12 +10687,16 @@ A crematrix of Sāvatthī. Seeing Mahākāla meditating in the cemetery, she cut
 ``` toml
 dict_label = "DPPN"
 word = "kīṭāgiri"
-summary = "Kīṭāgiri A village of the Kāsis, on the road from"
+summary = "A village of the Kāsis, on the road from Kāsi to S"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kīṭāgiri
 
 A village of the Kāsis, on the road from Kāsi to Sāvatthī. It was the headquarters of the followers of Assaji and Punabbasu, who lived there, behaving in a shameless and wicked manner. A certain monk, on his way to Jetavana, passed through the place and was asked by a pious layman to complain to the Buddha of their ill\-behaviour. On hearing of it, the Buddha sent Sāriputta and Moggallāna to proclaim on them an act of banishment. Vin.ii.9*f.* Vin.iii.179*f.* Some time after, when the Buddha visited the place with a large company of monks, including Sāriputta and Moggallāna, the Assajipunabbasukā, were asked to provide lodgings for the visitors. They agreed to do so for the Buddha, but would have nothing to do with Sāriputta and Moggallāna. Vin.ii.171
 
@@ -8120,24 +10705,32 @@ A village of the Kāsis, on the road from Kāsi to Sāvatthī. It was the headqu
 ``` toml
 dict_label = "DPPN"
 word = "kūṭadanta"
-summary = "Kūṭadanta A very learned brahmin of Khāṇumata, whi"
+summary = "A very learned brahmin of Khāṇumata, which village"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kūṭadanta
 
 A very learned brahmin of Khāṇumata, which village had been given to him by King Bimbisāra as a brahmadeyya. The Buddha arrived at Khāṇumata when Kūṭadanta was making preparations for a great sacrifice and, wishing this sacrifice to be successful, he consulted the Buddha on the holding of sacrifices. The Buddha preached to him the Kūṭadanta Sutta. At the end of the discourse he became a Sotāpanna. DN.i.127*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "kūṭāgārasālā"
-summary = "Kūṭāgārasālā A hall in the Mahāvana near Vesāli. T"
+summary = "A hall in the Mahāvana near Vesāli. The Buddha sta"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Kūṭāgārasālā
 
 A hall in the Mahāvana near Vesāli. The Buddha stayed there on several occasions, and in the books are found records of various eminent persons who visited him there and of his conversations with them. Among such visitors are mentioned several Licchavi chiefs, Mahāli Otthatthaddha, DN.i.150*ff.* SN.i.230*f.* SN.iii.68*f.* AN.v.86*f.* Nandaka, SN.v.389 Sunakkhatta, MN.ii.252 Bhaddiya, AN.ii.190*f.* Sāḷha and Abhaya, AN.ii.200 all attended by numerous retinues; their senāpati, Sīha, who went with five hundred chariots, having only decided after much hesitation to see the Buddha; AN.iii.38*f.* AN.iv.79 AN.iv.179*ff.* the Jaina Saccaka, whom the Buddha won only after much argumentation, as described in the Cūḷa\- and the Mahā\-Saccaka Suttas; MN.i.227*ff.* MN.i.237*ff.* the householder Ugga of Vesāli, acclaimed by the Buddha for the possession of eight eminent qualities; AN.iii.49 AN.iv.208*f.* SN.iv.109 the *upāsaka* Vāseṭṭha; AN.iv.258*f.* the two goddesses, daughters of Pajjunna, both known as Kokanadā; SN.i.29*f.* and the brahmin Piṅgiyāni. AN.iii.237*f.*
 
@@ -8156,12 +10749,16 @@ The books also contain the names of others who stayed at the Kūṭāgārasālā
 ``` toml
 dict_label = "DPPN"
 word = "lakkhaṇa"
-summary = "Lakkhaṇa Mentioned as having stayed with Mahā Mogg"
+summary = "Mentioned as having stayed with Mahā Moggallāna on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lakkhaṇa
 
 Mentioned as having stayed with Mahā Moggallāna on Gijjhakūṭa. Once, when they were going down to Rājagaha for alms, Lakkhaṇa noticed that at a certain spot Moggallāna smiled; on asking him why, he was told to wait till they saw the Buddha. When the question was repeated in the Buddha’s presence, Moggallāna said that he had smiled on seeing various Petas with gruesome forms flying through the air. From the text it would appear that these visions were seen again on several occasions. SN.ii.254 Vin.iii.104*ff.*
 
@@ -8172,7 +10769,13 @@ dict_label = "DPPN"
 word = "lakkhī"
 summary = "LakkhīLacchī Normally Lakkhī is the Pali equivalen"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 LakkhīLacchī
@@ -8184,7 +10787,13 @@ dict_label = "DPPN"
 word = "lakuṇṭaka"
 summary = "LakuṇṭakaBhaddiya He was given the title of Lakunt"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 LakuṇṭakaBhaddiya
@@ -8200,12 +10809,16 @@ Several stanzas uttered by Bhaddiya in the Ambāṭakavana, as he sat there enjo
 ``` toml
 dict_label = "DPPN"
 word = "lambītakā"
-summary = "Lambītakā A class of devas present at the preachin"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lambītakā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
@@ -8214,7 +10827,13 @@ dict_label = "DPPN"
 word = "laṭṭhivana"
 summary = "LaṭṭhivanaLatthivanaLatthivanuyyāna A grove to the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 LaṭṭhivanaLatthivanaLatthivanuyyāna
@@ -8226,12 +10845,16 @@ southwest of Rājagaha3park
 ``` toml
 dict_label = "DPPN"
 word = "licchavī"
-summary = "Licchavī A powerful tribe of India in the time of"
+summary = "A powerful tribe of India in the time of the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Licchavī
 
 A powerful tribe of India in the time of the Buddha. They were certainly *khattiyas*, for on that ground they claimed a share of the Buddha’s relics. DN.ii.165
 
@@ -8258,7 +10881,13 @@ dict_label = "DPPN"
 word = "lohicca"
 summary = "Lohicca1 A brahmin of Makkarakata in Avanti. Once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Lohicca<sup>1</sup>
@@ -8272,48 +10901,64 @@ A brahmin of Sālāvatikā. He once conceived the idea that a samaṇa or reclus
 ``` toml
 dict_label = "DPPN"
 word = "lohitavāsī"
-summary = "Lohitavāsī A class of devas present at the preachi"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lohitavāsī
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "lokāyata"
-summary = "Lokāyata Name of a branch of brahmin learning. DN."
+summary = "Name of a branch of brahmin learning. DN.i.11 The"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lokāyata
 
 Name of a branch of brahmin learning. DN.i.11 The name either refers to cosmology, or to worldly philosophy.
 
 ``` toml
 dict_label = "DPPN"
 word = "lomahaṃsa"
-summary = "Lomahaṃsa A Pacceka Buddha, mentioned in a nominal"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lomahaṃsa
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "lomasakaṅgiya"
-summary = "Lomasakaṅgiya A monk whose Theragāthā verse says t"
+summary = "A monk whose Theragāthā verse says that, thrusting"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lomasakaṅgiya
 
 A monk whose Theragāthā verse says that, thrusting aside grasses with his chest, he will seek seclusion. Thag.27
 
@@ -8322,12 +10967,16 @@ According to the Lomasakaṅgiya Bhaddekaratta Sutta, MN.iii.199*f.* Candana vis
 ``` toml
 dict_label = "DPPN"
 word = "lomasavaṅgīsa"
-summary = "Lomasavaṅgīsa The Saṃyutta Nikāya mentions an inte"
+summary = "The Saṃyutta Nikāya mentions an interview between"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lomasavaṅgīsa
 
 The Saṃyutta Nikāya mentions an interview between an Elder of this name and the Sākyan Mahānāma. Mahānāma asks the Elder if the learner’s way of life is identical with that of the Tathāgata. Vaṅgīsa answers that it is not so; learners only abandon the five hindrances; arahants have completely destroyed them from the root. The interview took place in the Nigrodhārāma at Kapilavatthu.
 
@@ -8338,7 +10987,13 @@ dict_label = "DPPN"
 word = "lumbineyya"
 summary = "LumbineyyaLumbinī A park situated between Kapilava"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 LumbineyyaLumbinī
@@ -8350,24 +11005,32 @@ A park situated between Kapilavatthu and Devadaha. It was there that the Buddha 
 ``` toml
 dict_label = "DPPN"
 word = "lāmaseṭṭhā"
-summary = "Lāmaseṭṭhā A class of devas present at the preachi"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Lāmaseṭṭhā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
 dict_label = "DPPN"
 word = "macchikāsaṇḍa"
-summary = "Macchikāsaṇḍa A township in Kāsī, the residence, a"
+summary = "A township in Kāsī, the residence, among others, o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Macchikāsaṇḍa
 
 A township in Kāsī, the residence, among others, of Citta\-Gahapati. SN.iv.281
 
@@ -8384,24 +11047,32 @@ Kāsī3town
 ``` toml
 dict_label = "DPPN"
 word = "macchikāsaṇḍika"
-summary = "Macchikāsaṇḍika An epithet of Cittagahapati, becau"
+summary = "An epithet of Cittagahapati, because he lived in M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Macchikāsaṇḍika
 
 An epithet of Cittagahapati, because he lived in Macchikāslānda. AN.i.26
 
 ``` toml
 dict_label = "DPPN"
 word = "macchā"
-summary = "Macchā A country, with its people, included in the"
+summary = "A country, with its people, included in the tradit"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Macchā
 
 A country, with its people, included in the traditional list of the sixteen Great Nations AN.i.213 AN.iv.252 AN.iv.256 AN.iv.260
 
@@ -8412,12 +11083,16 @@ The Macchā country lay to the south or south west of Indraprastha and to the so
 ``` toml
 dict_label = "DPPN"
 word = "maddakucchi"
-summary = "Maddakucchi A park near Rājagaha, at the foot of G"
+summary = "A park near Rājagaha, at the foot of Gijjhakūṭa. I"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Maddakucchi
 
 A park near Rājagaha, at the foot of Gijjhakūṭa. It was a preserve where deer and game could dwell in safety. When Devadatta, wishing to kill the Buddha, hurled a rock down Gijjhakūṭa, it was stopped midway by another rock, but a splinter from it fell on the Buddha’s foot, wounding it severely. As the Buddha suffered much from loss of blood, the monks took him on a litter to Maddakucchi, and from there to the Jīvakambavana, where he was treated by Jīvaka. Vin.ii.193*f.* It is said SN.i.27*f.* that seven hundred devas of the Satullapa group visited the Buddha there and told him of their great admiration for his qualities. Māra tried to stir up discontent in the Buddha, but had to retire discomfited. SN.i.110 DN.ii.116
 
@@ -8432,7 +11107,13 @@ dict_label = "DPPN"
 word = "maddarūpi"
 summary = "MaddarūpiKhuddarūpi Daughter of Okkāka and wife of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MaddarūpiKhuddarūpi
@@ -8444,7 +11125,13 @@ dict_label = "DPPN"
 word = "madhurā"
 summary = "MadhurāMathurā The capital of Surasena, situated o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MadhurāMathurā
@@ -8456,12 +11143,16 @@ The capital of Surasena, situated on the Yamunā. Its king, soon after the death
 ``` toml
 dict_label = "DPPN"
 word = "magadhakhetta"
-summary = "Magadhakhetta Mention is made in the books of the"
+summary = "Mention is made in the books of the Māgadhakhetta,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Magadhakhetta
 
 Mention is made in the books of the Māgadhakhetta, probably an extensive rice field which at once caught the eye on account of its terraces. The contour of the field struck the Buddha’s imagination and he asked Ānanda to design a robe of the same pattern. Ānanda did this very successfully, and this pattern has been adopted for the robes of members of the Order ever since. Vin.i.287
 
@@ -8472,7 +11163,13 @@ dict_label = "DPPN"
 word = "magha"
 summary = "MaghaMaghavā The name Sakka bore in a previous bir"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MaghaMaghavā
@@ -8486,7 +11183,13 @@ dict_label = "DPPN"
 word = "maghadevaambavana"
 summary = "MaghadevaambavanaMakhādevaambavana A mango grove i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MaghadevaambavanaMakhādevaambavana
@@ -8500,12 +11203,16 @@ This grove existed even in the time of the Buddha, and during his stay there wit
 ``` toml
 dict_label = "DPPN"
 word = "mahaka"
-summary = "Mahaka A novice, pupil of Upananda, who is mention"
+summary = "A novice, pupil of Upananda, who is mentioned as h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahaka
 
 A novice, pupil of Upananda, who is mentioned as having been guilty of a sexual offence with Kaṇḍakā, another novice. Vin.i.70
 
@@ -8514,7 +11221,13 @@ dict_label = "DPPN"
 word = "mahesā"
 summary = "MahesāMāhissati A city in the Buddha’s day, mentio"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MahesāMāhissati
@@ -8528,12 +11241,16 @@ According to the Mahāgovinda Sutta DN.ii.220.*ff.* it was the capital of Avanti
 ``` toml
 dict_label = "DPPN"
 word = "mahisavatthu"
-summary = "Mahisavatthu A place on the Saṅkheyya Mountain whe"
+summary = "A place on the Saṅkheyya Mountain where Uttara is"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahisavatthu
 
 A place on the Saṅkheyya Mountain where Uttara is said to have stayed, in Dhavajālika *vihāra*. AN.iv.162
 
@@ -8542,24 +11259,32 @@ on the Saṅkheyya Mountain in Dhavajālika *vihāra*.3monastery
 ``` toml
 dict_label = "DPPN"
 word = "mahāgavaccha"
-summary = "Mahāgavaccha A monk whose Theragāthā verse speaks"
+summary = "A monk whose Theragāthā verse speaks of practicing"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāgavaccha
 
 A monk whose Theragāthā verse speaks of practicing properly and awaiting ones’ time. Thag.12
 
 ``` toml
 dict_label = "DPPN"
 word = "mahājanapadā"
-summary = "Mahājanapadā The books mention the sixteen Mahājan"
+summary = "The books mention the sixteen Mahājanapadas or Gre"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahājanapadā
 
 The books mention the sixteen Mahājanapadas or Great Nations, which existed in the time of the Buddha. AN.i.213 AN.iv.252 AN.iv.256 AN.iv.260 They are Kāsī, Kosala, Aṅga, Māgadha, Vajji, Mallā, Cetiya, Vaṃsa, Kuru, Pañcāla, Macchā, Sūrasena, Assaka, Avantī, Gandhāra and Kamboja. The first fourteen are included in the Majjhimadesa, the two last being in Uttarāpatha.
 
@@ -8570,12 +11295,16 @@ class
 ``` toml
 dict_label = "DPPN"
 word = "mahājāli"
-summary = "Mahājāli A Pacceka Buddha mentioned in a list of n"
+summary = "A Pacceka Buddha mentioned in a list of names. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahājāli
 
 A Pacceka Buddha mentioned in a list of names. MN.iii.70
 
@@ -8584,7 +11313,13 @@ dict_label = "DPPN"
 word = "mahākaccāyana"
 summary = "MahākaccāyanaKaccāyanaMahākaccānaKaccāna One of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MahākaccāyanaKaccāyanaMahākaccānaKaccāna
@@ -8600,12 +11335,16 @@ Mention is also made of his staying at Vāraṇā on the bank of Kaddamadaha; AN
 ``` toml
 dict_label = "DPPN"
 word = "mahākappina"
-summary = "Mahākappina One of the most eminent disciples of t"
+summary = "One of the most eminent disciples of the Buddha, c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahākappina
 
 One of the most eminent disciples of the Buddha, considered foremost among those who taught the monks. AN.i.25 The Vinaya Vin.i.105 records that when Kappina was in the Deer Park at Maddakucchi he wondered whether he need attend the *uposatha* ceremonies, since he himself was pure. The Buddha appeared before him, telling him to go. He sent for him and asked him to teach the Doctrine to his associates. This Kappina did, and at the end of a single sermon one thousand listening recluses became arahants, hence the title conferred on him.
 
@@ -8620,7 +11359,13 @@ dict_label = "DPPN"
 word = "mahākassapa"
 summary = "MahākassapaKassapaPippali One of the Buddha’s most"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MahākassapaKassapaPippali
@@ -8662,7 +11407,13 @@ dict_label = "DPPN"
 word = "mahākoṭṭhita"
 summary = "MahākoṭṭhitaMahākotthitaKoṭṭhitaKotthita One of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MahākoṭṭhitaMahākotthitaKoṭṭhitaKotthita
@@ -8680,24 +11431,32 @@ Sāriputta evidently had a great regard for Koṭṭhita; the Theragāthā Thag.
 ``` toml
 dict_label = "DPPN"
 word = "mahākāla"
-summary = "Mahākāla A monk whose Theragāthā verses describe a"
+summary = "A monk whose Theragāthā verses describe a large sw"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahākāla
 
 A monk whose Theragāthā verses describe a large swarthy woman sitting surrounded by bones in the charnel ground, evidently a practitioner of asceticism. He expresses the wish to never be reborn. Thag.141–152
 
 ``` toml
 dict_label = "DPPN"
 word = "mahāli"
-summary = "Mahāli A Licchavi chief, mentioned as having visit"
+summary = "A Licchavi chief, mentioned as having visited the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāli
 
 A Licchavi chief, mentioned as having visited the Buddha at the Kūṭāgārasālā to ask if he had seen Sakka SN.i.230 and also to beg information as to the teachings of Pūraṇa Kassapa. SN.iii.68 This conversation resulted from Mahāli having heard the Sakkapañha Sutta.
 
@@ -8706,7 +11465,13 @@ dict_label = "DPPN"
 word = "mahāmoggallāna"
 summary = "MahāmoggallānaMoggallānaKolita The second of the C"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MahāmoggallānaMoggallānaKolita
@@ -8736,12 +11501,16 @@ Sāriputta dies before Moggallāna. The Theragāthā contains several verses att
 ``` toml
 dict_label = "DPPN"
 word = "mahānāga"
-summary = "Mahānāga A monk whose Theragāthā verses warn of th"
+summary = "A monk whose Theragāthā verses warn of the dangers"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahānāga
 
 A monk whose Theragāthā verses warn of the dangers that face a monk who neglects the Dhamma. Thag.387–392
 
@@ -8750,7 +11519,13 @@ dict_label = "DPPN"
 word = "mahānāma"
 summary = "Mahānāma1 A Sākiyan rājā, son of Amitodana; he was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mahānāma<sup>1</sup>
@@ -8778,7 +11553,13 @@ dict_label = "DPPN"
 word = "mahāpajāpatī "
 summary = "Mahāpajāpatī GotamīPajāpatī An eminent bhikkhunī a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mahāpajāpatī GotamīPajāpatī
@@ -8796,12 +11577,16 @@ Her Therīgāthā verses speak of offering homage to the Buddha, and how she had
 ``` toml
 dict_label = "DPPN"
 word = "mahāpanthaka"
-summary = "Mahāpanthaka The elder brother of Cūḷapanthaka. He"
+summary = "The elder brother of Cūḷapanthaka. He was declared"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāpanthaka
 
 The elder brother of Cūḷapanthaka. He was declared pre eminent among those skilled in the evolution of consciousness. (*saññāvivatta*). AN.i.24
 
@@ -8810,12 +11595,16 @@ A set of verses uttered by him in the joy of attainment is included in the Thera
 ``` toml
 dict_label = "DPPN"
 word = "mahāpurisa"
-summary = "Mahāpurisa The name given to a Great Being, destin"
+summary = "The name given to a Great Being, destined to becom"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāpurisa
 
 The name given to a Great Being, destined to become either a Cakkavatti or a Buddha. He carries on his person the following thirty two marks. DN.ii.17*f.* DN.iii.142*ff.* MN.ii.136*f.* .
 
@@ -8861,24 +11650,32 @@ Apart from these legendary beliefs, the Buddha had his own theory of the attribu
 ``` toml
 dict_label = "DPPN"
 word = "mahāpāragā"
-summary = "Mahāpāragā A class of devas present at the preachi"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāpāragā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.26
 
 ``` toml
 dict_label = "DPPN"
 word = "mahāroruva"
-summary = "Mahāroruva One of the hells. SN.i.92 5hell"
+summary = "One of the hells. SN.i.92 5hell"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāroruva
 
 One of the hells. SN.i.92
 
@@ -8887,24 +11684,32 @@ One of the hells. SN.i.92
 ``` toml
 dict_label = "DPPN"
 word = "mahāsammata"
-summary = "Mahāsammata A king who lived in the beginning of t"
+summary = "A king who lived in the beginning of this present"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāsammata
 
 A king who lived in the beginning of this present age. He was called Mahāsammata, because, on the arising of wickedness in the world, he was chosen by the people DN.iii.92*f.* to show indignation against and disapproval of those worthy of blame. In return for his services, he was given a portion of their harvest.
 
 ``` toml
 dict_label = "DPPN"
 word = "mahāsarā"
-summary = "Mahāsarā The books contain a list of seven great l"
+summary = "The books contain a list of seven great lakes, sit"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāsarā
 
 The books contain a list of seven great lakes, situated in the Himālaya. They form the sources of the five great rivers and dry up only when four suns appear in the world. These seven lakes are Anotattā, Sīhapapātā, Rathakāra, Kappamundā, Kuṇālā, Chaddantā and Mandākinī. AN.iv.101
 
@@ -8913,24 +11718,32 @@ Himalaya3class
 ``` toml
 dict_label = "DPPN"
 word = "mahāsubhaddā"
-summary = "Mahāsubhaddā Chief queen of Mahāsudassana. DN.ii.1"
+summary = "Chief queen of Mahāsudassana. DN.ii.169ff. Aii.189"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāsubhaddā
 
 Chief queen of Mahāsudassana. DN.ii.169*ff.* Aii.189 SN.iii.145
 
 ``` toml
 dict_label = "DPPN"
 word = "mahāsudassana"
-summary = "Mahāsudassana The Bodhisatta born as king of Kusāv"
+summary = "The Bodhisatta born as king of Kusāvati. DN.ii.169"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāsudassana
 
 The Bodhisatta born as king of Kusāvati. DN.ii.169*ff.*
 
@@ -8939,7 +11752,13 @@ dict_label = "DPPN"
 word = "mahāvana"
 summary = "Mahāvana1 A wood near Vesāli, in which the Kūṭāgār"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mahāvana<sup>1</sup>
@@ -8959,12 +11778,16 @@ A forest on the outskirts of Uruvelakappa, where the Buddha retired for his noon
 ``` toml
 dict_label = "DPPN"
 word = "mahāvijita"
-summary = "Mahāvijita A king of long ago, whose exemplary sac"
+summary = "A king of long ago, whose exemplary sacrifice, hel"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahāvijita
 
 A king of long ago, whose exemplary sacrifice, held under the direction of his chaplain, is narrated in the Kūṭadanta Sutta.
 
@@ -8973,7 +11796,13 @@ dict_label = "DPPN"
 word = "mahāviyūha"
 summary = "MahāviyūhaMahāviyūhassa A gabled chamber erected b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MahāviyūhaMahāviyūhassa
@@ -8985,12 +11814,16 @@ A gabled chamber erected by Mahāsudassana into which he could retire during the
 ``` toml
 dict_label = "DPPN"
 word = "mahī"
-summary = "Mahī One of the five great rivers of India, all of"
+summary = "One of the five great rivers of India, all of whic"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mahī
 
 One of the five great rivers of India, all of which have a common origin Vin.ii.237 AN.iv.101 AN.v.22 SN.ii.135 SN.v.38
 
@@ -9001,7 +11834,13 @@ dict_label = "DPPN"
 word = "makhādeva"
 summary = "MakhādevaMaghadeva King of Mithilā. His legend is"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MakhādevaMaghadeva
@@ -9011,12 +11850,16 @@ King of Mithilā. His legend is told in the Makhadeva Sutta. MN.ii.74*ff.* He wa
 ``` toml
 dict_label = "DPPN"
 word = "makkarakata"
-summary = "Makkarakata A locality in Avanti. Mahā Kaccāna onc"
+summary = "A locality in Avanti. Mahā Kaccāna once stayed the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Makkarakata
 
 A locality in Avanti. Mahā Kaccāna once stayed there in a forest hut and was visited by Lohicca and his pupils. SN.iv.116*f.*
 
@@ -9027,7 +11870,13 @@ dict_label = "DPPN"
 word = "makkhali"
 summary = "MakkhaliGosāla One of the six heretical teachers c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MakkhaliGosāla
@@ -9041,12 +11890,16 @@ The Buddha considered Makkhali as the most dangerous of the heretical teachers�
 ``` toml
 dict_label = "DPPN"
 word = "makuṭabandhana"
-summary = "Makuṭabandhana A shrine of the Mallas to the east"
+summary = "A shrine of the Mallas to the east of Kusināra, wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Makuṭabandhana
 
 A shrine of the Mallas to the east of Kusināra, where the Buddha’s body was cremated. DN.ii.160–161
 
@@ -9055,24 +11908,32 @@ A shrine of the Mallas to the east of Kusināra, where the Buddha’s body was c
 ``` toml
 dict_label = "DPPN"
 word = "malitavambha"
-summary = "Malitavambha A monk whose Theragāthā verse says th"
+summary = "A monk whose Theragāthā verse says that one should"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Malitavambha
 
 A monk whose Theragāthā verse says that one should only stay in a dwelling that is conducive to the goal. Thag.105
 
 ``` toml
 dict_label = "DPPN"
 word = "mallikā"
-summary = "Mallikā Chief queen of Pasenadi, king of Kosala. M"
+summary = "Chief queen of Pasenadi, king of Kosala. Mallika’s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mallikā
 
 Chief queen of Pasenadi, king of Kosala.
 
@@ -9093,7 +11954,13 @@ dict_label = "DPPN"
 word = "mallikāya ārāma"
 summary = "Mallikāya ārāmaMallikārāma A park in Sāvatthī belo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mallikāya ārāmaMallikārāma
@@ -9105,12 +11972,16 @@ A park in Sāvatthī belonging to Queen Mallikā. DN.i.178 MN.ii.22
 ``` toml
 dict_label = "DPPN"
 word = "mallā"
-summary = "Mallā The name of a people and their country. The"
+summary = "The name of a people and their country. The countr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mallā
 
 The name of a people and their country.
 
@@ -9129,24 +12000,32 @@ Other places in the Malla country, besides Pāvā and Kusinārā, are mentioned 
 ``` toml
 dict_label = "DPPN"
 word = "mallī"
-summary = "Mallī A Malla woman. Vin.ii.268"
+summary = "A Malla woman. Vin.ii.268"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mallī
 
 A Malla woman. Vin.ii.268
 
 ``` toml
 dict_label = "DPPN"
 word = "manasākaṭa"
-summary = "Manasākaṭa A brahmin village in Kosala on the bank"
+summary = "A brahmin village in Kosala on the banks of the Ac"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Manasākaṭa
 
 A brahmin village in Kosala on the banks of the Aciravatī. The Buddha stayed in the mango grove to the north of the village, and, during one such stay, preached the Tevijja Sutta. DN.i.235
 
@@ -9155,24 +12034,32 @@ in Kosala on the banks of the Aciravatī3town
 ``` toml
 dict_label = "DPPN"
 word = "mandhātā"
-summary = "Mandhātā A primeval king. He is considered as an e"
+summary = "A primeval king. He is considered as an example of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mandhātā
 
 A primeval king. He is considered as an example of one whose desires could never be satisfied. AN.ii.17 Thig.488
 
 ``` toml
 dict_label = "DPPN"
 word = "mandākinī"
-summary = "Mandākinī One of the seven great lakes of the Himā"
+summary = "One of the seven great lakes of the Himālaya. AN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mandākinī
 
 One of the seven great lakes of the Himālaya. AN.iv.101
 
@@ -9181,12 +12068,16 @@ Himalaya3lake
 ``` toml
 dict_label = "DPPN"
 word = "manomaya"
-summary = "Manomaya A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Manomaya
 
 A Pacceka Buddha. MN.iii.70
 
@@ -9195,7 +12086,13 @@ dict_label = "DPPN"
 word = "manopadosikā"
 summary = "ManopadosikāManopadūsikā A class of devas. They bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ManopadosikāManopadūsikā
@@ -9205,24 +12102,32 @@ A class of devas. They burn continually with envy one against another and their 
 ``` toml
 dict_label = "DPPN"
 word = "manosattā"
-summary = "Manosattā A class of devas. Beings who die devoted"
+summary = "A class of devas. Beings who die devoted to some i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Manosattā
 
 A class of devas. Beings who die devoted to some idea are born in their world—e.g., a Nigaṇṭha who will take only warm water and would rather die than take it cold. MN.i.376
 
 ``` toml
 dict_label = "DPPN"
 word = "mantāvatī"
-summary = "Mantāvatī The capital city where King Koñca lived,"
+summary = "The capital city where King Koñca lived, whose dau"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mantāvatī
 
 The capital city where King Koñca lived, whose daughter was Sumedhā Therī. Thig.450
 
@@ -9231,36 +12136,48 @@ The capital city where King Koñca lived, whose daughter was Sumedhā Therī. Th
 ``` toml
 dict_label = "DPPN"
 word = "mantāṇī"
-summary = "Mantāṇī A brahminee, mother of Aṅgulimāla; her hus"
+summary = "A brahminee, mother of Aṅgulimāla; her husband was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mantāṇī
 
 A brahminee, mother of Aṅgulimāla; her husband was Gagga. MN.ii.102
 
 ``` toml
 dict_label = "DPPN"
 word = "manujā"
-summary = "Manujā An eminent upāsikā mentioned in a list. AN."
+summary = "An eminent upāsikā mentioned in a list. AN.iv.347"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Manujā
 
 An eminent *upāsikā* mentioned in a list. AN.iv.347
 
 ``` toml
 dict_label = "DPPN"
 word = "manāpakāyikā"
-summary = "Manāpakāyikā A class of devas possessing lovely fo"
+summary = "A class of devas possessing lovely forms. Once a l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Manāpakāyikā
 
 A class of devas possessing lovely forms. Once a large number of them visited Anuruddha at the Ghositirāma and announced to him that in a trice they could assume any colour they desired, produce any sound, and obtain any happiness. Anuruddha tested their claims and found them to be true.
 
@@ -9269,24 +12186,32 @@ Some of them sang, some danced, some clapped, some played on various musical ins
 ``` toml
 dict_label = "DPPN"
 word = "maṅgala"
-summary = "Maṅgala A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Maṅgala
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "maṇi"
-summary = "Maṇi A yakkha chief, to be invoked by Buddhists in"
+summary = "A yakkha chief, to be invoked by Buddhists in time"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Maṇi
 
 A *yakkha* chief, to be invoked by Buddhists in time of need. DN.iii.205
 
@@ -9295,7 +12220,13 @@ dict_label = "DPPN"
 word = "maṇimālika"
 summary = "MaṇimālikaMaṇimālaka A shrine where the Buddha sta"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MaṇimālikaMaṇimālaka
@@ -9307,12 +12238,16 @@ A shrine where the Buddha stayed and where he was visited by the Yakkha Maṇibh
 ``` toml
 dict_label = "DPPN"
 word = "medakathalikā"
-summary = "Medakathalikā The pupil of a “bamboo acrobat” of l"
+summary = "The pupil of a “bamboo acrobat” of long ago. His m"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Medakathalikā
 
 The pupil of a “bamboo acrobat” of long ago. His master called to him one day and asked him to climb the bamboo and to stand on his shoulder. Then the master suggested that they should watch and look after each other during their performances. But Medakathalikā said that each should look after himself, which would be the better way.
 
@@ -9325,7 +12260,13 @@ dict_label = "DPPN"
 word = "medāḷupa"
 summary = "MedāḷupaMedatalumpa A Sākyan village three leagues"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MedāḷupaMedatalumpa
@@ -9339,7 +12280,13 @@ dict_label = "DPPN"
 word = "meghiya "
 summary = "Meghiya Having joined the Order, was for some time"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Meghiya
@@ -9351,7 +12298,13 @@ dict_label = "DPPN"
 word = "mejjha"
 summary = "MejjhaMejjhārañña A wilderness, which legend says"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MejjhaMejjhārañña
@@ -9361,36 +12314,48 @@ A wilderness, which legend says was formely a kingdom. MN.i.378
 ``` toml
 dict_label = "DPPN"
 word = "melajina"
-summary = "Melajina A monk whose Theragāthā verses speak of h"
+summary = "A monk whose Theragāthā verses speak of his great"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Melajina
 
 A monk whose Theragāthā verses speak of his great faith in the Buddha. Thag.131–132
 
 ``` toml
 dict_label = "DPPN"
 word = "methula"
-summary = "Methula A Pacceka Buddha whose name appears in a n"
+summary = "A Pacceka Buddha whose name appears in a nominal l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Methula
 
 A Pacceka Buddha whose name appears in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "mettagū"
-summary = "Mettagū One of the sixteen disciples of Bāvarī who"
+summary = "One of the sixteen disciples of Bāvarī who visited"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mettagū
 
 One of the sixteen disciples of Bāvarī who visited the Buddha. His question to the Buddha was as to how various ills originated in the world, and the Buddha’s answer, that it was through attachment. Snp.1006 Snp.1049–1060
 
@@ -9399,7 +12364,13 @@ dict_label = "DPPN"
 word = "mettaji"
 summary = "MettajiMattaji A monk whose Theragāthā verse extol"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MettajiMattaji
@@ -9409,48 +12380,64 @@ A monk whose Theragāthā verse extols the Buddha. Thag.94
 ``` toml
 dict_label = "DPPN"
 word = "metteyya"
-summary = "Metteyya An arahant, friend of Tissa of the Tissa"
+summary = "An arahant, friend of Tissa of the Tissa Metteyya"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Metteyya
 
 An arahant, friend of Tissa of the Tissa Metteyya Sutta. His personal name, too, was Tissa, but he was better known by his clan name of Metteyya. In a verse in the Suttanipāta Snp.814 he is referred to as Tissa Metteyya.
 
 ``` toml
 dict_label = "DPPN"
 word = "mettikā"
-summary = "Mettikā A bhikkhunī whose Therīgāthā verses speak"
+summary = "A bhikkhunī whose Therīgāthā verses speak of of ho"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mettikā
 
 A bhikkhunī whose Therīgāthā verses speak of of how she strugged up a mountain, only to sit and become Awakened. Thig.29–30
 
 ``` toml
 dict_label = "DPPN"
 word = "mettiya"
-summary = "Mettiya One of the six leaders of the Chabbaggiyā."
+summary = "One of the six leaders of the Chabbaggiyā."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mettiya
 
 One of the six leaders of the Chabbaggiyā.
 
 ``` toml
 dict_label = "DPPN"
 word = "mettiyabhummajakā"
-summary = "Mettiyabhummajakā A group of monks, followers of M"
+summary = "A group of monks, followers of Mettiya and Bhummaj"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mettiyabhummajakā
 
 A group of monks, followers of Mettiya and Bhummajaka forming part of the Chabbaggiyā (Group of Six Monks).
 
@@ -9461,36 +12448,48 @@ On another occasion, these monks persuaded a Licchavi, named Vaḍḍha, who was
 ``` toml
 dict_label = "DPPN"
 word = "mettiyā"
-summary = "Mettiyā A nun who, at the instigation of the Metti"
+summary = "A nun who, at the instigation of the Mettiyabhumma"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mettiyā
 
 A nun who, at the instigation of the Mettiyabhummajakā, charged Dabba Mallaputta with having violated her chastity. She was expelled from the Order for this offence.
 
 ``` toml
 dict_label = "DPPN"
 word = "mettākāyikā"
-summary = "Mettākāyikā A class of devas present at the preach"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mettākāyikā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
 dict_label = "DPPN"
 word = "meṇḍaka"
-summary = "Meṇḍaka A very rich householder of Bhaddiyanagara"
+summary = "A very rich householder of Bhaddiyanagara in Aṅga."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Meṇḍaka
 
 A very rich householder of Bhaddiyanagara in Aṅga. It is said Vin.i.240*f.* that when he went to his granaries after his ceremonial bath, as he stood at the door, showers of grain would fall from heaven and fill the stores.
 
@@ -9501,7 +12500,13 @@ dict_label = "DPPN"
 word = "meṇḍasira"
 summary = "MeṇḍasiraMeṇḍasīsa A monk whose Theragāthā verse s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MeṇḍasiraMeṇḍasīsa
@@ -9511,12 +12516,16 @@ A monk whose Theragāthā verse speaks of realizing release from suffering after
 ``` toml
 dict_label = "DPPN"
 word = "migacīra"
-summary = "Migacīra A park near Indapatta, where Raṭṭhapāla T"
+summary = "A park near Indapatta, where Raṭṭhapāla Thera stay"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Migacīra
 
 A park near Indapatta, where Raṭṭhapāla Thera stayed. MN.ii.65
 
@@ -9527,7 +12536,13 @@ dict_label = "DPPN"
 word = "migajāla "
 summary = "Migajāla A monk whose Theragāthā verses speak in p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Migajāla
@@ -9541,7 +12556,13 @@ dict_label = "DPPN"
 word = "migalandika"
 summary = "MigalandikaMigaladdhika An undesirable monk. When"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MigalandikaMigaladdhika
@@ -9551,48 +12572,64 @@ An undesirable monk. When the Buddha had once been preaching to the monks in Mah
 ``` toml
 dict_label = "DPPN"
 word = "migasira"
-summary = "Migasira A monk whose Theragāthā verses speak of b"
+summary = "A monk whose Theragāthā verses speak of becoming A"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Migasira
 
 A monk whose Theragāthā verses speak of becoming Awakened since he went forth. Thag.181*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "migasālā"
-summary = "Migasālā A woman follower of the Buddha. She was t"
+summary = "A woman follower of the Buddha. She was the daught"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Migasālā
 
 A woman follower of the Buddha. She was the daughter of Pūraṇa, chamberlain of Pasenadi, and niece of Isidatta. AN.iii.347 AN.v.137
 
 ``` toml
 dict_label = "DPPN"
 word = "migāra"
-summary = "Migāra A rich man of Sāvatthī. Ugga, Pasenadi’s mi"
+summary = "A rich man of Sāvatthī. Ugga, Pasenadi’s minister,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Migāra
 
 A rich man of Sāvatthī. Ugga, Pasenadi’s minister, mentions him during a visit to the Buddha and remarks on his immense wealth. But the Buddha reminds him that Migāra’s treasure is not real treasure in that it is subject to various dangers fire, water, kings, robbers, enemies and heirs. AN.iv.7
 
 ``` toml
 dict_label = "DPPN"
 word = "migāramātupāsāda"
-summary = "Migāramātupāsāda The name given to the monastery e"
+summary = "The name given to the monastery erected by Visākhā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Migāramātupāsāda
 
 The name given to the monastery erected by Visākhā Migāramātā in the Pubbārāma, to the east of Sāvatthī. It is said that, one day, when Visākhā had gone to the monastery to hear the Dhamma and afterwards attend on the sick monks and novices, she left in the preaching hall her jewellery and her servant girl forgot to remove it. Later, on going to fetch it, she found that Ānanda had put it away, and Visākhā, being told of this, decided not to wear it again. She had it valued by goldsmiths, who declared that it was worth nine crores and one hundred thousand. She had the ornament put in a cart and sent round for sāle. But there was none in Sāvatthī rich enough to buy it, and Visākhā herself bought it back. With the money thus obtained she built the Migāramātupāsāda at the Buddha’s suggestion. Vin.iv.161*f.* Moggallāna was left to supervise the work with five hundred other monks. Moggallāna made use of his *iddhi* powers in order to expedite and facilitate the work.
 
@@ -9605,7 +12642,13 @@ dict_label = "DPPN"
 word = "milakkhā"
 summary = "MilakkhāMilakkhukā The name given to the people of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MilakkhāMilakkhukā
@@ -9615,24 +12658,32 @@ The name given to the people of non\-Ariyan origin, the *Mlecchas*. DN.iii.264 A
 ``` toml
 dict_label = "DPPN"
 word = "missakā"
-summary = "Missakā A class of devas present at the preaching"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Missakā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "mithilā"
-summary = "Mithilā The capital of the Videha country. The cit"
+summary = "The capital of the Videha country. The city was ve"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mithilā
 
 The capital of the Videha country. The city was very ancient, and, according to the Mahāgovinda Sutta, DN.ii.235 was founded by Mahāgovinda, steward of King Reṇu.
 
@@ -9651,7 +12702,13 @@ dict_label = "DPPN"
 word = "mittakālī"
 summary = "MittakālīMittakālikāMittakāḷīMittakāḷikā A bhikkhu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MittakālīMittakālikāMittakāḷīMittakāḷikā
@@ -9663,7 +12720,13 @@ dict_label = "DPPN"
 word = "mittā "
 summary = "Mittā A bhikkhunī whose Therīgāthā verses speak of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mittā
@@ -9673,24 +12736,32 @@ A bhikkhunī whose Therīgāthā verses speak of how she was formerly attached t
 ``` toml
 dict_label = "DPPN"
 word = "moggalla"
-summary = "Moggalla A man in the retinue of King Eḷeyya. He w"
+summary = "A man in the retinue of King Eḷeyya. He was a foll"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Moggalla
 
 A man in the retinue of King Eḷeyya. He was a follower of Uddaka Rāmaputta. AN.ii.187
 
 ``` toml
 dict_label = "DPPN"
 word = "mogharāja"
-summary = "Mogharāja He belonged to a brahmin family and stud"
+summary = "He belonged to a brahmin family and studied under"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mogharāja
 
 He belonged to a brahmin family and studied under Bāvarī as an ascetic. He was one of the sixteen pupils sent by Bāvarī to the Buddha. Snp.1116–1119 The Buddha declared him foremost among wearers of rough clothing. AN.i.25 In his Theragāthā verses the Buddha asks how he fares in the cold. Thag.207–208
 
@@ -9699,12 +12770,16 @@ The Saṃyutta Nikāya contains a stanza spoken by Mogharāja and the Buddha’s
 ``` toml
 dict_label = "DPPN"
 word = "moranivāpa"
-summary = "Moranivāpa A grove in Veḷuvana at Rājagaha. It con"
+summary = "A grove in Veḷuvana at Rājagaha. It contained a Pa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Moranivāpa
 
 A grove in Veḷuvana at Rājagaha. It contained a Paribbājakārāma, the resort of recluses of various denominations. The Udumbarika Sīhanāda, the Mahā Sakuladāyi and the Culla Sakūladāyi Suttas were preached there. DN.iii.36*ff.* MN.ii.1 MN.ii.29
 
@@ -9715,12 +12790,16 @@ near Veḷuvana3non\-Buddhist monastery
 ``` toml
 dict_label = "DPPN"
 word = "moriyā"
-summary = "Moriyā A khattiya clan of India. Among those claim"
+summary = "A khattiya clan of India. Among those claiming a s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Moriyā
 
 A *khattiya* clan of India. Among those claiming a share of the Buddha’s relics were the Moriyas of Pipphalivana. They came rather late and had to be satisfied with a share of the ashes. DN.ii.166
 
@@ -9729,7 +12808,13 @@ dict_label = "DPPN"
 word = "moḷiya"
 summary = "MoḷiyaPhagguna He was always friendly with the nun"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MoḷiyaPhagguna
@@ -9741,12 +12826,16 @@ In the Saṃyutta Nikāya SN.ii.12*f.* is recorded a discussion between Moliya P
 ``` toml
 dict_label = "DPPN"
 word = "moḷiyasīvaka"
-summary = "Moḷiyasīvaka A Paribbājaka. He once visited the Bu"
+summary = "A Paribbājaka. He once visited the Buddha at Veḷuv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Moḷiyasīvaka
 
 A Paribbājaka. He once visited the Buddha at Veḷuvana and questioned him regarding predestination. The Buddha explains to him that suffering arises from various causes—bile, phlegm, wind, bodily humour, change of season, stress of untoward happenings, sudden attacks from without and also from one’s kamma—and to say that these are all predestined is to go too far. Sīvaka expresses his approval and declares himself the Buddha’s follower. SN.iv.230*f.* Another conversation he had with the Buddha is recorded in the Aṅguttara Nikāya. AN.iii.356 There he asks the Buddha if the claims made with regard to the Dhamma are justified. The Buddha proves to him, by illustration, that they are.
 
@@ -9755,7 +12844,13 @@ dict_label = "DPPN"
 word = "mucalinda"
 summary = "Mucalinda1 A tree near the Ajapālanigrodha in Uruv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mucalinda<sup>1</sup>
@@ -9769,24 +12864,32 @@ One of the chief Yakkhas to be invoked by the Buddha’s followers in time of ne
 ``` toml
 dict_label = "DPPN"
 word = "mudita"
-summary = "Mudita A monk whose Theragāthā verse speaks of unf"
+summary = "A monk whose Theragāthā verse speaks of unflagging"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mudita
 
 A monk whose Theragāthā verse speaks of unflagging striving, regardless of life or limb. Thag.311–314
 
 ``` toml
 dict_label = "DPPN"
 word = "mukheluvana"
-summary = "Mukheluvana A grove in Kajaṅgalā. It was there tha"
+summary = "A grove in Kajaṅgalā. It was there that the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mukheluvana
 
 A grove in Kajaṅgalā. It was there that the Buddha preached the Indriyabhāvanā Sutta. MN.iii.298
 
@@ -9797,7 +12900,13 @@ dict_label = "DPPN"
 word = "musila "
 summary = "Musila A monk. A conversation is recorded in the S"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Musila
@@ -9809,7 +12918,13 @@ dict_label = "DPPN"
 word = "muttā "
 summary = "Muttā 1 A bhikkhunī whose Therīgāthā verse speaks"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Muttā <sup>1</sup>
@@ -9827,24 +12942,32 @@ An eminent upāsikā, mentioned in a list of such. AN.iv.347
 ``` toml
 dict_label = "DPPN"
 word = "muṇḍa"
-summary = "Muṇḍa A king of Māgadha, great grandson of Ajātasa"
+summary = "A king of Māgadha, great grandson of Ajātasattu an"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Muṇḍa
 
 A king of Māgadha, great grandson of Ajātasattu and son of Anuruddha. It is probably this same king who is referred to in the Aṅguttara Nikāya. AN.iii.57*ff.* His wife Bhaddā died, and Muṇḍa gave himself up to complete despair and mummified the queen’s body. The king’s Treasurer, Piyaka, consulted the Elder Nārada who lived at Kukkuṭārāma in Pāṭaliputta and persuaded him to visit the king. Nārada preached to him, and his sorrow vanished.
 
 ``` toml
 dict_label = "DPPN"
 word = "māgadha"
-summary = "Māgadha One of the four chief kingdoms of India at"
+summary = "One of the four chief kingdoms of India at the tim"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Māgadha
 
 One of the four chief kingdoms of India at the time of the Buddha, the others being Kosala, the kingdom of the Vaṃsas and Avanti. Māgadha formed one of the sixteen Mahājanapadas and had its capital at Rājagaha or Giribbaja where Bimbisāra, and after him Ajātasattu, reigned. Later, Pāṭaliputta became the capital. By the time of Bimbisāra, Aṅga, too, formed a part of Māgadha, and he was known as king of Aṅga Māgadha. Thus Bimbisāra sends for Soṇa Koḷivisa, a prominent citizen of Campā, capital of Aṅga. Vin.i.27 In the Buddha’s day, Māgadha consisted of eighty thousand villages. Vin.i.179
 
@@ -9867,7 +12990,13 @@ dict_label = "DPPN"
 word = "māgaṇḍiya"
 summary = "Māgaṇḍiya1 The Sutta Nipāta contains a dialogue be"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Māgaṇḍiya<sup>1</sup>
@@ -9883,7 +13012,13 @@ dict_label = "DPPN"
 word = "māluṅkyāputta"
 summary = "MāluṅkyāputtaMāluṅkyaputtaMālukyaputta The Theragā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MāluṅkyāputtaMāluṅkyaputtaMālukyaputta
@@ -9897,24 +13032,32 @@ In the Mālunkyāputta Sutta in the Aṅguttara, Māluṅkyāputta comes to the 
 ``` toml
 dict_label = "DPPN"
 word = "mānacchidda"
-summary = "Mānacchidda A Pacceka Buddha. MN.i.70"
+summary = "A Pacceka Buddha. MN.i.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mānacchidda
 
 A Pacceka Buddha. MN.i.70
 
 ``` toml
 dict_label = "DPPN"
 word = "mānadinna"
-summary = "Mānadinna A householder of Rājagaha. When he lay i"
+summary = "A householder of Rājagaha. When he lay ill he was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mānadinna
 
 A householder of Rājagaha. When he lay ill he was visited by Ānanda, to whom he confessed that even in his illness he practiced the four *satipaṭṭhāna*. He was quite free from the five lower fetters. SN.v.178
 
@@ -9923,7 +13066,13 @@ dict_label = "DPPN"
 word = "mānatthaddha"
 summary = "Mānatthaddha1 A brahmin of Sāvatthī who, because o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Mānatthaddha<sup>1</sup>
@@ -9937,12 +13086,16 @@ A Pacceka Buddha mentioned in a nominal list. MN.iii.71
 ``` toml
 dict_label = "DPPN"
 word = "mānicara"
-summary = "Mānicara A Yakkha chief to be invoked by followers"
+summary = "A Yakkha chief to be invoked by followers of the B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mānicara
 
 A Yakkha chief to be invoked by followers of the Buddha in time of need. Aiii.205
 
@@ -9951,7 +13104,13 @@ dict_label = "DPPN"
 word = "māra"
 summary = "MāraNamuciKaṇhaAdhipatiAntakaPamattabandhuPāpimā G"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MāraNamuciKaṇhaAdhipatiAntakaPamattabandhuPāpimā
@@ -9985,12 +13144,16 @@ With the accounts of Māra, as the personification of Evil, came to be mixed leg
 ``` toml
 dict_label = "DPPN"
 word = "mātali"
-summary = "Mātali The name given to the chariot driver of Sak"
+summary = "The name given to the chariot driver of Sakka. The"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mātali
 
 The name given to the chariot driver of Sakka. The Mātali of the present age had a son, Sikhandhi, with whom Bhaddā Suriyavaccasā, daughter of Timbarū, was in love; but later she transferred her affections to Pañcasikha. DN.ii.268 Mātali is Sakka’s constant companion and accompanies him everywhere, more as a confidant than as a servant. SN.i.221 SN.i.224 SN.i.234*ff.*
 
@@ -9999,12 +13162,16 @@ In the Mahāsamaya Sutta, DN.ii.258 Mātali is described as a Gandhabba chief, w
 ``` toml
 dict_label = "DPPN"
 word = "mātaṅga"
-summary = "Mātaṅga A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Mātaṅga
 
 A Pacceka Buddha. MN.iii.70
 
@@ -10013,7 +13180,13 @@ dict_label = "DPPN"
 word = "mātula"
 summary = "MātulaMatula A village in Māgadha, where the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MātulaMatula
@@ -10027,7 +13200,13 @@ dict_label = "DPPN"
 word = "māyā"
 summary = "MāyāMahāmāyā The mother of the Buddha, and wife of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MāyāMahāmāyā
@@ -10037,12 +13216,16 @@ The mother of the Buddha, and wife of Suddhodana of the Sakyan clan. DN.ii.52 Th
 ``` toml
 dict_label = "DPPN"
 word = "māṇava"
-summary = "Māṇava A monk whose Theragāthā verse says that he"
+summary = "A monk whose Theragāthā verse says that he went fo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Māṇava
 
 A monk whose Theragāthā verse says that he went forth after seeing an old man, a sick man, and a dead man. Thag.73
 
@@ -10051,7 +13234,13 @@ dict_label = "DPPN"
 word = "māṇavagāmiya"
 summary = "MāṇavagāmiyaMāṇavagāmika A devaputta. He visited t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 MāṇavagāmiyaMāṇavagāmika
@@ -10061,12 +13250,16 @@ A *devaputta*. He visited the Buddha in the company of Asama, Sahali, Ninka, Āk
 ``` toml
 dict_label = "DPPN"
 word = "nadīkassapa"
-summary = "Nadīkassapa Brother of Uruvelā Kassapa. He receive"
+summary = "Brother of Uruvelā Kassapa. He received his name f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nadīkassapa
 
 Brother of Uruvelā Kassapa. He received his name from living on the bank of the Nerañjara at the head of three hundred ascetics. His Thergāthā verses speak of how his former wrong views and practices were abandoned when he heard the Dhamma. Thag.340–344
 
@@ -10075,7 +13268,13 @@ dict_label = "DPPN"
 word = "nagaraka"
 summary = "Nagaraka Naṅgaraka A Sākyan township near Medatalu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nagaraka Naṅgaraka
@@ -10089,12 +13288,16 @@ The Buddha evidently once stayed in Nagaraka, for in the Cūḷa\-Suññatā Sut
 ``` toml
 dict_label = "DPPN"
 word = "nagaravinda"
-summary = "Nagaravinda A brahmin village in Kosala where the"
+summary = "A brahmin village in Kosala where the Buddha once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nagaravinda
 
 A brahmin village in Kosala where the Buddha once stayed during a tour and where he preached the Nagaravindeyya Sutta. M.iii.290
 
@@ -10103,12 +13306,16 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "nakulamātā"
-summary = "Nakulamātā Wife of Nakulapitā. They were household"
+summary = "Wife of Nakulapitā. They were householders of Suṃs"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nakulamātā
 
 Wife of Nakulapitā. They were householders of Suṃsumāragiri in the Bhagga\-country. When the Buddha visited the village and stayed at Bhesakalāvana, they went to see him. They immediately fell at his feet, calling him “son” and asking why he had been so long away. It is said that they had been the Bodhisatta’s parents for five hundred births and his near relations for many more. The Buddha preached to them and they became sotāpannas. The Buddha visited their village once more when they were old. They entertained him, telling of their devotion to each other in this life and asking for a teaching which should keep them likewise together in after\-life. The Buddha referred to this in the assembly of the Saṅgha, declaring them to be the most intimate companions among his disciples. AN.i.26 AN.ii.61*f.*
 
@@ -10119,12 +13326,16 @@ Both husband and wife are mentioned in lists of eminent disciples. AN.iii.465 AN
 ``` toml
 dict_label = "DPPN"
 word = "nakulapitā"
-summary = "Nakulapitā Husband of Nakulamātā. They were househ"
+summary = "Husband of Nakulamātā. They were householders of S"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nakulapitā
 
 Husband of Nakulamātā. They were householders of Suṃsumāragiri in the Bhagga\-country. When the Buddha visited the village and stayed at Bhesakalāvana, they went to see him. They immediately fell at his feet, calling him “son” and asking why he had been so long away. It is said that they had been the Bodhisatta’s parents for five hundred births and his near relations for many more. The Buddha preached to them and they became sotāpannas. The Buddha visited their village once more when they were old. They entertained him, telling of their devotion to each other in this life and asking for a teaching which should keep them likewise together in after\-life. The Buddha referred to this in the assembly of the Saṅgha, declaring them to be the most intimate companions among his disciples. AN.i.26 AN.ii.61*f.*
 
@@ -10137,7 +13348,13 @@ dict_label = "DPPN"
 word = "nanda"
 summary = "Nanda1Vaccha Mentioned in a list of well known lea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nanda<sup>1</sup>Vaccha
@@ -10181,7 +13398,13 @@ dict_label = "DPPN"
 word = "nandaka"
 summary = "Nandaka1 Once, at the Buddha’s request, he preache"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nandaka<sup>1</sup>
@@ -10205,7 +13428,13 @@ dict_label = "DPPN"
 word = "nandana"
 summary = "Nandana1 A devaputta who visited the Buddha at Sāv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nandana<sup>1</sup>
@@ -10221,24 +13450,32 @@ The chief of the parks in Tāvatiṃsā, where the inhabitants of Tāvatiṃsā,
 ``` toml
 dict_label = "DPPN"
 word = "nandavatī"
-summary = "Nandavatī A nun, sister of Thullanandā. Her other"
+summary = "A nun, sister of Thullanandā. Her other two sister"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nandavatī
 
 A nun, sister of Thullanandā. Her other two sisters were Nandā and Sundarīnandā. Vin.iv.211 Vin.iv.259
 
 ``` toml
 dict_label = "DPPN"
 word = "nandivisāla"
-summary = "Nandivisāla A deva who visits the Buddha and conve"
+summary = "A deva who visits the Buddha and converses with hi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nandivisāla
 
 A deva who visits the Buddha and converses with him on the nature of the body and its riddance. SN.i.63 SN.i.15
 
@@ -10247,7 +13484,13 @@ dict_label = "DPPN"
 word = "nandiya"
 summary = "Nandiya1 He belonged to a Sākiyan family of Kapila"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nandiya<sup>1</sup>
@@ -10265,12 +13508,16 @@ A Paribbājaka who visits the Buddha at Jetavana and asks him the conditions for
 ``` toml
 dict_label = "DPPN"
 word = "nanduttarā"
-summary = "Nanduttarā A bhikkhunī whose Therīgāthā verses spe"
+summary = "A bhikkhunī whose Therīgāthā verses speak of her f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nanduttarā
 
 A bhikkhunī whose Therīgāthā verses speak of her former useless practice of austerities and her current state of Awakening. Thig.87–91
 
@@ -10279,7 +13526,13 @@ dict_label = "DPPN"
 word = "nandā"
 summary = "Nandā1 A nun, sister of Thullanandā. Her other two"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nandā<sup>1</sup>
@@ -10299,7 +13552,13 @@ dict_label = "DPPN"
 word = "navakammika bhāradvāja"
 summary = "Navakammika Bhāradvāja One of the Bhāradvājas. Onc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Navakammika Bhāradvāja
@@ -10311,7 +13570,13 @@ dict_label = "DPPN"
 word = "navanavutiyo"
 summary = "NavanavutiyoNavanavatiya A city in Uttarakuru. DN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NavanavutiyoNavanavatiya
@@ -10323,24 +13588,32 @@ A city in Uttarakuru. DN.iii.201
 ``` toml
 dict_label = "DPPN"
 word = "naḷa"
-summary = "Naḷa A Gandhabba chieftain DN.ii.258 to be invoked"
+summary = "A Gandhabba chieftain DN.ii.258 to be invoked by f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Naḷa
 
 A Gandhabba chieftain DN.ii.258 to be invoked by followers of the Buddha in time of need. DN.iii.204
 
 ``` toml
 dict_label = "DPPN"
 word = "naḷakapāna"
-summary = "Naḷakapāna A village in Kosala, where the Buddha o"
+summary = "A village in Kosala, where the Buddha once stayed"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Naḷakapāna
 
 A village in Kosala, where the Buddha once stayed and preached the Naḷakapāna Sutta. MN.i.462 There were two groves near the village, the Ketakavana and the Palāsavana; in the latter, Sāriputta preached two sermons at the request of the Buddha. AN.v.122*f.* AN.v.125*f.*
 
@@ -10351,7 +13624,13 @@ dict_label = "DPPN"
 word = "naḷerupucimanda"
 summary = "NaḷerupucimandaNaḷerupucimandaNalerupucimaṇḍa A gr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NaḷerupucimandaNaḷerupucimandaNalerupucimaṇḍa
@@ -10365,7 +13644,13 @@ dict_label = "DPPN"
 word = "nemi"
 summary = "Nemi1 A servitor of Kuvera. DN.iii.201 Nemi2 A Pac"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nemi<sup>1</sup>
@@ -10381,7 +13666,13 @@ dict_label = "DPPN"
 word = "nerañjarāya"
 summary = "NerañjarāyaNerañjara A river. After the Enlightenm"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NerañjarāyaNerañjara
@@ -10393,36 +13684,48 @@ A river. After the Enlightenment, the Buddha lived under the Ajapāla Nigrodha a
 ``` toml
 dict_label = "DPPN"
 word = "netti"
-summary = "Netti A Yakkha chieftain. DN.iii.204"
+summary = "A Yakkha chieftain. DN.iii.204"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Netti
 
 A Yakkha chieftain. DN.iii.204
 
 ``` toml
 dict_label = "DPPN"
 word = "nhātakamuni"
-summary = "Nhātakamuni A monk whose Theragāthā verse speaks o"
+summary = "A monk whose Theragāthā verse speaks of practicing"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nhātakamuni
 
 A monk whose Theragāthā verse speaks of practicing with joy in the forest, despite being ill. Thag.435–440
 
 ``` toml
 dict_label = "DPPN"
 word = "niceluvana"
-summary = "Niceluvana A grove of mucalinda trees in Kimbilā."
+summary = "A grove of mucalinda trees in Kimbilā. AN.iii.247"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Niceluvana
 
 A grove of *mucalinda* trees in Kimbilā. AN.iii.247
 
@@ -10433,7 +13736,13 @@ dict_label = "DPPN"
 word = "nigaṇṭha nāṭaputta"
 summary = "Nigaṇṭha NāṭaputtaNigaṇṭha NāthaputtaNāthaputtaNāṭ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nigaṇṭha NāṭaputtaNigaṇṭha NāthaputtaNāthaputtaNāṭaputta
@@ -10461,12 +13770,16 @@ Nigaṇṭha Nāṭaputta is the name by which the Jaina teacher, Mahāvīra, wa
 ``` toml
 dict_label = "DPPN"
 word = "nighaṇḍu"
-summary = "Nighaṇḍu A yakkha chieftain, to be invoked by foll"
+summary = "A yakkha chieftain, to be invoked by followers of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nighaṇḍu
 
 A *yakkha* chieftain, to be invoked by followers of the Buddha when in distress. DN.iii.204 He was present at the Mahāsamaya. DN.ii.258
 
@@ -10475,7 +13788,13 @@ dict_label = "DPPN"
 word = "nigrodha"
 summary = "Nigrodha1 A wanderer. Once, when he was staying wi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nigrodha<sup>1</sup>
@@ -10491,7 +13810,13 @@ dict_label = "DPPN"
 word = "nigrodhakappa"
 summary = "NigrodhakappaKappa He was the preceptor (upajjhāya"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NigrodhakappaKappa
@@ -10503,7 +13828,13 @@ dict_label = "DPPN"
 word = "nigrodhārāma"
 summary = "Nigrodhārāma1 A grove near Kapilavatthu, where a r"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nigrodhārāma<sup>1</sup>
@@ -10523,7 +13854,13 @@ dict_label = "DPPN"
 word = "nikata"
 summary = "Nikata1 An upāsaka of Ñātikā. After death he was b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nikata<sup>1</sup>
@@ -10537,36 +13874,48 @@ One of several eminent theras mentioned as staying in the Kūṭāgārasāla in 
 ``` toml
 dict_label = "DPPN"
 word = "nilavāsi"
-summary = "Nilavāsi A Thera mentioned as staying at the Kukku"
+summary = "A Thera mentioned as staying at the Kukkuṭārāma in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nilavāsi
 
 A Thera mentioned as staying at the Kukkuṭārāma in Pāṭaliputta. Vin.i.300
 
 ``` toml
 dict_label = "DPPN"
 word = "nimmānaratī"
-summary = "Nimmānaratī A class of devas, inhabiting the fifth"
+summary = "A class of devas, inhabiting the fifth of the six"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nimmānaratī
 
 A class of devas, inhabiting the fifth of the six deva\-worlds. DN.i.218 MN.i.289 SN.i.133 AN.i.210
 
 ``` toml
 dict_label = "DPPN"
 word = "nirabbuda"
-summary = "Nirabbuda A hell, or a period of suffering. Equal"
+summary = "A hell, or a period of suffering. Equal to twenty"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nirabbuda
 
 A hell, or a period of suffering. Equal to twenty Abbudas. Snp.p.126 SN.i.149
 
@@ -10575,24 +13924,32 @@ A hell, or a period of suffering. Equal to twenty Abbudas. Snp.p.126 SN.i.149
 ``` toml
 dict_label = "DPPN"
 word = "niraggaḷa"
-summary = "Niraggaḷa A sacrifice in which alms are given with"
+summary = "A sacrifice in which alms are given with wide open"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Niraggaḷa
 
 A sacrifice in which alms are given with wide open, boltless doors.
 
 ``` toml
 dict_label = "DPPN"
 word = "niraya"
-summary = "Niraya Hell. The Saṃyutta and Aṅguttara Nikāyas an"
+summary = "Hell. The Saṃyutta and Aṅguttara Nikāyas and the S"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Niraya
 
 Hell. The Saṃyutta and Aṅguttara Nikāyas and the Sutta Nipāta contain a list of hells: Abbuda, Nirabbuda, Ababa, Aṭaṭa, Ahaha, Kumuda, Sogandhika, Uppala, Puṇḍarīka, Paduma. SN.i.149 AN.v.173 Snp.p.126
 
@@ -10603,12 +13960,16 @@ The Devadūta Sutta MN.iii.185 of the Majjhima Nikāya contains another list: G�
 ``` toml
 dict_label = "DPPN"
 word = "nisabha"
-summary = "Nisabha A monk whose Theragāthā verses speak of gi"
+summary = "A monk whose Theragāthā verses speak of giving up"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nisabha
 
 A monk whose Theragāthā verses speak of giving up desire and patiently awaiting one’s time. Thag.195–196
 
@@ -10617,7 +13978,13 @@ dict_label = "DPPN"
 word = "niṅka"
 summary = "NiṅkaNika A deva who visits the Buddha in the comp"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NiṅkaNika
@@ -10627,12 +13994,16 @@ A deva who visits the Buddha in the company of several other devas and utters a 
 ``` toml
 dict_label = "DPPN"
 word = "nādikā"
-summary = "Nādikā The Mahā Parinibbāna Sutta DN.ii.72ff. give"
+summary = "The Mahā Parinibbāna Sutta DN.ii.72ff. gives a lis"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nādikā
 
 The Mahā Parinibbāna Sutta DN.ii.72*ff.* gives a list of the places at which the Buddha stopped during his last journey along that road—Ambalaṭṭhikā, Nāḷandā, Pāṭaligāma, Koṭigāma, Nādikā, Vesāli, Bhaṇḍagāma, Hatthigāma, Ambagāma, Jambugāma, Bhoganagara, Pāvā, and the Kakuttha River, beyond which lay the Mango grove and the Sāla grove of the Mallas.
 
@@ -10641,12 +14012,16 @@ The Mahā Parinibbāna Sutta DN.ii.72*ff.* gives a list of the places at which t
 ``` toml
 dict_label = "DPPN"
 word = "nāga"
-summary = "Nāga A class of beings classed with Garuḷas and Su"
+summary = "A class of beings classed with Garuḷas and Supaṇṇa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāga
 
 A class of beings classed with Garuḷas and Supaṇṇas and playing a prominent part in Buddhist folk lore. They are gifted with miraculous powers and great strength. Generally speaking, they are confused with snakes, chiefly the hooded Cobra, and their bodies are described as being those of snakes, though they can assume human form at will. The Vinaya Vin.ii.109 contains a list of four royal families of Nāgas (*Ahirājakulāni*): Virūpakkha, Erāpatha, Chabyāputta and Kaṇhāgotamaka. The enmity between the Nāgas and the Garulas is proverbial. DN.ii.258 In the Aṭāṇātiya Sutta, DN.iii.198*f.* speaking of dwellers of the Cātummahārajika world, the Nāgas are mentioned as occupying the Western Quarter, with Virūpakkha as their king.
 
@@ -10657,24 +14032,32 @@ In the accounts given of the Nāgas, there is undoubtedly great confusion betwee
 ``` toml
 dict_label = "DPPN"
 word = "nāgadatta"
-summary = "Nāgadatta He once lived in a forest tract in Kosal"
+summary = "He once lived in a forest tract in Kosala and was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāgadatta
 
 He once lived in a forest tract in Kosala and was inclined to be indolent. A deva, noticing this, admonished him, and it is said that Nāgadatta paid heed to the warning. SN.i.200
 
 ``` toml
 dict_label = "DPPN"
 word = "nāgasamāla"
-summary = "Nāgasamāla He was a Sākiyan and entered the Order"
+summary = "He was a Sākiyan and entered the Order when the Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāgasamāla
 
 He was a Sākiyan and entered the Order when the Buddha visited his kinsmen at Kapilavatthu. For some time he was the Buddha’s personal attendant—e.g., when the Buddha breached the Mahāsīhanāda Sutta. MN.i.83
 
@@ -10683,12 +14066,16 @@ One day, when entering the city for alms, he saw a nautch girl gaily dressed, da
 ``` toml
 dict_label = "DPPN"
 word = "nāgavana"
-summary = "Nāgavana A park near Hatthigāma, belonging to Ugga"
+summary = "A park near Hatthigāma, belonging to Uggagahapati."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāgavana
 
 A park near Hatthigāma, belonging to Uggagahapati. It was there that he first met the Buddha and was converted. AN.iv.213
 
@@ -10699,7 +14086,13 @@ dict_label = "DPPN"
 word = "nāgita"
 summary = "Nāgita1 A monk whose Theragāthā verse speaks of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Nāgita<sup>1</sup>
@@ -10713,12 +14106,16 @@ For some time the personal attendant of the Buddha. DN.i.151 AN.iii.31 AN.iii.34
 ``` toml
 dict_label = "DPPN"
 word = "nālaka"
-summary = "Nālaka Nephew of Asita Kāladevala. When Asita real"
+summary = "Nephew of Asita Kāladevala. When Asita realized th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nālaka
 
 Nephew of Asita Kāladevala. When Asita realized that he would not live to see the Buddha, he sought out Nālaka and asked him to leave the world at once and become an ascetic and hold himself in readiness to profit by the Buddha’s Enlightenment. This Nālaka did. When the time came, he visited the Buddha to ask about the way of practice. Snp.838–862
 
@@ -10727,7 +14124,13 @@ dict_label = "DPPN"
 word = "nālā"
 summary = "NālāNālakagāmakāNālagā A village in Māgadha, near"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NālāNālakagāmakāNālagā
@@ -10741,7 +14144,13 @@ dict_label = "DPPN"
 word = "nālāgiri"
 summary = "NālāgiriNāḷāgiri An elephant of the royal stalls a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NālāgiriNāḷāgiri
@@ -10751,36 +14160,48 @@ An elephant of the royal stalls at Rājagaha. Devadatta, after several vain atte
 ``` toml
 dict_label = "DPPN"
 word = "nārada"
-summary = "Nārada A monk, mentioned once as staying at the Gh"
+summary = "A monk, mentioned once as staying at the Ghositārā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nārada
 
 A monk, mentioned once as staying at the Ghositārāma in Kosambī, with Musila, Savittha, and Ānanda. In the course of discussion he declares that, though aware of the nature of nibbana, he is not an arahant. SN.ii.115*f.* Elsewhere AN.iii.57*f.* he is mentioned as staying in the Kukkuṭārāma in Pāṭaliputta. At that time King Muṇḍa was grieving over the death of his wife, Bhaddā, to the neglect of everything else, and his treasurer, Piyaka, suggested that he should visit Nārada. The king agreed, and Nārada preached to him on the inevitable ness of old age, disease, death, etc. Muṇḍa was consoled, and buried the body of his wife, which he had till then preserved.
 
 ``` toml
 dict_label = "DPPN"
 word = "nāthaputtiyā"
-summary = "Nāthaputtiyā The followers of Nigaṇṭha Nāṭaputta."
+summary = "The followers of Nigaṇṭha Nāṭaputta. DN.iii.117"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāthaputtiyā
 
 The followers of Nigaṇṭha Nāṭaputta. DN.iii.117
 
 ``` toml
 dict_label = "DPPN"
 word = "nāvindakī"
-summary = "Nāvindakī One of King Eḷeyya’s guards. He was a fo"
+summary = "One of King Eḷeyya’s guards. He was a follower of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāvindakī
 
 One of King Eḷeyya’s guards. He was a follower of Rāmaputta. AN.ii.180
 
@@ -10789,7 +14210,13 @@ dict_label = "DPPN"
 word = "nāḷandā"
 summary = "NāḷandāNālaNālakaNālikaUpatissagāma Mentioned as a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NāḷandāNālaNālakaNālikaUpatissagāma
@@ -10807,12 +14234,16 @@ According to the Kevaṭṭa Sutta, DN.i.211 in the Buddha’s time Nāḷandā 
 ``` toml
 dict_label = "DPPN"
 word = "nāḷijaṅgha"
-summary = "Nāḷijaṅgha A brahmin, whom Mallikā sent to the Bud"
+summary = "A brahmin, whom Mallikā sent to the Buddha to find"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nāḷijaṅgha
 
 A brahmin, whom Mallikā sent to the Buddha to find out if it were true that the Buddha had said that loved ones brought morrow and tribulation. MN.ii.108
 
@@ -10821,7 +14252,13 @@ dict_label = "DPPN"
 word = "nāṭasuriyā"
 summary = "NāṭasuriyāNātapuriya A city in Uttarakuru. DN.iii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 NāṭasuriyāNātapuriya
@@ -10833,60 +14270,80 @@ A city in Uttarakuru. DN.iii.200
 ``` toml
 dict_label = "DPPN"
 word = "nīta"
-summary = "Nīta A monk whose Theragāthā verse asks when the l"
+summary = "A monk whose Theragāthā verse asks when the lazy f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nīta
 
 A monk whose Theragāthā verse asks when the lazy fool will ever escape suffering. Thag.84
 
 ``` toml
 dict_label = "DPPN"
 word = "nītha"
-summary = "Nītha A Pacceka Buddha, mentioned in a nominal lis"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Nītha
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "odātagayhā"
-summary = "Odātagayhā A class of eminent devas among those pr"
+summary = "A class of eminent devas among those present at th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Odātagayhā
 
 A class of eminent devas among those present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "ojasi"
-summary = "Ojasi Servant of Kuvera. He takes Kuvera’s message"
+summary = "Servant of Kuvera. He takes Kuvera’s messages and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ojasi
 
 Servant of Kuvera. He takes Kuvera’s messages and makes them known in Uttarakuru. DN.iii.201
 
 ``` toml
 dict_label = "DPPN"
 word = "okkāka"
-summary = "Okkāka A king, ancestor of the Sākyas and the Koli"
+summary = "A king, ancestor of the Sākyas and the Kolians. In"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Okkāka
 
 A king, ancestor of the Sākyas and the Kolians.
 
@@ -10901,7 +14358,13 @@ dict_label = "DPPN"
 word = "opamañña"
 summary = "Opamañña1 One of the names of Pokkharasāti. MN.ii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Opamañña<sup>1</sup>
@@ -10915,48 +14378,64 @@ A Gandhabba chieftain, who was among those present at the preaching of the Mahā
 ``` toml
 dict_label = "DPPN"
 word = "osadhī"
-summary = "Osadhī The morning star, used in describing typica"
+summary = "The morning star, used in describing typical white"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Osadhī
 
 The morning star, used in describing typical whiteness, DN.ii.111 and also great brightness and purity. It.20
 
 ``` toml
 dict_label = "DPPN"
 word = "oṭṭhaddha"
-summary = "Oṭṭhaddha One of the Licchavis. He went to visit t"
+summary = "One of the Licchavis. He went to visit the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Oṭṭhaddha
 
 One of the Licchavis. He went to visit the Buddha at the Kūṭāgārasālā in Vesalī, at a time when the Buddha had given orders that no one should be allowed to see him; but through the intervention of the novice Sīha, Oṭṭhaddha was admitted to the Buddha’s presence with a large retinue of followers, all splendidly adorned in various ways, though it is stated that earlier in the day they had taken the uposatha\-vows. The conversation that took place between Oṭṭhaddha and the Buddha is recorded in the Mahāli Sutta. DN.i.150*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "pabbata"
-summary = "Pabbata A Pacceka Buddha, mentioned in a nominal l"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pabbata
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "paccantajanapadā"
-summary = "Paccantajanapadā The boundaries of the Majjhimades"
+summary = "The boundaries of the Majjhimadesa are given, and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paccantajanapadā
 
 The boundaries of the Majjhimadesa are given, and the Paccantajanapadā lies beyond these boundaries. They are: in the east, Kajaṅgala and Mahāsālā; in the south east, the river Salalavatī; in the south, Setakaṇṇikā; in the west, Thūṇa; and in the north, Usīraddhaja mountain. Vin.i.197
 
@@ -10967,36 +14446,48 @@ outside Middle Country3region
 ``` toml
 dict_label = "DPPN"
 word = "paccaya"
-summary = "Paccaya A monk whose Theragāthā verses speak of hi"
+summary = "A monk whose Theragāthā verses speak of his energe"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paccaya
 
 A monk whose Theragāthā verses speak of his energetic resolve after going forth. Thag.222–224
 
 ``` toml
 dict_label = "DPPN"
 word = "paccekabrahmā"
-summary = "Paccekabrahmā Mention is made in one or two places"
+summary = "Mention is made in one or two places in the books"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paccekabrahmā
 
 Mention is made in one or two places in the books of Brahmas who are described as Paccekabrahmā—e.g., Subrahmā, Suddhāvāsa and Tudu. I have not come across any explanation of this term. It may designate a Brahmā who does not live in any recognized Brahmā world, but in a world of his own.
 
 ``` toml
 dict_label = "DPPN"
 word = "paccekabuddha"
-summary = "Paccekabuddha The name given to one who is enlight"
+summary = "The name given to one who is enlightened without e"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paccekabuddha
 
 The name given to one who is enlightened without establishing a religion. In the Isigili Sutta MN.iii.68*ff.* appears a long list of Pacceka Buddhas who dwelt on the Isigili Mountain, and after whom the mountain was named.
 
@@ -11005,7 +14496,13 @@ dict_label = "DPPN"
 word = "pacchābhumma"
 summary = "PacchābhummaPacchābhūma The name given to the dist"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PacchābhummaPacchābhūma
@@ -11015,24 +14512,32 @@ The name given to the district to the west of the Middle Country. SN.iii.5 SN.ii
 ``` toml
 dict_label = "DPPN"
 word = "pacetana"
-summary = "Pacetana A king of old, whose wheelwright was the"
+summary = "A king of old, whose wheelwright was the Buddha in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pacetana
 
 A king of old, whose wheelwright was the Buddha in a past life. AN.i.110
 
 ``` toml
 dict_label = "DPPN"
 word = "paduma"
-summary = "Paduma A Hell. The monk Kokālika was born there. S"
+summary = "A Hell. The monk Kokālika was born there. Snp.p.12"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paduma
 
 A Hell. The monk Kokālika was born there. Snp.p.126
 
@@ -11041,36 +14546,48 @@ A Hell. The monk Kokālika was born there. Snp.p.126
 ``` toml
 dict_label = "DPPN"
 word = "padumā"
-summary = "Padumā One of the most distinguished lay women, fo"
+summary = "One of the most distinguished lay women, followers"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Padumā
 
 One of the most distinguished lay women, followers of the Buddha. AN.iv.347 She was the wife of Meṇḍaka and her full name was Candapadumā
 
 ``` toml
 dict_label = "DPPN"
 word = "pahārāda"
-summary = "Pahārāda An Asura chief. DN.ii.259 At the Nalerupu"
+summary = "An Asura chief. DN.ii.259 At the Nalerupucimaṇḍa i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pahārāda
 
 An Asura chief. DN.ii.259 At the Nalerupucimaṇḍa in Verañja he visited the Buddha. In answer to a question, Pahārāda tells the Buddha that there are eight wonderful characteristics of the ocean, on account of which Asuras delight in it. The Buddha tells him of eight similar qualities in his own teaching and discipline, wherefore monks find joy in them. AN.iv.197*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "pahāsa"
-summary = "Pahāsa A hell in which stage players are born afte"
+summary = "A hell in which stage players are born after death"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pahāsa
 
 A hell in which stage players are born after death. Tālapuṭa maintained that after death they were born among the Pahāsadevi. The Buddha contradicts this and says that their rebirth is in a Niraya and not in any deva world. SN.iv.305*f.*
 
@@ -11081,7 +14598,13 @@ dict_label = "DPPN"
 word = "pajjanika"
 summary = "PajjanikaSajjanela A Koliyan village, the residenc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PajjanikaSajjanela
@@ -11093,12 +14616,16 @@ Koliya3town
 ``` toml
 dict_label = "DPPN"
 word = "pajjunna"
-summary = "Pajjunna A devarāja, the god of rain. Kokanadā and"
+summary = "A devarāja, the god of rain. Kokanadā and Culla Ko"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pajjunna
 
 A devarāja, the god of rain. Kokanadā and Culla Kokanadā were his daughters. SN.i.29*f.*
 
@@ -11107,12 +14634,16 @@ Pajjunna is mentioned among the Mahāyakkhas to be invoked in time of need, DN.i
 ``` toml
 dict_label = "DPPN"
 word = "pajāpati"
-summary = "Pajāpati One of the kings of the devas, mentioned"
+summary = "One of the kings of the devas, mentioned with Sakk"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pajāpati
 
 One of the kings of the devas, mentioned with Sakka, Varuṇa, Isāna, etc. MN.i.2 SN.i.219 DN.i.244 DN.ii.274
 
@@ -11123,12 +14654,16 @@ In the Āṭānāṭiya Sutta DN.iii.204 he is mentioned among the Mahāyakkhas,
 ``` toml
 dict_label = "DPPN"
 word = "pakkha"
-summary = "Pakkha A monk whose Theragāthā verse speaks of att"
+summary = "A monk whose Theragāthā verse speaks of attaining"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pakkha
 
 A monk whose Theragāthā verse speaks of attaining happiness. Thag.63
 
@@ -11137,7 +14672,13 @@ dict_label = "DPPN"
 word = "pakudha"
 summary = "PakudhaPakudaKakudhaKakudaPakudha KaccāyanaPakudha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PakudhaPakudaKakudhaKakudaPakudha KaccāyanaPakudha KātiyānaKakudha KaccāyanaKakudha Kātiyāna
@@ -11151,12 +14692,16 @@ We are told MN.i.250 MN.ii.4 that Pakudha’s followers did not hold him in high
 ``` toml
 dict_label = "DPPN"
 word = "palāsavana"
-summary = "Palāsavana A wood near Naḷakapāna in Kosala. The B"
+summary = "A wood near Naḷakapāna in Kosala. The Buddha staye"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Palāsavana
 
 A wood near Naḷakapāna in Kosala. The Buddha stayed there, AN.v.122 and it was there that the Naḷakapāna Sutta was preached. MN.i.462
 
@@ -11165,12 +14710,16 @@ near Naḷakapāna in Kosala3park
 ``` toml
 dict_label = "DPPN"
 word = "panāda"
-summary = "Panāda one of the chief Yakkhas to be invoked by t"
+summary = "one of the chief Yakkhas to be invoked by the Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Panāda
 
 one of the chief Yakkhas to be invoked by the Buddha’s followers in time of need. DN.iii.204 He is also mentioned in the Mahāsamaya Sutta. DN.ii.258
 
@@ -11179,7 +14728,13 @@ dict_label = "DPPN"
 word = "papāte pabbate"
 summary = "Papāte PabbatePapātapabbata A mountain in Avantī,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Papāte PabbatePapātapabbata
@@ -11191,12 +14746,16 @@ A mountain in Avantī, near Kuraraghara. It was a favourite spot of Mahā Kaccā
 ``` toml
 dict_label = "DPPN"
 word = "parakusināṭā"
-summary = "Parakusināṭā One of the cities of Uttarakuru, desc"
+summary = "One of the cities of Uttarakuru, described as havi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Parakusināṭā
 
 One of the cities of Uttarakuru, described as having been built on an airy base. DN.iii.200
 
@@ -11205,24 +14764,32 @@ One of the cities of Uttarakuru, described as having been built on an airy base.
 ``` toml
 dict_label = "DPPN"
 word = "paramatta"
-summary = "Paramatta A Brahmā who was present at the Mahāsama"
+summary = "A Brahmā who was present at the Mahāsamaya. DN.ii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paramatta
 
 A Brahmā who was present at the Mahāsamaya. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "paranimmitavasavattī"
-summary = "Paranimmitavasavattī A class of devas, inhabitants"
+summary = "A class of devas, inhabitants of the highest stage"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paranimmitavasavattī
 
 A class of devas, inhabitants of the highest stage of the sensuous universe.
 
@@ -11231,12 +14798,16 @@ They are described AN.i.210 SN.v.410 SN.v.423 DN.ii.91 DN.iii.218 as “beings w
 ``` toml
 dict_label = "DPPN"
 word = "paribbājakā"
-summary = "Paribbājakā Wanderer. The name given to some of th"
+summary = "Wanderer. The name given to some of the ascetics a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paribbājakā
 
 Wanderer. The name given to some of the ascetics and recluses of the Buddha’s time. They were not exclusively brahmin. Their presence seems to have been recognized and respected from earlier times. Generally speaking, their creed is formulated as a belief in perfect bliss after death for the self purged from evil, and as a conviction that this bliss can be won by brahmacariyā, by freedom from all evil in acts, words, aims, and mode of livelihood. MN.ii.24
 
@@ -11253,48 +14824,64 @@ The inhabitants of the towns and villager, near which the Paribbājakas stopped,
 ``` toml
 dict_label = "DPPN"
 word = "paripuṇṇaka"
-summary = "Paripuṇṇaka A monk whose Theragāthā verse speaks o"
+summary = "A monk whose Theragāthā verse speaks of the superi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paripuṇṇaka
 
 A monk whose Theragāthā verse speaks of the superiority of the taste of Dhamma over all other flavors. Thag.91
 
 ``` toml
 dict_label = "DPPN"
 word = "parisuddhābhā"
-summary = "Parisuddhābhā A class of devas included among the"
+summary = "A class of devas included among the Ābhā gods. Bei"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Parisuddhābhā
 
 A class of devas included among the Ābhā gods. Beings are born among them as a result of absorbing the idea of untarnished brilliancy.MN.iii.102 MN.iii.147 They belong to the plane of the third *jhāna*.
 
 ``` toml
 dict_label = "DPPN"
 word = "parittasubhā"
-summary = "Parittasubhā A class of devas belonging to the Sub"
+summary = "A class of devas belonging to the Subha Devas. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Parittasubhā
 
 A class of devas belonging to the Subha Devas. MN.iii.102 Beings are born among them after attaining the third *jhāna*.
 
 ``` toml
 dict_label = "DPPN"
 word = "parittābhā"
-summary = "Parittābhā A class of devas included among the Ābh"
+summary = "A class of devas included among the Ābhā gods. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Parittābhā
 
 A class of devas included among the Ābhā gods. MN.iii.102
 
@@ -11303,12 +14890,16 @@ They belong to the plane of the second *jhāna*. Beings are born there by virtue
 ``` toml
 dict_label = "DPPN"
 word = "pariḷāha"
-summary = "Pariḷāha A hell where all objects of the senses, e"
+summary = "A hell where all objects of the senses, even when"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pariḷāha
 
 A hell where all objects of the senses, even when really attractive, appear quite repulsive to those experiencing them. SN.v.450
 
@@ -11319,7 +14910,13 @@ dict_label = "DPPN"
 word = "parājitā"
 summary = "ParājitāParajita Sarājita A Niraya in which those"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ParājitāParajita Sarājita
@@ -11333,7 +14930,13 @@ dict_label = "DPPN"
 word = "pasenadi"
 summary = "PasenadiSeniya King of Kosala and contemporary of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PasenadiSeniya
@@ -11343,36 +14946,48 @@ King of Kosala and contemporary of the Buddha. Quite early in the Buddha’s min
 ``` toml
 dict_label = "DPPN"
 word = "passi"
-summary = "Passi A Pacceka Buddha mentioned in a nominal list"
+summary = "A Pacceka Buddha mentioned in a nominal list. MN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Passi
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "passika"
-summary = "Passika His Theragāthā verses speak of his helping"
+summary = "His Theragāthā verses speak of his helping his rel"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Passika
 
 His Theragāthā verses speak of his helping his relatives to practice generosity, so they attained a favorable rebirth. Thag.240–242
 
 ``` toml
 dict_label = "DPPN"
 word = "patiṭṭhāna"
-summary = "Patiṭṭhāna The capital of Aḷaka, the first place t"
+summary = "The capital of Aḷaka, the first place to be passed"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Patiṭṭhāna
 
 The capital of Aḷaka, the first place to be passed by Bāvarī’s disciples on their way to Sāvatthī. Snp.1011 It is identified with the Baithana or Paitana of Ptolemy.
 
@@ -11383,7 +14998,13 @@ dict_label = "DPPN"
 word = "patāyanti"
 summary = "PatāyantiPatāyantīBhagalavatī A place in Uttarakur"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PatāyantiPatāyantīBhagalavatī
@@ -11395,24 +15016,32 @@ A place in Uttarakuru where the Yakkhas assemble. The Dīgha Nikāya DN.iii.201 
 ``` toml
 dict_label = "DPPN"
 word = "pavattā"
-summary = "Pavattā A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pavattā
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "paviṭṭha"
-summary = "Paviṭṭha A monk whose Theragāthā verse speaks of t"
+summary = "A monk whose Theragāthā verse speaks of the end of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paviṭṭha
 
 A monk whose Theragāthā verse speaks of the end of rebirth. Thag.87
 
@@ -11421,7 +15050,13 @@ dict_label = "DPPN"
 word = "payāga"
 summary = "PayāgaPayāgatiṭṭhaPayāgapatiṭṭhāna A ford on the G"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PayāgaPayāgatiṭṭhaPayāgapatiṭṭhāna
@@ -11435,12 +15070,16 @@ It is identified with the modern Allahabad, at the confluence of the Gaṅgā an
 ``` toml
 dict_label = "DPPN"
 word = "pañcakaṅga"
-summary = "Pañcakaṅga The carpenter of Pasenadi, king of Kosa"
+summary = "The carpenter of Pasenadi, king of Kosala. He was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pañcakaṅga
 
 The carpenter of Pasenadi, king of Kosala. He was a devoted follower of the Buddha and loved discussion.
 
@@ -11453,7 +15092,13 @@ dict_label = "DPPN"
 word = "pañcanadī"
 summary = "PañcanadīPañcamahānadī In several places in the te"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PañcanadīPañcamahānadī
@@ -11465,12 +15110,16 @@ In several places in the texts five rivers are mentioned as the five great river
 ``` toml
 dict_label = "DPPN"
 word = "pañcasāla"
-summary = "Pañcasāla A brahmin village of Māgadha. For an epi"
+summary = "A brahmin village of Māgadha. For an episode conne"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pañcasāla
 
 A brahmin village of Māgadha. For an episode connected with it see Piṇḍa Sutta. SN.i.113
 
@@ -11479,12 +15128,16 @@ Māgadha3town
 ``` toml
 dict_label = "DPPN"
 word = "pañcavaggiyā"
-summary = "Pañcavaggiyā The name given to the five monks—Koṇḍ"
+summary = "The name given to the five monks—Koṇḍañña (Aññā Ko"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pañcavaggiyā
 
 The name given to the five monks—Koṇḍañña (Aññā Koṇḍañña), Bhaddiya, Vappa, Mahānāma, and Assaji—to whom the Buddha preached his first sermon at Isipatana.
 
@@ -11495,7 +15148,13 @@ dict_label = "DPPN"
 word = "pañcāla"
 summary = "PañcālaPañcālajanapadaPañcālaraṭṭhaPañcālā One of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PañcālaPañcālajanapadaPañcālaraṭṭhaPañcālā
@@ -11509,36 +15168,48 @@ Pañcāla was to the east of the Kuru country, the country to the north and west
 ``` toml
 dict_label = "DPPN"
 word = "pañcālacaṇḍa"
-summary = "Pañcālacaṇḍa A devaputta who visited the Buddha at"
+summary = "A devaputta who visited the Buddha at Jetavana and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pañcālacaṇḍa
 
 A *devaputta* who visited the Buddha at Jetavana and uttered a verse to the effect that the man who understands *jhāna* finds room even among crowding obstacles. The Buddha corrects him, saying that those who are mindful and self possessed know the way to Nibbāna. SN.i.48 It is probably this same deva who is mentioned as a Mahāyakkha in the Āṭānāṭiya Sutta DN.iii.205 who is to be invoked by the Buddha’s followers in time of need.
 
 ``` toml
 dict_label = "DPPN"
 word = "paṅga"
-summary = "Paṅga The name of a Pacceka Buddha, found in a nom"
+summary = "The name of a Pacceka Buddha, found in a nominal l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paṅga
 
 The name of a Pacceka Buddha, found in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "paṅkadhā"
-summary = "Paṅkadhā A township in Kosala, the residence of a"
+summary = "A township in Kosala, the residence of a monk name"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paṅkadhā
 
 A township in Kosala, the residence of a monk named Kassapa of the Kampagotta. The Buddha is mentioned as having once stayed there during his tours in Kosala. AN.i.236
 
@@ -11547,12 +15218,16 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "paṇḍaka"
-summary = "Paṇḍaka A monk, friend of Kapila, who lived in a v"
+summary = "A monk, friend of Kapila, who lived in a village n"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paṇḍaka
 
 A monk, friend of Kapila, who lived in a village near Kosambī. He was found guilty of having taken what did not belong to him and also of unchastity. Vin.iii.67
 
@@ -11561,7 +15236,13 @@ dict_label = "DPPN"
 word = "paṇḍara"
 summary = "PaṇḍaraPaṇdarasaPaṇḍarasagotta The name of a clan."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PaṇḍaraPaṇdarasaPaṇḍarasagotta
@@ -11571,12 +15252,16 @@ The name of a clan. An ascetic of this clan, hearing Phussa Thera preach, asked 
 ``` toml
 dict_label = "DPPN"
 word = "paṇḍava"
-summary = "Paṇḍava A hill near Rājagaha. Thag.41 Thag.1167 It"
+summary = "A hill near Rājagaha. Thag.41 Thag.1167 It seems f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paṇḍava
 
 A hill near Rājagaha. Thag.41 Thag.1167 It seems formerly to have borne another name. MN.iii.68
 
@@ -11585,24 +15270,32 @@ near Rājagaha3hill
 ``` toml
 dict_label = "DPPN"
 word = "paṇḍita"
-summary = "Paṇḍita A Pacceka Buddha, mentioned in a nominal l"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paṇḍita
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "paṇḍuputta"
-summary = "Paṇḍuputta An Ājīvaka. He came of a wagon building"
+summary = "An Ājīvaka. He came of a wagon building stock of b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Paṇḍuputta
 
 An Ājīvaka. He came of a wagon building stock of bygone days. In the Anaṅgaṇa Sutta, MN.i.31*f.* Moggallāna tells Sāriputta that, one day, when begging alms in Rājagaha, he came to the house of Samīti, the wagon builder who was shaping a felloe. Standing by was Paṇḍuputta, watching him and wishing that he should shape it without blemish. When Samīti did so, Paṇḍuputta expressed his joy, saying that Samīti had read his thoughts.
 
@@ -11611,7 +15304,13 @@ dict_label = "DPPN"
 word = "paṭiyāloka"
 summary = "PaṭiyālokaPatiyāloka A place near Rājagaha. Vin.iv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PaṭiyālokaPatiyāloka
@@ -11625,7 +15324,13 @@ dict_label = "DPPN"
 word = "paṭācārā "
 summary = "Paṭācārā A bhikkhunī whose Therīgāthā verses speak"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Paṭācārā
@@ -11635,72 +15340,96 @@ A bhikkhunī whose Therīgāthā verses speak of her efforts to attain Awakening
 ``` toml
 dict_label = "DPPN"
 word = "pessa"
-summary = "Pessa An elephant trainer of Campā. He visited the"
+summary = "An elephant trainer of Campā. He visited the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pessa
 
 An elephant trainer of Campā. He visited the Buddha at Gaggarāpokkharanī where Kandaraka was also present, and his conversation on that occasion is recorded in the Kandaraka Sutta. When Pessa had left, the Buddha is reported to have said that he was a man of great understanding, and that had he stayed longer he could have taken away with him something which would have proved precious to him. MN.i.339–342
 
 ``` toml
 dict_label = "DPPN"
 word = "phagguna"
-summary = "Phagguna A monk. In the Saṃyutta Nikāya SN.iv.52 h"
+summary = "A monk. In the Saṃyutta Nikāya SN.iv.52 he is repr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Phagguna
 
 A monk. In the Saṃyutta Nikāya SN.iv.52 he is represented as asking the Buddha if it were possible, by means of any of the senses, to recognize and proclaim the past Buddhas. The Buddha replies in the negative. It is probably the same monk who is mentioned in the Aṅguttara Nikāya AN.iii.379*ff.* as having been visited during his illness by the Buddha on the suggestion of Ānanda. The Buddha found Phagguna in bed and grievously ill, and he talked to him and comforted him. Phagguna died soon after, having attained arahantship.
 
 ``` toml
 dict_label = "DPPN"
 word = "phalaganda"
-summary = "Phalaganda One of the seven human beings born in t"
+summary = "One of the seven human beings born in the Avihā-wo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Phalaganda
 
 One of the seven human beings born in the Avihā\-world, where they will pass completely away. SN.i.35 SN.i.60
 
 ``` toml
 dict_label = "DPPN"
 word = "phalikasandāna"
-summary = "Phalikasandāna One of the Theras dwelling in the K"
+summary = "One of the Theras dwelling in the Kukkuṭārāma in P"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Phalikasandāna
 
 One of the Theras dwelling in the Kukkuṭārāma in Pāṭaliputta in the time of the Buddha. Vin.i.300
 
 ``` toml
 dict_label = "DPPN"
 word = "phussa"
-summary = "Phussa A monk whose Theragāthā verses depict the a"
+summary = "A monk whose Theragāthā verses depict the ascetic"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Phussa
 
 A monk whose Theragāthā verses depict the ascetic Paṇḍarassagotta questioning him on the future decline of Bhikkhus. Thag.949–980
 
 ``` toml
 dict_label = "DPPN"
 word = "pilakkhaguhā"
-summary = "Pilakkhaguhā A cave near Kosambī. The wanderer San"
+summary = "A cave near Kosambī. The wanderer Sandaka is said"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pilakkhaguhā
 
 A cave near Kosambī. The wanderer Sandaka is said to have stayed there. Nearby was the Devakatasobbha. MN.i.513
 
@@ -11711,7 +15440,13 @@ dict_label = "DPPN"
 word = "pilindavaccha"
 summary = "PilindavacchaPilindivacchaPilindiyavacchaPilindaPi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PilindavacchaPilindivacchaPilindiyavacchaPilindaPilindiPilindiya
@@ -11729,12 +15464,16 @@ Another story is related of Pilinda’s *iddhi* powers. Vin.iii.67 Once a family
 ``` toml
 dict_label = "DPPN"
 word = "pilotika"
-summary = "Pilotika A wanderer. Jāṇussoṇi once met him return"
+summary = "A wanderer. Jāṇussoṇi once met him returning from"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pilotika
 
 A wanderer. Jāṇussoṇi once met him returning from Jetavana, where he had gone early to wait on the Buddha. Pilotika, on being questioned, spoke very highly of the Buddha. It is this conversation which, on its being repeated by Jāṇussoṇi to the Buddha, led to the preaching of the Cullahatthipadopama Sutta. MN.i.175*ff.*
 
@@ -11743,7 +15482,13 @@ dict_label = "DPPN"
 word = "pippaliguhā"
 summary = "PippaliguhāPipphaligūhā A cave near Rājagaha, evid"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PippaliguhāPipphaligūhā
@@ -11755,72 +15500,96 @@ A cave near Rājagaha, evidently a favourite haunt of Mahā Kassapa. Once when h
 ``` toml
 dict_label = "DPPN"
 word = "piyadassī"
-summary = "Piyadassī A Pacceka Buddha. MN.iii.69"
+summary = "A Pacceka Buddha. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Piyadassī
 
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "piyañjaha"
-summary = "Piyañjaha A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of going agai"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Piyañjaha
 
 A monk whose Theragāthā verse speaks of going against what everyone else does. Thag.76
 
 ``` toml
 dict_label = "DPPN"
 word = "piyaṅkara"
-summary = "Piyaṅkara A little boy Yakkha. While his mother, w"
+summary = "A little boy Yakkha. While his mother, with him on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Piyaṅkara
 
 A little boy Yakkha. While his mother, with him on her hip, was seeking for food at night, she came unexpectedly to Jetavana where Anuruddha was reciting some verses. The sound pleased her and she stood “smitten to the marrow, like a post,” hushing to sleep her child who was whimpering for food. SN.i.209
 
 ``` toml
 dict_label = "DPPN"
 word = "piṅgalakoccha"
-summary = "Piṅgalakoccha A brahmin of Sāvatthī. He visited th"
+summary = "A brahmin of Sāvatthī. He visited the Buddha at Je"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Piṅgalakoccha
 
 A brahmin of Sāvatthī. He visited the Buddha at Jetavana and the Buddha preached to him the Cūḷasāropama Sutta, at the end of which he declared himself the Buddha’s follower. MN.i.198*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "piṅgiya"
-summary = "Piṅgiya Nephew and pupil of Bāvarī. At the time th"
+summary = "Nephew and pupil of Bāvarī. At the time that he vi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Piṅgiya
 
 Nephew and pupil of Bāvarī. At the time that he visited the Buddha with the other disciples he was 120 years old and very feeble. At the end of his discussion with the Buddha, as recorded in the Piṅgiya Sutta, Snp.1120–1123 because of his feebleness, he failed to reach any attainment. Thereupon he praised the Buddha and begged of him to go on. The Buddha preached to him further, and he became an anāgāmī, failing, however, to attain arahantship because his mind wandered to his maternal uncle, Bāvarī. Later, with the Buddha’s leave, he visited Bāvarī and told him the glad tidings, describing the Buddha’s glory. Snp.1131–1145 At the end of his statement, the Buddha, seeing that the minds of both of them were mature, sent forth a ray of light from Sāvatthī and, appearing before them, preached to them. He was probably one of the seven anāgamīns born in the Avihā world, in the company of Ghatīkārā. SN.i.35 SN.i.60
 
 ``` toml
 dict_label = "DPPN"
 word = "piṅgiyānī"
-summary = "Piṅgiyānī A brahmin of Vesāli. The Aṅguttara Nikāy"
+summary = "A brahmin of Vesāli. The Aṅguttara Nikāya records"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Piṅgiyānī
 
 A brahmin of Vesāli. The Aṅguttara Nikāya records a conversation between him and Kāraṇapālī. The latter meets Piṅgiyānī and, on learning that he was returning from a visit to the Buddha, asks him about the Buddha’s wisdom. Piṅgiyāni utters the Buddha’s praises with a wealth of simile and metaphor. Kāraṇapālī is impressed, and declares himself the Buddha’s follower. AN.iii.236*ff.* On another occasion, Piṅgiyāni is present when five hundred Licchavis come to pay honour to the Buddha at the Kūṭāgārasālā. The sight of the Buddha, sitting in their midst, outshining them all, inspires Piṅgiyāni and he bursts into song. The Licchavis give him five hundred upper garments, all of which he presents to the Buddha. AN.iii.239*f.*
 
@@ -11829,7 +15598,13 @@ dict_label = "DPPN"
 word = "piṇḍola"
 summary = "Piṇḍola1 A Pacceka Buddha, given in a nominal list"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Piṇḍola<sup>1</sup>
@@ -11851,7 +15626,13 @@ dict_label = "DPPN"
 word = "pokkharasāti"
 summary = "PokkharasātiPokkharasādi A brahmin of great wealth"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PokkharasātiPokkharasādi
@@ -11861,12 +15642,16 @@ A brahmin of great wealth and learning who lived in Ukkaṭṭha, on a royal dem
 ``` toml
 dict_label = "DPPN"
 word = "pokkharaṇiyā"
-summary = "Pokkharaṇiyā A monastery in Sāmagāma where the Bud"
+summary = "A monastery in Sāmagāma where the Buddha is said o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pokkharaṇiyā
 
 A monastery in Sāmagāma where the Buddha is said once to have stayed. AN.iii.309
 
@@ -11875,36 +15660,48 @@ Sāmagāma3monastery
 ``` toml
 dict_label = "DPPN"
 word = "posiya"
-summary = "Posiya A monk whose Theragāthā verse speaks of cau"
+summary = "A monk whose Theragāthā verse speaks of caution wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Posiya
 
 A monk whose Theragāthā verse speaks of caution when accepting food from women. Thag.34
 
 ``` toml
 dict_label = "DPPN"
 word = "posāla"
-summary = "Posāla One of Bāvari’s pupils. His question to the"
+summary = "One of Bāvari’s pupils. His question to the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Posāla
 
 One of Bāvari’s pupils. His question to the Buddha and the answer thereto are given in the Posālamāṇavaa pucchā of the Pārāyana Vagga. Snp.1006 Snp.1112–1115.
 
 ``` toml
 dict_label = "DPPN"
 word = "potaliputta"
-summary = "Potaliputta A wanderer who visited Samiddhi at the"
+summary = "A wanderer who visited Samiddhi at the Vejuvana in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Potaliputta
 
 A wanderer who visited Samiddhi at the Vejuvana in Rājagaha and said that he had heard the Buddha declare that all action and speech were vain, and that what passed in the mind was the only thing of importance. A stage could be reached in which there was no feeling whatever. Samiddhi protested that Potaliputta misinterpreted the Buddha’s teaching, and Potaliputta then asked him questions regarding experience, which Samiddhi answered. Potaliputta, showing neither approval nor disapproval, walked away. When the Buddha heard from Ānanda of Potaliputta’s questions and Samiddhi’s answers he blamed Samiddhi for his hasty reply.
 
@@ -11913,12 +15710,16 @@ For details see Mahākammavibhaṅga Sutta. MN.iii.207*ff.*
 ``` toml
 dict_label = "DPPN"
 word = "potaliya"
-summary = "Potaliya A householder of Āpaṇa. Meeting the Buddh"
+summary = "A householder of Āpaṇa. Meeting the Buddha in a wo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Potaliya
 
 A householder of Āpaṇa. Meeting the Buddha in a wood outside the town, he greeted him, and was addressed by the Buddha as “householder,” at which he was very angry, for he had, so he said, handed over his wealth to his sons, and possessed only his food and clothing. But the Buddha told him that true retirement from the household meant far more than that, and, at the request of Potaliya, he proceeded to explain his words. At the end of the discourse Potaliya declared himself the Buddha’s follower. MN.i.359*ff.*
 
@@ -11927,24 +15728,32 @@ A conversation he had with the Buddha is recorded in the Aṅguttara Nikāya. At
 ``` toml
 dict_label = "DPPN"
 word = "poṭṭhapāda"
-summary = "Poṭṭhapāda A wanderer. A discussion between him an"
+summary = "A wanderer. A discussion between him and the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Poṭṭhapāda
 
 A wanderer. A discussion between him and the Buddha on *samādhi* and on the soul, which took place in Mallikārāma in Sāvatthī, is reported in the Poṭṭhapāda Sutta. Poṭṭhapāda, accepting the Buddha’s views, was jeered at by his companions for doing so. Two or three days later he again visited the Buddha with Citta Hatthisāriputta\>, when the Buddha continued the earlier discussion on personality and the soul. At the end of the discourse Poṭṭhapāda became the Buddha’s follower. DN.i.178*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "pubbakoṭṭhakā"
-summary = "Pubbakoṭṭhakā A bathing place in Sāvatthī, near th"
+summary = "A bathing place in Sāvatthī, near the Migāramātupā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pubbakoṭṭhakā
 
 A bathing place in Sāvatthī, near the Migāramātupāsāda, and therefore to the east of the city. Mention is made AN.iii.345 of the Buddha having bathed there. It was evidently extensive, for Pasenadi’s state elephant Seta also bathed there to the accompaniment of music. The bathing place was probably near the Pubbakoṭṭhaka (? Eastern Gatehouse) of Sāvatthī, where the Buddha is said to have stayed. SN.v.220 The bathing place seems also to have been called Pubbakoṭṭhaka. Near by was the hermitage of the brahmin Rammaka. MN.i.161
 
@@ -11953,12 +15762,16 @@ A bathing place in Sāvatthī, near the Migāramātupāsāda, and therefore to t
 ``` toml
 dict_label = "DPPN"
 word = "pubbavideha"
-summary = "Pubbavideha The eastern of the four continents whi"
+summary = "The eastern of the four continents which compose a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pubbavideha
 
 The eastern of the four continents which compose a Cakkavāla. AN.i.227 AN.v.59
 
@@ -11967,12 +15780,16 @@ The eastern of the four continents which compose a Cakkavāla. AN.i.227 AN.v.59
 ``` toml
 dict_label = "DPPN"
 word = "pubbārāma"
-summary = "Pubbārāma A monastery outside the eastern gate of"
+summary = "A monastery outside the eastern gate of Sāvatthī."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pubbārāma
 
 A monastery outside the eastern gate of Sāvatthī.
 
@@ -11983,7 +15800,13 @@ dict_label = "DPPN"
 word = "pukkusa"
 summary = "Pukkusa1 A prince of the Mallas. He was a disciple"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Pukkusa<sup>1</sup>
@@ -11997,12 +15820,16 @@ The name of a caste, classified among the despised castes. AN.ii.85 MN.ii.152
 ``` toml
 dict_label = "DPPN"
 word = "pukkusāti"
-summary = "Pukkusāti A young monk whom the Buddha met at the"
+summary = "A young monk whom the Buddha met at the house of B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pukkusāti
 
 A young monk whom the Buddha met at the house of Bhaggava, the potter, in Rājagaha. Pukkusāti was already occupying the guest room of the house, and the Buddha asked to be allowed to share it, to which Pukkusāti readily agreed. They sat together for sometime in silence, and then the Buddha preached the Dhātuvibhaṅga Sutta. Pukkusāti recognised the Buddha at the end of the sermon and begged his forgiveness for not having paid him due honour; he then begged to have the upasampadā conferred on him. The Buddha consented and sent him to procure a begging bowl and a robe. On the way Pukkusāti was gored to death by a mad cow. When this was reported to the Buddha, he said that Pukkusāti was an Anāgāmin and had been born in the realms above, never more to return. MN.iii.237–247 In this context Pukkusāti is spoken of as a *kulaputta*. MN.iii.238
 
@@ -12013,7 +15840,13 @@ dict_label = "DPPN"
 word = "punabbasu"
 summary = "Punabbasu1 A young Yakkha. SN.i.210 Punabbasu2 One"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Punabbasu<sup>1</sup>
@@ -12027,24 +15860,32 @@ One of the Chabbaggiyā. His followers were called Panabbasukā, and, together w
 ``` toml
 dict_label = "DPPN"
 word = "punabbasumātā"
-summary = "Punabbasumātā A Yakkhinī, mother of Punabbasu. One"
+summary = "A Yakkhinī, mother of Punabbasu. One evening towar"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Punabbasumātā
 
 A Yakkhinī, mother of Punabbasu. One evening towards sunset, when the Buddha was at Jetavana, she, with her daughter Uttarā on her hip and the boy’s hand in hers, came to the grove in search of food. She saw the silent monks seated round the Buddha while he preached, and having hushed her babe to silence she and Punabbasu listened to the Buddha. At the end of the sermon, both mother and son became sotāpannas, Uttarā being too young to understand. SN.i.210*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "punnaji"
-summary = "Punnaji One of the four friends of Yasa who, on he"
+summary = "One of the four friends of Yasa who, on hearing of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Punnaji
 
 One of the four friends of Yasa who, on hearing of his ordination by the Buddha, visited him and were taken to the Buddha. The Buddha talked to them and they became arahants. They were among the first eleven arahants, and were ordained by the ”*ehi bhikkhu pabbajjā*.”. Vin.i.18*f.*
 
@@ -12053,7 +15894,13 @@ dict_label = "DPPN"
 word = "puppha "
 summary = "Puppha An eminent teacher of the Vinaya. Vin.v.3"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Puppha
@@ -12063,12 +15910,16 @@ An eminent teacher of the Vinaya. Vin.v.3
 ``` toml
 dict_label = "DPPN"
 word = "purindada"
-summary = "Purindada A name for Sakka, because, as a human be"
+summary = "A name for Sakka, because, as a human being, he be"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Purindada
 
 A name for Sakka, because, as a human being, he bestowed gifts from town to town. SN.i.229
 
@@ -12077,7 +15928,13 @@ dict_label = "DPPN"
 word = "purāṇa"
 summary = "Purāṇa1 A monk who lived in Dakkhiṇāgiri. It is sa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Purāṇa<sup>1</sup>
@@ -12093,12 +15950,16 @@ A conversation he had with the Buddha, in the company of Isidatta, at Sādhuka, 
 ``` toml
 dict_label = "DPPN"
 word = "puṇḍarika"
-summary = "Puṇḍarika A hell; it is a period of suffering in A"
+summary = "A hell; it is a period of suffering in Avīci, equa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Puṇḍarika
 
 A hell; it is a period of suffering in Avīci, equal to twenty Uppalakā. SN.i.152 Snp.p.126
 
@@ -12109,7 +15970,13 @@ dict_label = "DPPN"
 word = "puṇṇa"
 summary = "Puṇṇa1 He was born in the family of a householder"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Puṇṇa<sup>1</sup>
@@ -12137,7 +16004,13 @@ dict_label = "DPPN"
 word = "puṇṇaka"
 summary = "Puṇṇaka1 One of the sixteen disciples of Bāvarī, w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Puṇṇaka<sup>1</sup>
@@ -12153,7 +16026,13 @@ dict_label = "DPPN"
 word = "puṇṇamāsa"
 summary = "Puṇṇamāsa1 A monk whose Theragāthā verse says that"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Puṇṇamāsa<sup>1</sup>
@@ -12169,7 +16048,13 @@ dict_label = "DPPN"
 word = "puṇṇikā"
 summary = "Puṇṇikā2 A slave girl of Pokkharasāti. MN.ii.201"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Puṇṇikā<sup>2</sup>
@@ -12179,12 +16064,16 @@ A slave girl of Pokkharasāti. MN.ii.201
 ``` toml
 dict_label = "DPPN"
 word = "puṇṇiya"
-summary = "Puṇṇiya A monk. He is mentioned as visiting the Bu"
+summary = "A monk. He is mentioned as visiting the Buddha and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Puṇṇiya
 
 A monk. He is mentioned as visiting the Buddha and asking him under what conditions a sermon presents itself to the mind of a Tathāgata. AN.iv.337*f.* AN.v.154*f.*
 
@@ -12193,7 +16082,13 @@ dict_label = "DPPN"
 word = "puṇṇā"
 summary = "Puṇṇā1 A bhikkhunī whose Therīgāthā verse speaks o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Puṇṇā<sup>1</sup>
@@ -12209,7 +16104,13 @@ dict_label = "DPPN"
 word = "pācīnavaṃsa"
 summary = "PācīnavaṃsaPācīnavaṃsadāya A park in the Cetiya ki"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PācīnavaṃsaPācīnavaṃsadāya
@@ -12225,7 +16126,13 @@ dict_label = "DPPN"
 word = "pālileyya"
 summary = "PālileyyaPārileyyaPārileyyaka A town near Kosambī."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PālileyyaPārileyyaPārileyyaka
@@ -12237,36 +16144,48 @@ A town near Kosambī. When the Buddha found that he could not persuade the Kosam
 ``` toml
 dict_label = "DPPN"
 word = "pāragā"
-summary = "Pāragā A class of devas. DN.ii.260"
+summary = "A class of devas. DN.ii.260"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāragā
 
 A class of devas. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "pāricchattaka"
-summary = "Pāricchattaka A tree in Tāvatiṃsā, which grew in t"
+summary = "A tree in Tāvatiṃsā, which grew in the Nandanavana"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāricchattaka
 
 A tree in Tāvatiṃsā, which grew in the Nandanavana. The devas eagerly watch each stage of development of leaf and flower, and each stage is marked by great rejoicings. AN.iv.117*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "pārāpariya"
-summary = "Pārāpariya A monk whose Theragāthā verses are coll"
+summary = "A monk whose Theragāthā verses are collected in tw"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pārāpariya
 
 A monk whose Theragāthā verses are collected in two sizable groups. The first depicts him meditating in solitude and pondering over the things that one should do to accompish one’s duty and do no harm. Thag.726–746 The second was spoken by Pārāpariya after the Buddha’s parinibbāna and laments the decline of the monks. Thag.920–949
 
@@ -12275,7 +16194,13 @@ dict_label = "DPPN"
 word = "pārāsariya"
 summary = "Pārāsariya1Pārāpariya A monk whose Theragāthā vers"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Pārāsariya<sup>1</sup>Pārāpariya
@@ -12291,7 +16216,13 @@ dict_label = "DPPN"
 word = "pārāyana "
 summary = "Pārāyana The fifth and last division of the Sutta"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Pārāyana
@@ -12303,12 +16234,16 @@ The Pārāyana Vagga is mentioned in the Aṅguttara Nikāya AN.i.133 AN.i.134 A
 ``` toml
 dict_label = "DPPN"
 word = "pāsāṇakacetiya"
-summary = "Pāsāṇakacetiya A shrine near Rājagaha, where the d"
+summary = "A shrine near Rājagaha, where the disciples of Bāv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāsāṇakacetiya
 
 A shrine near Rājagaha, where the disciples of Bāvarī met and questioned the Buddha. Snp.1013
 
@@ -12317,12 +16252,16 @@ A shrine near Rājagaha, where the disciples of Bāvarī met and questioned the 
 ``` toml
 dict_label = "DPPN"
 word = "pātaligāma"
-summary = "Pātaligāma The Buddha visited Pātaligāma shortly b"
+summary = "The Buddha visited Pātaligāma shortly before his d"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pātaligāma
 
 The Buddha visited Pātaligāma shortly before his death. Although it later became the capital of Magadha, it was then a mere village. At that time Ajātasattu's ministers, Sunīdha and Vassakāra, were engaged in building fortifications there in order to repel the Vajjīs. The Buddha prophesied the future greatness of Pātaligāma, and also mentioned the danger of its destruction by fire, water, or internal discord. The gate by which the Buddha left the town was called Gotamadvāra, and the ferry at which he crossed the river, Gotamatittha Vin.i.226 30; D.ii.86ff.
 
@@ -12337,24 +16276,32 @@ Pātaligāma was so called because on the day of its foundation several pātali 
 ``` toml
 dict_label = "DPPN"
 word = "pātikaputta"
-summary = "Pātikaputta A naked ascetic of Vesāli who went abo"
+summary = "A naked ascetic of Vesāli who went about claiming"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pātikaputta
 
 A naked ascetic of Vesāli who went about claiming to have greater mystic powers than the Buddha, and thereby much impressed Sunakkhatta. Pātikaputta had prophesied that, after death, the Licchavi general Ajita would be born in Mahā Niraya, but Ajita was born in Tāvatiṃsā and accused Pātikaputta of being a liar. Later, the Buddha visited the hermitage of Pātikaputta, with a large following, in order to refute his claims, but Pātikaputta avoided him and went to the Tindukhānuparibbājakārāma. A message was sent to him asking him to come as the Buddha was at his hermitage, but Pātikaputta was unable to arise from his seat. Thereupon, a Licchavi minister, and, after him, Jāliya Dārupattikantevāsī, went to fetch him, but on discovering that he could not rise, they reviled him for his boastfulness. AN.iii.13*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "pātimokkha"
-summary = "Pātimokkha The name given to a set of rules to be"
+summary = "The name given to a set of rules to be observed by"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pātimokkha
 
 The name given to a set of rules to be observed by members of the Buddhist Order. The rules regulate the behaviour of the members of the Order towards one another in respect of clothes, dwellings, furniture, etc., held in common. Transgression of the four *pārājikas* entails permanent expulsion, of the thirteen *saṅghādisesas* entails suspension, of the thirty *nissaggiya pācittiya* entails forfeiture of some possession with confession, while the rest entail a confession only.
 
@@ -12371,7 +16318,13 @@ dict_label = "DPPN"
 word = "pāveyyakā"
 summary = "PāveyyakāPātheyyakā The name given to the inhabita"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 PāveyyakāPātheyyakā
@@ -12385,12 +16338,16 @@ The Burmese MSS. seem to spell Pāveyyakā as Pātheyyakā.
 ``` toml
 dict_label = "DPPN"
 word = "pāvā"
-summary = "Pāvā A city of the Mallas which the Buddha visited"
+summary = "A city of the Mallas which the Buddha visited duri"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāvā
 
 A city of the Mallas which the Buddha visited during his last journey, going there from Bhogagāma and stopping at Cunda’s mango grove.
 
@@ -12413,7 +16370,13 @@ dict_label = "DPPN"
 word = "pāvārikambavana"
 summary = "Pāvārikambavana1 The mango grove of Pāvārika of Ko"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Pāvārikambavana<sup>1</sup>
@@ -12429,24 +16392,32 @@ A mango grove at Nāḷandā where the Buddha stayed when on a visit there. DN.i
 ``` toml
 dict_label = "DPPN"
 word = "pāyāgā"
-summary = "Pāyāgā A class of Nāgas. DN.ii.258"
+summary = "A class of Nāgas. DN.ii.258"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāyāgā
 
 A class of Nāgas. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "pāyāsi"
-summary = "Pāyāsi A chieftain of Setavyā, who lived on a roya"
+summary = "A chieftain of Setavyā, who lived on a royal domai"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāyāsi
 
 A chieftain of Setavyā, who lived on a royal domain gifted by Pasenadi. He held the view that there was no world other than this, no fruit of actions and no rebirth. But after a discussion with Kūmara Kassapa, who was staying in the Siṃsapāvana near by, he was convinced of the error of his views. Thereupon he instituted an almsgiving to all who sought his generosity. The gifts were, however, coarse and unpalatable. A young brahmin named Uttara, who came to the almsgiving and was passed over, spoke scornfully of the gifts. Hearing of this, Pāyāsi appointed him to supervise the distribution. After death, Pāyāsi was born among the Cātummahārājika gods while Uttara was born in Tāvatiṃsā.
 
@@ -12455,12 +16426,16 @@ A chieftain of Setavyā, who lived on a royal domain gifted by Pasenadi. He held
 ``` toml
 dict_label = "DPPN"
 word = "pāṭali"
-summary = "Pāṭali A headsman of Uttara who visited the Buddha"
+summary = "A headsman of Uttara who visited the Buddha and qu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Pāṭali
 
 A headsman of Uttara who visited the Buddha and questioned him regarding his power of magic. Several conversations he had with the Buddha, on various topics, are given in the Saṃyutta Nikāya. SN.iv.340*ff.*
 
@@ -12469,7 +16444,13 @@ dict_label = "DPPN"
 word = "pūraṇa kassapa"
 summary = "Pūraṇa Kassapa One of the six well known teachers,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Pūraṇa Kassapa
@@ -12483,24 +16464,32 @@ His gotta name was Kassapa. He had a following of five hundred, among whom was t
 ``` toml
 dict_label = "DPPN"
 word = "ragā"
-summary = "Ragā One of Māra’s three daughters, who sought to"
+summary = "One of Māra’s three daughters, who sought to tempt"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ragā
 
 One of Māra’s three daughters, who sought to tempt the Buddha. Snp.835 SN.i.124*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "rakkhasā"
-summary = "Rakkhasā A class of demons, chiefly nocturnal and"
+summary = "A class of demons, chiefly nocturnal and harmful."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rakkhasā
 
 A class of demons, chiefly nocturnal and harmful. They usually have their haunt in the water and devour men when bathing there. Some of them live in the sea. Thag.931 Snp.10
 
@@ -12509,7 +16498,13 @@ dict_label = "DPPN"
 word = "rakkhita "
 summary = "Rakkhita 1 A monk whose Theragāthā verse speaks of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Rakkhita <sup>1</sup>
@@ -12525,36 +16520,48 @@ A forest tract near the village of Pārileyya. There the Buddha retired and live
 ``` toml
 dict_label = "DPPN"
 word = "rattapāṇi"
-summary = "Rattapāṇi The name of a dyer; perhaps a class name"
+summary = "The name of a dyer; perhaps a class name. MN.i.385"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rattapāṇi
 
 The name of a dyer; perhaps a class name. MN.i.385
 
 ``` toml
 dict_label = "DPPN"
 word = "ratī"
-summary = "Ratī One of the daughters of Māra."
+summary = "One of the daughters of Māra."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ratī
 
 One of the daughters of Māra.
 
 ``` toml
 dict_label = "DPPN"
 word = "raṭṭhapāla"
-summary = "Raṭṭhapāla Chief of those who had left the world t"
+summary = "Chief of those who had left the world through fait"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Raṭṭhapāla
 
 Chief of those who had left the world through faith. AN.i.24 He was born at Thullakoṭṭhita in the Kuru country as the son of a very wealthy councillor and was called by his family name of Raṭṭhapāla. When the Buddha visited Thullakoṭṭhita, Raṭṭhapāla went to hear him preach and decided to leave the world. His parents would not, however, give their consent till he threatened to starve himself to death. Realizing then that he was in earnest, they agreed to let him go on condition that he would visit them after his ordination. Raṭṭhapāla accompanied the Buddha to Sāvatthī, and there, dwelling alone, he attained arahantship within a short time. Then, with the Buddha’s permission, he returned to Thullakoṭṭhita and dwelt in the deer park of the Kuru king. The day after his arrival, while begging for alms, he came to his father’s house. His father was in the entrance hall having his hair combed, but, failing to recognize his son, he started to abuse him, taking him for an ordinary monk, one of those who had robbed him of his son. Just at that moment the slave girl of the house was about to throw away some stale rice, which Raṭṭhapāla begged of her. The girl recognized his voice, gave him the rice and told his parents who he was. When his father came to look for his son, he found him eating stale rice. Having already finished eating, when invited to enter the house, he would not do so, but on the next day he went again, and his father tried to tempt him by making a display of the immense wealth which would be his should he return to the lay life, while his former wives, beautifully clothed, asked him about the nymphs, for whose sake he led the homeless life. “For the sake of no nymphs, Sisters,” he said, and they fell fainting under the shock of being addressed as “Sisters.” Growing impatient at the conduct of his family, he asked for his meal, ate it, preached to them. MN.i.64*f.* Thag.769–775 on the impermanence of all things, the futility of wealth, the snare of beauty, etc., and returned to Migacīra.
 
@@ -12567,7 +16574,13 @@ dict_label = "DPPN"
 word = "revata"
 summary = "Revata1Khadiravaniya An eminent disciple of the Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Revata<sup>1</sup>Khadiravaniya
@@ -12595,12 +16608,16 @@ Revata suggested that the dispute should be settled in Vesāli, and the monks ha
 ``` toml
 dict_label = "DPPN"
 word = "reṇu"
-summary = "Reṇu Son and successor of King Disampati. On the d"
+summary = "Son and successor of King Disampati. On the death"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Reṇu
 
 Son and successor of King Disampati. On the death of his father Reṇu, with the advice and co operation of his chief steward Jotipāla, who was also his great friend, divided his kingdom into seven parts and shared it with his friends—Sattabhū, Brahmadatta, Vessabhū, Bharata, and the two Dhataratthas.
 
@@ -12611,7 +16628,13 @@ dict_label = "DPPN"
 word = "rohinī"
 summary = "Rohinī1 The Therīgāthā Thig.271–290 contains a set"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Rohinī<sup>1</sup>
@@ -12621,24 +16644,32 @@ The Therīgāthā Thig.271–290 contains a set of verses spoken by her in exalt
 ``` toml
 dict_label = "DPPN"
 word = "rohitassa"
-summary = "Rohitassa A devaputta. He once visited the Buddha"
+summary = "A devaputta. He once visited the Buddha at Jetavan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rohitassa
 
 A *devaputta*. He once visited the Buddha at Jetavana and asked if one could, by travelling, reach the end of the world where there would be no birth, old age, death, etc. The Buddha said that such was not possible. The *devaputta* then confessed that he had, in a previous life, been a sage called Rohitassa, of great psychic powers, able in one stride to cross from the western ocean to the eastern. With such a stride, he had travelled for one hundred years, and yet failed to reach the world’s end, where there was no birth, old age, death, etc. That was true, agreed the Buddha; in this fathom long body is the world, its origin, its making and end, likewise the practice which leads to such end. SN.i.61*f.* AN.ii.47*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "rohitassā"
-summary = "Rohitassā The legendary inhabitants of Rājagaha, i"
+summary = "The legendary inhabitants of Rājagaha, in the time"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rohitassā
 
 The legendary inhabitants of Rājagaha, in the time of Koṇāgamana Buddha. At that time, Mount Vipula was called Vaṅkaka. The life of a Rohitassa was thirty thousand years. The people took three days to climb Vipula and three to descend it. SN.ii.191
 
@@ -12647,7 +16678,13 @@ dict_label = "DPPN"
 word = "rohīnī"
 summary = "Rohīnī2 A small river dividing the Sākyan and Koli"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Rohīnī<sup>2</sup>
@@ -12661,7 +16698,13 @@ dict_label = "DPPN"
 word = "rojā"
 summary = "Rojā1 A Malla, inhabitant of Kusinārā. When the Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Rojā<sup>1</sup>
@@ -12677,12 +16720,16 @@ A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 ``` toml
 dict_label = "DPPN"
 word = "rucirā"
-summary = "Rucirā A class of devas present at the preaching o"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rucirā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -12691,7 +16738,13 @@ dict_label = "DPPN"
 word = "rucī"
 summary = "RucīRūpī An upāsikā, held up as an example to othe"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 RucīRūpī
@@ -12701,12 +16754,16 @@ An upāsikā, held up as an example to others. AN.iv.347
 ``` toml
 dict_label = "DPPN"
 word = "rādha"
-summary = "Rādha The Buddha declared him foremost among those"
+summary = "The Buddha declared him foremost among those who c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rādha
 
 The Buddha declared him foremost among those who could inspire speech in others. AN.i.25
 
@@ -12721,7 +16778,13 @@ dict_label = "DPPN"
 word = "rāhu"
 summary = "RāhuRāhubhadda An Asura chieftain. The Saṃyutta Ni"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 RāhuRāhubhadda
@@ -12739,7 +16802,13 @@ dict_label = "DPPN"
 word = "rāhula"
 summary = "RāhulaRāhulabhadda Only son of Gotama Buddha. When"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 RāhulaRāhulabhadda
@@ -12761,7 +16830,13 @@ dict_label = "DPPN"
 word = "rāhulamātā"
 summary = "RāhulamātāBimbāBhaddakaccāYasodharāBhaddakaccānāBi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 RāhulamātāBimbāBhaddakaccāYasodharāBhaddakaccānāBimbāsundarīBimbādevīSubhaddakā
@@ -12775,24 +16850,32 @@ Tradition identifies Rāhulamātā with Bhaddakaccānā who, in the Aṅguttara 
 ``` toml
 dict_label = "DPPN"
 word = "rājadatta"
-summary = "Rājadatta A monk whose Theragāthā verses speak of"
+summary = "A monk whose Theragāthā verses speak of how, when"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rājadatta
 
 A monk whose Theragāthā verses speak of how, when he saw a woman’s rotting corpse in the cemtery, at first lust arose, then he mindfully overcame his defilements. Thag.315–319
 
 ``` toml
 dict_label = "DPPN"
 word = "rājagaha"
-summary = "Rājagaha A city, the capital of Māgadha. The place"
+summary = "A city, the capital of Māgadha. The place was call"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rājagaha
 
 A city, the capital of Māgadha.
 
@@ -12823,24 +16906,32 @@ Ajātasattu was afraid of invasion by the Licchavis, and Vassakāra is mentioned
 ``` toml
 dict_label = "DPPN"
 word = "rājā"
-summary = "Rājā A Yakkha, one of the messengers of Kuvera. DN"
+summary = "A Yakkha, one of the messengers of Kuvera. DN.iii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rājā
 
 A Yakkha, one of the messengers of Kuvera. DN.iii.201
 
 ``` toml
 dict_label = "DPPN"
 word = "rājāyatana"
-summary = "Rājāyatana The name of a tree, at the foot of whic"
+summary = "The name of a tree, at the foot of which the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rājāyatana
 
 The name of a tree, at the foot of which the Buddha received a gift of wheat and honey from the merchants Tapassu and Bhallika in the eighth week after the Enlightenment. Vin.i.3*f.*
 
@@ -12851,7 +16942,13 @@ dict_label = "DPPN"
 word = "rāmagāmaka"
 summary = "RāmagāmakaRāmagāma A Koliyan village on the banks"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 RāmagāmakaRāmagāma
@@ -12863,12 +16960,16 @@ A Koliyan village on the banks of the Ganges. Its inhabitants claimed and obtain
 ``` toml
 dict_label = "DPPN"
 word = "rāmaṇeyyaka"
-summary = "Rāmaṇeyyaka A monk whose Theragāthā verse speaks o"
+summary = "A monk whose Theragāthā verse speaks of how his mi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Rāmaṇeyyaka
 
 A monk whose Theragāthā verse speaks of how his mind does not waver among the sounds of nature. Thag.49
 
@@ -12877,7 +16978,13 @@ dict_label = "DPPN"
 word = "sabbaka"
 summary = "SabbakaSappaka A monk whose Theragāthā verses spea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SabbakaSappaka
@@ -12887,12 +16994,16 @@ A monk whose Theragāthā verses speak of his joy in living on the banks of the 
 ``` toml
 dict_label = "DPPN"
 word = "sabbakāma"
-summary = "Sabbakāma A monk whose Theragāthā verses speak of"
+summary = "A monk whose Theragāthā verses speak of getting ri"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sabbakāma
 
 A monk whose Theragāthā verses speak of getting rid of desire for this impure body. Thag.453–458
 
@@ -12903,7 +17014,13 @@ dict_label = "DPPN"
 word = "sabbamitta "
 summary = "Sabbamitta A monk whose Theragāthā verses speak of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sabbamitta
@@ -12913,60 +17030,80 @@ A monk whose Theragāthā verses speak of the suffering inherent in relationship
 ``` toml
 dict_label = "DPPN"
 word = "sacca"
-summary = "Sacca A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sacca
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "saddhā"
-summary = "Saddhā An upāsikā of Sāvatthī. Thinking that to al"
+summary = "An upāsikā of Sāvatthī. Thinking that to allow a m"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saddhā
 
 An upāsikā of Sāvatthī. Thinking that to allow a monk to have intercourse with her would be the highest gift, she accosted a monk and offered herself. The offer was, however, refused. Vin.iii.39
 
 ``` toml
 dict_label = "DPPN"
 word = "sadāmattā"
-summary = "Sadāmattā A class of Devas, present at the preachi"
+summary = "A class of Devas, present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sadāmattā
 
 A class of Devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "sahabhū"
-summary = "Sahabhū A class of Devas present at the preaching"
+summary = "A class of Devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sahabhū
 
 A class of Devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "sahadhammā"
-summary = "Sahadhammā A class of Devas, present at the preach"
+summary = "A class of Devas, present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sahadhammā
 
 A class of Devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -12975,7 +17112,13 @@ dict_label = "DPPN"
 word = "sahajāti"
 summary = "SahajātiSahajātāSahañcanika A township where Yasa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SahajātiSahajātāSahañcanika
@@ -12993,7 +17136,13 @@ dict_label = "DPPN"
 word = "sahali"
 summary = "Sahali1 A class of Devas, present at the preaching"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sahali<sup>1</sup>
@@ -13007,12 +17156,16 @@ A *devaputta*, follower of Makkhali Gosāla. He visited the Buddha at Veḷuvana
 ``` toml
 dict_label = "DPPN"
 word = "sahampati"
-summary = "Sahampati A Mahābrahmā. When the Buddha was at the"
+summary = "A Mahābrahmā. When the Buddha was at the Ajapālani"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sahampati
 
 A Mahābrahmā. When the Buddha was at the Ajapālanigrodha, hesitating as to whether or not he should preach the Dhamma, Sahampati appeared before him and begged of him to open to the world the doors of Immortality. The Buddha agreed to this urgent request Vin.i.5*f.* SN.i.137*f.* and accepted from Sahampati the assurance that all the Buddhas of the past had also had no other teacher than the Dhamma discovered by them. Similar passages are found elsewhere. SN.i.139 SN.v.167*f.* SN.v.185 SN.v.232 AN.ii.10*f.*
 
@@ -13023,12 +17176,16 @@ During the time of Kassapa Buddha, Sahampati was a monk, named Sahaka, who, havi
 ``` toml
 dict_label = "DPPN"
 word = "sajjha"
-summary = "Sajjha A wanderer who visited the Buddha at Gijjha"
+summary = "A wanderer who visited the Buddha at Gijjhakūṭa. T"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sajjha
 
 A wanderer who visited the Buddha at Gijjhakūṭa. The Buddha told him of the nine standards which an arahant monk cannot possibly transgress. AN.iv.371
 
@@ -13037,7 +17194,13 @@ dict_label = "DPPN"
 word = "sakka"
 summary = "SakkaVatrabhūVāsavaMaghavāMāghaPurindadaSahassakkh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SakkaVatrabhūVāsavaMaghavāMāghaPurindadaSahassakkhaSahassanettaSujampatiKosiya
@@ -13076,7 +17239,13 @@ dict_label = "DPPN"
 word = "sakkhara"
 summary = "SakkharaSakkāra A township of the Sākyans where th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SakkharaSakkāra
@@ -13088,12 +17257,16 @@ Sākya, not far from Rājagaha3town
 ``` toml
 dict_label = "DPPN"
 word = "sakuladāyī"
-summary = "Sakuladāyī A famous Paribbājaka. The Mahā-Sakuladā"
+summary = "A famous Paribbājaka. The Mahā-Sakuladāyī and the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sakuladāyī
 
 A famous Paribbājaka. The Mahā\-Sakuladāyī and the Culla Sakuladāyī Suttas record two conversations between him and the Buddha in the Paribbājakārāma at Moranivāpa in Rājagaha.
 
@@ -13106,7 +17279,13 @@ dict_label = "DPPN"
 word = "sakulā"
 summary = "Sakulā1 The foremost among nuns in the divine eye."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sakulā<sup>1</sup>
@@ -13120,12 +17299,16 @@ Sister of Somā. They were both wives of Pasenadi and followers of the Buddha. O
 ``` toml
 dict_label = "DPPN"
 word = "sakyaputtiyā"
-summary = "Sakyaputtiyā The name given to the monks of the Bu"
+summary = "The name given to the monks of the Buddha’s Order,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sakyaputtiyā
 
 The name given to the monks of the Buddha’s Order, as followers of Sakyamunī. Ud.iv.8 DN.iii.84
 
@@ -13134,7 +17317,13 @@ dict_label = "DPPN"
 word = "salaḷāgāra"
 summary = "SalaḷāgāraSalalaghara A building in Jetavana. Once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SalaḷāgāraSalalaghara
@@ -13146,12 +17335,16 @@ Jetavana3building
 ``` toml
 dict_label = "DPPN"
 word = "sallavatī"
-summary = "Sallavatī A river, forming the boundary on the sou"
+summary = "A river, forming the boundary on the south east si"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sallavatī
 
 A river, forming the boundary on the south east side of the Middle country. Vin.i.197
 
@@ -13160,12 +17353,16 @@ south east side of the Middle country.3river
 ``` toml
 dict_label = "DPPN"
 word = "sambhava"
-summary = "Sambhava One of the two chief disciples of Sikhī B"
+summary = "One of the two chief disciples of Sikhī Buddha. DN"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sambhava
 
 One of the two chief disciples of Sikhī Buddha. DN.ii.4 SN.i.155
 
@@ -13174,7 +17371,13 @@ dict_label = "DPPN"
 word = "sambhūta"
 summary = "Sambhūta1Sītavaniya A monk whose Theragāthā verse"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sambhūta<sup>1</sup>Sītavaniya
@@ -13196,7 +17399,13 @@ dict_label = "DPPN"
 word = "sambula"
 summary = "SambulaKaccāna A monk whose Theragāthā verse speak"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SambulaKaccāna
@@ -13208,7 +17417,13 @@ dict_label = "DPPN"
 word = "samiddhi "
 summary = "Samiddhi Once, while he was at Silāvati musing on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Samiddhi
@@ -13220,60 +17435,80 @@ Once when Samiddhi was drying himself after bathing in the Tapodā, a Deva appro
 ``` toml
 dict_label = "DPPN"
 word = "samitigutta"
-summary = "Samitigutta A monk whose Theragāthā verse speaks o"
+summary = "A monk whose Theragāthā verse speaks of experienci"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Samitigutta
 
 A monk whose Theragāthā verse speaks of experiencing the suffering caused by kamma in the past. Thag.81
 
 ``` toml
 dict_label = "DPPN"
 word = "samuddadatta"
-summary = "Samuddadatta A monk whom Devadatta persuaded to jo"
+summary = "A monk whom Devadatta persuaded to join him in try"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Samuddadatta
 
 A monk whom Devadatta persuaded to join him in trying to bring about schism in the Order.Vin.ii.196 Vin.iii.171 He was a favourite of Thullanandā. Vin.iv.66
 
 ``` toml
 dict_label = "DPPN"
 word = "samānā"
-summary = "Samānā A class of Devas present at the preaching o"
+summary = "A class of Devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Samānā
 
 A class of Devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "samīti"
-summary = "Samīti A waggon builder of Sāvatthī. In the Aṅgaṇa"
+summary = "A waggon builder of Sāvatthī. In the Aṅgaṇa Sutta,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Samīti
 
 A waggon builder of Sāvatthī. In the Aṅgaṇa Sutta, Moggallāna tells Sāriputta how he once saw Samīti shaping a felloe; by his side, Paṇḍuputta was watching, wishing that Samiti might shape the felloe without crook, twist, or blemish. When Samīti did this, Paṇḍuputta sang with joy, saying that Samīti had read his thoughts. MN.i.31*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "sanaṅkumāra"
-summary = "Sanaṅkumāra A Mahā Brahmā, whose name means “ever"
+summary = "A Mahā Brahmā, whose name means “ever young”. In t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sanaṅkumāra
 
 A Mahā Brahmā, whose name means “ever young”. In the Nikāyas DN.i.121 MN.i.358 SN.i.153 AN.v.327 he is mentioned as the author of a famous verse, which is eleswhere attribued to the Buddha. SN.ii.284 Sanaṅkumāra is represented as a very devout follower of the Buddha.
 
@@ -13284,12 +17519,16 @@ In the Janavasabha Sutta, Janavasabha describes to the Buddha an occasion on whi
 ``` toml
 dict_label = "DPPN"
 word = "sandaka"
-summary = "Sandaka A Paribbājaka."
+summary = "A Paribbājaka."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sandaka
 
 A Paribbājaka.
 
@@ -13298,7 +17537,13 @@ dict_label = "DPPN"
 word = "sandha"
 summary = "SandhaSaddha A monk who visited the Buddha at Ñāti"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SandhaSaddha
@@ -13310,24 +17555,32 @@ It is, perhaps, the same monk who is mentioned as Saddho Kaccāyano. SN.ii.153 H
 ``` toml
 dict_label = "DPPN"
 word = "sandhita"
-summary = "Sandhita A monk whose Theragāthā verse speaks of a"
+summary = "A monk whose Theragāthā verse speaks of attaining"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sandhita
 
 A monk whose Theragāthā verse speaks of attaining a perception of the Buddha under a fig tree. Thag.217–218
 
 ``` toml
 dict_label = "DPPN"
 word = "sandhāna"
-summary = "Sandhāna A householder of Rājagaha. He was a follo"
+summary = "A householder of Rājagaha. He was a follower of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sandhāna
 
 A householder of Rājagaha. He was a follower of the Buddha, and it was his conversation with the Paribbājaka Nigrodha that led to the preaching of the Udumbarika Sīhanāda Sutta.
 
@@ -13338,7 +17591,13 @@ dict_label = "DPPN"
 word = "sangharakkhita "
 summary = "Sangharakkhita A monk whose Theragāthā verse speak"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sangharakkhita
@@ -13348,12 +17607,16 @@ A monk whose Theragāthā verse speaks of one who, although in seclusion, still 
 ``` toml
 dict_label = "DPPN"
 word = "sankassa"
-summary = "Sankassa During the Vajjiputta controversy, Revata"
+summary = "During the Vajjiputta controversy, Revata Thera, o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sankassa
 
 During the Vajjiputta controversy, Revata Thera, on his way from Soreyya to Sahājāti, went through Sankassa.
 
@@ -13362,48 +17625,64 @@ During the Vajjiputta controversy, Revata Thera, on his way from Soreyya to Sah�
 ``` toml
 dict_label = "DPPN"
 word = "santacitta"
-summary = "Santacitta A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Santacitta
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "santusita"
-summary = "Santusita Chief of the devas of the Tusita world."
+summary = "Chief of the devas of the Tusita world. DN.i.218 A"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Santusita
 
 Chief of the devas of the Tusita world. DN.i.218 AN.iv.243 SN.iv.280
 
 ``` toml
 dict_label = "DPPN"
 word = "santuṭṭha"
-summary = "Santuṭṭha A disciple of the Buddha at Ñātikā. He w"
+summary = "A disciple of the Buddha at Ñātikā. He was born af"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Santuṭṭha
 
 A disciple of the Buddha at Ñātikā. He was born after death in Akanitthābhavana, there to pass entirely away. DN.ii.92 SN.v.358*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "sappadāsa"
-summary = "Sappadāsa Overmastered by corrupt habits of mind a"
+summary = "Overmastered by corrupt habits of mind and charact"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sappadāsa
 
 Overmastered by corrupt habits of mind and character, for twenty five years he was unable to develop concentration. This so distressed him that he was about to commit suicide, when, inward vision suddenly expanding, he attained arahantship. Thag.405–410
 
@@ -13412,7 +17691,13 @@ dict_label = "DPPN"
 word = "sappasoṇḍikapabbhāra"
 summary = "SappasoṇḍikapabbhāraSappasoṇḍika A mountain cave i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SappasoṇḍikapabbhāraSappasoṇḍika
@@ -13424,12 +17709,16 @@ in the Sītavana, near Rājagaha3cave
 ``` toml
 dict_label = "DPPN"
 word = "sarabha"
-summary = "Sarabha A Paribbājaka who joined the Order and soo"
+summary = "A Paribbājaka who joined the Order and soon after"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sarabha
 
 A Paribbājaka who joined the Order and soon after left it. He then went about proclaiming in Rājagaha that he knew the Dhamma and Vinaya of the Sakyaputta monks, and that was why he had left their Order. The Buddha, being told of this, visited the Paribbājakārāma, on the banks of the Sappinikā, and challenged Sarabha to repeat his statement. Three times the challenge was uttered, but Sarabha sat silent. The Buddha then declared to the Paribbājakas that no one could say that his claim to Enlightenment was unjustified, or that his dhamma, if practised, did not lead to the destruction of Ill. After the Buddha’s departure, the Paribbājakas taunted and abused Sarabha. AN.i.185*ff.*
 
@@ -13438,7 +17727,13 @@ dict_label = "DPPN"
 word = "sarabhaṅga"
 summary = "Sarabhaṅga1 A Pacceka Buddha. MN.iii.70 Sarabhaṅga"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sarabhaṅga<sup>1</sup>
@@ -13452,12 +17747,16 @@ A monk whose Theragāthā verses speak of living in a hut of reeds he built hims
 ``` toml
 dict_label = "DPPN"
 word = "sarabhū"
-summary = "Sarabhū One of the five great rivers of northern I"
+summary = "One of the five great rivers of northern India. Vi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sarabhū
 
 One of the five great rivers of northern India. Vin.ii.237 Ud.v.5 SN.ii.135 AN.iv.101
 
@@ -13470,7 +17769,13 @@ dict_label = "DPPN"
 word = "sarakāni"
 summary = "SarakāniSaraṇāni A Sākyan. When he died the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SarakāniSaraṇāni
@@ -13480,24 +17785,32 @@ A Sākyan. When he died the Buddha declared that he was a *sotāpanna*, bound fo
 ``` toml
 dict_label = "DPPN"
 word = "sarañjita"
-summary = "Sarañjita A class of Devas, the gods of “Passionat"
+summary = "A class of Devas, the gods of “Passionate Delight”"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sarañjita
 
 A class of Devas, the gods of “Passionate Delight”. According to the belief of some, a man who dies fighting is born among them. SN.iv.308
 
 ``` toml
 dict_label = "DPPN"
 word = "sattabhū"
-summary = "Sattabhū The king of the Kālingas in the time of R"
+summary = "The king of the Kālingas in the time of Reṇu. His"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sattabhū
 
 The king of the Kālingas in the time of Reṇu. His purohita was Jotipāla, and his capital, Dantapura. DN.ii.236
 
@@ -13506,7 +17819,13 @@ dict_label = "DPPN"
 word = "sattamba"
 summary = "SattambaSattambaka A shrine near Vesāli. DN.ii.102"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SattambaSattambaka
@@ -13518,12 +17837,16 @@ A shrine near Vesāli. DN.ii.102 Ud.vi.1 SN.v.259 AN.iv.309 It was to the west o
 ``` toml
 dict_label = "DPPN"
 word = "sattapaṇṇiguhā"
-summary = "Sattapaṇṇiguhā A cave in Rājagaha, on the slope of"
+summary = "A cave in Rājagaha, on the slope of Mount Vebhāra."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sattapaṇṇiguhā
 
 A cave in Rājagaha, on the slope of Mount Vebhāra. Once, when the Buddha was staying there, he gave to Ānanda the opportunity of asking him to live for an eon, but Ānanda, because of his un\-mindfulness, failed to take it. DN.ii.116
 
@@ -13534,48 +17857,64 @@ The cave was sometimes used as a residence for monks coming from afar. Vin.ii.76
 ``` toml
 dict_label = "DPPN"
 word = "sattarasavaggiyā"
-summary = "Sattarasavaggiyā A group of monks in the Buddha’s"
+summary = "A group of monks in the Buddha’s time, who seem to"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sattarasavaggiyā
 
 A group of monks in the Buddha’s time, who seem to have incurred the enmity of the Chabbaggīyas. The latter turned them out of a *vihāra* as soon as they had prepared it, and were violent towards them. Vin.ii.166
 
 ``` toml
 dict_label = "DPPN"
 word = "satthā"
-summary = "Satthā A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Satthā
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "satullapakāyikā"
-summary = "Satullapakāyikā A class of Devas. The Saṃyutta con"
+summary = "A class of Devas. The Saṃyutta contains SN.i.16–22"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Satullapakāyikā
 
 A class of Devas. The Saṃyutta contains SN.i.16–22 a whole group of suttas in which these devas are stated to have visited the Buddha, asking him several questions on different topics.
 
 ``` toml
 dict_label = "DPPN"
 word = "savittha"
-summary = "Savittha In the Aṅguttara AN.i.118f. he is represe"
+summary = "In the Aṅguttara AN.i.118f. he is represented as s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Savittha
 
 In the Aṅguttara AN.i.118*f.* he is represented as saying, in the course of a conversation between him, Sāriputta and Koṭṭhita, that he preferred the person who obtains relief by faith, to one who testifies to the truth with the body or one who has won view.
 
@@ -13584,36 +17923,48 @@ The Saṃyutta SN.ii.115 contains two conversations of Savittha, both of which t
 ``` toml
 dict_label = "DPPN"
 word = "savitthaka"
-summary = "Savitthaka An example of a low family name. Vin.iv"
+summary = "An example of a low family name. Vin.iv.8 Vin.iv.1"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Savitthaka
 
 An example of a low family name. Vin.iv.8 Vin.iv.13
 
 ``` toml
 dict_label = "DPPN"
 word = "sayaṃpabhā"
-summary = "Sayaṃpabhā A class of Devas, among whom virtuous m"
+summary = "A class of Devas, among whom virtuous men, such as"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sayaṃpabhā
 
 A class of Devas, among whom virtuous men, such as those that maintain their parents and engage in harmless trades, are born. Snp.404
 
 ``` toml
 dict_label = "DPPN"
 word = "sayha"
-summary = "Sayha A Pacceka Buddha, mentioned in a nominal lis"
+summary = "A Pacceka Buddha, mentioned in a nominal list. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sayha
 
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
@@ -13622,7 +17973,13 @@ dict_label = "DPPN"
 word = "sañjaya"
 summary = "Sañjaya1 A monk whose Theragāthā verse says that s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sañjaya<sup>1</sup>
@@ -13644,60 +18001,80 @@ Perhaps the Aviruddhakas mentioned in the Aṅguttara AN.iii.276 were also follo
 ``` toml
 dict_label = "DPPN"
 word = "sañjikāputta"
-summary = "Sañjikāputta A young brahmin, friend of Bodhirājak"
+summary = "A young brahmin, friend of Bodhirājakumāra. He was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sañjikāputta
 
 A young brahmin, friend of Bodhirājakumāra. He was sent to invite the Buddha to Bodhi’s palace, Kokanada. Vin.ii.127*f.* MN.ii.91
 
 ``` toml
 dict_label = "DPPN"
 word = "sañjīva"
-summary = "Sañjīva One of the two chief disciples of Kakusand"
+summary = "One of the two chief disciples of Kakusandha Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sañjīva
 
 One of the two chief disciples of Kakusandha Buddha. DN.ii.4 He was expert in samādhi, and lived in cells, caves, etc., sustaining himself on samādhi. One day, when in a state of trance in a forest, woodmen, thinking him dead, burnt his body, but he, emerging at the proper time from his trance, shook out his robes and entered the village for alms; hence his name, Sañjīva, the “Survivor”. MN.i.333
 
 ``` toml
 dict_label = "DPPN"
 word = "saṅghā"
-summary = "Saṅghā A bhikkhunī whose Therīgāthā verse speaks o"
+summary = "A bhikkhunī whose Therīgāthā verse speaks of havin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saṅghā
 
 A bhikkhunī whose Therīgāthā verse speaks of having left behind family and possessions, as well as all defilements. Thig.18
 
 ``` toml
 dict_label = "DPPN"
 word = "saṅgāmaji"
-summary = "Saṅgāmaji A monk whose wife tempted him to return"
+summary = "A monk whose wife tempted him to return to lay lif"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saṅgāmaji
 
 A monk whose wife tempted him to return to lay life by placing their child on his lap and going away. When she discovered that Saṅgāmaji would not even talk to his son, she took him away, saying that her husband was a useless man. Ud.i.8
 
 ``` toml
 dict_label = "DPPN"
 word = "saṅgārava"
-summary = "Saṅgārava A very learned brahmin of Candalakappa."
+summary = "A very learned brahmin of Candalakappa. One day he"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saṅgārava
 
 A very learned brahmin of Candalakappa. One day he saw Dhānañjānī trip up, and heard her exclaim three times, “Glory to the Buddha, the arahant, the all enlightened.” He blamed her for thus extolling a shovelling monk, but when she told him of the Buddha’s marvellous qualities, he felt a desire to see him. Some time after, the Buddha went to Candalakappa and stayed in Todeyya’s Mango grove. When Dhānañjānī told Saṅgārava that he was there, Saṅgārava visited him and questioned him on his views on brahmins. The Buddha said he had great regard for brahmins who had here and now won the goal, having discovered unaided a doctrine before unknown. He himself was one of these. He then proceeds to describe how he came to leave the household life and how, in due course, he won Enlightenment. Saṅgārava asks further whether there are any gods. The Buddha answers that of that there is no doubt; the whole world is in agreement on that point. Saṅgārava is pleased and accepts the Buddha as his teacher. MN.ii.209*ff.*
 
@@ -13708,12 +18085,16 @@ Another Saṃyutta passage SN.v.121*f.* contains a sutta in which the brahmin Sa
 ``` toml
 dict_label = "DPPN"
 word = "saṅkassa"
-summary = "Saṅkassa A city, thirty leagues from Sāvatthī. Dur"
+summary = "A city, thirty leagues from Sāvatthī. During the V"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saṅkassa
 
 A city, thirty leagues from Sāvatthī. During the Vajjiputta controversy, Revata Thera, on his way from Soreyya to Sahājāti, went through Saṅkassa. The road he took passed through Saṅkassa, Kaṇṇakujja, Udumbara and Aggālapura. Vin.ii.299*f.*
 
@@ -13722,12 +18103,16 @@ A city, thirty leagues from Sāvatthī. During the Vajjiputta controversy, Revat
 ``` toml
 dict_label = "DPPN"
 word = "saṅkha"
-summary = "Saṅkha A future king, who will be the Cakkavatti o"
+summary = "A future king, who will be the Cakkavatti of Ketum"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saṅkha
 
 A future king, who will be the Cakkavatti of Ketumatī at the time of the appearance of Metteyya Buddha in the world. He will raise up again the palace of King Mahāpanāda and live there. But later he will give it to the Order and become an arahant. DN.iii.75*f.*
 
@@ -13736,7 +18121,13 @@ dict_label = "DPPN"
 word = "saṅkicca "
 summary = "Saṅkicca A monk whose Theragāthā verses speak of h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Saṅkicca
@@ -13746,60 +18137,80 @@ A monk whose Theragāthā verses speak of his delight in meditating in the fores
 ``` toml
 dict_label = "DPPN"
 word = "saṅkiliṭṭhābhā"
-summary = "Saṅkiliṭṭhābhā A class of devas. Beings are born i"
+summary = "A class of devas. Beings are born in their world w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Saṅkiliṭṭhābhā
 
 A class of devas. Beings are born in their world when they have practiced *jhāna* with tarnished brilliance. MN.iii.147
 
 ``` toml
 dict_label = "DPPN"
 word = "sela"
-summary = "Sela A brahmin of Aṅguttarāpa. He was a great frie"
+summary = "A brahmin of Aṅguttarāpa. He was a great friend of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sela
 
 A brahmin of Aṅguttarāpa. He was a great friend of Keṇiya, the Jaṭila, and visited him when Keṇiya was making preparations to entertain the Buddha. Having heard the word “Buddha” from Keṇiya, Sela was filled with joy and fortitude, and went with his two hundred and fifty pupils to visit the Buddha in the woodland near Apana. There he observed on the person of the Buddha the thirty two marks of a Great Being all except two—viz., hidden privates and the long tongue. The Buddha read his thoughts and contrived, by his *iddhi* power, that Sela should be satisfied on these two points as well. Sela then praised the Buddha in a series of verses and asked questions of him. At the end of his talk, Sela entered the Order with his pupils, and, at the end of a week, he attained arahantship. Snp.p.104*ff.* MN.ii.146*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "selā"
-summary = "Selā A bhikkhunī who was enjoying her meditation i"
+summary = "A bhikkhunī who was enjoying her meditation in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Selā
 
 A bhikkhunī who was enjoying her meditation in the Andhavana under a tree when Māra, in the guise of a stranger, approached her and tried to tempt her. But she refuted his statements regarding the attractions of lay life, and Māra had to retire discomfited. SN.i.134 Thig.57–59
 
 ``` toml
 dict_label = "DPPN"
 word = "senaka"
-summary = "Senaka A monk whose Theragāthā verses speak of see"
+summary = "A monk whose Theragāthā verses speak of seeing the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Senaka
 
 A monk whose Theragāthā verses speak of seeing the Buddha at the Gayā festival. Thag.287–290
 
 ``` toml
 dict_label = "DPPN"
 word = "seniya"
-summary = "Seniya A naked ascetic who practised the “Canine v"
+summary = "A naked ascetic who practised the “Canine vow,” be"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Seniya
 
 A naked ascetic who practised the “Canine vow,” behaving like a dog. After his visit to the Buddha, as recorded in the Kukkuravatika Sutta, he joined the Order and, in due course, became an arahant. MN.i.387*ff.*
 
@@ -13808,7 +18219,13 @@ dict_label = "DPPN"
 word = "senānigama"
 summary = "SenānigamaSenānīnigama The village in which Senānī"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SenānigamaSenānīnigama
@@ -13822,7 +18239,13 @@ dict_label = "DPPN"
 word = "serissaka"
 summary = "Serissaka1 A Yakkha chieftain to be invoked in tim"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Serissaka<sup>1</sup>
@@ -13836,24 +18259,32 @@ A *vimāna* in the Cātummahārājika world, which was occupied by Pāyāsi duri
 ``` toml
 dict_label = "DPPN"
 word = "serī"
-summary = "Serī A devaputta who visited the Buddha at Jetavan"
+summary = "A devaputta who visited the Buddha at Jetavana and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Serī
 
 A *devaputta* who visited the Buddha at Jetavana and held a conversation with him regarding the giving of food. He tells the Buddha that he was formerly a king, a great giver of gifts at the four gates of his capital. Then the women of the court wished also to give, and he allowed them to give at one gate; thus some of his own gifts came back to him. Then the nobles, the army, the brahmins and the householders wished to do the same, and he allowed them to distribute gifts, each class at one gate, and the result was that his gifts were not given at all. He then decreed that out of all his revenues one half should be given away from the source and only half sent to him. SN.i.57*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "seta"
-summary = "Seta The state elephant of Pasenadi, on whose acco"
+summary = "The state elephant of Pasenadi, on whose account t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Seta
 
 The state elephant of Pasenadi, on whose account the Buddha preached a special sermon. AN.iii.345
 
@@ -13862,7 +18293,13 @@ dict_label = "DPPN"
 word = "setabyā"
 summary = "SetabyāSetavyā A town in Kosala, DN.ii.316 near wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SetabyāSetavyā
@@ -13880,7 +18317,13 @@ dict_label = "DPPN"
 word = "setakaṇṇika"
 summary = "SetakaṇṇikaSetakannika A village forming the south"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SetakaṇṇikaSetakannika
@@ -13892,24 +18335,32 @@ the southern boundary of Majjhimadesa3town
 ``` toml
 dict_label = "DPPN"
 word = "setuccha"
-summary = "Setuccha A monk whose Theragāthā verse describes h"
+summary = "A monk whose Theragāthā verse describes how those"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Setuccha
 
 A monk whose Theragāthā verse describes how those how are defiled do not find stillness. Thag.102
 
 ``` toml
 dict_label = "DPPN"
 word = "seyyasaka"
-summary = "Seyyasaka A monk of Sāvatthī who was found guilty"
+summary = "A monk of Sāvatthī who was found guilty of various"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Seyyasaka
 
 A monk of Sāvatthī who was found guilty of various Vinaya offences, and was therefore subjected to the *Nissayakamma*. Udāyī (Lāludāyi) was his friend and his evil genius. Vin.iii.110*f.*
 
@@ -13918,7 +18369,13 @@ dict_label = "DPPN"
 word = "sigālakamātā"
 summary = "SigālakamātāSiṅgālakamātāSigālamātāSiṅgālamātā She"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SigālakamātāSiṅgālakamātāSigālamātāSiṅgālamātā
@@ -13930,7 +18387,13 @@ dict_label = "DPPN"
 word = "sigālakapitā"
 summary = "SigālakapitāSiṅgālakapitāSigālapitāSiṅgālapitā A m"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SigālakapitāSiṅgālakapitāSigālapitāSiṅgālapitā
@@ -13942,7 +18405,13 @@ dict_label = "DPPN"
 word = "sikhaḍḍī"
 summary = "SikhaḍḍīSikhaṇḍī A Gandhabba, son of Mātali; Bhadd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SikhaḍḍīSikhaṇḍī
@@ -13954,7 +18423,13 @@ dict_label = "DPPN"
 word = "sikhāmoggallāna"
 summary = "SikhāmoggallānaSikhāMoggallāna A brahmin who once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SikhāmoggallānaSikhāMoggallāna
@@ -13966,7 +18441,13 @@ dict_label = "DPPN"
 word = "sikhī"
 summary = "SikhīArindama A Buddha of a past age.DN.ii.7 DN.ii"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SikhīArindama
@@ -13987,12 +18468,16 @@ A Buddha of a past age.DN.ii.7 DN.iii.195*f.* SN.ii.9
 ``` toml
 dict_label = "DPPN"
 word = "silāvatī"
-summary = "Silāvatī A village of the Sākyans. Once, when the"
+summary = "A village of the Sākyans. Once, when the Buddha wa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Silāvatī
 
 A village of the Sākyans. Once, when the Buddha was there with a large number of monks, Mira tempted them in the guise of a jatanduva\-brahmin. SN.i.117
 
@@ -14003,24 +18488,32 @@ Sakya3town
 ``` toml
 dict_label = "DPPN"
 word = "sindhavā"
-summary = "Sindhavā Horses from the Sindhu region."
+summary = "Horses from the Sindhu region."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sindhavā
 
 Horses from the Sindhu region.
 
 ``` toml
 dict_label = "DPPN"
 word = "sindhu"
-summary = "Sindhu The Indus river, one of the most important"
+summary = "The Indus river, one of the most important of thos"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sindhu
 
 The Indus river, one of the most important of those that flow from the Himālaya.
 
@@ -14033,7 +18526,13 @@ dict_label = "DPPN"
 word = "sineru"
 summary = "SineruMahāneruMeruSumeruHemameru A mountain, formi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SineruMahāneruMeruSumeruHemameru
@@ -14051,7 +18550,13 @@ dict_label = "DPPN"
 word = "sippinikātīra"
 summary = "SippinikātīraSappinīSappinīkā A river that flowed"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SippinikātīraSappinīSappinīkā
@@ -14063,24 +18568,32 @@ Rājagaha3river
 ``` toml
 dict_label = "DPPN"
 word = "sirimaṇḍa"
-summary = "Sirimaṇḍa A monk whose Theragāthā verses speak of"
+summary = "A monk whose Theragāthā verses speak of openness,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sirimaṇḍa
 
 A monk whose Theragāthā verses speak of openness, and how when confronted by Death, one should not waste one’s days. Thag.447–452
 
 ``` toml
 dict_label = "DPPN"
 word = "sirimitta"
-summary = "Sirimitta A monk whose Theragāthā verses speak of"
+summary = "A monk whose Theragāthā verses speak of how a monk"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sirimitta
 
 A monk whose Theragāthā verses speak of how a monk without anger will not grieve when the time for Death approaches. Thag.502–509
 
@@ -14089,7 +18602,13 @@ dict_label = "DPPN"
 word = "sirimā"
 summary = "Sirimā1 A monk whose Theragāthā verses speak of re"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sirimā<sup>1</sup>
@@ -14105,7 +18624,13 @@ dict_label = "DPPN"
 word = "sirivaḍḍha"
 summary = "Sirivaḍḍha1 A monk whose Theragāthā verses speak o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sirivaḍḍha<sup>1</sup>
@@ -14123,12 +18648,16 @@ A householder of Rājagaha. When he was ill he sent word to Ānanda asking him t
 ``` toml
 dict_label = "DPPN"
 word = "siva"
-summary = "Siva The name of a god. A devaputta, named Siva, i"
+summary = "The name of a god. A devaputta, named Siva, is men"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Siva
 
 The name of a god. A *devaputta*, named Siva, is mentioned in the Saṃyutta SN.i.56 as visiting the Buddha and speaking several verses on the benefit of consorting only with the good.
 
@@ -14137,7 +18666,13 @@ dict_label = "DPPN"
 word = "siviraṭṭha"
 summary = "SiviraṭṭhaSiveyyaka The country of the Sivi people"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SiviraṭṭhaSiveyyaka
@@ -14151,7 +18686,13 @@ dict_label = "DPPN"
 word = "siṃsapāvana"
 summary = "Siṃsapāvana1 A grove in Āḷavī, where the Buddha st"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Siṃsapāvana<sup>1</sup>
@@ -14173,7 +18714,13 @@ dict_label = "DPPN"
 word = "sobhita"
 summary = "Sobhita1 A Pacceka Buddha. MN.iii.71 Sobhita2 A mo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sobhita<sup>1</sup>
@@ -14189,12 +18736,16 @@ He was once accused of claiming to possess superhuman qualities, but was exonera
 ``` toml
 dict_label = "DPPN"
 word = "sogandhika"
-summary = "Sogandhika A hell, or a period of suffering in Avī"
+summary = "A hell, or a period of suffering in Avīci. SN.i.10"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sogandhika
 
 A hell, or a period of suffering in Avīci. SN.i.102 Snp.126
 
@@ -14203,12 +18754,16 @@ A hell, or a period of suffering in Avīci. SN.i.102 Snp.126
 ``` toml
 dict_label = "DPPN"
 word = "soma"
-summary = "Soma A deva to whom sacrifice is offered; he is ge"
+summary = "A deva to whom sacrifice is offered; he is general"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Soma
 
 A deva to whom sacrifice is offered; he is generally mentioned with Varuṇa, Pajāpati and Yama. DN.i.244 DN.ii.259
 
@@ -14217,12 +18772,16 @@ In the Āṭānāṭiya Sutta DN.iii.204 he is spoken of as a Yakkha chief.
 ``` toml
 dict_label = "DPPN"
 word = "somamitta"
-summary = "Somamitta A monk whose Theragāthā verses say one s"
+summary = "A monk whose Theragāthā verses say one should avoi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Somamitta
 
 A monk whose Theragāthā verses say one should avoid a lzy man and associate with those who are energetic. Thag.147–148
 
@@ -14231,7 +18790,13 @@ dict_label = "DPPN"
 word = "somā"
 summary = "Somā1 One day, as she was meditating at the foot o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Somā<sup>1</sup>
@@ -14245,24 +18810,32 @@ Sister of Sakulā and queen of Pasenadi. She was a devout follower of the Buddha
 ``` toml
 dict_label = "DPPN"
 word = "sonaka"
-summary = "Sonaka A monk who was a leader of the Sangha some"
+summary = "A monk who was a leader of the Sangha some time af"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sonaka
 
 A monk who was a leader of the Sangha some time after the Buddha. Vin.v.2
 
 ``` toml
 dict_label = "DPPN"
 word = "sonāyamātā"
-summary = "Sonāyamātā An eminent laywoman, disciple of the Bu"
+summary = "An eminent laywoman, disciple of the Buddha. AN.iv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sonāyamātā
 
 An eminent laywoman, disciple of the Buddha. AN.iv.348
 
@@ -14271,7 +18844,13 @@ dict_label = "DPPN"
 word = "sopāka"
 summary = "Sopāka1 A monk whose Theragāthā verse says one sho"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sopāka<sup>1</sup>
@@ -14285,24 +18864,32 @@ A monk whose Theragāthā verse says that he walked with the Buddha when aged se
 ``` toml
 dict_label = "DPPN"
 word = "sorata"
-summary = "Sorata A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sorata
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "soreyya"
-summary = "Soreyya A town where Soreyya-Revata lived. Vin.ii."
+summary = "A town where Soreyya-Revata lived. Vin.ii.299 Ther"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Soreyya
 
 A town where Soreyya\-Revata lived. Vin.ii.299 There was a direct route from Verañja to Payāgatiṭṭha, passing through Soreyya, Saṅkassa and Kaṇṇakuja. Vin.iii.11
 
@@ -14313,7 +18900,13 @@ dict_label = "DPPN"
 word = "sotthija"
 summary = "SotthijaSotthiya The constant attendant of Koṇāgam"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SotthijaSotthiya
@@ -14323,12 +18916,16 @@ The constant attendant of Koṇāgamana Buddha. DN.ii.6
 ``` toml
 dict_label = "DPPN"
 word = "sovīra"
-summary = "Sovīra A country mentioned in the Mahāgovinda Sutt"
+summary = "A country mentioned in the Mahāgovinda Sutta. DN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sovīra
 
 A country mentioned in the Mahāgovinda Sutta. DN.ii.235
 
@@ -14341,7 +18938,13 @@ dict_label = "DPPN"
 word = "soṇa"
 summary = "Soṇa1 A Thera, declared chief of those possessing"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Soṇa<sup>1</sup>
@@ -14369,24 +18972,32 @@ A layman of Rājagaha. He is mentioned as having had two conversations with the.
 ``` toml
 dict_label = "DPPN"
 word = "soṇadaṇḍa"
-summary = "Soṇadaṇḍa A rich brahmin of Campā, very learned in"
+summary = "A rich brahmin of Campā, very learned in the Vedas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Soṇadaṇḍa
 
 A rich brahmin of Campā, very learned in the Vedas; he lived in a royal domain, given to him as royal fief by King Bimbisāra. When the Buddha was in Campā, on the banks of the Gaggarā\-lake, Soṇadaṇḍa visited him in spite of the protests of his friends and colleagues. Their conversation is recorded in the Soṇadaṇḍa Sutta. At the end of the discourse, Soṇadaṇḍa expressed his appreciation of the Buddha and his doctrine, and invited him and his monks to a meal. At the conclusion of the meal Soṇadaṇḍa asked the Buddha to forgive him if, in the presence of the brahmins, he did not make humble obeisance to the Buddha, but merely saluted him. DN.i.111*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "soṇakāyana"
-summary = "Soṇakāyana A youth who, according to Sikhā Moggall"
+summary = "A youth who, according to Sikhā Moggallāna, went a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Soṇakāyana
 
 A youth who, according to Sikhā Moggallāna, went about saying that the Buddha proclaimed the ineffectiveness of all deeds, and thereby preached the annihilation of the world. The Buddha said he did not know Soṇakāyana, even by sight. AN.ii.232
 
@@ -14395,7 +19006,13 @@ dict_label = "DPPN"
 word = "soṇā"
 summary = "Soṇā1 An eminent lay woman, disciple of the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Soṇā<sup>1</sup>
@@ -14411,7 +19028,13 @@ dict_label = "DPPN"
 word = "subha"
 summary = "Subha1 A Pacceka Buddha. MN.iii.70 Subha2Todeyyapu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Subha<sup>1</sup>
@@ -14427,7 +19050,13 @@ dict_label = "DPPN"
 word = "subhadda"
 summary = "Subhadda1 When the Buddha died and the monks stood"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Subhadda<sup>1</sup>
@@ -14445,12 +19074,16 @@ A lay disciple of Nātikā. He was an *anāgāmī* and was born in the Suddhavā
 ``` toml
 dict_label = "DPPN"
 word = "subhagavana"
-summary = "Subhagavana A wood in Ukkaṭṭha. Once, when the Bud"
+summary = "A wood in Ukkaṭṭha. Once, when the Buddha was ther"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Subhagavana
 
 A wood in Ukkaṭṭha. Once, when the Buddha was there, he visited the Avihā gods DN.ii.50 and, again, from there he visited Baka Brahmā, to whom he preached the Brahmanimantanika Sutta MN.i.326 SN.i.142 It was under a sāla tree in Subhagavana that the Mūlapariyāya Sutta was preached. MN.i.1
 
@@ -14461,7 +19094,13 @@ dict_label = "DPPN"
 word = "subhakinnā"
 summary = "SubhakinnāSubhakiṇṇāSubhakiṇhā A class of Brahmas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SubhakinnāSubhakiṇṇāSubhakiṇhā
@@ -14475,7 +19114,13 @@ dict_label = "DPPN"
 word = "subhā"
 summary = "Subhā1 A group of Brahmās; the group includes the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Subhā<sup>1</sup>
@@ -14493,24 +19138,32 @@ A bhikkhunī whose Therīgāthā verses speak of how in Jīvakambavana, a libert
 ``` toml
 dict_label = "DPPN"
 word = "subhūta"
-summary = "Subhūta A monk whose Theragāthā verses speak of ho"
+summary = "A monk whose Theragāthā verses speak of how, when"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Subhūta
 
 A monk whose Theragāthā verses speak of how, when someone lives the wrong way they blame their bad luck, and praises one who only speaks about what they actually do. Thag.320–324
 
 ``` toml
 dict_label = "DPPN"
 word = "subhūti"
-summary = "Subhūti He was declared chief of those who lived r"
+summary = "He was declared chief of those who lived remote an"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Subhūti
 
 He was declared chief of those who lived remote and in peace, and of those who were worthy of gifts. AN.i.24 The Buddha also praised his skill in meditation. Ud.vi.7
 
@@ -14521,7 +19174,13 @@ dict_label = "DPPN"
 word = "subrahmā"
 summary = "Subrahmā1 A devaputta. He visits the Buddha at Veḷ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Subrahmā<sup>1</sup>
@@ -14537,7 +19196,13 @@ dict_label = "DPPN"
 word = "subāhu"
 summary = "Subāhu1 He was the son of a seṭṭhi family of Benar"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Subāhu<sup>1</sup>
@@ -14555,60 +19220,80 @@ A Pacceka Buddha. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "sucimukhī"
-summary = "Sucimukhī A wanderer. She once saw Sāriputta in Rā"
+summary = "A wanderer. She once saw Sāriputta in Rājagaha eat"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sucimukhī
 
 A wanderer. She once saw Sāriputta in Rājagaha eating his meal, which he had begged from house to house, leaning against a wall. Sucimukhī asked him why he looked downwards while eating. When Sāriputta disclaimed doing so, she asked him, respectively, why he ate looking upwards, towards the four quarters, between the four quarters. He denied the truth of all her statements, and then explained to her his reason for his denial. He lived neither by such low arts as divination, nor by star gazing, going errands, or palmistry. Sucimukhī understood, and went about Rājagaha praising the blamelessness of Sākiyan monks. SN.iii.238*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "sucitti"
-summary = "Sucitti An Asura, one of the Dānaveghasas, present"
+summary = "An Asura, one of the Dānaveghasas, present at the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sucitti
 
 An Asura, one of the Dānaveghasas, present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
 dict_label = "DPPN"
 word = "sudassana"
-summary = "Sudassana Nephew of Pasenadi. The Buddha taught hi"
+summary = "Nephew of Pasenadi. The Buddha taught him a stanza"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sudassana
 
 Nephew of Pasenadi. The Buddha taught him a stanza to recite whenever Pasenadi sat down to a meal, in order that the king might observe moderation in eating. For this service Pasenadi paid him one hundred *kahāpanas* a day. SN.i.82
 
 ``` toml
 dict_label = "DPPN"
 word = "sudassā"
-summary = "Sudassā A Brahma world; one of the Suddhāvāsā. Fiv"
+summary = "A Brahma world; one of the Suddhāvāsā. Five kinds"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sudassā
 
 A Brahma world; one of the Suddhāvāsā. Five kinds of Anāgāmīs are born there. MN.i.289 DN.ii.52 DN.iii.237
 
 ``` toml
 dict_label = "DPPN"
 word = "sudassī"
-summary = "Sudassī A Brahma world, one of the Suddhāvāsā. The"
+summary = "A Brahma world, one of the Suddhāvāsā. The inhabit"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sudassī
 
 A Brahma world, one of the Suddhāvāsā. The inhabitants of this world are friendly with those of Akaniṭṭhā. DN.ii.52 MN.i.259 DN.iii.237 MN.iii.103
 
@@ -14617,7 +19302,13 @@ dict_label = "DPPN"
 word = "sudatta"
 summary = "Sudatta1 A lay disciple of Nādikā who had become a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sudatta<sup>1</sup>
@@ -14635,24 +19326,32 @@ A monk whose Theragāthā verse criticizes those who wander unrestrained. Thag.3
 ``` toml
 dict_label = "DPPN"
 word = "suddhanā"
-summary = "Suddhanā An eminent lay woman disciple of the Budd"
+summary = "An eminent lay woman disciple of the Buddha. AN.iv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suddhanā
 
 An eminent lay woman disciple of the Buddha. AN.iv.347
 
 ``` toml
 dict_label = "DPPN"
 word = "suddhavāsa"
-summary = "Suddhavāsa A Pacceka Brahmā who, with Subrahmā, we"
+summary = "A Pacceka Brahmā who, with Subrahmā, went to visit"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suddhavāsa
 
 A Pacceka Brahmā who, with Subrahmā, went to visit the Buddha, but, finding him in meditation during the noonday heat, went to see a certain Brahmā who was infatuated with his own importance.
 
@@ -14663,7 +19362,13 @@ dict_label = "DPPN"
 word = "suddhikabhāradvāja"
 summary = "SuddhikabhāradvājaSuddhikaBhāradvāja A brahmin who"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SuddhikabhāradvājaSuddhikaBhāradvāja
@@ -14673,12 +19378,16 @@ A brahmin who visited the Buddha at Jetavana and stated that a man can be purifi
 ``` toml
 dict_label = "DPPN"
 word = "suddhodana"
-summary = "Suddhodana A Sākiyan Rājā of Kapilavatthu and fath"
+summary = "A Sākiyan Rājā of Kapilavatthu and father of Gotam"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suddhodana
 
 A Sākiyan Rājā of Kapilavatthu and father of Gotama Buddha.
 
@@ -14691,7 +19400,13 @@ dict_label = "DPPN"
 word = "suddhāvāsakāyikādevā"
 summary = "SuddhāvāsakāyikādevāSuddhāvāsakāyikā A group of de"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SuddhāvāsakāyikādevāSuddhāvāsakāyikā
@@ -14701,12 +19416,16 @@ A group of devas, inhabitants of the Suddhāvāsā, who appeared before the Budd
 ``` toml
 dict_label = "DPPN"
 word = "suddhāvāsā"
-summary = "Suddhāvāsā The “Pure Abodes”; a name given to a gr"
+summary = "The “Pure Abodes”; a name given to a group of Brah"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suddhāvāsā
 
 The “Pure Abodes”; a name given to a group of Brahma\-worlds—the five highest Rūpa worlds—consisting of Avihā, Atappā, Sudassā, Sudassī and Akaniṭṭhā. DN.iii.237
 
@@ -14721,7 +19440,13 @@ dict_label = "DPPN"
 word = "sudhamma"
 summary = "Sudhamma1 He lived in Macchikāsaṇḍa, in a monaster"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sudhamma<sup>1</sup>
@@ -14739,7 +19464,13 @@ dict_label = "DPPN"
 word = "sudinna"
 summary = "SudinnaKalandakaputta A monk who, after being orda"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SudinnaKalandakaputta
@@ -14749,48 +19480,64 @@ A monk who, after being ordained, returned to his former wife and had relations 
 ``` toml
 dict_label = "DPPN"
 word = "sudāṭha"
-summary = "Sudāṭha A Pacceka Buddha in a nominal list. MN.iii"
+summary = "A Pacceka Buddha in a nominal list. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sudāṭha
 
 A Pacceka Buddha in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "sugandha"
-summary = "Sugandha A monk whose Theragāthā verse speaks of g"
+summary = "A monk whose Theragāthā verse speaks of going fort"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sugandha
 
 A monk whose Theragāthā verse speaks of going forth after one rainy season, then attaining the Dhamma. Thag.24
 
 ``` toml
 dict_label = "DPPN"
 word = "suhemanta"
-summary = "Suhemanta A monk whose Theragāthā verse crypticall"
+summary = "A monk whose Theragāthā verse cryptically speaks o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suhemanta
 
 A monk whose Theragāthā verse cryptically speaks of 100 signs. Thag.106
 
 ``` toml
 dict_label = "DPPN"
 word = "sujāta"
-summary = "Sujāta A monk who the Buddha commended on his spir"
+summary = "A monk who the Buddha commended on his spiritual a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sujāta
 
 A monk who the Buddha commended on his spiritual and physical beauty. SN.ii.278*f.*
 
@@ -14799,7 +19546,13 @@ dict_label = "DPPN"
 word = "sujātā"
 summary = "Sujātā1 The foremost laywoman in being first to go"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sujātā<sup>1</sup>
@@ -14823,7 +19576,13 @@ dict_label = "DPPN"
 word = "sukkā"
 summary = "Sukkā1 A bhikkhunī who was famous as a teacher of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sukkā<sup>1</sup>
@@ -14837,12 +19596,16 @@ A class of Devas who were present, in the company of the Veghanasā, at the prea
 ``` toml
 dict_label = "DPPN"
 word = "suleyyā"
-summary = "Suleyyā A class of devas present at the preaching"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suleyyā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -14851,7 +19614,13 @@ dict_label = "DPPN"
 word = "sumana"
 summary = "Sumana1 A monk whose Theragāthā verses speak of ha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sumana<sup>1</sup>
@@ -14877,7 +19646,13 @@ dict_label = "DPPN"
 word = "sumanā"
 summary = "Sumanā1Sumanārājakumārī She was the daughter of th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sumanā<sup>1</sup>Sumanārājakumārī
@@ -14893,7 +19668,13 @@ dict_label = "DPPN"
 word = "sumaṅgala"
 summary = "Sumaṅgala1 A monk whose Theragāthā verse speaks of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sumaṅgala<sup>1</sup>
@@ -14907,12 +19688,16 @@ A Pacceka Buddha. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "sumaṅgalamātā"
-summary = "Sumaṅgalamātā A bhikkhunī whose Therīgāthā verses"
+summary = "A bhikkhunī whose Therīgāthā verses celebrate her"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sumaṅgalamātā
 
 A bhikkhunī whose Therīgāthā verses celebrate her freedom from household drudgery and her brutal husband. Thig.23–24
 
@@ -14921,7 +19706,13 @@ dict_label = "DPPN"
 word = "sumbha"
 summary = "Sumbha1 A Pacceka Buddha. MN.iii.70 Sumbha2 A coun"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sumbha<sup>1</sup>
@@ -14935,24 +19726,32 @@ A country in which was Desaka, where Udāyi visited the Buddha during a stay, an
 ``` toml
 dict_label = "DPPN"
 word = "sumedhā"
-summary = "Sumedhā She was the daughter of King Koñca of Mant"
+summary = "She was the daughter of King Koñca of Mantāvatī. H"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sumedhā
 
 She was the daughter of King Koñca of Mantāvatī. Her Therīgāthā verses, of which she has the greatest number of any of the nuns, speak of the emptiness of the home life and the advantages of going forth. She determined to obtain her parent’s permission even going so far as to lie down on the floor and refuse to move. She refuses the offer of marriage to King Anikaratta of Vāraṇavatī, speaking of the loathsomeness of the body and the bliss of Nibbana. She cut off her hair by herself, and then attained the first *jhāna*. When her parents entered her room with Anikadatta, she converted them all, and obtained permission to join the Order. Shortly afterwards she attained arahantship. Thig.448–522
 
 ``` toml
 dict_label = "DPPN"
 word = "sumukha"
-summary = "Sumukha A Yakkha chief, to be invoked in time of n"
+summary = "A Yakkha chief, to be invoked in time of need by f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sumukha
 
 A Yakkha chief, to be invoked in time of need by followers of the Buddha. DN.iii.205
 
@@ -14961,7 +19760,13 @@ dict_label = "DPPN"
 word = "sumāgadhā"
 summary = "SumāgadhāSumāgavā A lotus pond near Rājagaha. The"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SumāgadhāSumāgavā
@@ -14975,12 +19780,16 @@ near Rājagaha3lake
 ``` toml
 dict_label = "DPPN"
 word = "sunakkhatta"
-summary = "Sunakkhatta A Licchavi prince of Vesāli. He was, a"
+summary = "A Licchavi prince of Vesāli. He was, at one time,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunakkhatta
 
 A Licchavi prince of Vesāli. He was, at one time, a member of the Order and the personal attendant of the Buddha, but was later converted to the views of Korakkhattiya and went about defaming the Buddha, saying that he had nothing superhuman and was not distinguished from other men by preaching a saving faith: that the doctrine preached by him did not lead to the destruction of sorrow, etc. Sāriputta, on his alms rounds in Vesāli, heard all this and reported it to the Buddha, who thereupon preached the Mahāsīhanāda Sutta. MN.i.68*ff.* The Sunakkhatta Sutta MN.ii.252*ff.* was evidently preached to Sunakkhatta before he joined the Order, while the Pātika Sutta DN.iii.1*ff.* gives an account of his dissatisfaction.
 
@@ -14991,24 +19800,32 @@ Later he transferred his allegiance to Kandaramasaka, who died, as the Buddha ha
 ``` toml
 dict_label = "DPPN"
 word = "sundara"
-summary = "Sundara A monk of Rājagaha. One day, as he walked"
+summary = "A monk of Rājagaha. One day, as he walked through"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sundara
 
 A monk of Rājagaha. One day, as he walked through the street, a woman asked him to stop for a moment that she might worship him, and, raising the end of his robe, took his penis into her mouth. A doubt arose in his mind as to whether any blame attached to him and he consulted the Buddha, who said that as Sundara had not acquiesced in the act, he was blameless. Vin.iii.36
 
 ``` toml
 dict_label = "DPPN"
 word = "sundarasamudda"
-summary = "Sundarasamudda A monk whose Theragāthā verses tell"
+summary = "A monk whose Theragāthā verses tell of how he was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sundarasamudda
 
 A monk whose Theragāthā verses tell of how he was tempted by a courtesan. She showed herself to him, decked and adorned and wearing golden slippers, and invited him in with seductive manner. But seeing this his mind went to the Dhamma and he became Awakened. Thag.459–465
 
@@ -15017,7 +19834,13 @@ dict_label = "DPPN"
 word = "sundarika"
 summary = "SundarikaBhāradvāja A brahmin, one of the Bhāradvā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SundarikaBhāradvāja
@@ -15029,12 +19852,16 @@ Sundarika\-Bhāradvāja is also mentioned MN.i.39*f.* as meeting the Buddha on t
 ``` toml
 dict_label = "DPPN"
 word = "sundarikā"
-summary = "Sundarikā A river in Kosala, reputed to be efficac"
+summary = "A river in Kosala, reputed to be efficacious in wa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sundarikā
 
 A river in Kosala, reputed to be efficacious in washing away sins. MN.i.39 There Sundarika Bhāradvāja held sacrifices in honour of Agni and met the Buddha during such a sacrifice. SN.i.167 Snp.p.79
 
@@ -15043,7 +19870,13 @@ dict_label = "DPPN"
 word = "sundarī"
 summary = "Sundarī1 A bhikkhunī whose Therīgāthā verses consi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sundarī<sup>1</sup>
@@ -15061,7 +19894,13 @@ dict_label = "DPPN"
 word = "sundarīnandā"
 summary = "Sundarīnandā1 Younger sister of Thullanandā; she h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sundarīnandā<sup>1</sup>
@@ -15077,60 +19916,80 @@ There seems to have been some confusion in the legends of the different Therīs 
 ``` toml
 dict_label = "DPPN"
 word = "sunetta"
-summary = "Sunetta A teacher of old. He had numerous disciple"
+summary = "A teacher of old. He had numerous disciples, and t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunetta
 
 A teacher of old. He had numerous disciples, and those who followed his teachings were reborn in the Brahma world and in various other worlds. Then Sunetta, seeing that some among his disciples were as good as himself, developed mettā to a much greater degree; but even so, he could not free himself from birth, old age, etc. It was because he had not comprehended Noble Conduct, Noble Concentration, Noble Wisdom, Noble Release. AN.iv.103*f.* AN.iii.371 AN.iv.135
 
 ``` toml
 dict_label = "DPPN"
 word = "sunidha"
-summary = "Sunidha A minister of Māgadha, who, with Vassakāra"
+summary = "A minister of Māgadha, who, with Vassakāra, was in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunidha
 
 A minister of Māgadha, who, with Vassakāra, was in charge of the fortifications of Pāṭaligāma, built in order to repel the Vajjīs. These two are always mentioned together. They invited the Buddha to a meal, and, after his departure, named the gate by which he had left the city Gotamadvāra, and the ford by which he crossed the Ganges, Gotamatittha. Vin.i.228*f.* DN.ii.86*f.* Ud.viii.6
 
 ``` toml
 dict_label = "DPPN"
 word = "sunimmita"
-summary = "Sunimmita A devaputta, king of the Nimmānaratī wor"
+summary = "A devaputta, king of the Nimmānaratī world. SN.iv."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunimmita
 
 A *devaputta*, king of the Nimmānaratī world. SN.iv.280 AN.iv.243
 
 ``` toml
 dict_label = "DPPN"
 word = "sunāga"
-summary = "Sunāga A monk whose Theragāthā verse speaks of one"
+summary = "A monk whose Theragāthā verse speaks of one who un"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunāga
 
 A monk whose Theragāthā verse speaks of one who understands the mind, practicing *jhāna* happily. Thag.85
 
 ``` toml
 dict_label = "DPPN"
 word = "sunāparanta"
-summary = "Sunāparanta A country in which was the port of Sup"
+summary = "A country in which was the port of Suppāraka, birt"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunāparanta
 
 A country in which was the port of Suppāraka, birthplace of Puṇṇa Thera. With the Buddha’s permission, he returned to Sunāparanta. The people of Sunāparanta were reported as being fierce and violent. MN.iii.268 SN.iv.61*f.*
 
@@ -15139,60 +19998,80 @@ A country in which was the port of Suppāraka, birthplace of Puṇṇa Thera. Wi
 ``` toml
 dict_label = "DPPN"
 word = "sunīta"
-summary = "Sunīta A monk whose Theragāthā verses speak of his"
+summary = "A monk whose Theragāthā verses speak of his humble"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sunīta
 
 A monk whose Theragāthā verses speak of his humble origins and how he bowed and scaped before many people, until he was lifted up by the Buddha. Practcing in the forest he realized the Dhamma, so that even the gods now pay him homage. Thag.620–631
 
 ``` toml
 dict_label = "DPPN"
 word = "supabbā"
-summary = "Supabbā An upāsikā of Rājagaha. She held the view"
+summary = "An upāsikā of Rājagaha. She held the view that one"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Supabbā
 
 An *upāsikā* of Rājagaha. She held the view that one who offered herself for sexual intercourse gave the supreme gift. Vin.iii.39
 
 ``` toml
 dict_label = "DPPN"
 word = "supatiṭṭhita"
-summary = "Supatiṭṭhita A Pacceka Buddha mentioned in a nomin"
+summary = "A Pacceka Buddha mentioned in a nominal list. MN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Supatiṭṭhita
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "suppabuddha"
-summary = "Suppabuddha A poor leper of Rājagaha, who, one day"
+summary = "A poor leper of Rājagaha, who, one day seated in t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suppabuddha
 
 A poor leper of Rājagaha, who, one day seated in the outer circle of people, heard the Buddha preach and became a *sotāpanna*. While waiting the departure of the crowd so that he could pay homage to the Buddha and express his gratitude, Sakka, desiring to test him, approached him and offered him untold wealth if he would repudiate the Buddha, his teachings, and the Order. But although Sakka revealed his identity, Suppabuddha rebuked him for a fool and said he had no need of more wealth, because he possessed already the seven stores of Noble Wealth. Sakka reported this conversation to the Buddha, who said that no power in the world would change Suppabuddha. Soon after, Suppabuddha visited the Buddha, and, having worshipped him, was on his way to the city when he was gored to death by a cow. Ud.v.3
 
 ``` toml
 dict_label = "DPPN"
 word = "suppagedha"
-summary = "Suppagedha A Yakkha, to be invoked by followers of"
+summary = "A Yakkha, to be invoked by followers of the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suppagedha
 
 A Yakkha, to be invoked by followers of the Buddha in time of need. DN.iii.205
 
@@ -15201,7 +20080,13 @@ dict_label = "DPPN"
 word = "suppatiṭṭha cetiya"
 summary = "Suppatiṭṭha CetiyaSupatiṭṭhacetiya A shrine near t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Suppatiṭṭha CetiyaSupatiṭṭhacetiya
@@ -15213,12 +20098,16 @@ near the Latthivanuyyāna3shrine
 ``` toml
 dict_label = "DPPN"
 word = "suppatiṭṭhita"
-summary = "Suppatiṭṭhita A nigrodha tree belonging to king Ko"
+summary = "A nigrodha tree belonging to king Koravya. The kin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suppatiṭṭhita
 
 A *nigrodha* tree belonging to king Koravya. The king and his court ate the first portion of the fruit as big as pipkins and sweet; the army had the second portion, the town and country people the third, recluses and holy men the fourth, and birds and beasts the last. None guarded its fruit, and none would hurt another in order to obtain its fruit.
 
@@ -15229,7 +20118,13 @@ dict_label = "DPPN"
 word = "suppavāsā"
 summary = "SuppavāsāKoliyadhītā A lay woman who lived in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SuppavāsāKoliyadhītā
@@ -15241,7 +20136,13 @@ dict_label = "DPPN"
 word = "suppiya"
 summary = "Suppiya1 A Paribbājaka. He was the teacher of Brah"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Suppiya<sup>1</sup>
@@ -15259,7 +20160,13 @@ dict_label = "DPPN"
 word = "suppiyā"
 summary = "Suppiyā1 The name of the inhabitants of Rājagaha i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Suppiyā<sup>1</sup>
@@ -15277,12 +20184,16 @@ Suppiyā was declared by the Buddha foremost among women who waited on the sick.
 ``` toml
 dict_label = "DPPN"
 word = "suriya"
-summary = "Suriya A devaputta, the sun or the god of the sun."
+summary = "A devaputta, the sun or the god of the sun. Once,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suriya
 
 A *devaputta*, the sun or the god of the sun. Once, when he was seized by Rāhu, lord of the Asuras, he invoked the power of the Buddha, and the Buddha enjoined on Rāhu to let him go. This Rāhu did, and Suriya is spoken of as seeking Vepacitti and standing by his side, trembling and with stiffened hair. SN.i.51
 
@@ -15293,7 +20204,13 @@ dict_label = "DPPN"
 word = "suriyavaccasā"
 summary = "SuriyavaccasāBhaddā A Gandhabba maiden, daughter o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SuriyavaccasāBhaddā
@@ -15307,12 +20224,16 @@ Later she heard Pañcasikha sing love\-songs in her honour, which also contained
 ``` toml
 dict_label = "DPPN"
 word = "surādha"
-summary = "Surādha A monks whose Theragāthā verses speak of a"
+summary = "A monks whose Theragāthā verses speak of attaining"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Surādha
 
 A monks whose Theragāthā verses speak of attaining the goal of the spiritual life. Thag.135–136
 
@@ -15321,7 +20242,13 @@ dict_label = "DPPN"
 word = "susumāragiri"
 summary = "SusumāragiriSuṃsumāragiri A city in the Bhagga cou"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SusumāragiriSuṃsumāragiri
@@ -15341,12 +20268,16 @@ Bhaggā3city
 ``` toml
 dict_label = "DPPN"
 word = "susārada"
-summary = "Susārada A monk whose Theragāthā verse speaks of t"
+summary = "A monk whose Theragāthā verse speaks of the advant"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Susārada
 
 A monk whose Theragāthā verse speaks of the advantages of associating with good people. Thag.75
 
@@ -15355,7 +20286,13 @@ dict_label = "DPPN"
 word = "susīma"
 summary = "Susīma1 A devaputta. Once, when Ānanda utters high"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Susīma<sup>1</sup>
@@ -15375,12 +20312,16 @@ Susīma agreed, and sought, Ānanda, who, with the Buddha’s sanction, ordained
 ``` toml
 dict_label = "DPPN"
 word = "sutanu"
-summary = "Sutanu A stream at Sāvatthī. Anuruddha is mentione"
+summary = "A stream at Sāvatthī. Anuruddha is mentioned as ha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sutanu
 
 A stream at Sāvatthī. Anuruddha is mentioned as having stayed near by. SN.v.297
 
@@ -15391,7 +20332,13 @@ dict_label = "DPPN"
 word = "sutanā"
 summary = "SutanāSudhanā An eminent upāsikā. AN.iv.347"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SutanāSudhanā
@@ -15403,7 +20350,13 @@ dict_label = "DPPN"
 word = "sutavā"
 summary = "Sutavā1 A Pacceka Buddha mentioned in a nominal li"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sutavā<sup>1</sup>
@@ -15417,12 +20370,16 @@ A wanderer who visited the Buddha on Gijjhakūṭa and questioned him regarding 
 ``` toml
 dict_label = "DPPN"
 word = "suvidehā"
-summary = "Suvidehā The name of a country and its inhabitants"
+summary = "The name of a country and its inhabitants. MN.i.22"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suvidehā
 
 The name of a country and its inhabitants. MN.i.225
 
@@ -15433,12 +20390,16 @@ that part of Videha which is opposite Māgadha, on the other side of the Ganges.
 ``` toml
 dict_label = "DPPN"
 word = "suvīra"
-summary = "Suvīra A Deva. Once, when the Asuras marched again"
+summary = "A Deva. Once, when the Asuras marched against the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Suvīra
 
 A Deva. Once, when the Asuras marched against the Devas, Sakka sent for Suvīra and asked him to fight the Asuras. Suvīra agreed to do this, but was very lazy about it. This happened three times. Sakka admonished him after the third time on the evils of laziness.
 
@@ -15449,7 +20410,13 @@ dict_label = "DPPN"
 word = "suyāma"
 summary = "Suyāma1 A devaputta, chief of the Yāma-devas. AN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Suyāma<sup>1</sup>
@@ -15463,12 +20430,16 @@ A monk whose Theragāthā verses speak of abandoning unwholesome states of mind.
 ``` toml
 dict_label = "DPPN"
 word = "sādhuka"
-summary = "Sādhuka A village in Kosala where Isidatta and Pur"
+summary = "A village in Kosala where Isidatta and Purāṇa once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sādhuka
 
 A village in Kosala where Isidatta and Purāṇa once stayed. SN.v.348
 
@@ -15477,7 +20448,13 @@ dict_label = "DPPN"
 word = "sāgala"
 summary = "SāgalaSāgalā A city in India, mentioned in the Vin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SāgalaSāgalā
@@ -15489,7 +20466,13 @@ dict_label = "DPPN"
 word = "sāgata "
 summary = "Sāgata He was the personal attendant of the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sāgata
@@ -15505,12 +20488,16 @@ The Buddha later declared him foremost among those skilled in the contemplation 
 ``` toml
 dict_label = "DPPN"
 word = "sāketa"
-summary = "Sāketa A town in Kosala. It was regarded in the Bu"
+summary = "A town in Kosala. It was regarded in the Buddha’s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāketa
 
 A town in Kosala. It was regarded in the Buddha’s time as one of the six great cities of India, the others being Campā, Rājagaha, Sāvatthī, Kosambī and Benares. DN.ii.146 In the Vinaya Vin.i.253 however, the distance between āvatthī and Sāketa is given as six leagues. The town lay on the direct route between Sāvatthī and Patiṭṭhāna, and is mentioned Snp.1011–1013 as the first stopping place out of Sāvatthī. The distance between the two places could be covered in one day, with seven relays of horses, MN.i.149 but the books contain several references Vin.i.88 Vin.i.89 Vin.i.270 Vin.iii.212 Vin.iv.63 Vin.iv.120 to the dangers of the journey when undertaken on foot. The road was infested with robbers, and the king had to maintain soldiers to protect travellers.
 
@@ -15525,12 +20512,16 @@ The Vinaya Vin.i.270*f.* mentions another seṭṭhi of Sāketa. His wife had su
 ``` toml
 dict_label = "DPPN"
 word = "sākya"
-summary = "Sākya A tribe in North India, to which the Buddha"
+summary = "A tribe in North India, to which the Buddha belong"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sākya
 
 A tribe in North India, to which the Buddha belonged. Their capital was Kapilavatthu. Mention is also made of other Sākyan settlements \- e.g., Cātumā, Khomadussa, Sāmagāma, Devadaha, Sīlavatī, Nagaraka, Medatalumpa, Sakkhara and Ulumpa (q.v.). Within the Sākyan tribe there were probably several clans, gottā. The Buddha himself belonged to the Gotamagotta. It has been suggested (E.g., Thomas, op. cit., 22) that this was a brahmin clan, claiming descent from the ancient isi Gotama. The evidence for this suggestion is, however, very meagre. Nowhere do we find the Sākyans calling themselves brahmins. On the other hand, we find various clans claiming a share of the Buddha's relics on the ground that they, like the Buddha, were khattiyas D.ii.165. It is stated a that the Sākyans were a haughty people. Vin.ii.183 D.i.90 J. i.88 DhA.iii.163. Hiouen Thsang, however, found them obliging and gentle in manners (Beal., op. cit., ii.14.
 
@@ -15538,9 +20529,9 @@ When the Buddha first visited them, after his Enlightenment, they refused to hon
 
 The Sākyans evidently had no king. Theirs was a republican form of government, probably with a leader, elected from time to time. The administration and judicial affairs of the gotta were discussed in their Santhāgāra, or Mote Hall, at Kapilavatthu. See, e.g., D.i.91 the Sākyans had a similar Mote Hall at Cātumā M.i.457. The Mallas of Kusinārā also had a Santhāgāra D.ii.164; so did the Licchavis of Vesāli Vin.i.233 M.i.228.
 
-Ambattha (q.v.) once visited it on business; so did the envoys of Pasenadi, when he wished to marry a Sākyan maiden (see below). A new Mote Hall was built at Kapilavatthu while the Buddha was staying at the Nigrodhārāma, and he was asked to inaugurate it. This he did by a series of ethical discourses lasting through the night, delivered by himself, Ananda, and Moggallāna. M.i.353f. S. iv.182f the hall is described at SA.iii.63 cf. UdA.409.
+Ambattha (q.v.) once visited it on business; so did the envoys of Pasenadi, when he wished to marry a Sākyan maiden. A new Mote Hall was built at Kapilavatthu while the Buddha was staying at the Nigrodhārāma, and he was asked to inaugurate it. This he did by a series of ethical discourses lasting through the night, delivered by himself, Ananda, and Moggallāna. M.i.353f. S. iv.182f the hall is described at SA.iii.63 cf. UdA.409.
 
-The Sākyans were very jealous of the purity of their race; they belonged to the Ādiccagotta, (ādiccā nāma gottena, Sākiyā nāma jātiyā, Sn. vs.423) and claimed descent from Okkāka (q.v.). Their ancestors were the nine children of Okkāka, whom he banished in order to give the kingdom to Jantukumāra, his son by another queen. These nine children went towards Himavā, and, having founded Kapilavatthu (q.v. for details), lived there. To the eldest sister they gave the rank of mother, and the others married among themselves. The eldest sister, Piyā, later married Rāma, king of Benares, and their descendants became known as the Koliyans (see Koliyā for details). When Okkāka heard of this, he praised their action, saying, 'Sakyā vata bho kumārā, paramasakyā vata bho rājakumāra; hence their name came to be 'Sakyā.'
+The Sākyans were very jealous of the purity of their race; they belonged to the Ādiccagotta, (ādiccā nāma gottena, Sākiyā nāma jātiyā, Sn. vs.423) and claimed descent from Okkāka (q.v.). Their ancestors were the nine children of Okkāka, whom he banished in order to give the kingdom to Jantukumāra, his son by another queen. These nine children went towards Himavā, and, having founded Kapilavatthu (q.v. for details), lived there. To the eldest sister they gave the rank of mother, and the others married among themselves. The eldest sister, Piyā, later married Rāma, king of Benares, and their descendants became known as the Koliyans. When Okkāka heard of this, he praised their action, saying, 'Sakyā vata bho kumārā, paramasakyā vata bho rājakumāra; hence their name came to be 'Sakyā.'
 
 The Buddha states, in the Aggañña Sutta, that the Sākyans were vassals of King Pasenadi of Kosala. D.iii.83 (Sakyā . . . Pasenadi\-Kosalassa anuyuttā bhavanti, karonti Sakyā rañño Pasenadimhi Kosale nipaccakāram abhivādanam paccupatthānam añjalikammam sāmīcikammam); cf. Sn.vs 422, where the Buddha describes his country as being 'Kosalesu niketino.'
 
@@ -15551,7 +20542,13 @@ dict_label = "DPPN"
 word = "sālavatikā"
 summary = "SālavatikāSālavatī A Kosalan village, given by Pas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SālavatikāSālavatī
@@ -15563,36 +20560,48 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "sālavatī"
-summary = "Sālavatī A courtesan of Rājagaha. She was the moth"
+summary = "A courtesan of Rājagaha. She was the mother of Jīv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sālavatī
 
 A courtesan of Rājagaha. She was the mother of Jīvaka Komārabhacca Vin.i.268*f.* and of his sister Sirimā.
 
 ``` toml
 dict_label = "DPPN"
 word = "sāleyyakā"
-summary = "Sāleyyakā The inhabitants of Sālā. MN.i.285"
+summary = "The inhabitants of Sālā. MN.i.285"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāleyyakā
 
 The inhabitants of Sālā. MN.i.285
 
 ``` toml
 dict_label = "DPPN"
 word = "sālā"
-summary = "Sālā A brahmin village of Kosala, its inhabitants"
+summary = "A brahmin village of Kosala, its inhabitants were"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sālā
 
 A brahmin village of Kosala, its inhabitants were called Sāleyyakā. The Apaṇṇaka Sutta and the Saleyyaka Sutta were preached there. MN.i.285 MN.i.400
 
@@ -15601,12 +20610,16 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "sāmagāma"
-summary = "Sāmagāma A Sākiyan village where the Sāmagāma Sutt"
+summary = "A Sākiyan village where the Sāmagāma Sutta was pre"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāmagāma
 
 A Sākiyan village where the Sāmagāma Sutta was preached. MN.ii.243 There was a lotus pond in the village. AN.iii.309
 
@@ -15617,12 +20630,16 @@ Sākiya3town
 ``` toml
 dict_label = "DPPN"
 word = "sāmaññakāni"
-summary = "Sāmaññakāni A monk whose Theragāthā verse speaks o"
+summary = "A monk whose Theragāthā verse speaks of the happin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāmaññakāni
 
 A monk whose Theragāthā verse speaks of the happiness of one who practices the right way. Thag.35
 
@@ -15631,7 +20648,13 @@ dict_label = "DPPN"
 word = "sāmaṇḍaka"
 summary = "SāmaṇḍakaSāmaṇḍakāniSāmañcakāni A Paribbājaka, men"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SāmaṇḍakaSāmaṇḍakāniSāmañcakāni
@@ -15643,12 +20666,16 @@ He is, perhaps, to be identified with Sāmaññakāni.
 ``` toml
 dict_label = "DPPN"
 word = "sāmidatta"
-summary = "Sāmidatta A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of the end of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāmidatta
 
 A monk whose Theragāthā verse speaks of the end of rebirth. Thag.90
 
@@ -15657,7 +20684,13 @@ dict_label = "DPPN"
 word = "sāmuga"
 summary = "SāmugaSāpūga A village of the Koliyans, where Ānan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SāmugaSāpūga
@@ -15671,7 +20704,13 @@ dict_label = "DPPN"
 word = "sāmā"
 summary = "Sāmā1 A bhikkhunī whose Therīgāthā verses speak of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sāmā<sup>1</sup>
@@ -15685,12 +20724,16 @@ A bhikkhunī whose Therīgāthā verses speak of how, despite having gone forth 
 ``` toml
 dict_label = "DPPN"
 word = "sāmāvatī"
-summary = "Sāmāvatī One of the chief consorts of King Udena."
+summary = "One of the chief consorts of King Udena. In the Ud"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāmāvatī
 
 One of the chief consorts of King Udena. In the Udāna it is said that she was the head of 500 women of the harem of the King who perished in afire, all of whom had attained the Dhamma. Ud.vii.10
 
@@ -15699,36 +20742,48 @@ Sāmāvatī is reckoned among the moist eminent of the lay women who were follow
 ``` toml
 dict_label = "DPPN"
 word = "sānu"
-summary = "Sānu His mother took him to the monks for ordinati"
+summary = "His mother took him to the monks for ordination, t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sānu
 
 His mother took him to the monks for ordination, thinking thus to ensure for him supreme happiness. Sānu lost his intellectual discernment and grew distraught and longed to go roaming. His former Yakkha mother seeing this, warned his human mother as described in the Sānu Sutta. The latter was overwhelmed with grief, and, when Sānu visited her, he found her weeping. She told him that he was as good as dead in that he had rejected the Buddha’s teaching and turned again to lower things, hence her sorrow. Thag.44
 
 ``` toml
 dict_label = "DPPN"
 word = "sāpūgiyā"
-summary = "Sāpūgiyā The people of Sāpūga"
+summary = "The people of Sāpūga"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāpūgiyā
 
 The people of Sāpūga
 
 ``` toml
 dict_label = "DPPN"
 word = "sārandadacetiya"
-summary = "Sārandadacetiya A shrine at Vesāli. DN.ii.75 DN.ii"
+summary = "A shrine at Vesāli. DN.ii.75 DN.ii.102 Ud.vi.1 Ves"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sārandadacetiya
 
 A shrine at Vesāli. DN.ii.75 DN.ii.102 Ud.vi.1
 
@@ -15739,7 +20794,13 @@ dict_label = "DPPN"
 word = "sāriputta "
 summary = "Sāriputta The chief disciple of Gotama- Buddha. He"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sāriputta
@@ -15749,12 +20810,16 @@ The chief disciple of Gotama\- Buddha. He is also called Upatissa, which was evi
 ``` toml
 dict_label = "DPPN"
 word = "sātapabbata"
-summary = "Sātapabbata A mountain in the Middle country, the"
+summary = "A mountain in the Middle country, the abode of Sāt"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sātapabbata
 
 A mountain in the Middle country, the abode of Sātāgira. Many other Yakkas also lived there, three thousand of whom were present at the preaching of the Mahāsamaya Sutta. DN.ii.257
 
@@ -15763,24 +20828,32 @@ A mountain in the Middle country, the abode of Sātāgira. Many other Yakkas als
 ``` toml
 dict_label = "DPPN"
 word = "sāti"
-summary = "Sāti He was a fisherman’s son and held the false v"
+summary = "He was a fisherman’s son and held the false view t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāti
 
 He was a fisherman’s son and held the false view that, according to the Buddha’s teaching, a man’s consciousness runs on and continues without break of identity. Sāti’s colleagues did their best to change his way of thinking, but failing to do so, they reported the matter to the Buddha. He questioned Sāti, who, however, sat silent and glum; then the Buddha preached to him and the assembled monks the Mahātaṇhāsaṅkhaya Sutta. MN.i.256*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "sātāgira"
-summary = "Sātāgira A Yakkha. He persuaded his friend Hemavat"
+summary = "A Yakkha. He persuaded his friend Hemavata to visi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sātāgira
 
 A Yakkha. He persuaded his friend Hemavata to visit the Buddha on an *uposatha* day. Hemavata then asked the Buddha a series of questions. Snp.176–205
 
@@ -15789,12 +20862,16 @@ Sātāgira is mentioned in the Āṭānāṭiya Sutta DN.iii.204 as one of the Y
 ``` toml
 dict_label = "DPPN"
 word = "sāvatthī"
-summary = "Sāvatthī The capital city of Kosala in India and o"
+summary = "The capital city of Kosala in India and one of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāvatthī
 
 The capital city of Kosala in India and one of the six great Indian cities during the lifetime of the Buddha. DN.ii.147 It was six leagues from Sāketa. Vin.i.253 It was on the banks of the Aciravatī.Vin.i.191 Vin.i.293 The road from Rājagaha to Sāvatthī passed through Vesāli, Vin.ii.159*f.* and the Pārāyanavagga Snp.1011–1013 gives the resting places between the two cities Setavyā, Kapilavatthu, Kusinārā, Pāvā and Bhoganagara. Further on, there was a road running southwards from Sāvatthī through Sāketa to Kosambī. Near the city was the Andhavana. Between Sāketa and Sāvatthī was Toraṇavatthu. SN.iv.374
 
@@ -15807,12 +20884,16 @@ His first visit there was at the invitation of Anāthapiṇḍika. The chief pat
 ``` toml
 dict_label = "DPPN"
 word = "sāvitti"
-summary = "Sāvitti A hymn, mentioned as chief of the Vedas. S"
+summary = "A hymn, mentioned as chief of the Vedas. Snp.568 I"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sāvitti
 
 A hymn, mentioned as chief of the Vedas. Snp.568 It consists of three lines of twenty four letters. Snp.457
 
@@ -15821,7 +20902,13 @@ dict_label = "DPPN"
 word = "sāḷha"
 summary = "Sāḷha1Migāranattā He once visited Nandaka Thera wi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sāḷha<sup>1</sup>Migāranattā
@@ -15845,7 +20932,13 @@ dict_label = "DPPN"
 word = "sāṭimattiya"
 summary = "SāṭimattiyaSātimattiya A monk whose Theragāthā ver"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SāṭimattiyaSātimattiya
@@ -15855,12 +20948,16 @@ A monk whose Theragāthā verses speak of one who formerly had faith but now has
 ``` toml
 dict_label = "DPPN"
 word = "sīdarī"
-summary = "Sīdarī A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīdarī
 
 A Pacceka Buddha. MN.iii.70
 
@@ -15869,7 +20966,13 @@ dict_label = "DPPN"
 word = "sīha"
 summary = "Sīha1 A Licchavi general of Vesāli. He was a follo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sīha<sup>1</sup>
@@ -15889,12 +20992,16 @@ A novice who entered the Order at the age of seven and was a great favourite amo
 ``` toml
 dict_label = "DPPN"
 word = "sīhapapātā"
-summary = "Sīhapapātā One of the seven great lakes of Himavā."
+summary = "One of the seven great lakes of Himavā. AN.iv.107"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīhapapātā
 
 One of the seven great lakes of Himavā. AN.iv.107
 
@@ -15903,60 +21010,80 @@ Himalaya3lake
 ``` toml
 dict_label = "DPPN"
 word = "sīhā"
-summary = "Sīhā A bhikkhunī whose Therīgāthā verses tell of h"
+summary = "A bhikkhunī whose Therīgāthā verses tell of how fo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīhā
 
 A bhikkhunī whose Therīgāthā verses tell of how for seven years she tried, without success, to concentrate her mind. Then she tied a noose round her neck and fastened the end to a tree, and in this position her mind was freed. Thig.77–81
 
 ``` toml
 dict_label = "DPPN"
 word = "sīlavā"
-summary = "Sīlavā A monk whose Theragāthā verses speak in pra"
+summary = "A monk whose Theragāthā verses speak in praise of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīlavā
 
 A monk whose Theragāthā verses speak in praise of virtue (*sīla*). Thag.608–619
 
 ``` toml
 dict_label = "DPPN"
 word = "sīsupacalā"
-summary = "Sīsupacalā Māra once tempted her with thoughts of"
+summary = "Māra once tempted her with thoughts of sensual ple"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīsupacalā
 
 Māra once tempted her with thoughts of sensual pleasures, but she sent him away discomfited Thig.190–203 SN.i.133*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "sītavalāhakā"
-summary = "Sītavalāhakā A class of devas. When they wish to r"
+summary = "A class of devas. When they wish to regale their b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sītavalāhakā
 
 A class of devas. When they wish to regale their bodies, the weather becomes cool. SN.iii.256
 
 ``` toml
 dict_label = "DPPN"
 word = "sītavana"
-summary = "Sītavana A grove near Rājagaha where Anāthapiṇḍika"
+summary = "A grove near Rājagaha where Anāthapiṇḍika first me"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sītavana
 
 A grove near Rājagaha where Anāthapiṇḍika first met the Buddha. When Anāthapiṇḍika approached it, he was filled with fear and trembling. But he was reassured by a friendly Yakkha, Sīvaka. Vin.ii.155*f.* When the Buddha was staying there, Māra asked him to die. DN.ii.116
 
@@ -15973,7 +21100,13 @@ dict_label = "DPPN"
 word = "sīvaka"
 summary = "Sīvaka1 A Yakkha who helped Anāthapiṇḍika to find"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Sīvaka<sup>1</sup>
@@ -15991,12 +21124,16 @@ A monk whose Theragāthā verses speak of the impermanence of houses, and the en
 ``` toml
 dict_label = "DPPN"
 word = "sīvali"
-summary = "Sīvali A monk whose Theragāthā verse speaks of att"
+summary = "A monk whose Theragāthā verse speaks of attaining"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīvali
 
 A monk whose Theragāthā verse speaks of attaining his goal and abandoning pride. Thag.60
 
@@ -16005,24 +21142,32 @@ Sīvali was declared by the Buddha AN.i.24 pre\-eminent among recipients of gift
 ``` toml
 dict_label = "DPPN"
 word = "sīveyyaka"
-summary = "Sīveyyaka The cloth produced in the Sivi country."
+summary = "The cloth produced in the Sivi country. Vin.i.278"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sīveyyaka
 
 The cloth produced in the Sivi country. Vin.i.278 Pajjota gave a pair of robes of this material to Jīvaka, as a present for his cure. These robes Jīvaka gave to the Buddha. Vin.i.280
 
 ``` toml
 dict_label = "DPPN"
 word = "sūciloma"
-summary = "Sūciloma A Yakkha. Once, when the Buddha was at th"
+summary = "A Yakkha. Once, when the Buddha was at the Tankita"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sūciloma
 
 A Yakkha. Once, when the Buddha was at the Tankitamañca in Gayā, which was the abode of Sūciloma, Sūciloma and his friend, Khara, happened to be passing by, and Sūciloma, coming up to the Buddha, bent his body against the Buddha’s. The Buddha bent his body in the opposite direction, saying that contact with him was an evil thing. Then Sūciloma asked him a question regarding the origin of various persuasions, and the Buddha answered him.
 
@@ -16031,7 +21176,13 @@ dict_label = "DPPN"
 word = "sūkarakha"
 summary = "SūkarakhaSūkarakhataSūkarakhatala A cave on the si"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 SūkarakhaSūkarakhataSūkarakhatala
@@ -16045,36 +21196,48 @@ A conversation which the Buddha had there with Sāriputta is recorded in the Sa�
 ``` toml
 dict_label = "DPPN"
 word = "sūra"
-summary = "Sūra A messenger of Kuvera. DN.iii.201"
+summary = "A messenger of Kuvera. DN.iii.201"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sūra
 
 A messenger of Kuvera. DN.iii.201
 
 ``` toml
 dict_label = "DPPN"
 word = "sūrambaṭṭha"
-summary = "Sūrambaṭṭha An eminent lay disciple, declared by t"
+summary = "An eminent lay disciple, declared by the Buddha fo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sūrambaṭṭha
 
 An eminent lay disciple, declared by the Buddha foremost among his followers in unwavering loyalty. AN.i.26 AN.iii.451
 
 ``` toml
 dict_label = "DPPN"
 word = "sūrasena"
-summary = "Sūrasena One of the sixteen Great Nations. It is m"
+summary = "One of the sixteen Great Nations. It is mentioned"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Sūrasena
 
 One of the sixteen Great Nations. It is mentioned with Maccha, and was located in the south of the Kuru country. Its capital was Mathurā. It is famous in the Epics and the Purānas because of its connection with Kṛṣṇa, and the Yādavas.
 
@@ -16083,36 +21246,48 @@ One of the sixteen Great Nations. It is mentioned with Maccha, and was located i
 ``` toml
 dict_label = "DPPN"
 word = "tacchakā"
-summary = "Tacchakā A class of Nāgas present at the Mahāsamay"
+summary = "A class of Nāgas present at the Mahāsamaya. DN.ii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tacchakā
 
 A class of Nāgas present at the Mahāsamaya. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "tadadhimutta"
-summary = "Tadadhimutta A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tadadhimutta
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "tagarasikhī"
-summary = "Tagarasikhī A Pacceka Buddha, MN.iii.69 third amon"
+summary = "A Pacceka Buddha, MN.iii.69 third among the five h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tagarasikhī
 
 A Pacceka Buddha, MN.iii.69 third among the five hundred sons of Padumavatī, all of whom became Pacceka Buddhas. Suppabuddha, a banker of Rājagaha, having seen the Pacceka Buddha on his way to a park, spoke insultingly to him, and, as a result, was born as a leper in this birth. Ud.v.3
 
@@ -16121,12 +21296,16 @@ The Saṃyutta Nikāya SN.i.92*f.* contains the story of a man who often met Tag
 ``` toml
 dict_label = "DPPN"
 word = "takkasilā"
-summary = "Takkasilā The capital of Gandhāra. The Vinaya desc"
+summary = "The capital of Gandhāra. The Vinaya describes it a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Takkasilā
 
 The capital of Gandhāra. The Vinaya describes it as the place of education of Jīvaka, the Buddha’s doctor. Vin.i.269*f.*
 
@@ -16137,24 +21316,32 @@ Takkasilā is identified with the Greek Taxila, in Rawalpindi in the Punjab.
 ``` toml
 dict_label = "DPPN"
 word = "takkivīmaṃsī"
-summary = "Takkivīmaṃsī The name of a class of brahmins who m"
+summary = "The name of a class of brahmins who might be descr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Takkivīmaṃsī
 
 The name of a class of brahmins who might be described as sophists and researchers. MN.ii.21
 
 ``` toml
 dict_label = "DPPN"
 word = "tapodā"
-summary = "Tapodā A large lake below the Vebhāra mountain, ou"
+summary = "A large lake below the Vebhāra mountain, outside R"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tapodā
 
 A large lake below the Vebhāra mountain, outside Rājagaha. The lake was cool, but the stream flowing from it, also called Tapodā, Vin.iii.108 Vin.iv.116*f.* was hot. Around it was the Tapodārāma.
 
@@ -16165,12 +21352,16 @@ Monks and recluses were evidently in the habit of going to the Tapodā to bathe 
 ``` toml
 dict_label = "DPPN"
 word = "tapodārāma"
-summary = "Tapodārāma A grove near lake Tapodā. In the grove"
+summary = "A grove near lake Tapodā. In the grove was a monas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tapodārāma
 
 A grove near lake Tapodā. In the grove was a monastery where the Buddha seems to have stayed on several occasions. It is said DN.ii.116 that on one such occasion the Buddha gave Ānanda the chance of asking him to live for a whole kappa, but Ānanda failed to make use of it.
 
@@ -16183,7 +21374,13 @@ dict_label = "DPPN"
 word = "tapussa"
 summary = "TapussaTapassu A merchant of Ukkalā. He and his fr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TapussaTapassu
@@ -16193,60 +21390,80 @@ A merchant of Ukkalā. He and his friend, Bhalluka, while on their way to Rājag
 ``` toml
 dict_label = "DPPN"
 word = "tatha"
-summary = "Tatha A Pacceka Buddha. MN.iii.69"
+summary = "A Pacceka Buddha. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tatha
 
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "tatojasī"
-summary = "Tatojasī A messenger of Vessavaṇa. DN.iii.201"
+summary = "A messenger of Vessavaṇa. DN.iii.201"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tatojasī
 
 A messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
 dict_label = "DPPN"
 word = "tatolā"
-summary = "Tatolā Messenger of Vessavaṇa. DN.iii.201"
+summary = "Messenger of Vessavaṇa. DN.iii.201"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tatolā
 
 Messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
 dict_label = "DPPN"
 word = "tatotalā"
-summary = "Tatotalā Messenger of Vessavaṇa. DN.iii.201"
+summary = "Messenger of Vessavaṇa. DN.iii.201"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tatotalā
 
 Messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
 dict_label = "DPPN"
 word = "tattalā"
-summary = "Tattalā Messenger of Vessavaṇa. DN.iii.201"
+summary = "Messenger of Vessavaṇa. DN.iii.201"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tattalā
 
 Messenger of Vessavaṇa. DN.iii.201
 
@@ -16255,7 +21472,13 @@ dict_label = "DPPN"
 word = "tavakaṇṇika"
 summary = "Tavakaṇṇika, Tavannika, Tavakinnoka A householder"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Tavakaṇṇika, Tavannika, Tavakinnoka
@@ -16267,7 +21490,13 @@ dict_label = "DPPN"
 word = "tavakinnoka"
 summary = "Tavakaṇṇika, Tavannika, Tavakinnoka A householder"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Tavakaṇṇika, Tavannika, Tavakinnoka
@@ -16279,7 +21508,13 @@ dict_label = "DPPN"
 word = "tavannika"
 summary = "Tavakaṇṇika, Tavannika, Tavakinnoka A householder"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Tavakaṇṇika, Tavannika, Tavakinnoka
@@ -16289,12 +21524,16 @@ A householder who realised Nibbāna from knowledge of the Tathāgata. He is ment
 ``` toml
 dict_label = "DPPN"
 word = "taṇhā"
-summary = "Taṇhā One of the three daughters of Māra, who trie"
+summary = "One of the three daughters of Māra, who tried to t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Taṇhā
 
 One of the three daughters of Māra, who tried to tempt the Buddha under the Ajapāla\-nigrodha, soon after the Enlightenment. Snp.p.163 SN.i.124*f.*
 
@@ -16303,7 +21542,13 @@ dict_label = "DPPN"
 word = "taṇḍulapālidvārāya"
 summary = "TaṇḍulapālidvārāyaTaṇḍulapālidvāraTandulapāladvāra"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TaṇḍulapālidvārāyaTaṇḍulapālidvāraTandulapāladvāra
@@ -16315,12 +21560,16 @@ Rājagaha3building
 ``` toml
 dict_label = "DPPN"
 word = "tejasi"
-summary = "Tejasi One of the messengers employed by Kuvera. D"
+summary = "One of the messengers employed by Kuvera. DN.iii.2"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tejasi
 
 One of the messengers employed by Kuvera. DN.iii.201
 
@@ -16329,7 +21578,13 @@ dict_label = "DPPN"
 word = "tekicchakārī"
 summary = "TekicchakārīTekicchakāni A monk whose Theragāthā v"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TekicchakārīTekicchakāni
@@ -16339,36 +21594,48 @@ A monk whose Theragāthā verses speak of how, by recollecting the triple Gem an
 ``` toml
 dict_label = "DPPN"
 word = "tekula"
-summary = "Tekula A monk who, with his brother Yamelu, asked"
+summary = "A monk who, with his brother Yamelu, asked from th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tekula
 
 A monk who, with his brother Yamelu, asked from the Buddha permission to translate the Buddha’s teachings into *chandas*, which probably is Sanskrit metre. Vin.ii.139
 
 ``` toml
 dict_label = "DPPN"
 word = "thera"
-summary = "Thera Name of a monk in Rājagaha. He lived in soli"
+summary = "Name of a monk in Rājagaha. He lived in solitude,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Thera
 
 Name of a monk in Rājagaha. He lived in solitude, the virtues of which state he extolled. Hearing this, the Buddha sent for him and taught him how the solitary life could be perfected in detail. SN.ii.282*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "therikā"
-summary = "Therikā A bhikkhunī whose Therīgāthā verse says sh"
+summary = "A bhikkhunī whose Therīgāthā verse says she may sl"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Therikā
 
 A bhikkhunī whose Therīgāthā verse says she may sleep happily now the defilements are stilled. Thig.1
 
@@ -16377,7 +21644,13 @@ dict_label = "DPPN"
 word = "thullakoṭṭhika"
 summary = "ThullakoṭṭhikaThullakoṭṭhita A township in the Kur"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ThullakoṭṭhikaThullakoṭṭhita
@@ -16389,12 +21662,16 @@ Kuru3town
 ``` toml
 dict_label = "DPPN"
 word = "thullanandā"
-summary = "Thullanandā A nun, one of four sisters who all joi"
+summary = "A nun, one of four sisters who all joined the Orde"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Thullanandā
 
 A nun, one of four sisters who all joined the Order, the others being Nandā, Nandavatī and Sundarinandā.
 
@@ -16419,12 +21696,16 @@ She befriended Ariṭṭha when he was cast out of the Order. Vin.iv.218
 ``` toml
 dict_label = "DPPN"
 word = "thullatissā"
-summary = "Thullatissā A nun. She was present when Mahā-Kassa"
+summary = "A nun. She was present when Mahā-Kassapa, in the c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Thullatissā
 
 A nun. She was present when Mahā\-Kassapa, in the company of Ānanda, visited the nuns and preached to them. She expressed resentment that Kassapa should dare to preach in the presence of Ānanda. It was, she said, “as if the needle\-pedlar should try to sell a needle to the needle\-maker.” Ānanda afterwards asked Kassapa to ignore Tissā’s outburst, but she later left the Order. SN.ii.215*ff.*
 
@@ -16433,7 +21714,13 @@ dict_label = "DPPN"
 word = "thūlū"
 summary = "ThūlūBumūBūmūThulūKhulūKhūlūKhuhū The name of a go"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ThūlūBumūBūmūThulūKhulūKhūlūKhuhū
@@ -16445,12 +21732,16 @@ The name of a *gotta*. The village of Uttarakā belonged to them, and when the B
 ``` toml
 dict_label = "DPPN"
 word = "thūṇa"
-summary = "Thūṇa A brahmin village on the western boundary of"
+summary = "A brahmin village on the western boundary of Majjh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Thūṇa
 
 A brahmin village on the western boundary of Majjhimadesa. Vin.i.197 It was in the Kosala country and belonged to the Mallas, and was once visited by the Buddha. Ud.vii.9
 
@@ -16459,48 +21750,64 @@ on the western boundary of Majjhimadesa, in the Kosala country, of the Mallas2to
 ``` toml
 dict_label = "DPPN"
 word = "thūṇeyyakā"
-summary = "Thūṇeyyakā The people of Thūṇa."
+summary = "The people of Thūṇa."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Thūṇeyyakā
 
 The people of Thūṇa.
 
 ``` toml
 dict_label = "DPPN"
 word = "tidivādhibhū"
-summary = "Tidivādhibhū A name given to Sakka."
+summary = "A name given to Sakka."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tidivādhibhū
 
 A name given to Sakka.
 
 ``` toml
 dict_label = "DPPN"
 word = "tikaṇṇa"
-summary = "Tikaṇṇa A brahmin. He once visited the Buddha and"
+summary = "A brahmin. He once visited the Buddha and spoke in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tikaṇṇa
 
 A brahmin. He once visited the Buddha and spoke in praise of tevijja brahmins. The Buddha explained to him that the threefold lore of the Ariyan disciple was a different and a far nobler thing. The brahmin accepted the Buddha as his teacher. AN.i.164*f.* DN.i.73*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "timbaru"
-summary = "Timbaru A chieftain of the Gandhabbas and father o"
+summary = "A chieftain of the Gandhabbas and father of Suriya"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Timbaru
 
 A chieftain of the Gandhabbas and father of Suriyavaccasā. DN.ii.266 DN.ii.268
 
@@ -16509,12 +21816,16 @@ He was present at the Mahāsamaya. DN.ii.258
 ``` toml
 dict_label = "DPPN"
 word = "tindukakandarā"
-summary = "Tindukakandarā A cave outside Rājagaha where lodgi"
+summary = "A cave outside Rājagaha where lodgings were provid"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tindukakandarā
 
 A cave outside Rājagaha where lodgings were provided for visiting monks. Vin.ii.76 Vin.iii.159
 
@@ -16525,7 +21836,13 @@ dict_label = "DPPN"
 word = "tindukkhānu"
 summary = "TindukkhānuTindukkhānuparibbājakārāma A dwelling o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TindukkhānuTindukkhānuparibbājakārāma
@@ -16539,7 +21856,13 @@ dict_label = "DPPN"
 word = "tissa"
 summary = "Tissa1 One of the two chief disciples of Vipassī B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Tissa<sup>1</sup>
@@ -16575,7 +21898,13 @@ dict_label = "DPPN"
 word = "tissametteyya"
 summary = "TissametteyyaTissaMetteyya A disciple of Bāvarī. H"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TissametteyyaTissaMetteyya
@@ -16585,24 +21914,32 @@ A disciple of Bāvarī. He visited the Buddha with his colleagues and when the B
 ``` toml
 dict_label = "DPPN"
 word = "tittiriyābrāhmanā"
-summary = "Tittiriyābrāhmanā The Pāḷi equivalent of the Sansk"
+summary = "The Pāḷi equivalent of the Sanskrit Taittirīyā. It"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tittiriyābrāhmanā
 
 The Pāḷi equivalent of the Sanskrit Taittirīyā. It refers to students of a branch of brahmanical lore. DN.i.237
 
 ``` toml
 dict_label = "DPPN"
 word = "tivarā"
-summary = "Tivarā The name given to the inhabitants of Mount"
+summary = "The name given to the inhabitants of Mount Vepulla"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tivarā
 
 The name given to the inhabitants of Mount Vepulla, then known as Pācīnavaṃsa, near Rājagaha, in the time of Kakusandha Buddha. Their term of life was forty thousand years. SN.ii.190
 
@@ -16611,7 +21948,13 @@ dict_label = "DPPN"
 word = "todeyya"
 summary = "Todeyya1 A Mahāsāla brahmin, mentioned in a list o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Todeyya<sup>1</sup>
@@ -16627,12 +21970,16 @@ A disciple of Bāvarī. Snp.1006 He visited the Buddha, and his questions, with 
 ``` toml
 dict_label = "DPPN"
 word = "toraṇavatthu"
-summary = "Toraṇavatthu A locality in Kosala, between Sāvatth"
+summary = "A locality in Kosala, between Sāvatthī and Sāketa."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Toraṇavatthu
 
 A locality in Kosala, between Sāvatthī and Sāketa. Pasenadi once stopped there and visited Khemā, who lived there. SN.iv.374
 
@@ -16641,24 +21988,32 @@ A locality in Kosala, between Sāvatthī and Sāketa. Pasenadi once stopped ther
 ``` toml
 dict_label = "DPPN"
 word = "tudu"
-summary = "Tudu When Kokālika was grievously ill, Tudu visite"
+summary = "When Kokālika was grievously ill, Tudu visited him"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tudu
 
 When Kokālika was grievously ill, Tudu visited him and exhorted him to put his trust in Sāriputta and Moggallāna. But Kokālika refused to accept his advice and drove him away. SN.i.149 AN.v.171
 
 ``` toml
 dict_label = "DPPN"
 word = "tusita"
-summary = "Tusita The fourth of the six deva worlds. AN.i.210"
+summary = "The fourth of the six deva worlds. AN.i.210 Four h"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tusita
 
 The fourth of the six deva worlds. AN.i.210
 
@@ -16673,24 +22028,32 @@ It is the rule for all Bodhisattas to be born in Tusita in their last life but o
 ``` toml
 dict_label = "DPPN"
 word = "tusitā"
-summary = "Tusitā The inhabitants of the Tusita world."
+summary = "The inhabitants of the Tusita world."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tusitā
 
 The inhabitants of the Tusita world.
 
 ``` toml
 dict_label = "DPPN"
 word = "tuṭṭha"
-summary = "Tuṭṭha A lay disciple of Ñātika who died and was r"
+summary = "A lay disciple of Ñātika who died and was reborn i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tuṭṭha
 
 A lay disciple of Ñātika who died and was reborn in the Suddhāvāsa, there to attain Nibbāna. SN.v.358 DN.ii.92
 
@@ -16699,7 +22062,13 @@ dict_label = "DPPN"
 word = "tālaputa"
 summary = "TālaputaTālapuṭa A stage-manager of Rājagaha. One"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TālaputaTālapuṭa
@@ -16709,12 +22078,16 @@ A stage\-manager of Rājagaha. One day he visited the Buddha and asked if it was
 ``` toml
 dict_label = "DPPN"
 word = "tārukkha"
-summary = "Tārukkha One of the most eminent great brahmins, c"
+summary = "One of the most eminent great brahmins, contempora"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tārukkha
 
 One of the most eminent great brahmins, contemporary of the Buddha.
 
@@ -16727,7 +22100,13 @@ dict_label = "DPPN"
 word = "tāvatiṃsā"
 summary = "TāvatiṃsāTidasāTidiva The second of the six deva-w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 TāvatiṃsāTidasāTidiva
@@ -16741,24 +22120,32 @@ Tāvatiṃsā was also known as Tidasā and Tidiva. SN.i.234
 ``` toml
 dict_label = "DPPN"
 word = "tāyana"
-summary = "Tāyana A devaputta. He visited the Buddha at Sāvat"
+summary = "A devaputta. He visited the Buddha at Sāvatthī and"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Tāyana
 
 A *devaputta*. He visited the Buddha at Sāvatthī and uttered certain verses in the hearing of the monks, telling of the necessity of following the recluse’s calling with energy and sincerity. After his departure the Buddha asked the monks to learn the verses for their own good. SN.i.49
 
 ``` toml
 dict_label = "DPPN"
 word = "ubbhataka"
-summary = "Ubbhataka A mote-hall built by the Mallas of Pāvā."
+summary = "A mote-hall built by the Mallas of Pāvā. When it w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ubbhataka
 
 A mote\-hall built by the Mallas of Pāvā. When it was finished they invited the Buddha to be its first occupant. The Buddha went with the monks and spent the night in the hall. It was on this occasion that Sāriputta recited the Saṅgīti Sutta. DN.iii.207*ff.*
 
@@ -16769,7 +22156,13 @@ dict_label = "DPPN"
 word = "ubbirī"
 summary = "Ubbirī  A bhikkhunī whose verses in the Therīgāthā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ubbirī\>
@@ -16781,7 +22174,13 @@ dict_label = "DPPN"
 word = "ubhato-vibhaṅga"
 summary = "A collective term, comprehending the Bhikkhu-vibha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ubhato\-vibhaṅga
@@ -16791,12 +22190,16 @@ A collective term, comprehending the Bhikkhu\-vibhaṅga and the Bhikkhunī\-vib
 ``` toml
 dict_label = "DPPN"
 word = "uccaṅgamāya"
-summary = "Uccaṅgamāya A Pacceka Buddha found in a list of Pa"
+summary = "A Pacceka Buddha found in a list of Pacceka Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uccaṅgamāya
 
 A Pacceka Buddha found in a list of Pacceka Buddhas. MN.iii.70
 
@@ -16805,7 +22208,13 @@ dict_label = "DPPN"
 word = "udaya"
 summary = "Udaya1 A brahmin of Sāvatthī. One day the Buddha c"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Udaya<sup>1</sup>
@@ -16821,7 +22230,13 @@ dict_label = "DPPN"
 word = "uddaka"
 summary = "UddakaRāmaputta One of the teachers under whom Got"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UddakaRāmaputta
@@ -16838,10 +22253,38 @@ Again, in the Pāsādika Sutta DN.iii.126–127 the Buddha tells Cunda that when
 
 ``` toml
 dict_label = "DPPN"
+word = "udena cetiya"
+summary = "Udena Cetiya Udenacetiya A shrine of pre-Buddhisti"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+Udena Cetiya Udenacetiya
+
+A shrine of pre\-Buddhistic worship, to the east of Vesāli.
+
+It is mentioned with other shrines at Vesāli—Gotamaka, Sārandada, Sattamba, Cāpāla and Bahuputta—all of which are described as beautiful spots. DN.ii.102 SN.v.260 AN.iv.309 DN.iii.9
+
+26.01452, 85.16122shrine
+
+``` toml
+dict_label = "DPPN"
 word = "udena"
 summary = "Udena1Utena King of Kosambī. He was the son of Par"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Udena<sup>1</sup>Utena
@@ -16860,29 +22303,17 @@ An upāsaka of Kosala. He built a dwelling for the Order, and he invited monks f
 
 ``` toml
 dict_label = "DPPN"
-word = "udena cetiya"
-summary = "Udena Cetiya Udenacetiya A shrine of pre-Buddhisti"
-grammar = ""
-inflections = []
-```
-
-Udena Cetiya Udenacetiya
-
-A shrine of pre\-Buddhistic worship, to the east of Vesāli.
-
-It is mentioned with other shrines at Vesāli—Gotamaka, Sārandada, Sattamba, Cāpāla and Bahuputta—all of which are described as beautiful spots. DN.ii.102 SN.v.260 AN.iv.309 DN.iii.9
-
-26.01452, 85.16122shrine
-
-``` toml
-dict_label = "DPPN"
 word = "udumbara"
-summary = "Udumbara A village. Revata went there from Kaṇṇaku"
+summary = "A village. Revata went there from Kaṇṇakujja and s"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Udumbara
 
 A village. Revata went there from Kaṇṇakujja and stopped there before proceeding to Aggalapura and Sahajāti. Thither the Elders followed him to ask his opinion on the Vajjian heresy. Vin.ii.299
 
@@ -16891,12 +22322,16 @@ A village. Revata went there from Kaṇṇakujja and stopped there before procee
 ``` toml
 dict_label = "DPPN"
 word = "udāna"
-summary = "Udāna One of the nine sections of the teachings (a"
+summary = "One of the nine sections of the teachings (aṅga)."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Udāna
 
 One of the nine sections of the teachings (*aṅga*).
 
@@ -16905,7 +22340,13 @@ dict_label = "DPPN"
 word = "udāyibhadda"
 summary = "UdāyibhaddaUdāyibhaddaka Son of Ajātasattu. When A"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UdāyibhaddaUdāyibhaddaka
@@ -16917,7 +22358,13 @@ dict_label = "DPPN"
 word = "udāyī"
 summary = "Udāyī1LāludāyīPaṇḍita Udāyī There were at least tw"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Udāyī<sup>1</sup>LāludāyīPaṇḍita Udāyī
@@ -16947,12 +22394,16 @@ A brahmin. He visited the Buddha at Sāvatthī and asked if the Buddha ever prai
 ``` toml
 dict_label = "DPPN"
 word = "ugga"
-summary = "Ugga He once visited the Buddha and told him how h"
+summary = "He once visited the Buddha and told him how he riv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ugga
 
 He once visited the Buddha and told him how he rivalled in power and wealth the seṭṭhi Migāra, grandson of Rohana. He was worth one hundred thousand in gold alone, to say nothing of silver. The Buddha tells him that all this wealth could easily be lost in various ways, not so the seven kinds of Ariyan wealth. AN.iv.6–7
 
@@ -16987,7 +22438,13 @@ dict_label = "DPPN"
 word = "uggaha"
 summary = "UggahaMeṇḍakanattā The grandson of the banker Meṇḍ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UggahaMeṇḍakanattā
@@ -16997,12 +22454,16 @@ The grandson of the banker Meṇḍaka; he lived in Bhaddiya. Once when the Budd
 ``` toml
 dict_label = "DPPN"
 word = "uggatasarīra"
-summary = "Uggatasarīra A great brahmin. Having made preparat"
+summary = "A great brahmin. Having made preparations for a gr"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uggatasarīra
 
 A great brahmin. Having made preparations for a great sacrifice, in which numerous animals were to be slaughtered, he visited the Buddha at Jetavana to consult him as to the efficacy of the sacrifice. Three times he told the Buddha that he had heard that the laying down of the fire and the setting up of the sacrificial post bore great fruit. Three times the Buddha agreed that it was so, and Uggatasarīra was about to conclude that the Buddha approved of his sacrifice, when Ānanda intervened and suggested that the Buddha should be asked to explain his meaning and to give his advice as to the efficacy of the sacrifice. The Buddha thereupon declared that there were three fires to be cast off: greed, hatred, and delusion; and three fires that should be honoured: *āhuneyyaggi*, *gahapataggi* and *dakkhiṇeyyaggi*. The *āhuneyyaggi* was represented by the parents; the *gahapata*, by wife, children, servants and retainers; the *dakkhiṇeyya*, by holy men and recluses.
 
@@ -17013,7 +22474,13 @@ dict_label = "DPPN"
 word = "uggāhamāna"
 summary = "UggāhamānaSamaṇamaṇḍikāputtaSamaṇamuṇḍikāputta A P"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UggāhamānaSamaṇamaṇḍikāputtaSamaṇamuṇḍikāputta
@@ -17025,7 +22492,13 @@ dict_label = "DPPN"
 word = "ujjaya"
 summary = "Ujjaya1 A Pacceka Buddha, mentioned in the list in"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Ujjaya<sup>1</sup>
@@ -17045,12 +22518,16 @@ The same Nikāya AN.iv.285*f.* records another visit of Ujjaya wherein he tells 
 ``` toml
 dict_label = "DPPN"
 word = "ujjenī"
-summary = "Ujjenī The capital of Avanti. In the Buddha’s time"
+summary = "The capital of Avanti. In the Buddha’s time, Caṇḍa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ujjenī
 
 The capital of Avanti. In the Buddha’s time, Caṇḍapajjota Vin.i.276 was king of Ujjenī and there was friendly intercourse between that city and Māgadha, whose king was Seniya Bimbisāra. After Bimbisāra’s death, however, Pajjota seems to have contemplated a war against Ajātasathu. MN.iii.7
 
@@ -17065,12 +22542,16 @@ We find Māhissatī mentioned just before Ujjenī among the places passed by Bā
 ``` toml
 dict_label = "DPPN"
 word = "ujjhānasaññikā"
-summary = "Ujjhānasaññikā The name given to a group of devas"
+summary = "The name given to a group of devas who once visite"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ujjhānasaññikā
 
 The name given to a group of devas who once visited the Buddha at Jetavana late at night. They charged the Buddha with inconsistency, but later, begging his forgiveness, they were pardoned by him. SN.i.23–25
 
@@ -17079,7 +22560,13 @@ dict_label = "DPPN"
 word = "ukkacelā"
 summary = "UkkacelāUkkaceḷāUkkavelāUkkaveḷā A village in the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UkkacelāUkkaceḷāUkkavelāUkkaveḷā
@@ -17095,12 +22582,16 @@ The Cūḷagopālaka Sutta was also preached at Ukkacela. MN.i.225
 ``` toml
 dict_label = "DPPN"
 word = "ukkalā"
-summary = "Ukkalā A district identified with modern Orissa. T"
+summary = "A district identified with modern Orissa. The merc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ukkalā
 
 A district identified with modern Orissa. The merchants Tapussa and Bhalluka were on the way from Ukkalā, when they visited the Buddha shortly after his Awakening, near Uruvelā, and offered food to him, becoming the first lay disciples, taking refuge only in the Buddha and Dhamma (since the Sangha was not yet established). Vin.i.4
 
@@ -17111,12 +22602,16 @@ The men of Ukkalā, together with those of Vassa and Bhañña, are represented a
 ``` toml
 dict_label = "DPPN"
 word = "ukkaṭṭha"
-summary = "Ukkaṭṭha A town in Kosala, near the Himālaya. It h"
+summary = "A town in Kosala, near the Himālaya. It has been g"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ukkaṭṭha
 
 A town in Kosala, near the Himālaya. It has been given, free from all taxes (as *brahmadeyya*), to Pokkharasāti by the king of Kosala, in recognition of the former’s skill. It was thickly populated and had much grassland, woodland and corn. DN.i.87 The Icchānaṅgala wood was in the neighbourhood, and when the Buddha was staying in the wood Pokkharasāti first sent his pupil Ambaṭṭha and then went himself to visit the Buddha.
 
@@ -17131,48 +22626,64 @@ In the Brahmanimantika Sutta MN.i.326 SN.i.142 the Buddha says that it was while
 ``` toml
 dict_label = "DPPN"
 word = "ukkhepakatavaccha"
-summary = "Ukkhepakatavaccha A monk whose verse is recorded i"
+summary = "A monk whose verse is recorded in the Theragāthā."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ukkhepakatavaccha
 
 A monk whose verse is recorded in the Theragāthā. Thag.65
 
 ``` toml
 dict_label = "DPPN"
 word = "ummāpupphā"
-summary = "Ummāpupphā A class of devas present at the preachi"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ummāpupphā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
 dict_label = "DPPN"
 word = "upacāla"
-summary = "Upacāla Son of Upacālā and nephew of Sāriputta and"
+summary = "Son of Upacālā and nephew of Sāriputta and Khadira"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upacāla
 
 Son of Upacālā and nephew of Sāriputta and Khadiravaniya\-Revata. He was ordained by Revata. Thag.43 He is mentioned in the Aṅguttara Nikāya AN.v.133 in a list of very eminent disciples, together with Cāla, Kakkaṭa, Kaḷimbha, Nikata and Kaṭissaha. They lived in the Kūṭāgārasālā in Vesāli, but when the Licchavis went there to visit the Buddha, they moved to the Gosiṅgasālavana in search of quiet.
 
 ``` toml
 dict_label = "DPPN"
 word = "upacālā"
-summary = "Upacālā When Upacālā was taking her siesta in Andh"
+summary = "When Upacālā was taking her siesta in Andhavana, M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upacālā
 
 When Upacālā was taking her siesta in Andhavana, Māra tried to arouse in her sensual desires, but she vanquished him and became an arahant. This account is found in both the Therīgāthā and the Saṃyutta, but the sources ascribe different verses to the nuns Cālā, Upacālā, and Sisūpacālā. Thig.189–195 SN.i.133*f.*
 
@@ -17181,7 +22692,13 @@ dict_label = "DPPN"
 word = "upaka"
 summary = "Upaka1 An Ājivaka whom the Buddha met on his way b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Upaka<sup>1</sup>
@@ -17197,24 +22714,32 @@ He was apparently of low caste, and Ajātasattu addresses him as “salt\-worker
 ``` toml
 dict_label = "DPPN"
 word = "upakāla"
-summary = "Upakāla A Pacceka Buddha mentioned in a list of Pa"
+summary = "A Pacceka Buddha mentioned in a list of Pacceka Bu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upakāla
 
 A Pacceka Buddha mentioned in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "upamañña"
-summary = "Upamañña The family to which Pokkharasāti belonged"
+summary = "The family to which Pokkharasāti belonged. He was,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upamañña
 
 The family to which Pokkharasāti belonged. He was, therefore, called Opamañña. MN.ii.200
 
@@ -17223,7 +22748,13 @@ dict_label = "DPPN"
 word = "upananda"
 summary = "Upananda1 A monk, belonging to the Sākyan clan, wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Upananda<sup>1</sup>
@@ -17251,36 +22782,48 @@ Commander\-in\-chief of the Māgadha kingdom. He was present at the conversation
 ``` toml
 dict_label = "DPPN"
 word = "upanemi"
-summary = "Upanemi A Pacceka Buddha, mentioned in nominal lis"
+summary = "A Pacceka Buddha, mentioned in nominal lists. MN.i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upanemi
 
 A Pacceka Buddha, mentioned in nominal lists. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "upanīta"
-summary = "Upanīta A Pacceka Buddha, mentioned in the Isigili"
+summary = "A Pacceka Buddha, mentioned in the Isigili Sutta."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upanīta
 
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "upariṭṭha"
-summary = "Upariṭṭha A Pacceka Buddha. MN.iii.69"
+summary = "A Pacceka Buddha. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upariṭṭha
 
 A Pacceka Buddha. MN.iii.69
 
@@ -17289,7 +22832,13 @@ dict_label = "DPPN"
 word = "upasamā"
 summary = "Upasamā  A bhikkhunī whose verse is found in the T"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Upasamā\>
@@ -17301,7 +22850,13 @@ dict_label = "DPPN"
 word = "upasena"
 summary = "UpasenaVaṅgantaputta When his ordination was but o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UpasenaVaṅgantaputta
@@ -17315,36 +22870,48 @@ One day, while Upasena was sitting after his meal in the shadow of the Sappasond
 ``` toml
 dict_label = "DPPN"
 word = "upasīdarī"
-summary = "Upasīdarī A Pacceka Buddha, mentioned in the Isigi"
+summary = "A Pacceka Buddha, mentioned in the Isigili Sutta."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upasīdarī
 
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "upasīva"
-summary = "Upasīva One of the disciples of Bāvarī. Snp.1007 T"
+summary = "One of the disciples of Bāvarī. Snp.1007 The quest"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upasīva
 
 One of the disciples of Bāvarī. Snp.1007 The questions he asked the Buddha, when he visited him in the company of his colleagues, are recorded in the Upasīva\-māṇavaa\-pucchā. Snp.1069–1076
 
 ``` toml
 dict_label = "DPPN"
 word = "upatissa"
-summary = "Upatissa A Pacceka Buddha, found in a nominal list"
+summary = "A Pacceka Buddha, found in a nominal list. MN.iii."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upatissa
 
 A Pacceka Buddha, found in a nominal list. MN.iii.69
 
@@ -17353,7 +22920,13 @@ dict_label = "DPPN"
 word = "upavatta"
 summary = "UpavattaUpavattana The sāla-grove of the Mallas of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UpavattaUpavattana
@@ -17367,12 +22940,16 @@ Here Subhadda visited the Buddha in the earlier part of the last night of his li
 ``` toml
 dict_label = "DPPN"
 word = "upavāna"
-summary = "Upavāna A monk who was occasionally the attendant"
+summary = "A monk who was occasionally the attendant of the B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upavāna
 
 A monk who was occasionally the attendant of the Buddha, and who features in a number of discourses. Once when the Buddha was attacked by cramp, Upavāna, with the help of his lay\-friend Devahita, obtained hot water and suitable medicines, with which the ailment was healed; the Buddha, thereupon, expressed his gratitude. SN.i.174*f.*
 
@@ -17385,12 +22962,16 @@ When an unpleasant interview took place between Sāriputta and Lāludāyī and n
 ``` toml
 dict_label = "DPPN"
 word = "uposatha"
-summary = "Uposatha The name of the Elephant Treasure of the"
+summary = "The name of the Elephant Treasure of the Cakkavatt"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uposatha
 
 The name of the Elephant Treasure of the Cakkavatti Mahāsudassana. He was “all white, sevenfold firm (*sattappatiṭṭha*), wonderful in power, flying through the sky.”. DN.ii.174 MN.iii.173*f.*
 
@@ -17399,7 +22980,13 @@ dict_label = "DPPN"
 word = "uppala"
 summary = "Uppala1 A Pacceka Buddha mentioned in the Isigili"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uppala<sup>1</sup>
@@ -17417,7 +23004,13 @@ dict_label = "DPPN"
 word = "uppalavaṇṇā "
 summary = "Uppalavaṇṇā One of the two chief women disciples o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uppalavaṇṇā
@@ -17435,7 +23028,13 @@ dict_label = "DPPN"
 word = "upāli "
 summary = "Upāli 1 One of the most eminent of the Buddha’s im"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Upāli <sup>1</sup>
@@ -17469,24 +23068,32 @@ He was present when Dīgha\-Tapassī reported to Nāṭaputta an account of his 
 ``` toml
 dict_label = "DPPN"
 word = "upāsabha"
-summary = "Upāsabha Name of a Pacceka Buddha. MN.iii.69"
+summary = "Name of a Pacceka Buddha. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Upāsabha
 
 Name of a Pacceka Buddha. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "uruvelakappa"
-summary = "Uruvelakappa A township of the Mallas in the Malla"
+summary = "A township of the Mallas in the Malla country. Onc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uruvelakappa
 
 A township of the Mallas in the Malla country. Once when the Buddha was staying there, Bhadragaka, the headman of the town, visited him, and the Buddha preached to him a sermon on the arising and the cessation of Ill. SN.iv.327*f.* It was perhaps on the same occasion that the Buddha was visited by the headman Rāsiya, and he seems to have talked to him on various topics connected with the doctrine. SN.iv.330*ff.* Record is also made of a sermon preached by the Buddha at Uruvelakappa and addressed to the monks regarding the importance of insigh. SN.iv.228*f.*
 
@@ -17499,7 +23106,13 @@ dict_label = "DPPN"
 word = "uruvelā"
 summary = "UruvelāSenānigamaUruvelapattana A locality on the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UruvelāSenānigamaUruvelapattana
@@ -17519,7 +23132,13 @@ dict_label = "DPPN"
 word = "uruvelākassapa"
 summary = "UruvelākassapaKassapa One of three brothers, the T"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UruvelākassapaKassapa
@@ -17537,7 +23156,13 @@ dict_label = "DPPN"
 word = "uruññā"
 summary = "Uruññā UjuññāUguññāUdaññaUjjuññā A district and a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uruññā UjuññāUguññāUdaññaUjjuññā
@@ -17553,7 +23178,13 @@ dict_label = "DPPN"
 word = "usabha "
 summary = "Usabha 1 Going out one day from his cave after the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Usabha <sup>1</sup>
@@ -17571,12 +23202,16 @@ A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "ussada"
-summary = "Ussada A hell realm. It resembled a city with four"
+summary = "A hell realm. It resembled a city with four gates"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ussada
 
 A hell realm. It resembled a city with four gates and a wall.
 
@@ -17585,12 +23220,16 @@ A hell realm. It resembled a city with four gates and a wall.
 ``` toml
 dict_label = "DPPN"
 word = "usīraddhaja"
-summary = "Usīraddhaja A mountain range forming the northern"
+summary = "A mountain range forming the northern boundary of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Usīraddhaja
 
 A mountain range forming the northern boundary of Majjhimadesa. Vin.i.197
 
@@ -17601,7 +23240,13 @@ dict_label = "DPPN"
 word = "uttamā"
 summary = "Uttamā1 A bhikkhunī whose verses in the Therīgāthā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uttamā<sup>1</sup>
@@ -17617,7 +23262,13 @@ dict_label = "DPPN"
 word = "uttara"
 summary = "Uttara1 A monk whose verses are recorded in the Th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uttara<sup>1</sup>
@@ -17661,12 +23312,16 @@ A township of the Koliyans. Once, when the Buddha was staying there, he was visi
 ``` toml
 dict_label = "DPPN"
 word = "uttarakuru"
-summary = "Uttarakuru A mythical region. A detailed descripti"
+summary = "A mythical region. A detailed description of it is"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarakuru
 
 A mythical region. A detailed description of it is given in the Āṭānāṭiya Sutta. DN.iii.199*ff.* The men who live there own no property nor have they wives of their own; they do not have to work for their living. The corn ripens by itself and sweet\-scented rice is found boiling on hot oven\-stoves. The inhabitants go about riding on cows, on men and women, on maids and youths. Their king rides on an elephant, on a horse, on celestial cars and in state palanquins. Their cities are built in the air, and among those mentioned are Āṭānāṭā, Kusināṭā, Nātapuriyā, Parakusināṭā, Kapīvanta, Janogha, Navanavatiya, Ambara\-Ambaravatiya and Āḷakamandā, the last being the chief city.
 
@@ -17683,12 +23338,16 @@ The Buddha is said to have travelled with his psychic powers to Uttarakuru for a
 ``` toml
 dict_label = "DPPN"
 word = "uttarakurukā"
-summary = "Uttarakurukā The inhabitants of Uttarakuru. AN.iv."
+summary = "The inhabitants of Uttarakuru. AN.iv.396"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarakurukā
 
 The inhabitants of Uttarakuru. AN.iv.396
 
@@ -17697,7 +23356,13 @@ dict_label = "DPPN"
 word = "uttarakā"
 summary = "Uttarakā2 A village of the Thūlūs. The Buddha once"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uttarakā<sup>2</sup>
@@ -17709,36 +23374,48 @@ A village of the Thūlūs. The Buddha once stayed there and Sunakkhatta was in h
 ``` toml
 dict_label = "DPPN"
 word = "uttaramātā"
-summary = "Uttaramātā A Yakkhinī, mother of Punabbasu and Utt"
+summary = "A Yakkhinī, mother of Punabbasu and Uttarā. Once a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttaramātā
 
 A Yakkhinī, mother of Punabbasu and Uttarā. Once as she passed Jetavana at sunset looking for food, with her daughter on her hip and holding her son by his finger, she saw the assembly, intently listening to the Buddha’s sermon. She, too, hoping to get some benefit, listened quietly and with great earnestness, hushing her children to quietness. The Buddha preached in such a manner that both she and her son could understand, and at the end of the sermon they both became Sotāpannā. She immediately got rid of her sad Yakkha\-state and obtained heavenly bliss, and took up her residence in a tree near the Buddha’s Fragrant Chamber. Little Uttarā was too young to realise the Truth. SN.i.210
 
 ``` toml
 dict_label = "DPPN"
 word = "uttarapāla"
-summary = "Uttarapāla A monk whose Theragāthā verse tell of h"
+summary = "A monk whose Theragāthā verse tell of how he overc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarapāla
 
 A monk whose Theragāthā verse tell of how he overcame his desire and confusion and attained arahantship. Thag.252–254
 
 ``` toml
 dict_label = "DPPN"
 word = "uttarikā"
-summary = "Uttarikā A diminutive form of Uttarā used by Uttar"
+summary = "A diminutive form of Uttarā used by Uttaramātā, th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarikā
 
 A diminutive form of Uttarā used by Uttaramātā, the Yakkhinī, in addressing her daughter. SN.i.210
 
@@ -17747,7 +23424,13 @@ dict_label = "DPPN"
 word = "uttarā"
 summary = "Uttarā1 A bhikkhunī whose Therīgāthā verses tell o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uttarā<sup>1</sup>
@@ -17777,12 +23460,16 @@ Chief female lay disciple of Koṇāgamana Buddha. DN.ii.7
 ``` toml
 dict_label = "DPPN"
 word = "uttarāpa"
-summary = "Uttarāpa The name given to the region to the north"
+summary = "The name given to the region to the north of the r"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarāpa
 
 The name given to the region to the north of the river Mahī. See also Aṅguttarāpa.
 
@@ -17791,12 +23478,16 @@ The name given to the region to the north of the river Mahī. See also Aṅgutta
 ``` toml
 dict_label = "DPPN"
 word = "uttarāpatha"
-summary = "Uttarāpatha The northern division of Jambudīpa. It"
+summary = "The northern division of Jambudīpa. Its boundaries"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarāpatha
 
 The northern division of Jambudīpa. Its boundaries are nowhere explicitly stated in Pāḷi literature. Perhaps Uttarāpatha was originally the name of a great trade\-route, the northern high road which extended from Sāvatthī to Takkasilā in Gandhāra, and that it lent its name—as did the Dakkhiṇāpatha—to the region through which it passed. If this be so, the name would include practically the whole of Northern India, from Aṅga in the east to Gandhāra in the north\-west, and from the Himālaya in the north to the Vindhyā in the south.
 
@@ -17807,12 +23498,16 @@ This region was famous from very early times for its horses and horse\-dealers, 
 ``` toml
 dict_label = "DPPN"
 word = "uttarāpathaka"
-summary = "Uttarāpathaka A resident of Uttarāpatha. Vin.iii.6"
+summary = "A resident of Uttarāpatha. Vin.iii.6"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uttarāpathaka
 
 A resident of Uttarāpatha. Vin.iii.6
 
@@ -17821,7 +23516,13 @@ dict_label = "DPPN"
 word = "uttiya"
 summary = "Uttiya1 A monk whose Theragāthā verse tells of how"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Uttiya<sup>1</sup>
@@ -17845,7 +23546,13 @@ dict_label = "DPPN"
 word = "uvāla"
 summary = "UvālaUpavāla He was examined by the Saṅgha in conn"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 UvālaUpavāla
@@ -17855,12 +23562,16 @@ He was examined by the Saṅgha in connection with an offence he had committed. 
 ``` toml
 dict_label = "DPPN"
 word = "uṇṇābha"
-summary = "Uṇṇābha A brahmin. He once visited the Buddha at S"
+summary = "A brahmin. He once visited the Buddha at Sāvatthī"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Uṇṇābha
 
 A brahmin. He once visited the Buddha at Sāvatthī and asked him whether the five sense\-faculties, which were of different scope and range, had any common ground of resort. The Buddha replies that the mind is their common resort and, in answer to further questions, explains that there is nothing beyond Nibbāna; that the holy life has Nibbāna for its ending.
 
@@ -17871,12 +23582,16 @@ The same Nikāya SN.v.272*f.* records a visit of Uṇṇābha to Ānanda at Kosa
 ``` toml
 dict_label = "DPPN"
 word = "vacchagotta"
-summary = "Vacchagotta A wanderer who later became an arahant"
+summary = "A wanderer who later became an arahant Thera. Seve"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vacchagotta
 
 A wanderer who later became an arahant Thera. Several conversations he had with the Buddha are mentioned in the books. For details see the Tevijja Vacchagotta\-, Aggi Vacchagotta\-, Mahā Vacchagotta\-, Vaccha—and Vacchagotta\-Suttas. The Saṃyutta Nikāya contains a whole section on Vacchagotta; his discussions were chiefly concerned with such mythical questions as to whether the world is eternal, the nature of life, the existence or otherwise of the Tathāgata after death, etc. SN.iii.257*ff.* SN.iv.391*ff.* The three Vacchagotta Suttas of the Majjhima Nikāya seem to contain the story of Vacchagotta’s conversion, in due order: at the conclusion of the Tevijja Vacchagotta it is merely stated that “the Paribbājaka Vacchagotta rejoiced in what the Blessed One has said.” At the end of the next, the Aggi Vacchagotta, he is mentioned as having accepted the Buddha as his teacher. In the third, the Mahā Vacchagotta, he seeks ordination from the Buddha at Rājagaha, and receives it after the requisite probationary period of four months. He returns to the Buddha after two weeks and tells him that he has attained all that is to be attained by a non arahant’s understanding and asks for a further exposition of the Doctrine. The Buddha tells him to proceed to the study of calm and insight, whereby sixfold *abhiññā* may be acquired. Vacchagotta profits by the lesson and soon after becomes an arahant. He thereupon sends news of his attainment to the Buddha through some monks, and the Buddha says he has already heard the news from the devas. MN.i.493–497
 
@@ -17889,12 +23604,16 @@ in the Aṅguttara Nikāya AN.i.180*f.* a Vacchagotta who is a wanderer visits t
 ``` toml
 dict_label = "DPPN"
 word = "vacchapāla"
-summary = "Vacchapāla A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of the ease o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vacchapāla
 
 A monk whose Theragāthā verse speaks of the ease of attaining Nibbana for one who practices well. Thag.71
 
@@ -17903,7 +23622,13 @@ dict_label = "DPPN"
 word = "vaggumudā"
 summary = "VaggumudāVattumudā A river in the Vajji country. O"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VaggumudāVattumudā
@@ -17917,7 +23642,13 @@ dict_label = "DPPN"
 word = "vajirakumārī"
 summary = "VajirakumārīVajirāVajirī Daughter of Pasenadi. MN."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VajirakumārīVajirāVajirī
@@ -17927,12 +23658,16 @@ Daughter of Pasenadi. MN.ii.110
 ``` toml
 dict_label = "DPPN"
 word = "vajirapāṇi"
-summary = "Vajirapāṇi A Yakkha. It is said that whoever, even"
+summary = "A Yakkha. It is said that whoever, even up to the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vajirapāṇi
 
 A Yakkha. It is said that whoever, even up to the third time of being asked, refuses to answer a reasonable question put by a Buddha, his head will split into pieces on the spot. It was Vajirapāṇi’s duty to frighten such people by appearing before them in the sky, armed with a thunderbolt, which he was ready to hurl if necessary. He was visible only to the Buddha and the person in question.
 
@@ -17943,7 +23678,13 @@ dict_label = "DPPN"
 word = "vajirā"
 summary = "Vajirā2 The Saṃyutta Nikāya SN.i.134f. relates tha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vajirā<sup>2</sup>
@@ -17953,12 +23694,16 @@ The Saṃyutta Nikāya SN.i.134*f.* relates that one day, when she was meditatin
 ``` toml
 dict_label = "DPPN"
 word = "vajjiputta"
-summary = "Vajjiputta A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of dwelling a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vajjiputta
 
 A monk whose Theragāthā verse speaks of dwelling alone in the forest. Thag.62 Vajjiputta’s story is given in the Saṃyutta. SN.i.201*f.*
 
@@ -17967,36 +23712,48 @@ A monk whose Theragāthā verse speaks of dwelling alone in the forest. Thag.62 
 ``` toml
 dict_label = "DPPN"
 word = "vajjita"
-summary = "Vajjita A monk whose Theragāthā verses speak of ho"
+summary = "A monk whose Theragāthā verses speak of how, after"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vajjita
 
 A monk whose Theragāthā verses speak of how, after many rebirths he has found peace. Thag.215–216
 
 ``` toml
 dict_label = "DPPN"
 word = "vajjiyamāhita"
-summary = "Vajjiyamāhita A householder of Campā, a devout and"
+summary = "A householder of Campā, a devout and skilled follo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vajjiyamāhita
 
 A householder of Campā, a devout and skilled follower of the Buddha. Once, when on his way to see the Buddha at Gaggarā Lake, he found he had arrived too early and went into the Paribbājakārāma near by. The Paribbājakas asked him if it was true that the Buddha ridicules all forms of asceticism and austerity. They spoke of the Buddha as a teacher of a discipline which he himself did not follow, a nihilist. Vajjiyamāhita refuted their arguments, maintaining that the Buddha declared what was good and what was bad, and that the truth of his teachings could be proved. Having thus silenced them, he sought the Buddha, to whom he repeated the conversation. The Buddha praised him, and said it was untrue that he discouraged all austerity and asceticism; such penances as led to the destruction of evil states and the promotion of good states, he welcomed and encouraged. When Vajjiyamāhita had left him, the Buddha held him up to the monks as an example of a good householder, capable of profitable discussion with followers of other persuasions. AN.v.189*ff.* AN.iii.451
 
 ``` toml
 dict_label = "DPPN"
 word = "vajjī"
-summary = "Vajjī The name of a country and of its people. It"
+summary = "The name of a country and of its people. It was on"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vajjī
 
 The name of a country and of its people. It was one of the sixteen Great Nations. The inhabitants appear to have consisted of several confederate clans of whom the Licchavī and the Videhā were the chief. The names Vajjī and Licchavī were often synonymous. In one passage AN.iii.76 the Licchavi, Mahānāma, seeing that a band of young Licchavis who had been out hunting were gathered round the Buddha, is represented as saying, “These Licchavis will yet become Vajjians”.
 
@@ -18015,7 +23772,13 @@ dict_label = "DPPN"
 word = "vakkali "
 summary = "Vakkali A monk whose Theragāthā verses speak of ne"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vakkali
@@ -18027,12 +23790,16 @@ In the Saṃyutta, SN.iii.119*ff.* Vakkali fell ill while on his way to visit th
 ``` toml
 dict_label = "DPPN"
 word = "valliya"
-summary = "Valliya A Theragāthā verse ascribed to a monk of t"
+summary = "A Theragāthā verse ascribed to a monk of this name"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Valliya
 
 A Theragāthā verse ascribed to a monk of this name speaks of rejoicing while it rains outside, since he meditates in comfort in his hut. Thag.53
 
@@ -18043,24 +23810,32 @@ Another pair verses speak of energetically practicing and following the straight
 ``` toml
 dict_label = "DPPN"
 word = "valāhaka"
-summary = "Valāhaka The horse of Mahāsudassana. He is all whi"
+summary = "The horse of Mahāsudassana. He is all white, with"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Valāhaka
 
 The horse of Mahāsudassana. He is all white, with a crow black head and a dark mane. DN.ii.174 SN.iii.145
 
 ``` toml
 dict_label = "DPPN"
 word = "valāhakāyikādevā"
-summary = "Valāhakāyikādevā A class of deities, spirits of th"
+summary = "A class of deities, spirits of the skies, divided"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Valāhakāyikādevā
 
 A class of deities, spirits of the skies, divided into cloud spirits of heat, cloud spirits of cold, cloud spirits of air, cloud spirits of wind, cloud spirits of rain. The changes of weather are due to these spirits. SN.iii.254*f.*
 
@@ -18069,7 +23844,13 @@ dict_label = "DPPN"
 word = "vanasavhaya"
 summary = "VanasavhayaVanasaVanasāvhayaTumbavanagaraPavanaVan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VanasavhayaVanasaVanasāvhayaTumbavanagaraPavanaVanasāvatthī
@@ -18081,12 +23862,16 @@ A city lying between Vedisa and Kosambī, on the road taken by Bāvarī’s disc
 ``` toml
 dict_label = "DPPN"
 word = "vanavaccha"
-summary = "Vanavaccha A monk whose Theragāthā verse speaks of"
+summary = "A monk whose Theragāthā verse speaks of his deligh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vanavaccha
 
 A monk whose Theragāthā verse speaks of his delight to be meditating in nature. Thag.13
 
@@ -18097,7 +23882,13 @@ dict_label = "DPPN"
 word = "vappa "
 summary = "Vappa 1 One of the group of five monks who practic"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vappa <sup>1</sup>
@@ -18111,12 +23902,16 @@ A Sākiyan, disciple of the Nigaṇṭhas. He visits Moggallāna and they talk o
 ``` toml
 dict_label = "DPPN"
 word = "varadhara"
-summary = "Varadhara A noted wanderer in the time of the Budd"
+summary = "A noted wanderer in the time of the Buddha. He liv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Varadhara
 
 A noted wanderer in the time of the Buddha. He lived with Annabhāra, Sakuludāyī and others in the Paribbājakārāma, on the banks of the Sappinikā, AN.ii.29 AN.ii.176 and again in the Moranivāpa in Rājagaha. MN.ii.1
 
@@ -18125,7 +23920,13 @@ dict_label = "DPPN"
 word = "varaṇā"
 summary = "VaraṇāVāraṇā A city on the banks of the Kaddamadah"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VaraṇāVāraṇā
@@ -18137,12 +23938,16 @@ Avanti3town
 ``` toml
 dict_label = "DPPN"
 word = "varuṇa"
-summary = "Varuṇa A king of the devas, mentioned as the compa"
+summary = "A king of the devas, mentioned as the companion of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Varuṇa
 
 A king of the devas, mentioned as the companion of Sakka, Pajāpati and Isāna. In battle against the Asuras, the devas of Tāvatiṃsā were asked to look upon the banner of Varuṇa in order to have all their fears dispelled. SN.i.219
 
@@ -18153,60 +23958,80 @@ In the Āṭānāṭiya Sutta DN.iii.204 he is mentioned with Indra and others a
 ``` toml
 dict_label = "DPPN"
 word = "varuṇā"
-summary = "Varuṇā A class of deities present at the preaching"
+summary = "A class of deities present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Varuṇā
 
 A class of deities present at the preaching of the Mahāsamaya Sutta.DN.ii.259 DN.ii.260 They probably form the retinue of Varuṇa.
 
 ``` toml
 dict_label = "DPPN"
 word = "vasabha"
-summary = "Vasabha A monk whose Theragāthā verses speak of on"
+summary = "A monk whose Theragāthā verses speak of one who ki"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vasabha
 
 A monk whose Theragāthā verses speak of one who kills himself and others, and then address a certain Sujampati, saying that a brahmin has color on the inside. Thag.139–140
 
 ``` toml
 dict_label = "DPPN"
 word = "vasavattī"
-summary = "Vasavattī A devaputta, king of the devas of the Pa"
+summary = "A devaputta, king of the devas of the Parinimmita-"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vasavattī
 
 A *devaputta*, king of the devas of the Parinimmita\-vassavatti world. DN.i.219 Because of his generosity and virtue practised in past births, he surpasses the devas of his world in ten things: divine life, beauty, happiness, pomp and power, divine shapes, sounds, perfumes, tastes and touch. AN.iv.243
 
 ``` toml
 dict_label = "DPPN"
 word = "vassa"
-summary = "Vassa Mentioned with Bhañña in the compound Vassab"
+summary = "Mentioned with Bhañña in the compound Vassabhaññā,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vassa
 
 Mentioned with Bhañña in the compound Vassabhaññā, as dwellers of Ukkalā and as “denying cause, consequence and reality.” There were certain aspects of the Buddha’s teaching which even they would accept. SN.iii.73 AN.ii.31 MN.iii.78
 
 ``` toml
 dict_label = "DPPN"
 word = "vassakāra"
-summary = "Vassakāra A brahmin, chief minister of Ajātasattu."
+summary = "A brahmin, chief minister of Ajātasattu. He and Su"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vassakāra
 
 A brahmin, chief minister of Ajātasattu. He and Sunidha were in charge of the fortifications of Pāṭaligāma, built against the Vajjī. Vin.i.228 Ud.viii.6 DN.ii.72*ff.*
 
@@ -18221,12 +24046,16 @@ On discovering that a certain forest official had given tribute to Dhaniya witho
 ``` toml
 dict_label = "DPPN"
 word = "vasū"
-summary = "Vasū A class of devas of whom Sakka is the chief."
+summary = "A class of devas of whom Sakka is the chief. DN.ii"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vasū
 
 A class of devas of whom Sakka is the chief. DN.ii.260
 
@@ -18235,7 +24064,13 @@ dict_label = "DPPN"
 word = "vaḍḍha"
 summary = "Vaḍḍha1 A Licchavi. He was a friend of the Mettiya"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vaḍḍha<sup>1</sup>
@@ -18253,7 +24088,13 @@ dict_label = "DPPN"
 word = "vaḍḍhamāna "
 summary = "Vaḍḍhamāna A monk whose Theragāthā verse speaks of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vaḍḍhamāna
@@ -18265,7 +24106,13 @@ dict_label = "DPPN"
 word = "vaḍḍhamātā"
 summary = "Vaḍḍhamātā  An arahant, mother of Vaḍḍha. Her conv"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vaḍḍhamātā\>
@@ -18275,12 +24122,16 @@ An arahant, mother of Vaḍḍha. Her conversation with Vaḍḍha and his decla
 ``` toml
 dict_label = "DPPN"
 word = "vaṃsa"
-summary = "Vaṃsa The Vaṃsas and their country. It lay to the"
+summary = "The Vaṃsas and their country. It lay to the south"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vaṃsa
 
 The Vaṃsas and their country. It lay to the south of Kosala, and its capital was Kosambī on the Yamunā. Udena, son of Parantapa, was its king in the time of the Buddha.
 
@@ -18293,12 +24144,16 @@ The district of Bhagga, in which was Suṃsumāragiri, seems to have been subjec
 ``` toml
 dict_label = "DPPN"
 word = "vaṅgīsa"
-summary = "Vaṅgīsa A monk who was declared foremost in the gi"
+summary = "A monk who was declared foremost in the gift of sp"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vaṅgīsa
 
 A monk who was declared foremost in the gift of spontaneous poetic expression. AN.i.24
 
@@ -18311,7 +24166,13 @@ dict_label = "DPPN"
 word = "vaṭajālikāyaṃ"
 summary = "VaṭajālikāyaṃDhavajālikā A monastery on Sankheyyak"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VaṭajālikāyaṃDhavajālikā
@@ -18323,12 +24184,16 @@ Sankheyyaka mountain in Mahisa3monastery
 ``` toml
 dict_label = "DPPN"
 word = "vebhāra"
-summary = "Vebhāra One of the five hills surrounding Rājagaha"
+summary = "One of the five hills surrounding Rājagaha. MN.iii"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vebhāra
 
 One of the five hills surrounding Rājagaha. MN.iii.68 In this hill was the Sattapaṇṇiguhā, where the first Convocation was held. Vin.ii.76 The river Tapodā rose in a lake at the foot of Vebhāra.
 
@@ -18337,48 +24202,64 @@ One of the five hills surrounding Rājagaha. MN.iii.68 In this hill was the Satt
 ``` toml
 dict_label = "DPPN"
 word = "vedalla"
-summary = "Vedalla The last of the nine aṅgas or portions of"
+summary = "The last of the nine aṅgas or portions of the Dham"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vedalla
 
 The last of the nine aṅgas or portions of the Dhamma classified according to literary form. MN.i.133 Vin.iii.8 It probably included analytical texts.
 
 ``` toml
 dict_label = "DPPN"
 word = "vedehikā"
-summary = "Vedehikā A lady of Sāvatthī who had a reputation f"
+summary = "A lady of Sāvatthī who had a reputation for gentle"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vedehikā
 
 A lady of Sāvatthī who had a reputation for gentleness till her servant girl, Kāḷī, convinced people that it was not deserved. MN.i.125*f.*
 
 ``` toml
 dict_label = "DPPN"
 word = "vedehiputta"
-summary = "Vedehiputta An epithet of Ajātasattu. It means eit"
+summary = "An epithet of Ajātasattu. It means either “son of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vedehiputta
 
 An epithet of Ajātasattu. It means either “son of the lady from Videha” or “son of the wise woman”.
 
 ``` toml
 dict_label = "DPPN"
 word = "vedehā"
-summary = "Vedehā The people of Videha."
+summary = "The people of Videha."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vedehā
 
 The people of Videha.
 
@@ -18387,7 +24268,13 @@ dict_label = "DPPN"
 word = "vedhaññā"
 summary = "VedhaññāVedañña A family of Sākiyans. It was to th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VedhaññāVedañña
@@ -18399,7 +24286,13 @@ dict_label = "DPPN"
 word = "vedisa"
 summary = "VedisaVedisagiri A city, the home of Devī, mother"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VedisaVedisagiri
@@ -18417,7 +24310,13 @@ dict_label = "DPPN"
 word = "vediyaka"
 summary = "VediyakaVediya A mountain to the north of Ambasaṇḍ"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VediyakaVediya
@@ -18429,24 +24328,32 @@ A mountain to the north of Ambasaṇḍā, in which was the Indasālaguhā, wher
 ``` toml
 dict_label = "DPPN"
 word = "veghanasā"
-summary = "Veghanasā A class of devas present at the preachin"
+summary = "A class of devas present at the preaching of the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veghanasā
 
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
 dict_label = "DPPN"
 word = "vehapphala"
-summary = "Vehapphala One of the Brahma worlds of the Rūpalok"
+summary = "One of the Brahma worlds of the Rūpaloka plane. Be"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vehapphala
 
 One of the Brahma worlds of the Rūpaloka plane. Beings are born there as a result of developing the fourth *jhāna*. Their life span is five hundred great aeons. AN.ii.128 AN.ii.129
 
@@ -18457,7 +24364,13 @@ dict_label = "DPPN"
 word = "vejayanta"
 summary = "Vejayanta1 A palace belonging to Sakka. When Mogga"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vejayanta<sup>1</sup>
@@ -18479,7 +24392,13 @@ dict_label = "DPPN"
 word = "vekaliṅga"
 summary = "VekaliṅgaVebhaliṅgaVehaliṅga A township where live"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VekaliṅgaVebhaliṅgaVehaliṅga
@@ -18493,36 +24412,48 @@ Kosala3town
 ``` toml
 dict_label = "DPPN"
 word = "vekhaṇassa"
-summary = "Vekhaṇassa A Paribbājaka teacher of Sakuladāyī."
+summary = "A Paribbājaka teacher of Sakuladāyī."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vekhaṇassa
 
 A Paribbājaka teacher of Sakuladāyī.
 
 ``` toml
 dict_label = "DPPN"
 word = "velāmikā"
-summary = "Velāmikā Chief of the eighty four thousand women w"
+summary = "Chief of the eighty four thousand women who waited"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Velāmikā
 
 Chief of the eighty four thousand women who waited on Mahāsudassana, king of Kusāvatī. She was also called Khattiyānī. SN.iii.146 But in the Dīgha DN.ii.187 the chief queen is called Subhaddā.
 
 ``` toml
 dict_label = "DPPN"
 word = "venāgapura"
-summary = "Venāgapura A brahmin village of Kosala, where the"
+summary = "A brahmin village of Kosala, where the Buddha prea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Venāgapura
 
 A brahmin village of Kosala, where the Buddha preached the Venāga Sutta. AN.i.180
 
@@ -18533,7 +24464,13 @@ dict_label = "DPPN"
 word = "vepacitti"
 summary = "VepacittiSambara An Asura chieftain, who was prese"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VepacittiSambara
@@ -18553,7 +24490,13 @@ dict_label = "DPPN"
 word = "vepulla"
 summary = "VepullaVipulaVaṅkakaPācīnavaṃsaSupassa The highest"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VepullaVipulaVaṅkakaPācīnavaṃsaSupassa
@@ -18573,12 +24516,16 @@ Vepulla was the abode of the Yakkha Kumbhīra and his one hundred thousand follo
 ``` toml
 dict_label = "DPPN"
 word = "verahaccāni"
-summary = "Verahaccāni A brahmin clan. The Saṃyutta Nikāya me"
+summary = "A brahmin clan. The Saṃyutta Nikāya mentions a lad"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Verahaccāni
 
 A brahmin clan. The Saṃyutta Nikāya mentions a lady of the gotta living in Kāmandā, who was evidently a teacher. A pupil of hers, having visited Udāyi, then staying in the Todeyya mango grove, told her of his excellences.
 
@@ -18587,36 +24534,48 @@ He was asked to invite Udāyī to a meal, and, when it was over, the teacher put
 ``` toml
 dict_label = "DPPN"
 word = "verañja"
-summary = "Verañja A brahmin who lived at Verañjā."
+summary = "A brahmin who lived at Verañjā."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Verañja
 
 A brahmin who lived at Verañjā.
 
 ``` toml
 dict_label = "DPPN"
 word = "verañjakā"
-summary = "Verañjakā The brahmins of Verañjā, to whom the Ver"
+summary = "The brahmins of Verañjā, to whom the Verañjaka Sut"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Verañjakā
 
 The brahmins of Verañjā, to whom the Verañjaka Sutta was preached. MN.i.290
 
 ``` toml
 dict_label = "DPPN"
 word = "verañjā"
-summary = "Verañjā A town in which the Buddha once spent the"
+summary = "A town in which the Buddha once spent the rainy se"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Verañjā
 
 A town in which the Buddha once spent the rainy season at the invitation of the brahmin Verañja. Verañja visits the Buddha at the foot of the Naḷerupucimanda, where he is staying, and asks him a series of questions, the first of which is: whether it be true that the Buddha pays no respect to aged brahmins. The Buddha replies that he has not seen a brahmin in the whole world to whom such respect is due from him. If the Tathāgata were so to honour anyone, that person’s head would split in pieces. Other questions follow on the Buddha’s doctrine and practices. The Buddha concludes by giving an account of his attainment of the threefold knowledge. The interview ends with the conversion of Verañja and his invitation to the Buddha to spend his rainy season there.
 
@@ -18635,12 +24594,16 @@ A road led from Verañjā to Madhurā, and the Aṅguttara Nikāya AN.ii.57*f.* 
 ``` toml
 dict_label = "DPPN"
 word = "veroca"
-summary = "Veroca An Asura chieftain. All the hundred sons of"
+summary = "An Asura chieftain. All the hundred sons of Bali w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veroca
 
 An Asura chieftain. All the hundred sons of Bali were named after him. DN.ii.259
 
@@ -18649,12 +24612,16 @@ He is probably identical with Verocana, lord of the Asuras’ who, according to 
 ``` toml
 dict_label = "DPPN"
 word = "vessabhū"
-summary = "Vessabhū King of Avanti in the time of Reṇu. His c"
+summary = "King of Avanti in the time of Reṇu. His capital wa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vessabhū
 
 King of Avanti in the time of Reṇu. His capital was Māhissatī. DN.ii.236
 
@@ -18663,7 +24630,13 @@ dict_label = "DPPN"
 word = "vessāmitta"
 summary = "Vessāmitta1 A celebrated sage of old. Vin.i.245 DN"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vessāmitta<sup>1</sup>
@@ -18677,12 +24650,16 @@ A Yakkha chief who, with five hundred others of the same name, was present at th
 ``` toml
 dict_label = "DPPN"
 word = "vesāli"
-summary = "Vesāli A city, capital of the Licchavis. It is not"
+summary = "A city, capital of the Licchavis. It is not possib"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vesāli
 
 A city, capital of the Licchavis. It is not possible to know how many visits were paid by the Buddha to Vesāli, but the books would lead us to infer that they were several. Various Vinaya rules are mentioned as having been laid down at Vesāli. Vin.i.238 Vin.i.287*f.* Vin.ii.118 Vin.ii.119–127
 
@@ -18711,36 +24688,48 @@ There were Nāgas living in Vesāli; these were called Vesālā. DN.ii.258
 ``` toml
 dict_label = "DPPN"
 word = "vesālā"
-summary = "Vesālā The Nāgas of Vesāli who were present at the"
+summary = "The Nāgas of Vesāli who were present at the preach"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vesālā
 
 The Nāgas of Vesāli who were present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "vetambarī"
-summary = "Vetambarī One of a group of devas who visited the"
+summary = "One of a group of devas who visited the Buddha at"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vetambarī
 
 One of a group of devas who visited the Buddha at Veḷuvana and spoke of their beliefs. Vetambarī spoke two verses, one condemning asceticism, and the other, which followed immediately on the first, in praise of the same. SN.i.65 SN.i.67
 
 ``` toml
 dict_label = "DPPN"
 word = "vetaraṇi"
-summary = "Vetaraṇi A river in the Great Hell. SN.i.21 Snp.67"
+summary = "A river in the Great Hell. SN.i.21 Snp.674 It may"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vetaraṇi
 
 A river in the Great Hell. SN.i.21 Snp.674 It may be the same as the great “Caustic River” referred to in the Devadatta Sutta. MN.iii.185 Its waters are sharp and bitter, Snp.674 and the river flows by the Asipattavana.
 
@@ -18749,48 +24738,64 @@ A river in the Great Hell. SN.i.21 Snp.674 It may be the same as the great “Ca
 ``` toml
 dict_label = "DPPN"
 word = "veteṇḍu"
-summary = "Veteṇḍu A vassal of the Four Great Kings, present"
+summary = "A vassal of the Four Great Kings, present at the p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veteṇḍu
 
 A vassal of the Four Great Kings, present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "vethadīpaka"
-summary = "Vethadīpaka The brahmin of Vethadīpa, who claimed"
+summary = "The brahmin of Vethadīpa, who claimed an eighth sh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vethadīpaka
 
 The brahmin of Vethadīpa, who claimed an eighth share of the Buddha’s relics. DN.ii.165 DN.ii.167
 
 ``` toml
 dict_label = "DPPN"
 word = "veyyākaraṇa"
-summary = "Veyyākaraṇa One of the nine aṅgas, into which the"
+summary = "One of the nine aṅgas, into which the Dhamma was o"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veyyākaraṇa
 
 One of the nine *aṅgas*, into which the Dhamma was organized by way of literary style. It means “Answer” or “Explanation” and refers to discourses elaborated by way of question and answer.
 
 ``` toml
 dict_label = "DPPN"
 word = "veḷudvāra"
-summary = "Veḷudvāra A brahmin village of the Kosalans where"
+summary = "A brahmin village of the Kosalans where the Buddha"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veḷudvāra
 
 A brahmin village of the Kosalans where the Buddha once stayed and preached the Veḷudvāreyya Sutta. SN.v.352
 
@@ -18801,7 +24806,13 @@ dict_label = "DPPN"
 word = "veḷukaṇḍa"
 summary = "VeḷukaṇḍaVeḷukaṇṭa A city in Avanti. Moggallāna an"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VeḷukaṇḍaVeḷukaṇṭa
@@ -18815,7 +24826,13 @@ dict_label = "DPPN"
 word = "veḷukaṇṭakī"
 summary = "VeḷukaṇṭakīVeḷukaṇḍakīVeḷukaṇḍakiyāVeḷukaṇṭakiyā A"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VeḷukaṇṭakīVeḷukaṇḍakīVeḷukaṇḍakiyāVeḷukaṇṭakiyā
@@ -18829,7 +24846,13 @@ dict_label = "DPPN"
 word = "veḷuvana"
 summary = "Veḷuvana1Veṇuvana A park near Rājagaha, the pleasu"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Veḷuvana<sup>1</sup>Veṇuvana
@@ -18855,24 +24878,32 @@ Kimbilā3park
 ``` toml
 dict_label = "DPPN"
 word = "veṇhu"
-summary = "Veṇhu A deva who was present, with his retinue, at"
+summary = "A deva who was present, with his retinue, at the p"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veṇhu
 
 A deva who was present, with his retinue, at the preaching of the Mahāsamaya Sutta. DN.ii.259 Veṇhu is a Pāḷi form of Viṣṇu.
 
 ``` toml
 dict_label = "DPPN"
 word = "veṇḍu"
-summary = "Veṇḍu A devaputta. He visited the Buddha and asked"
+summary = "A devaputta. He visited the Buddha and asked him a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Veṇḍu
 
 A *devaputta*. He visited the Buddha and asked him a question. SN.i.52
 
@@ -18881,7 +24912,13 @@ dict_label = "DPPN"
 word = "veṭṭhadīpaka"
 summary = "VeṭṭhadīpakaVethadīpa A brahmin settlement, the ch"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VeṭṭhadīpakaVethadīpa
@@ -18893,24 +24930,32 @@ near Māgadha3town
 ``` toml
 dict_label = "DPPN"
 word = "vicakkanā"
-summary = "Vicakkanā A class of devas, present at the preachi"
+summary = "A class of devas, present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vicakkanā
 
 A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
 dict_label = "DPPN"
 word = "videha"
-summary = "Videha A country and its people. At the time of th"
+summary = "A country and its people. At the time of the Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Videha
 
 A country and its people. At the time of the Buddha, Videha formed one of the two important principalities of the Vajjian confederacy. Its capital was Mithilā. The kingdom bordered on the Ganges, on one side of which was Māgadha and on the other Videha. MN.i.225 Adjacent to it were Kāsi and Kosala. One of Bimbisāra’s queens was probably from Videha. In earlier times Videha was evidently a kingdom, its best known kings being Mahājanaka and Nimi; but in the Buddha’s time it was a republic, part of the Vajjian federation. According to the Mahāgovinda Sutta, DN.ii.235 it was King Reṇu who, with the help of Mahāgovinda Jotipāla, founded the Videha kingdom.
 
@@ -18919,12 +24964,16 @@ A country and its people. At the time of the Buddha, Videha formed one of the tw
 ``` toml
 dict_label = "DPPN"
 word = "vidhura"
-summary = "Vidhura One of the two chief disciples of Kakusand"
+summary = "One of the two chief disciples of Kakusandha Buddh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vidhura
 
 One of the two chief disciples of Kakusandha Buddha. DN.ii.4 SN.ii.191 He received his name because he was a peerless preacher of the Dhamma. MN.i.333
 
@@ -18933,7 +24982,13 @@ dict_label = "DPPN"
 word = "vijaya"
 summary = "Vijaya1 A householder, mentioned as an exemplary l"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vijaya<sup>1</sup>
@@ -18947,36 +25002,48 @@ A monk whose Theragāthā verse says that one without defilements may not be tra
 ``` toml
 dict_label = "DPPN"
 word = "vijayā"
-summary = "Vijayā A bhikkhunī whose Therīgāthā verses say tha"
+summary = "A bhikkhunī whose Therīgāthā verses say that she w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vijayā
 
 A bhikkhunī whose Therīgāthā verses say that she went to the monastery up to five times before being approached by a bhikkhunī, who taght her the Dhamma, so that now she dwells in freedom and bliss. Thig.169–174 In the Saṃyutta Nikāya. SN.i.130 Māra, assuming the form of a young man, tried unsuccessfully to tempt her.
 
 ``` toml
 dict_label = "DPPN"
 word = "vijita"
-summary = "Vijita A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vijita
 
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
 dict_label = "DPPN"
 word = "vijitasena"
-summary = "Vijitasena Several verses uttered by him in self a"
+summary = "Several verses uttered by him in self admonition,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vijitasena
 
 Several verses uttered by him in self admonition, in which he displays his knowledge of elephant training, are included in the Theragāthā. Thag.355–359
 
@@ -18985,7 +25052,13 @@ dict_label = "DPPN"
 word = "vimala"
 summary = "Vimala1 One of the four friends of Yasa who, follo"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vimala<sup>1</sup>
@@ -19007,48 +25080,64 @@ A Pacceka Buddha. MN.iii.70
 ``` toml
 dict_label = "DPPN"
 word = "vimalakoṇḍañña"
-summary = "Vimalakoṇḍañña A monk whose Theragāthā verse is in"
+summary = "A monk whose Theragāthā verse is in the form of a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vimalakoṇḍañña
 
 A monk whose Theragāthā verse is in the form of a riddle. Thag.64
 
 ``` toml
 dict_label = "DPPN"
 word = "vimalā"
-summary = "Vimalā A bhikkhunī whose Therīgāthā verses speak o"
+summary = "A bhikkhunī whose Therīgāthā verses speak of the f"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vimalā
 
 A bhikkhunī whose Therīgāthā verses speak of the fading beuaty of youth and the peace of liberation. Thig.72–76
 
 ``` toml
 dict_label = "DPPN"
 word = "vipassī"
-summary = "Vipassī A Buddha of the past, whose story is told"
+summary = "A Buddha of the past, whose story is told in the M"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vipassī
 
 A Buddha of the past, whose story is told in the Mahāpadāna Sutta. He was born in the Khema park in Bandhumatī, his father being Bandhumā and his mother Bandhumatī. He belonged to the Koṇḍañña gotta. He preached his first sermon in Khemamigadāya to his step brother Khandha and his purohita’s son Tissa; these two later became his chief disciples. His constant attendant was Asoka; Caṇḍā and Candamittā were his chief women disciples. His chief lay patrons were Punabbasummitta and Nāga among men, and Sirimā and Uttarā among women. DN.ii.2*ff.*
 
 ``` toml
 dict_label = "DPPN"
 word = "viraja"
-summary = "Viraja A Pacceka Buddha. MN.iii.70"
+summary = "A Pacceka Buddha. MN.iii.70"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Viraja
 
 A Pacceka Buddha. MN.iii.70
 
@@ -19057,7 +25146,13 @@ dict_label = "DPPN"
 word = "virūpakkha"
 summary = "Virūpakkha1 One of the Four Great Kings. He is Reg"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Virūpakkha<sup>1</sup>
@@ -19073,7 +25168,13 @@ dict_label = "DPPN"
 word = "virūḷha"
 summary = "VirūḷhaVirūḷhaka One of the Four Great Kings. He i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VirūḷhaVirūḷhaka
@@ -19085,7 +25186,13 @@ dict_label = "DPPN"
 word = "visākha"
 summary = "Visākha1 Husband of Dhammadinnā. After Dhammadinnā"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Visākha<sup>1</sup>
@@ -19103,7 +25210,13 @@ dict_label = "DPPN"
 word = "visākhā"
 summary = "Visākhā1 . Thig.13 Visākhā2 The chief among the fe"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Visākhā<sup>1</sup>
@@ -19131,12 +25244,16 @@ The books contain numerous suttas preached by the Buddha to Visākhā during her
 ``` toml
 dict_label = "DPPN"
 word = "viññānañcāyatanūpagādevā"
-summary = "Viññānañcāyatanūpagādevā A class of devas living i"
+summary = "A class of devas living in the Formless Realms. Th"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Viññānañcāyatanūpagādevā
 
 A class of devas living in the Formless Realms. Their life lasts for forty thousand great aeons. MN.iii.103
 
@@ -19145,7 +25262,13 @@ dict_label = "DPPN"
 word = "viḍūḍabha"
 summary = "ViḍūḍabhaViḍūḍabha Son of Pasenadi and Vāsabhakhat"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ViḍūḍabhaViḍūḍabha
@@ -19155,96 +25278,128 @@ Son of Pasenadi and Vāsabhakhattiyā. Both in the Piyajātika Sutta MN.ii.110 a
 ``` toml
 dict_label = "DPPN"
 word = "viṭeṇḍu"
-summary = "Viṭeṇḍu One of the vassals of the Four Great Kings"
+summary = "One of the vassals of the Four Great Kings present"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Viṭeṇḍu
 
 One of the vassals of the Four Great Kings present at the preaching of the Mahāsamaya Sutta. DN.ii.257
 
 ``` toml
 dict_label = "DPPN"
 word = "viṭu"
-summary = "Viṭu Vassal of the Four Great Kings present at the"
+summary = "Vassal of the Four Great Kings present at the prea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Viṭu
 
 Vassal of the Four Great Kings present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "viṭucca"
-summary = "Viṭucca Vassal of the Four Great Kings present at"
+summary = "Vassal of the Four Great Kings present at the prea"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Viṭucca
 
 Vassal of the Four Great Kings present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
 dict_label = "DPPN"
 word = "vājapeyya"
-summary = "Vājapeyya A sacrificial offering."
+summary = "A sacrificial offering."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vājapeyya
 
 A sacrificial offering.
 
 ``` toml
 dict_label = "DPPN"
 word = "vāmadeva"
-summary = "Vāmadeva One of the great sages honoured by the br"
+summary = "One of the great sages honoured by the brahmins as"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāmadeva
 
 One of the great sages honoured by the brahmins as authors of hymns. Vin.i.245 DN.i.104 Compare Rigveda 5.26; Rāmāyana 1.7, etc.
 
 ``` toml
 dict_label = "DPPN"
 word = "vāmaka"
-summary = "Vāmaka One of the great sages held in esteem by th"
+summary = "One of the great sages held in esteem by the brahm"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāmaka
 
 One of the great sages held in esteem by the brahmins. Vin.i.245 DN.i.104 DN.i.238 MN.ii.169 MN.ii.200 Vin.i.2451 Compare Vaṃsa in Rigveda 10.99.
 
 ``` toml
 dict_label = "DPPN"
 word = "vāraṇa"
-summary = "Vāraṇa A monk whose Theragāthā verses praise non-h"
+summary = "A monk whose Theragāthā verses praise non-harming"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāraṇa
 
 A monk whose Theragāthā verses praise non\-harming and seclusion. Thag.237–239
 
 ``` toml
 dict_label = "DPPN"
 word = "vāruṇā"
-summary = "Vāruṇā A class of deities, followers of Varuda, wh"
+summary = "A class of deities, followers of Varuda, who were"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāruṇā
 
 A class of deities, followers of Varuda, who were present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
@@ -19253,7 +25408,13 @@ dict_label = "DPPN"
 word = "vāsabhagāmaka"
 summary = "VāsabhagāmakaVāsabhagāma A village in Kāsī. It was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VāsabhagāmakaVāsabhagāma
@@ -19267,7 +25428,13 @@ dict_label = "DPPN"
 word = "vāsabhagāmī"
 summary = "VāsabhagāmīVāsabhagāmika One of the four Western m"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VāsabhagāmīVāsabhagāmika
@@ -19277,24 +25444,32 @@ One of the four Western monks appointed to the committee which considered the Te
 ``` toml
 dict_label = "DPPN"
 word = "vāsabhā"
-summary = "Vāsabhā The second queen of King Pasenadi. MN.ii.1"
+summary = "The second queen of King Pasenadi. MN.ii.110"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāsabhā
 
 The second queen of King Pasenadi. MN.ii.110
 
 ``` toml
 dict_label = "DPPN"
 word = "vāsavanesī"
-summary = "Vāsavanesī A class of devas, present at the preach"
+summary = "A class of devas, present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāsavanesī
 
 A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -19303,7 +25478,13 @@ dict_label = "DPPN"
 word = "vāseṭṭha"
 summary = "Vāseṭṭha1 An old sage held in high esteem for his"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vāseṭṭha<sup>1</sup>
@@ -19325,12 +25506,16 @@ A lay disciple, evidently distinct from the Vāseṭṭha who became a monk. He 
 ``` toml
 dict_label = "DPPN"
 word = "vāseṭṭhī"
-summary = "Vāseṭṭhī A bhikkhunī whose Therīgāthā verses tell"
+summary = "A bhikkhunī whose Therīgāthā verses tell of her ch"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāseṭṭhī
 
 A bhikkhunī whose Therīgāthā verses tell of her child’s death and her subsequent history. Thig.133–138
 
@@ -19339,12 +25524,16 @@ It is said that the brahmin Sujāta, father of Sundarī, met Vāsetthī, and, he
 ``` toml
 dict_label = "DPPN"
 word = "vāyodevā"
-summary = "Vāyodevā A class of deities present at the preachi"
+summary = "A class of deities present at the preaching of the"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vāyodevā
 
 A class of deities present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
@@ -19353,7 +25542,13 @@ dict_label = "DPPN"
 word = "vīra "
 summary = "Vīra A monk whose Theragāthā verse speaks of tamin"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Vīra
@@ -19365,7 +25560,13 @@ dict_label = "DPPN"
 word = "vīrā"
 summary = "VīrāCīrā A certain lay follower gave her a robe, a"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 VīrāCīrā
@@ -19375,36 +25576,48 @@ A certain lay follower gave her a robe, and a Yakkha aware of this, went about p
 ``` toml
 dict_label = "DPPN"
 word = "vītarāga"
-summary = "Vītarāga A Pacceka Buddha. MN.iii.71"
+summary = "A Pacceka Buddha. MN.iii.71"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vītarāga
 
 A Pacceka Buddha. MN.iii.71
 
 ``` toml
 dict_label = "DPPN"
 word = "vītasokā"
-summary = "Vītasokā A monk whose Theragāthā verses speak of h"
+summary = "A monk whose Theragāthā verses speak of how, while"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Vītasokā
 
 A monk whose Theragāthā verses speak of how, while shaving, he gained insight. Thag.169–170
 
 ``` toml
 dict_label = "DPPN"
 word = "yakkha"
-summary = "Yakkha A class of non human beings generally descr"
+summary = "A class of non human beings generally described as"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yakkha
 
 A class of non human beings generally described as non\-human. They are mentioned with Devas, Rakkhasas, Dānavas, Gandhabbas, Kinnaras, and Mahoragas (? Nāgas).
 
@@ -19427,12 +25640,16 @@ It is sometimes difficult to decide whether the Yakkhas were non\-humans spirits
 ``` toml
 dict_label = "DPPN"
 word = "yama"
-summary = "Yama The god of death. When beings die they are le"
+summary = "The god of death. When beings die they are led bef"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yama
 
 The god of death. When beings die they are led before him to be judged according to their deeds. Birth, old age, illness, punishment for crime and death, are regarded as his messengers, sent among men as a warning to abstain from ill and do good. Yama questions beings brought before him as to whether they have seen these messengers and profited by them. If the answer is in the negative, the nirayapālas take them away to the different hells. MN.iii.179*ff.*
 
@@ -19443,48 +25660,64 @@ There is a tradition AN.i.142 that once Yama longed to be born as a human being 
 ``` toml
 dict_label = "DPPN"
 word = "yamaka"
-summary = "Yamaka A man belonging to the retinue of King Eḷey"
+summary = "A man belonging to the retinue of King Eḷeyya. He"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yamaka
 
 A man belonging to the retinue of King Eḷeyya. He was a follower of Uddaka Rāmaputta. AN.ii.180
 
 ``` toml
 dict_label = "DPPN"
 word = "yamataggi"
-summary = "Yamataggi A sage of old who led a good life and pe"
+summary = "A sage of old who led a good life and persuaded hi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yamataggi
 
 A sage of old who led a good life and persuaded his followers to do likewise. He was among the originators of the Vedic hymns. Vin.i.245 DN.i.238 DN.i.239 MN.ii.169 MN.ii.200 AN.iii.224 AN.iii.229 AN.iv.61
 
 ``` toml
 dict_label = "DPPN"
 word = "yamelutekulā"
-summary = "Yamelutekulā Two brahmins, probably named Yamelu a"
+summary = "Two brahmins, probably named Yamelu and Tekula, wh"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yamelutekulā
 
 Two brahmins, probably named Yamelu and Tekula, who proposed to the Buddha that the Dhamma should be put into Sanskrit metre *chandasi*. The Buddha refused their request. Vin.ii.139
 
 ``` toml
 dict_label = "DPPN"
 word = "yamunā"
-summary = "Yamunā The second of the five great rivers of Jamb"
+summary = "The second of the five great rivers of Jambudīpa,"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yamunā
 
 The second of the five great rivers of Jambudīpa, which are often used in similes. Vin.ii.237 AN.iv.101 AN.iv.198 AN.iv.202 AN.v.22 Vin.ii.2371 Vin.ii.2373 The river was evidently the special resort of the Nāgas. DN.ii.259
 
@@ -19495,7 +25728,13 @@ dict_label = "DPPN"
 word = "yasa "
 summary = "Yasa 1 He was the son of a very wealthy treasurer"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Yasa <sup>1</sup>
@@ -19521,12 +25760,16 @@ A deva, present at the preaching of the Mahāsamaya Sutta. DN.ii.259 Perhaps the
 ``` toml
 dict_label = "DPPN"
 word = "yasadatta"
-summary = "Yasadatta While journeying in the company of Sabhi"
+summary = "While journeying in the company of Sabhiya, he cam"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yasadatta
 
 While journeying in the company of Sabhiya, he came to Sāvatthī, where he was present at the discussion between Sabhiya and the Buddha. It was his purpose to try and discover flaws in the Buddha’s argument. The Buddha knew what was in his mind, and at the end of the Sabhiya Sutta admonished him in five verses. Thag.360–364
 
@@ -19535,7 +25778,13 @@ dict_label = "DPPN"
 word = "yasoja"
 summary = "YasojaYasojoti The Udāna mentions Ud.iii.3 how Yas"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 YasojaYasojoti
@@ -19549,36 +25798,48 @@ The Vinaya relates Vin.i.239 how once, when Yasoja was ill, drugs were brought f
 ``` toml
 dict_label = "DPPN"
 word = "yassasī"
-summary = "Yassasī The name of a Pacceka Buddha. MN.iii.69"
+summary = "The name of a Pacceka Buddha. MN.iii.69"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yassasī
 
 The name of a Pacceka Buddha. MN.iii.69
 
 ``` toml
 dict_label = "DPPN"
 word = "yaññadatta"
-summary = "Yaññadatta A brahmin, father of Koṇāgamana Buddha."
+summary = "A brahmin, father of Koṇāgamana Buddha. DN.ii.7"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yaññadatta
 
 A brahmin, father of Koṇāgamana Buddha. DN.ii.7
 
 ``` toml
 dict_label = "DPPN"
 word = "yodhājīva"
-summary = "Yodhājīva A headman who visited the Buddha and ask"
+summary = "A headman who visited the Buddha and asked if it w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yodhājīva
 
 A headman who visited the Buddha and asked if it was true that men who fall fighting in battle are reborn among the Sārañjita devas. At first the Buddha refused to answer the question, but finding that Yodhājīva insisted, explained to him that fighting men were reborn after death either in the Sārājita niraya or among animals. The headman became the Buddha’s follower. SN.iv.308
 
@@ -19587,7 +25848,13 @@ dict_label = "DPPN"
 word = "yona"
 summary = "YonaYavānaYonakā A country and its people. The nam"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 YonaYavānaYonakā
@@ -19599,48 +25866,64 @@ A country and its people. The name is probably the Pāḷi equivalent for Ionian
 ``` toml
 dict_label = "DPPN"
 word = "yugandhara"
-summary = "Yugandhara One of the chief Yakkhas to be invoked"
+summary = "One of the chief Yakkhas to be invoked by the Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yugandhara
 
 One of the chief Yakkhas to be invoked by the Buddha’s followers in time of need. DN.iii.205
 
 ``` toml
 dict_label = "DPPN"
 word = "yāma"
-summary = "Yāma A class of Devas, mentioned in lists of devas"
+summary = "A class of Devas, mentioned in lists of devas betw"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Yāma
 
 A class of Devas, mentioned in lists of devas between those of Tāvatiṃsā and those of Tusita.Vin.i.12 AN.i.228 AN.iii.287 MN.ii.194 MN.iii.100 Two hundred years of human life are but one day to the Yāma devā, and two thousand Years, composed of such days, form their life period. AN.i.213 AN.iv.253
 
 ``` toml
 dict_label = "DPPN"
 word = "ābha"
-summary = "Ābha A generic name for devas distinguished for th"
+summary = "A generic name for devas distinguished for their b"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ābha
 
 A generic name for devas distinguished for their brilliance, such as the Parittābhā and the Appamāṇābhā. MN.iii.102
 
 ``` toml
 dict_label = "DPPN"
 word = "ābhassarā"
-summary = "Ābhassarā A Brahma-world where live radiant devas"
+summary = "A Brahma-world where live radiant devas from whose"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ābhassarā
 
 A Brahma\-world where live radiant devas from whose bodies rays of light are emitted, like lightning. It belongs to the Rūpaloka and is in the plane of second *jhāna* The devas living there subsist on joy. SN.i.114 Their span of life is two kappas and there is no guarantee that a person who has been born there may not later be reborn in an unhappy condition. AN.ii.127 From time to time these devas utter shouts of joy saying “aho sukham, aho sukham.” This sound is the best of sounds. These devas are completely enveloped in ease. AN.iii.202 DN.iii.219 Their world forms the third station of consciousness, they are of uniform body, but their perceptions are diverse.AN.iv.40 AN.iv.401 DN.ii.69 DN.iii.253 During the periods of the development of the world many beings are born in the Ābhassarā realm and they are then called the highest of the devas, yet even they change their condition. AN.v.60 In lists of devas MN.i.289 they are given below the Appamāṇābhā and above the Subhā.
 
@@ -19649,12 +25932,16 @@ A Brahma\-world where live radiant devas from whose bodies rays of light are emi
 ``` toml
 dict_label = "DPPN"
 word = "ādicca"
-summary = "Ādicca Another name for Suriya, the Sun. DN.iii.19"
+summary = "Another name for Suriya, the Sun. DN.iii.196 Ādicc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ādicca
 
 Another name for Suriya, the Sun. DN.iii.196
 
@@ -19665,7 +25952,13 @@ dict_label = "DPPN"
 word = "ājīvakā"
 summary = "ĀjīvakāĀjīvikā A class of naked ascetics, Vin.i.29"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀjīvakāĀjīvikā
@@ -19683,48 +25976,64 @@ The fundamental point in their teaching seems, therefore, to have been “*saṃ
 ``` toml
 dict_label = "DPPN"
 word = "ākiñcāyatanūpagādevā"
-summary = "Ākiñcāyatanūpagādevā A class of devas born in the"
+summary = "A class of devas born in the Ākiñcāyatana, the thi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ākiñcāyatanūpagādevā
 
 A class of devas born in the Ākiñcāyatana, the third Arūpa world. MN.iii.103 Their life term is sixty thousand kappas. AN.i.267
 
 ``` toml
 dict_label = "DPPN"
 word = "ākoṭaka"
-summary = "Ākoṭaka A deva who visited the Buddha at Veḷuvana"
+summary = "A deva who visited the Buddha at Veḷuvana accompan"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ākoṭaka
 
 A deva who visited the Buddha at Veḷuvana accompanied by Asama, Sahali, Ninka, Vetambarī and Mānava\-Gāmiya. Ākoṭaka spoke before the Buddha in praise of various teachers of other schools: Pakuddha\-Kātiyāna (sic), Nigaṇṭha, Makkhali, Pūraṇa. Vetambari made rejoinder to Ākoṭaka, speaking disparagingly of the teachers he had mentioned. SN.i.65.
 
 ``` toml
 dict_label = "DPPN"
 word = "ākāsagotta"
-summary = "Ākāsagotta A physician of Rājagaha who lanced the"
+summary = "A physician of Rājagaha who lanced the fistula of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ākāsagotta
 
 A physician of Rājagaha who lanced the fistula of a monk. Meeting the Buddha, he told him of the lancing, trying to make fun of it. The Buddha, having made inquiries, declared the performance of such an operation a thullaccaya offence. Vin.i.215–216
 
 ``` toml
 dict_label = "DPPN"
 word = "ākāsānañcāyatanūpagādevā"
-summary = "Ākāsānañcāyatanūpagādevā A class of devas born in"
+summary = "A class of devas born in the Realm of Infinite Spa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ākāsānañcāyatanūpagādevā
 
 A class of devas born in the Realm of Infinite Space. MN.iii.103 They belong to the Formless world and their life term is twenty thousand kappas. AN.i.267
 
@@ -19733,7 +26042,13 @@ dict_label = "DPPN"
 word = "āmalakīvana"
 summary = "ĀmalakīvanaĀmalakivana A grove at Cātumā. The Budd"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀmalakīvanaĀmalakivana
@@ -19745,12 +26060,16 @@ Cātumā3park
 ``` toml
 dict_label = "DPPN"
 word = "ānanda"
-summary = "Ānanda One of the principal disciples of the Buddh"
+summary = "One of the principal disciples of the Buddha. He w"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ānanda
 
 One of the principal disciples of the Buddha. He was a first cousin of the Buddha and was deeply attached to him. Ānanda entered the Order in the second year of the Buddha’s ministry, together with other Sākiyan princes, such as Bhaddiya, Anuruddha, Bhagu, Kimbila and Devadatta, and was ordained by the Buddha himself, Vin.ii.182 his upajjhāya being Belatthasīsa.Vin.i.202 Vin.iv.86 Soon after, he heard a discourse by Puṇṇa Mantāniputta and became a Sotāpanna SN.iii.105 Ānanda remained close to the Buddha for the following 25 years, and participates in numerous discourses. He was one of the principal reciters at the First Council after the Buddha passed away, and was responsible for the recitation of the Suttas.
 
@@ -19759,7 +26078,13 @@ dict_label = "DPPN"
 word = "ānandacetiya"
 summary = "ĀnandacetiyaĀnande Cetiye A shrine in Bhoganagara"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀnandacetiyaĀnande Cetiye
@@ -19771,24 +26096,32 @@ A shrine in Bhoganagara dedicated to a *yakkha* called Ānanda. There the Buddha
 ``` toml
 dict_label = "DPPN"
 word = "ānandakumāra"
-summary = "Ānandakumāra A shipwright, who, with three hundred"
+summary = "A shipwright, who, with three hundred others, was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ānandakumāra
 
 A shipwright, who, with three hundred others, was sent by Mahosadha to the Upper Ganges to secure timber wherewith to build three hundred ships in preparation for Mahosadha’s visit to the capital of Pañcala in order to erect buildings for King Vedeha. AN.vi.427
 
 ``` toml
 dict_label = "DPPN"
 word = "āpaṇa"
-summary = "Āpaṇa A city in the Aṅguttarāpa country, probably"
+summary = "A city in the Aṅguttarāpa country, probably its ca"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Āpaṇa
 
 A city in the Aṅguttarāpa country, probably its capital. The Buddha once visited the city with 1,250 monks and the whole company was entertained by the Jaṭila Keṇiya. Vin.i.245*ff.* From Āpaṇa the Buddha went on to Kusinārā. Vin.i.247 In the Saṃyutta Nikāya, SN.v.225 Āpaṇa is spoken of as a township of the Aṅgas and the Buddha is mentioned as having stayed there with Sāriputta.
 
@@ -19801,36 +26134,48 @@ On the occasion of the Buddha’s visit to Āpaṇa, during which he converted S
 ``` toml
 dict_label = "DPPN"
 word = "āpā"
-summary = "Āpā A class of deities who were present at the pre"
+summary = "A class of deities who were present at the preachi"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Āpā
 
 A class of deities who were present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
 dict_label = "DPPN"
 word = "ārohanta"
-summary = "Ārohanta One of the chief ministers at Sāvatthī. H"
+summary = "One of the chief ministers at Sāvatthī. He joined"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ārohanta
 
 One of the chief ministers at Sāvatthī. He joined the Order of monks and his wife became a nun. They had their meals together and she waited on him, fetching him water and fanning him. He forbade her to wait on him as it was improper and, angered by his words, she poured the water over his head and struck him with the fan. For this she was rebuked by the Buddha. Vin.iv.263
 
 ``` toml
 dict_label = "DPPN"
 word = "ārāmadaṇḍa"
-summary = "Ārāmadaṇḍa A brahmin. Once when Mahā Kaccāna was s"
+summary = "A brahmin. Once when Mahā Kaccāna was staying at V"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ārāmadaṇḍa
 
 A brahmin. Once when Mahā Kaccāna was staying at Vāraṇā on the banks of the Kaddamadaha, Ārāmadaṇḍa came to see him and asked him why nobles quarrelled with nobles, brahmins with brahmins, and householders with householders. “Because of their bondage and servitude to sensual lusts,” answered Mahā Kaccāna; and for the same reason recluses quarrelled with recluses. “Is there anybody in the world who has passed beyond this bondage?” “Yes,” said Mahā Kaccāna, “in Sāvatthī lives the Exalted One,” and he proceeded to describe the Buddha’s virtues. Ārāmadaṇḍa stood up with clasped hands and, turning in the direction of Sāvatthī, he uttered his adoration of the Buddha. Thenceforward he became a disciple of Mahā Kaccāna. A.i.65–67.
 
@@ -19839,7 +26184,13 @@ dict_label = "DPPN"
 word = "ārāmikagāma"
 summary = "ĀrāmikagāmaPilindagāma The name given to the villa"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀrāmikagāmaPilindagāma
@@ -19851,36 +26202,48 @@ near Rajagaha3town
 ``` toml
 dict_label = "DPPN"
 word = "āthabbaṇa"
-summary = "Āthabbaṇa A branch of knowledge, dabbling in which"
+summary = "A branch of knowledge, dabbling in which is forbid"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Āthabbaṇa
 
 A branch of knowledge, dabbling in which is forbidden to monks. Probably the Atharva Veda, which includes sorcery and magic spells. Snp.927
 
 ``` toml
 dict_label = "DPPN"
 word = "ātuma"
-summary = "Ātuma A monk whose verse is in the Theragāthā. Tha"
+summary = "A monk whose verse is in the Theragāthā. Thag.72"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ātuma
 
 A monk whose verse is in the Theragāthā. Thag.72
 
 ``` toml
 dict_label = "DPPN"
 word = "ātumā"
-summary = "Ātumā A town that lay between Kusinārā and Sāvatth"
+summary = "A town that lay between Kusinārā and Sāvatthī. Onc"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Ātumā
 
 A town that lay between Kusinārā and Sāvatthī. Once the Buddha, with a large company of bhikkhus, visited the town. At that time there dwelt in it a monk who had been ordained late in life and had formerly been a barber. He had two sons, handsome, elegant and well versed in the barber’s art. When the monk heard of the Buddha’s coming, he sent his sons from house to house to collect salt and oil and rice and meal. The young men, using all their powers of persuasion, collected a large quantity of each of these things, and when the Buddha arrived in Ātumā and went to stay in the Bhūsāgāra, they made ready rice\-gruel and offered it to him. The Buddha, however, would not accept it as the monk, who had had the food collected, had been guilty of an unlawful act in that one monk had begged for others.
 
@@ -19893,12 +26256,16 @@ In the Mahā Parinibbāna Sutta DN.ii.131–132 the Buddha tells Pukkusa of anot
 ``` toml
 dict_label = "DPPN"
 word = "āḷakamandā"
-summary = "Āḷakamandā A city of the gods, mighty, prosperous"
+summary = "A city of the gods, mighty, prosperous and full of"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Āḷakamandā
 
 A city of the gods, mighty, prosperous and full of devas. DN.ii.147 DN.ii.170
 
@@ -19911,12 +26278,16 @@ In the Culla Vagga Vin.ii.152 the word is used as an adjective (*vihārā āḷa
 ``` toml
 dict_label = "DPPN"
 word = "āḷavaka"
-summary = "Āḷavaka The yakkha of Āḷavī. The Buddha once staye"
+summary = "The yakkha of Āḷavī. The Buddha once stayed at his"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Āḷavaka
 
 The *yakkha* of Āḷavī. The Buddha once stayed at his dweling, at which the *yakkha* became angry and threatened the Buddha. He was tamed by the Buddha and asked a series of questions Snp.p.31–33 SN.i.213*ff.*
 
@@ -19927,7 +26298,13 @@ dict_label = "DPPN"
 word = "āḷavakā"
 summary = "ĀḷavakāĀḷavikā A name given to the monks of Āḷavī."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀḷavakāĀḷavikā
@@ -19941,7 +26318,13 @@ dict_label = "DPPN"
 word = "āḷavī"
 summary = "Āḷavī1 A town between Sāvatthī and Rājagaha. The B"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 Āḷavī<sup>1</sup>
@@ -19955,7 +26338,13 @@ dict_label = "DPPN"
 word = "āḷavīgotama"
 summary = "ĀḷavīgotamaĀḷavīGotama A thera, who is mentioned i"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀḷavīgotamaĀḷavīGotama
@@ -19967,7 +26356,13 @@ dict_label = "DPPN"
 word = "āḷārakālāma"
 summary = "ĀḷārakālāmaĀḷāraKālāma One of the two teachers to"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀḷārakālāmaĀḷāraKālāma
@@ -19981,7 +26376,13 @@ dict_label = "DPPN"
 word = "āṇi"
 summary = "ĀṇiĀṇakaĀṇṇaka A mutiṅga (kettle-drum) belonging t"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ĀṇiĀṇakaĀṇṇaka
@@ -19991,12 +26392,16 @@ A *mutiṅga* (kettle\-drum) belonging to the Dasārahas. As it grew old and beg
 ``` toml
 dict_label = "DPPN"
 word = "āṭānāṭā"
-summary = "Āṭānāṭā A city in Uttarakuru, mentioned with Kusin"
+summary = "A city in Uttarakuru, mentioned with Kusināṭā, Par"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Āṭānāṭā
 
 A city in Uttarakuru, mentioned with Kusināṭā, Parakusināṭā and Nātāpuriyā. DN.iii.200
 
@@ -20005,12 +26410,16 @@ A city in Uttarakuru, mentioned with Kusināṭā, Parakusināṭā and Nātāpu
 ``` toml
 dict_label = "DPPN"
 word = "īsāna"
-summary = "Īsāna One of the chief devas. In the Tevijja Sutta"
+summary = "One of the chief devas. In the Tevijja Sutta DN.i."
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
-
-Īsāna
 
 One of the chief devas.
 
@@ -20023,7 +26432,13 @@ dict_label = "DPPN"
 word = "ṭaṅkitamañca"
 summary = "ṬaṅkitamañcaTaṅkitamañca A place near Gayā. It was"
 grammar = ""
+phonetic = ""
+transliteration = ""
 inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
 ```
 
 ṬaṅkitamañcaTaṅkitamañca
