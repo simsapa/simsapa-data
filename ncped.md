@@ -12,7 +12,7 @@ version = "0.2.0-alpha.1"
 created_date_human = ""
 created_date_opf = ""
 word_prefix = ""
-add_velthuis = false
+add_velthuis = true
 ```
 
 --- DICTIONARY WORD ENTRIES ---
@@ -21968,7 +21968,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["amara"]
+see_also = ["amaratapa", "amara"]
 also_written_as = []
 ```
 
@@ -21984,7 +21984,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["amara"]
+see_also = ["amarantapa", "amara"]
 also_written_as = []
 ```
 
@@ -82436,7 +82436,7 @@ revealing one’s opinion; voicing one’s dissent.
 ``` toml
 dict_label = "NCPED"
 word = "diṭṭhūpādāna"
-summary = "(see diṭṭhupādāna"
+summary = ""
 grammar = "neuter"
 phonetic = ""
 transliteration = ""
@@ -82447,7 +82447,7 @@ see_also = ["diṭṭhupādāna"]
 also_written_as = []
 ```
 
-(see *[diṭṭhupādāna](/define/diṭṭhupādāna)*
+
 
 ``` toml
 dict_label = "NCPED"
@@ -132669,18 +132669,18 @@ kind of ant or termite; (or dvandva; ants and termites (?))
 ``` toml
 dict_label = "NCPED"
 word = "kunthakipillika"
-summary = "kind of ant or termite; (or dvandva; ants and term"
+summary = "kind of ant or termite"
 grammar = "masculine a"
 phonetic = ""
 transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["kunthakipillaka"]
+see_also = ["kunthakipillaka", "dvandva"]
 also_written_as = []
 ```
 
-kind of ant or termite; (or dvandva; ants and termites (?)); see also [kunthakipillaka](/define/kunthakipillaka))
+kind of ant or termite
 
 ``` toml
 dict_label = "NCPED"
@@ -210189,7 +210189,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["āneti"]
+see_also = ["ānāpeti", "āneti"]
 also_written_as = []
 ```
 
@@ -210221,7 +210221,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["āneti"]
+see_also = ["ānāpayati", "āneti"]
 also_written_as = []
 ```
 

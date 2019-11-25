@@ -12,7 +12,7 @@ version = "0.2.0-alpha.1"
 created_date_human = ""
 created_date_opf = ""
 word_prefix = ""
-add_velthuis = false
+add_velthuis = true
 ```
 
 --- DICTIONARY WORD ENTRIES ---
