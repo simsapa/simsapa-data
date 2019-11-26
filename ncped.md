@@ -14081,23 +14081,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "agga"
-summary = "the first, foremost; topmost; better; excellent, i"
-grammar = "mfn. & n."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-1. (mfn.) the first, foremost; topmost; better; excellent, illustrious; the best, chief (very often iic); (n.) the best part; the ideal; a most excellent thing; the best of its class or type.
-2. (n.m.) the top, point; tip.
-
-``` toml
-dict_label = "NCPED"
 word = "agga-m-agga"
 summary = "the very best; the most excellent."
 grammar = ""
@@ -14113,6 +14096,23 @@ also_written_as = []
 agga\-m\-agga
 
 mfn. the very best; the most excellent.
+
+``` toml
+dict_label = "NCPED"
+word = "agga"
+summary = "the first, foremost; topmost; better; excellent, i"
+grammar = "mfn. & n."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+1. (mfn.) the first, foremost; topmost; better; excellent, illustrious; the best, chief (very often iic); (n.) the best part; the ideal; a most excellent thing; the best of its class or type.
+2. (n.m.) the top, point; tip.
 
 ``` toml
 dict_label = "NCPED"
@@ -14803,6 +14803,24 @@ valued; put a price on
 
 ``` toml
 dict_label = "NCPED"
+word = "aggi-m-āsīna"
+summary = "sitting near a fire"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["aggi"]
+also_written_as = []
+```
+
+aggi\-m\-āsīna
+
+mfn. sitting near a fire
+
+``` toml
+dict_label = "NCPED"
 word = "aggi"
 summary = "fire; flames; conflagration. 2. cremation fire; a"
 grammar = "masculine"
@@ -14819,24 +14837,6 @@ also_written_as = []
 2. cremation fire; a pyre (as or deal or suicide).
 3. the ritual fire, the sacrificial fire; (one of) the three fires of brahmanical ritual; the god Aggi Bhagavā.
 4. (metaphorically) mental fire, fever.
-
-``` toml
-dict_label = "NCPED"
-word = "aggi-m-āsīna"
-summary = "sitting near a fire"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["aggi"]
-also_written_as = []
-```
-
-aggi\-m\-āsīna
-
-mfn. sitting near a fire
 
 ``` toml
 dict_label = "NCPED"
@@ -21968,7 +21968,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["amaratapa", "amara"]
+see_also = ["amara"]
 also_written_as = []
 ```
 
@@ -21984,7 +21984,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["amarantapa", "amara"]
+see_also = ["amara"]
 also_written_as = []
 ```
 
@@ -27768,6 +27768,24 @@ not despised; respected
 
 ``` toml
 dict_label = "NCPED"
+word = "anta-m-anta"
+summary = "the most remote"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["anta"]
+also_written_as = []
+```
+
+anta\-m\-anta
+
+mfn. the most remote
+
+``` toml
+dict_label = "NCPED"
 word = "anta"
 summary = "end, limit, conclusion; death, destruction; edge,"
 grammar = ""
@@ -27791,24 +27809,6 @@ mfn. last, ultimate; worst, mean, contemptible.
 anta<sup>3</sup>
 
 neuter (sg. & pl.) the bowels, intestines.
-
-``` toml
-dict_label = "NCPED"
-word = "anta-m-anta"
-summary = "the most remote"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["anta"]
-also_written_as = []
-```
-
-anta\-m\-anta
-
-mfn. the most remote
 
 ``` toml
 dict_label = "NCPED"
@@ -28361,6 +28361,24 @@ the removal (of the *kaṭhina*), ending (of the *kaṭhina* period and its spec
 
 ``` toml
 dict_label = "NCPED"
+word = "antarā-hosi"
+summary = "was interrupted; was drowned."
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+antarā\-hosi
+
+aor. 3 sg. was interrupted; was drowned.
+
+``` toml
+dict_label = "NCPED"
 word = "antarā"
 summary = "prep. 1. (adv.) inside; on the way, in the meantim"
 grammar = "adv. &"
@@ -28377,24 +28395,6 @@ prep.
 
 1. (adv.) inside; on the way, in the meantime; beforehand, before (reaching something).
 2. (prep.) between (gen. or acc).
-
-``` toml
-dict_label = "NCPED"
-word = "antarā-hosi"
-summary = "was interrupted; was drowned."
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-antarā\-hosi
-
-aor. 3 sg. was interrupted; was drowned.
 
 ``` toml
 dict_label = "NCPED"
@@ -28990,6 +28990,24 @@ an extreme offense
 
 ``` toml
 dict_label = "NCPED"
+word = "anto-aruna"
+summary = "the time before sunrise"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["anto"]
+also_written_as = []
+```
+
+anto\-aruna
+
+neuter the time before sunrise
+
+``` toml
+dict_label = "NCPED"
 word = "anto"
 summary = "prep. 1. (adv.) within, inside. 2. (prep.) 1. + lo"
 grammar = "adv. &"
@@ -29008,24 +29026,6 @@ prep.
 2. (prep.)
    1. \+ loc. (sometimes written as cpd): within, inside, in the middle (of)
    2. \+ acc. (sometimes written as cpd): within, inside.
-
-``` toml
-dict_label = "NCPED"
-word = "anto-aruna"
-summary = "the time before sunrise"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["anto"]
-also_written_as = []
-```
-
-anto\-aruna
-
-neuter the time before sunrise
 
 ``` toml
 dict_label = "NCPED"
@@ -29417,47 +29417,6 @@ the illness of twisting of the gut:
 
 ``` toml
 dict_label = "NCPED"
-word = "anu"
-summary = "small, minute, atomic; subtle."
-grammar = "mfn."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-small, minute, atomic; subtle.
-
-``` toml
-dict_label = "NCPED"
-word = "anu FIXME: double"
-summary = "anu- ind. 1. as prefix and preverb expresses: with"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-anu\-
-
-ind.
-
-1. as prefix and preverb expresses: with, along; after, behind; subordinate to, inferior to; according to, in conformity with; severally one after the other; repeatedly
-2. as separate preposition:
-   1. with acc. and in prepositional compounds, expresses: according to, in conformity with; severally, each by each.
-   2. with loc. expresses: along, alongside
-
-3. as adverb.
-
-``` toml
-dict_label = "NCPED"
 word = "anu-aya"
 summary = "lineage, succession; what follows, (logical) conne"
 grammar = ""
@@ -29536,6 +29495,31 @@ pr. 3 sg.
 
 ``` toml
 dict_label = "NCPED"
+word = "anu FIXME double"
+summary = "anu- ind. 1. as prefix and preverb expresses: with"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+anu\-
+
+ind.
+
+1. as prefix and preverb expresses: with, along; after, behind; subordinate to, inferior to; according to, in conformity with; severally one after the other; repeatedly
+2. as separate preposition:
+   1. with acc. and in prepositional compounds, expresses: according to, in conformity with; severally, each by each.
+   2. with loc. expresses: along, alongside
+
+3. as adverb.
+
+``` toml
+dict_label = "NCPED"
 word = "anu-iti"
 summary = "follows; goes along with. 2. goes into, enters; go"
 grammar = ""
@@ -29554,6 +29538,22 @@ pr. 3 sg.
 
 1. follows; goes along with.
 2. goes into, enters; goes through
+
+``` toml
+dict_label = "NCPED"
+word = "anu"
+summary = "small, minute, atomic; subtle."
+grammar = "mfn."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+small, minute, atomic; subtle.
 
 ``` toml
 dict_label = "NCPED"
@@ -40390,23 +40390,6 @@ non\-returned, one who does not return
 
 ``` toml
 dict_label = "NCPED"
-word = "anāgata"
-summary = "not come, not yet arrived; future; not learnt, not"
-grammar = "neg. mfn."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["āgata"]
-also_written_as = []
-```
-
-1. (mfn.) not come, not yet arrived; future; not learnt, not attained; not attested.
-2. (n.) the future
-
-``` toml
-dict_label = "NCPED"
 word = "anāgata-m-addhāne"
 summary = "in the future"
 grammar = ""
@@ -40422,6 +40405,23 @@ also_written_as = []
 anāgata\-m\-addhāne
 
 adv. in the future
+
+``` toml
+dict_label = "NCPED"
+word = "anāgata"
+summary = "not come, not yet arrived; future; not learnt, not"
+grammar = "neg. mfn."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["āgata"]
+also_written_as = []
+```
+
+1. (mfn.) not come, not yet arrived; future; not learnt, not attained; not attested.
+2. (n.) the future
 
 ``` toml
 dict_label = "NCPED"
@@ -42832,23 +42832,6 @@ interpreted by the Buddha as apa \+ gabbha, describing one who has destroyed the
 
 ``` toml
 dict_label = "NCPED"
-word = "apagata"
-summary = "gone, gone away (from); departed. 2. (n.) error; t"
-grammar = "pp mfn. & neuter"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-1. (mfn.) gone, gone away (from); departed.
-2. (n.) error; transgression.
-
-``` toml
-dict_label = "NCPED"
 word = "apagata-kāḷaka"
 summary = "without speck or stain; without defect"
 grammar = ""
@@ -42864,6 +42847,23 @@ also_written_as = []
 apagata\-kāḷaka
 
 mfn. without speck or stain; without defect
+
+``` toml
+dict_label = "NCPED"
+word = "apagata"
+summary = "gone, gone away (from); departed. 2. (n.) error; t"
+grammar = "pp mfn. & neuter"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+1. (mfn.) gone, gone away (from); departed.
+2. (n.) error; transgression.
 
 ``` toml
 dict_label = "NCPED"
@@ -43349,22 +43349,6 @@ falling down through the loss of plaster
 
 ``` toml
 dict_label = "NCPED"
-word = "apalokana"
-summary = "~ā. feminine looking for approval or permission."
-grammar = "neuter"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-\~ā. feminine looking for approval or permission.
-
-``` toml
-dict_label = "NCPED"
 word = "apalokana-kamma"
 summary = "(formal) act (of the saṅgha) giving permission or"
 grammar = ""
@@ -43380,6 +43364,22 @@ also_written_as = []
 apalokana\-kamma
 
 neuter a (formal) act (of the *saṅgha*) giving permission or approval.
+
+``` toml
+dict_label = "NCPED"
+word = "apalokana"
+summary = "~ā. feminine looking for approval or permission."
+grammar = "neuter"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+\~ā. feminine looking for approval or permission.
 
 ``` toml
 dict_label = "NCPED"
@@ -45530,6 +45530,29 @@ although
 
 ``` toml
 dict_label = "NCPED"
+word = "api"
+summary = "even, also; even though, although; 1. prothetic (a"
+grammar = "ind."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+1. even, also; even though, although;
+   1. prothetic (at the beginning of a sentence or clause)
+   2. enclitic
+
+2. but, and (at the beginning of a clause)
+3. as interrogative particle (usually at the beginning of a sentence or clause)
+4. as emphasis to optative: perhaps, maybe; please may…; if only; I wish that…
+5. indeed, surely; yes (at the beginning of a sentence).
+
+``` toml
+dict_label = "NCPED"
 word = "api nu kho"
 summary = "interrogative particle"
 grammar = ""
@@ -45607,29 +45630,6 @@ also_written_as = []
 ```
 
 and further, moreover
-
-``` toml
-dict_label = "NCPED"
-word = "api"
-summary = "even, also; even though, although; 1. prothetic (a"
-grammar = "ind."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-1. even, also; even though, although;
-   1. prothetic (at the beginning of a sentence or clause)
-   2. enclitic
-
-2. but, and (at the beginning of a clause)
-3. as interrogative particle (usually at the beginning of a sentence or clause)
-4. as emphasis to optative: perhaps, maybe; please may…; if only; I wish that…
-5. indeed, surely; yes (at the beginning of a sentence).
 
 ``` toml
 dict_label = "NCPED"
@@ -49914,22 +49914,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "atha vā pi"
-summary = "or also; and also"
-grammar = "(?)"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["atha"]
-also_written_as = []
-```
-
-or also; and also
-
-``` toml
-dict_label = "NCPED"
 word = "atha vā"
 summary = "or; or rather, or perhaps (in commentaries, introd"
 grammar = "(?)"
@@ -49943,6 +49927,22 @@ also_written_as = []
 ```
 
 or; or rather, or perhaps (in commentaries, introducing an alternative (preferred?) explanation)
+
+``` toml
+dict_label = "NCPED"
+word = "atha vā pi"
+summary = "or also; and also"
+grammar = "(?)"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["atha"]
+also_written_as = []
+```
+
+or also; and also
 
 ``` toml
 dict_label = "NCPED"
@@ -50743,23 +50743,6 @@ passing; passing through; surpassing; having gone beyond, beyond; beyond the nor
 
 ``` toml
 dict_label = "NCPED"
-word = "atikkanta"
-summary = "having passed through or by; having gone beyond, o"
-grammar = "pp mfn. (act.)"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["atikkamati"]
-also_written_as = []
-```
-
-1. having passed through or by; having gone beyond, overcome, surpassed; having elapsed.
-2. who has approached
-
-``` toml
-dict_label = "NCPED"
 word = "atikkanta-mānussaka"
 summary = "superhuman"
 grammar = ""
@@ -50775,6 +50758,23 @@ also_written_as = []
 atikkanta\-mānussaka
 
 mf(\-ikā)n. superhuman
+
+``` toml
+dict_label = "NCPED"
+word = "atikkanta"
+summary = "having passed through or by; having gone beyond, o"
+grammar = "pp mfn. (act.)"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["atikkamati"]
+also_written_as = []
+```
+
+1. having passed through or by; having gone beyond, overcome, surpassed; having elapsed.
+2. who has approached
 
 ``` toml
 dict_label = "NCPED"
@@ -51856,32 +51856,6 @@ born from oneself, one’s own; (m.) a son; (f.) a daughter.
 
 ``` toml
 dict_label = "NCPED"
-word = "atta"
-summary = "the self, the soul, as a permanent, unchangeable,"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["attan"]
-also_written_as = []
-```
-
-atta<sup>1</sup>
-
-masculine
-
-1. the self, the soul, as a permanent, unchangeable, autonomous entity (always rejected by the Pāḷi Buddhist texts as not corresponding to any reality).
-2. the self, one’s own self (the abstract individual); the image in a looking\-glass; especially.
-3. oneself, himself, yourself, (used (in the sg.) as reflexive pronoun for all three persons and genders); instr. attanā, by oneself; in oneself, as for oneself, often used in the sense of a nom.
-
-atta<sup>2</sup>
-
-mfn. full, complete (or personal)
-
-``` toml
-dict_label = "NCPED"
 word = "atta-d-attha"
 summary = "one’s own profit or interest; one’s own goal"
 grammar = ""
@@ -51915,6 +51889,32 @@ also_written_as = []
 atta\-n\-tapa
 
 mfn. self\-mortifying; hurting oneself
+
+``` toml
+dict_label = "NCPED"
+word = "atta"
+summary = "the self, the soul, as a permanent, unchangeable,"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["attan"]
+also_written_as = []
+```
+
+atta<sup>1</sup>
+
+masculine
+
+1. the self, the soul, as a permanent, unchangeable, autonomous entity (always rejected by the Pāḷi Buddhist texts as not corresponding to any reality).
+2. the self, one’s own self (the abstract individual); the image in a looking\-glass; especially.
+3. oneself, himself, yourself, (used (in the sg.) as reflexive pronoun for all three persons and genders); instr. attanā, by oneself; in oneself, as for oneself, often used in the sense of a nom.
+
+atta<sup>2</sup>
+
+mfn. full, complete (or personal)
 
 ``` toml
 dict_label = "NCPED"
@@ -56647,29 +56647,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "añña"
-summary = "other; different; other than (+ abl.); another, a"
-grammar = "mfn. pron."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["añña"]
-also_written_as = []
-```
-
-other; different; other than (\+ abl.); another, a further, one more; somebody, something else; anything else; pl. (the) others, the rest.
-
-añña…añña
-
-(?)
-
-1. one… another…; some… some.
-2. one … another (different) …; one thing … another thing …
-
-``` toml
-dict_label = "NCPED"
 word = "añña-d-attha"
 summary = "another object or aim"
 grammar = ""
@@ -56760,6 +56737,29 @@ also_written_as = []
 añña\-m\-aññaṃ
 
 adv. towards one another; mutually, reciprocally
+
+``` toml
+dict_label = "NCPED"
+word = "añña"
+summary = "other; different; other than (+ abl.); another, a"
+grammar = "mfn. pron."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["añña"]
+also_written_as = []
+```
+
+other; different; other than (\+ abl.); another, a further, one more; somebody, something else; anything else; pl. (the) others, the rest.
+
+añña…añña
+
+(?)
+
+1. one… another…; some… some.
+2. one … another (different) …; one thing … another thing …
 
 ``` toml
 dict_label = "NCPED"
@@ -58003,22 +58003,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "aṅga"
-summary = "( & m.) a part of the body; a limb, member; an int"
-grammar = "neuter"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-( & m.) a part of the body; a limb, member; an integral part of anything; a constituent part of a whole, a subordinate division; a limb or aspect of something as a characteristic sign, an attribute, a quality; as a determining characteristic or factor, a cause; *iminā p’ aṅgena*, with that characteristic; in that way; for that reason.
-
-``` toml
-dict_label = "NCPED"
 word = "aṅga-m-aṅgāni"
 summary = "limb by limb; all the limbs"
 grammar = ""
@@ -58034,6 +58018,22 @@ also_written_as = []
 aṅga\-m\-aṅgāni
 
 neuter plural limb by limb; all the limbs
+
+``` toml
+dict_label = "NCPED"
+word = "aṅga"
+summary = "( & m.) a part of the body; a limb, member; an int"
+grammar = "neuter"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+( & m.) a part of the body; a limb, member; an integral part of anything; a constituent part of a whole, a subordinate division; a limb or aspect of something as a characteristic sign, an attribute, a quality; as a determining characteristic or factor, a cause; *iminā p’ aṅgena*, with that characteristic; in that way; for that reason.
 
 ``` toml
 dict_label = "NCPED"
@@ -82436,7 +82436,7 @@ revealing one’s opinion; voicing one’s dissent.
 ``` toml
 dict_label = "NCPED"
 word = "diṭṭhūpādāna"
-summary = ""
+summary = "(see diṭṭhupādāna"
 grammar = "neuter"
 phonetic = ""
 transliteration = ""
@@ -82447,7 +82447,7 @@ see_also = ["diṭṭhupādāna"]
 also_written_as = []
 ```
 
-
+(see *[diṭṭhupādāna](/define/diṭṭhupādāna)*
 
 ``` toml
 dict_label = "NCPED"
@@ -90311,43 +90311,6 @@ following, under the influence of, emotion
 
 ``` toml
 dict_label = "NCPED"
-word = "eka"
-summary = "num. & mfn. 1. 1. one; only one; a single; one of"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["eka", "eka", "eka"]
-also_written_as = []
-```
-
-num. & mfn.
-
-1. 1. one; only one; a single; one of two or many.
-   2. one only, one and the same.
-   3. (indefinite:) one, a certain; a, an.
-
-2. alone; solitary.
-3. one and only, unique; preeminent.
-4. all one; nothing but.
-5. (pl.) some; some people; some authorities.
-
-eka … apara …
-
-(?) one … another …; one … the other …
-
-eka … eka …
-
-(?) one … another …; one … the other …
-
-eka … dutiya …
-
-(?) one … another …; one … the other …
-
-``` toml
-dict_label = "NCPED"
 word = "eka-m-antaṃ"
 summary = "to one side (showing respect); at a respectful dis"
 grammar = ""
@@ -90425,6 +90388,43 @@ also_written_as = []
 eka\-m\-ekaṃ
 
 acc. adv. one by one; singly
+
+``` toml
+dict_label = "NCPED"
+word = "eka"
+summary = "num. & mfn. 1. 1. one; only one; a single; one of"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["eka", "eka", "eka"]
+also_written_as = []
+```
+
+num. & mfn.
+
+1. 1. one; only one; a single; one of two or many.
+   2. one only, one and the same.
+   3. (indefinite:) one, a certain; a, an.
+
+2. alone; solitary.
+3. one and only, unique; preeminent.
+4. all one; nothing but.
+5. (pl.) some; some people; some authorities.
+
+eka … apara …
+
+(?) one … another …; one … the other …
+
+eka … eka …
+
+(?) one … another …; one … the other …
+
+eka … dutiya …
+
+(?) one … another …; one … the other …
 
 ``` toml
 dict_label = "NCPED"
@@ -90508,6 +90508,24 @@ going about or living alone, solitariness; a solitary life
 
 ``` toml
 dict_label = "NCPED"
+word = "ekacca-asassatika"
+summary = "believing in the non-eternality of some things"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["ekacca"]
+also_written_as = []
+```
+
+ekacca\-asassatika
+
+mfn. believing in the non\-eternality of some things
+
+``` toml
+dict_label = "NCPED"
 word = "ekacca"
 summary = "certain; someone, something; anyone; (pi.) some, c"
 grammar = "pron. & mfn."
@@ -90524,24 +90542,6 @@ also_written_as = []
    2. a part of; some of it; some …, some of…; some of them
 
 2. (repeated) one… another…; someone… someone…; some … others ….
-
-``` toml
-dict_label = "NCPED"
-word = "ekacca-asassatika"
-summary = "believing in the non-eternality of some things"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["ekacca"]
-also_written_as = []
-```
-
-ekacca\-asassatika
-
-mfn. believing in the non\-eternality of some things
 
 ``` toml
 dict_label = "NCPED"
@@ -94204,22 +94204,6 @@ an eḷagala thicket.
 
 ``` toml
 dict_label = "NCPED"
-word = "eḷaka"
-summary = "ram; a male goat, a billy goat."
-grammar = "masculine a"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-ram; a male goat, a billy goat.
-
-``` toml
-dict_label = "NCPED"
 word = "eḷaka-m-antaraṃ"
 summary = "within the threshold; across the threshold."
 grammar = ""
@@ -94235,6 +94219,22 @@ also_written_as = []
 eḷaka\-m\-antaraṃ
 
 ind. within the threshold; across the threshold.
+
+``` toml
+dict_label = "NCPED"
+word = "eḷaka"
+summary = "ram; a male goat, a billy goat."
+grammar = "masculine a"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+ram; a male goat, a billy goat.
 
 ``` toml
 dict_label = "NCPED"
@@ -105879,6 +105879,30 @@ from here and there; here and there
 
 ``` toml
 dict_label = "NCPED"
+word = "ito"
+summary = "(used like abl. of idam) from this; than this; fro"
+grammar = "ind."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["ito"]
+also_written_as = []
+```
+
+1. (used like abl. of idam) from this; than this; from here, hence; from this world.
+2. here; to here, hither.
+3. from this time, from now;
+   1. preferring to the past.
+   2. referring to the future.
+
+ito … ito …
+
+(?) from here … from there, here … there …
+
+``` toml
+dict_label = "NCPED"
 word = "ito nidāna"
 summary = "originating from this"
 grammar = "mfn."
@@ -105924,30 +105948,6 @@ also_written_as = []
 ```
 
 from now on; after this
-
-``` toml
-dict_label = "NCPED"
-word = "ito"
-summary = "(used like abl. of idam) from this; than this; fro"
-grammar = "ind."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["ito"]
-also_written_as = []
-```
-
-1. (used like abl. of idam) from this; than this; from here, hence; from this world.
-2. here; to here, hither.
-3. from this time, from now;
-   1. preferring to the past.
-   2. referring to the future.
-
-ito … ito …
-
-(?) from here … from there, here … there …
 
 ``` toml
 dict_label = "NCPED"
@@ -113806,22 +113806,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "kalahappavaḍḍhana"
-summary = "increasing contention, fomenting strife"
-grammar = "neuter"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["kalaha"]
-also_written_as = []
-```
-
-increasing contention, fomenting strife
-
-``` toml
-dict_label = "NCPED"
 word = "kalahappavaḍḍhana-akiccakari"
 summary = "increasing contention, fomenting strife"
 grammar = "mfn."
@@ -113848,6 +113832,22 @@ synonyms = []
 antonyms = []
 see_also = ["kalaha"]
 also_written_as = ["kalahappavaḍḍhana\\-akiccakarin"]
+```
+
+increasing contention, fomenting strife
+
+``` toml
+dict_label = "NCPED"
+word = "kalahappavaḍḍhana"
+summary = "increasing contention, fomenting strife"
+grammar = "neuter"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["kalaha"]
+also_written_as = []
 ```
 
 increasing contention, fomenting strife
@@ -116067,22 +116067,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "kappaṃ"
-summary = "for an eon; for a very long time"
-grammar = "acc. adv."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["kappa"]
-also_written_as = []
-```
-
-for an eon; for a very long time
-
-``` toml
-dict_label = "NCPED"
 word = "kappaṃ-jaha"
 summary = "abandoning theories or figments"
 grammar = ""
@@ -116098,6 +116082,22 @@ also_written_as = []
 kappaṃ\-jaha
 
 mfn. abandoning theories or figments
+
+``` toml
+dict_label = "NCPED"
+word = "kappaṃ"
+summary = "for an eon; for a very long time"
+grammar = "acc. adv."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["kappa"]
+also_written_as = []
+```
+
+for an eon; for a very long time
 
 ``` toml
 dict_label = "NCPED"
@@ -118329,22 +118329,6 @@ how, pray? how indeed?
 
 ``` toml
 dict_label = "NCPED"
-word = "kathaṃ hi nāma"
-summary = "+ fut. (or occasionally + opt.) how could …? how c"
-grammar = "(?)"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["kathaṃ"]
-also_written_as = []
-```
-
-\+ fut. (or occasionally \+ opt.) how could …? how could … possibly? (expressing amazement and/or disapproval)
-
-``` toml
-dict_label = "NCPED"
 word = "kathaṃ hi"
 summary = "how possibly how indeed?"
 grammar = "(?)"
@@ -118358,6 +118342,22 @@ also_written_as = []
 ```
 
 how possibly how indeed?
+
+``` toml
+dict_label = "NCPED"
+word = "kathaṃ hi nāma"
+summary = "+ fut. (or occasionally + opt.) how could …? how c"
+grammar = "(?)"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["kathaṃ"]
+also_written_as = []
+```
+
+\+ fut. (or occasionally \+ opt.) how could …? how could … possibly? (expressing amazement and/or disapproval)
 
 ``` toml
 dict_label = "NCPED"
@@ -128932,22 +128932,6 @@ somewhere; anywhere; in some place
 
 ``` toml
 dict_label = "NCPED"
-word = "ko pana vado"
-summary = "not to speak of …, never mind …"
-grammar = "(?)"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["ka", "kiṃ"]
-also_written_as = []
-```
-
-not to speak of …, never mind …
-
-``` toml
-dict_label = "NCPED"
 word = "ko"
 summary = "where? in what?"
 grammar = "ind."
@@ -128961,6 +128945,22 @@ also_written_as = []
 ```
 
 where? in what?
+
+``` toml
+dict_label = "NCPED"
+word = "ko pana vado"
+summary = "not to speak of …, never mind …"
+grammar = "(?)"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["ka", "kiṃ"]
+also_written_as = []
+```
+
+not to speak of …, never mind …
 
 ``` toml
 dict_label = "NCPED"
@@ -132669,18 +132669,18 @@ kind of ant or termite; (or dvandva; ants and termites (?))
 ``` toml
 dict_label = "NCPED"
 word = "kunthakipillika"
-summary = "kind of ant or termite"
+summary = "kind of ant or termite; (or dvandva; ants and term"
 grammar = "masculine a"
 phonetic = ""
 transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["kunthakipillaka", "dvandva"]
+see_also = ["kunthakipillaka"]
 also_written_as = []
 ```
 
-kind of ant or termite
+kind of ant or termite; (or dvandva; ants and termites (?)); see also [kunthakipillaka](/define/kunthakipillaka))
 
 ``` toml
 dict_label = "NCPED"
@@ -143473,22 +143473,6 @@ inclining, moving towards nibbāna.
 
 ``` toml
 dict_label = "NCPED"
-word = "nibbānogadha"
-summary = "having a firm footing in nibbana; or plunged into,"
-grammar = "mfn."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-having a firm footing in nibbana; or plunged into, immersed in nibbāna.
-
-``` toml
-dict_label = "NCPED"
 word = "nibbānogadha-gāmi"
 summary = "leading to a firm footing in nibbāna."
 grammar = "mfn."
@@ -143518,6 +143502,22 @@ also_written_as = ["nibbānogadha\\-gāmin"]
 ```
 
 leading to a firm footing in nibbāna.
+
+``` toml
+dict_label = "NCPED"
+word = "nibbānogadha"
+summary = "having a firm footing in nibbana; or plunged into,"
+grammar = "mfn."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+having a firm footing in nibbana; or plunged into, immersed in nibbāna.
 
 ``` toml
 dict_label = "NCPED"
@@ -159155,22 +159155,6 @@ having gained firm footing.
 
 ``` toml
 dict_label = "NCPED"
-word = "ogāha"
-summary = "bathing place."
-grammar = "masculine a"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-bathing place.
-
-``` toml
-dict_label = "NCPED"
 word = "ogāha-m-uttiṇṇa"
 summary = "emerged from the bathing place"
 grammar = ""
@@ -159186,6 +159170,22 @@ also_written_as = []
 ogāha\-m\-uttiṇṇa
 
 mfn. emerged from the bathing place
+
+``` toml
+dict_label = "NCPED"
+word = "ogāha"
+summary = "bathing place."
+grammar = "masculine a"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+bathing place.
 
 ``` toml
 dict_label = "NCPED"
@@ -159756,22 +159756,6 @@ also_written_as = []
 
 ``` toml
 dict_label = "NCPED"
-word = "oka"
-summary = "house, home; resort, refuge."
-grammar = "masculine neuter"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-house, home; resort, refuge.
-
-``` toml
-dict_label = "NCPED"
 word = "oka-m-okata"
 summary = "from its home, the water; from a watery home"
 grammar = ""
@@ -159805,6 +159789,22 @@ also_written_as = []
 oka\-m\-okato
 
 ind. from its home, the water; from a watery home
+
+``` toml
+dict_label = "NCPED"
+word = "oka"
+summary = "house, home; resort, refuge."
+grammar = "masculine neuter"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+house, home; resort, refuge.
 
 ``` toml
 dict_label = "NCPED"
@@ -170326,6 +170326,28 @@ adverb for the third time.
 
 ``` toml
 dict_label = "NCPED"
+word = "tato"
+summary = "indeclinable 1. from that place; from there; thenc"
+grammar = ""
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+indeclinable
+
+1. from that place; from there; thence.
+2. from that; than that; than that…
+3. there upon, then; from that, consequently.
+4. (repeated): from that and that place; here and there; from all sides.
+5. as correlative of yato.
+
+``` toml
+dict_label = "NCPED"
 word = "tato nidānaṃ"
 summary = "indeclinable because of that."
 grammar = ""
@@ -170355,28 +170377,6 @@ also_written_as = []
 ```
 
 indeclinable because of that.
-
-``` toml
-dict_label = "NCPED"
-word = "tato"
-summary = "indeclinable 1. from that place; from there; thenc"
-grammar = ""
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-indeclinable
-
-1. from that place; from there; thence.
-2. from that; than that; than that…
-3. there upon, then; from that, consequently.
-4. (repeated): from that and that place; here and there; from all sides.
-5. as correlative of yato.
 
 ``` toml
 dict_label = "NCPED"
@@ -180746,23 +180746,6 @@ having the sexual characteristics of both sexes; hermaphrodite
 
 ``` toml
 dict_label = "NCPED"
-word = "ubhaya"
-summary = ": both; sg.: of both kinds; two fold. 2. (n.) both"
-grammar = "mfn. & neuter"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-1. (mfn.) pl.: both; sg.: of both kinds; two fold.
-2. (n.) both (things); the pair; two things.
-
-``` toml
-dict_label = "NCPED"
 word = "ubhaya-m-antare"
 summary = "between the two; within the two"
 grammar = ""
@@ -180796,6 +180779,23 @@ also_written_as = []
 ubhaya\-m\-antarena
 
 ind. between the two; within the two
+
+``` toml
+dict_label = "NCPED"
+word = "ubhaya"
+summary = ": both; sg.: of both kinds; two fold. 2. (n.) both"
+grammar = "mfn. & neuter"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+1. (mfn.) pl.: both; sg.: of both kinds; two fold.
+2. (n.) both (things); the pair; two things.
 
 ``` toml
 dict_label = "NCPED"
@@ -199034,23 +199034,6 @@ facing the north; going northwards
 
 ``` toml
 dict_label = "NCPED"
-word = "uttari"
-summary = "further, beyond (+ abl); more; in addition; most,"
-grammar = "ind. & mfn."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-1. (ind.) further, beyond (\+ abl); more; in addition; most, exceedingly.
-2. (mfn.) better, superior.
-
-``` toml
-dict_label = "NCPED"
 word = "uttari-karaṇīya"
 summary = "something further to be done; a further task"
 grammar = ""
@@ -199066,6 +199049,23 @@ also_written_as = []
 uttari\-karaṇīya
 
 neuter something further to be done; a further task
+
+``` toml
+dict_label = "NCPED"
+word = "uttari"
+summary = "further, beyond (+ abl); more; in addition; most,"
+grammar = "ind. & mfn."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+1. (ind.) further, beyond (\+ abl); more; in addition; most, exceedingly.
+2. (mfn.) better, superior.
 
 ``` toml
 dict_label = "NCPED"
@@ -205645,22 +205645,6 @@ perf. 3 sg. (perf. expressing present, past and indefinite time) says, speaks; t
 
 ``` toml
 dict_label = "NCPED"
-word = "āhacca tiṭṭhati"
-summary = "reaches; touches, strikes."
-grammar = "(?)"
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = []
-also_written_as = []
-```
-
-reaches; touches, strikes.
-
-``` toml
-dict_label = "NCPED"
 word = "āhacca"
 summary = "having hit, struck; beaten; came into contact with"
 grammar = "absol."
@@ -205674,6 +205658,22 @@ also_written_as = []
 ```
 
 having hit, struck; beaten; came into contact with, reached.
+
+``` toml
+dict_label = "NCPED"
+word = "āhacca tiṭṭhati"
+summary = "reaches; touches, strikes."
+grammar = "(?)"
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = []
+also_written_as = []
+```
+
+reaches; touches, strikes.
 
 ``` toml
 dict_label = "NCPED"
@@ -210189,7 +210189,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["ānāpeti", "āneti"]
+see_also = ["āneti"]
 also_written_as = []
 ```
 
@@ -210221,7 +210221,7 @@ transliteration = ""
 inflections = []
 synonyms = []
 antonyms = []
-see_also = ["ānāpayati", "āneti"]
+see_also = ["āneti"]
 also_written_as = []
 ```
 
@@ -215413,22 +215413,6 @@ or mfn. separately, apart; or not united, separate
 
 ``` toml
 dict_label = "NCPED"
-word = "āvi"
-summary = "before the eyes; openly, manifestly; in public"
-grammar = "ind."
-phonetic = ""
-transliteration = ""
-inflections = []
-synonyms = []
-antonyms = []
-see_also = ["āviṃ", "āvī"]
-also_written_as = []
-```
-
-before the eyes; openly, manifestly; in public
-
-``` toml
-dict_label = "NCPED"
 word = "āvi-akāsi"
 summary = ""
 grammar = ""
@@ -215444,6 +215428,22 @@ also_written_as = []
 āvi\-akāsi
 
 aor. 3 sg.
+
+``` toml
+dict_label = "NCPED"
+word = "āvi"
+summary = "before the eyes; openly, manifestly; in public"
+grammar = "ind."
+phonetic = ""
+transliteration = ""
+inflections = []
+synonyms = []
+antonyms = []
+see_also = ["āviṃ", "āvī"]
+also_written_as = []
+```
+
+before the eyes; openly, manifestly; in public
 
 ``` toml
 dict_label = "NCPED"
