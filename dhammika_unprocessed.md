@@ -21,7 +21,7 @@ add_velthuis = true
 dict_label = "Dhammika"
 word = "acchaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -39,7 +39,7 @@ Sloth Bear, also called *[ikka](/define/ikka)*, *Melursus ursinus* Ja.vi.538. Th
 dict_label = "Dhammika"
 word = "acchiva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -57,7 +57,7 @@ A type of plant Ja.vi.535.
 dict_label = "Dhammika"
 word = "adda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -75,7 +75,7 @@ See [Siṅgivera](/define/Siṅgivera).
 dict_label = "Dhammika"
 word = "adhipāta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -93,7 +93,7 @@ See [Kīṭa](/define/Kīṭa).
 dict_label = "Dhammika"
 word = "adāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -111,7 +111,7 @@ A type of bird Ja.iv.466. The name means something like “not stinging”.
 dict_label = "Dhammika"
 word = "agaru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -129,7 +129,7 @@ Aloes, sometimes *agalu* or *akalu*, Hindi *agar*, *Aquilaria agallocha* Ja.vi.1
 dict_label = "Dhammika"
 word = "agārasappa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -147,7 +147,7 @@ Common Wolf Snake, *Lycodon aulicus*. The Pāḷi name means “house snake”. 
 dict_label = "Dhammika"
 word = "ahihattaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -165,7 +165,7 @@ Mushrooms and toadstools, sometimes also *ahicchattaka*, fungi of the classes Hy
 dict_label = "Dhammika"
 word = "aja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -183,7 +183,7 @@ Domestic Goat, also *ajaka* and *ajiya*, Hindi *ajgar*, *Capra hircus* It.36 Ja.
 dict_label = "Dhammika"
 word = "ajakara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -201,7 +201,7 @@ Indian Python, sometimes *ajagara*, Hindi, *ajgar*, *Python molurus* Ja.iii.484.
 dict_label = "Dhammika"
 word = "ajina"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -219,7 +219,7 @@ A type of deer or possibly an alternative name for the Blackbuck, the hide of wh
 dict_label = "Dhammika"
 word = "ajjaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -237,7 +237,7 @@ Ajjaka
 dict_label = "Dhammika"
 word = "ajjhapattā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -255,7 +255,7 @@ Black Kite, *Milvus migrans* Ja.ii.59 Ja.iv.57 S.v.146. A large brown\-colored b
 dict_label = "Dhammika"
 word = "ajjhohāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -273,7 +273,7 @@ A large and probably fantastic marine creature Ja.v.462. See [Timi](/define/Timi
 dict_label = "Dhammika"
 word = "ajjuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -291,7 +291,7 @@ A type of plant Vin.vi.34.
 dict_label = "Dhammika"
 word = "ajjukanna"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -309,7 +309,7 @@ A type of tree Ja.vi.535.
 dict_label = "Dhammika"
 word = "ajjuna"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -327,7 +327,7 @@ Sometimes also *[kakudha](/define/kakudha)*, Hindi *arjun*, *Terminalia arjuna*,
 dict_label = "Dhammika"
 word = "akka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -345,7 +345,7 @@ Swallow Wort, Hindi *akaron*, *Calotropis gigantea* Vin.i.306, a small stout shr
 dict_label = "Dhammika"
 word = "alagadda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -363,7 +363,7 @@ See [Sappa](/define/Sappa).
 dict_label = "Dhammika"
 word = "alattaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -381,7 +381,7 @@ A red substance women used to dye their feet with M.ii.64 Th.7710. This may have
 dict_label = "Dhammika"
 word = "alaṅka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -399,7 +399,7 @@ A type of plant Ap.328.
 dict_label = "Dhammika"
 word = "alābu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -417,7 +417,7 @@ Sometimes also *alāpu*, a type of creeper or climber bearing an edible fruit, p
 dict_label = "Dhammika"
 word = "amarā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -435,7 +435,7 @@ Eel, a scaleless, snake\-like fish of the order Anguilliformes, of which there a
 dict_label = "Dhammika"
 word = "amba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -455,7 +455,7 @@ One who wants mangoes will knock them out of the tree by throwing a mango at the
 dict_label = "Dhammika"
 word = "ambakamaddarī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -473,7 +473,7 @@ Eurasian Golden Oriole, *Oriolus oriolus*, a thrush\-sized bird, golden yellow w
 dict_label = "Dhammika"
 word = "ambuja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -491,7 +491,7 @@ See [Maccha](/define/Maccha).
 dict_label = "Dhammika"
 word = "ambusevāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -509,7 +509,7 @@ A type of moss or aquatic plant Th.113.
 dict_label = "Dhammika"
 word = "ambāṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -527,7 +527,7 @@ Hog Plum, Hindi *amra*, *Spondias mangifera* Th.466, a common medium to large tr
 dict_label = "Dhammika"
 word = "andhaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -545,7 +545,7 @@ See [Kīṭa](/define/Kīṭa).
 dict_label = "Dhammika"
 word = "anojā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -563,7 +563,7 @@ A type of plant with red flowers Ja.i.9 Ja.vi.536.
 dict_label = "Dhammika"
 word = "apandara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -581,7 +581,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "aparaṇṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -599,7 +599,7 @@ A general term for raw cereals Vin.iii.50. See [Dhañña](/define/Dhañña).
 dict_label = "Dhammika"
 word = "apphoṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -617,7 +617,7 @@ A type of creeper Ja.vi.536.
 dict_label = "Dhammika"
 word = "ariṭṭhaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -635,7 +635,7 @@ Soap Nut Tree, Hindi *areetha*, *Sapindus mukorossi* S.i.104, a large deciduous 
 dict_label = "Dhammika"
 word = "asana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -653,7 +653,7 @@ Hindi *asan*, *Terminalia tomentosa* Ja.vi.535, a very common large tree with it
 dict_label = "Dhammika"
 word = "asi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -671,7 +671,7 @@ A type of tree which stands tall like a palm tree Ja.vi.336 Ja.vi.536. As the wo
 dict_label = "Dhammika"
 word = "asoka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -689,7 +689,7 @@ Hindi *asok*, *Jonesia asoka* Ja.v.188. One of India’s most beautiful trees, t
 dict_label = "Dhammika"
 word = "assa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -709,7 +709,7 @@ A horse fit for a king was expected to have five qualities; to have a good stud 
 dict_label = "Dhammika"
 word = "assakaṇṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -727,7 +727,7 @@ See [Sāla](/define/Sāla).
 dict_label = "Dhammika"
 word = "assatara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -745,7 +745,7 @@ Mule, Hindi *astar*, the hybrid of a horse and a donkey, combining the size of t
 dict_label = "Dhammika"
 word = "assattha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -769,7 +769,7 @@ In the early centuries of Buddhism, the *assattha* tree became a symbol of the B
 dict_label = "Dhammika"
 word = "atimuttaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -787,7 +787,7 @@ Uncertain, but perhaps *Hiptage madablota*, a large woody shrub with showy white
 dict_label = "Dhammika"
 word = "ativisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -809,7 +809,7 @@ Astringent, tonic, for fevers, cough, diarrhea and dysentery.
 dict_label = "Dhammika"
 word = "avāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -827,7 +827,7 @@ Avāka
 dict_label = "Dhammika"
 word = "añjanarukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -845,7 +845,7 @@ A type of tree Ja.i.331. The name means “black tree”.
 dict_label = "Dhammika"
 word = "aṅkola"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -863,7 +863,7 @@ Sometimes *aṅkolaka*, Hindi *akola*, *Alangium lamarckii*, Ja.vi.535, a small 
 dict_label = "Dhammika"
 word = "aṭṭhikadali"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -881,7 +881,7 @@ A type of banana tree Ja.v.406.
 dict_label = "Dhammika"
 word = "babbaja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -899,7 +899,7 @@ See [Naḷa](/define/Naḷa).
 dict_label = "Dhammika"
 word = "babbu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -917,7 +917,7 @@ See [Biḷāla](/define/Biḷāla).
 dict_label = "Dhammika"
 word = "badara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -935,7 +935,7 @@ The fruit of the Jujube Tree, also called *badarapandu*, *bhadarapandu* or *kola
 dict_label = "Dhammika"
 word = "badālatā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -953,7 +953,7 @@ A type of creeper that was said to have appeared during the early evolution of t
 dict_label = "Dhammika"
 word = "bahucitra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -971,7 +971,7 @@ A type of bird Ja.iv.276 Ja.v.406.
 dict_label = "Dhammika"
 word = "baka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -989,7 +989,7 @@ Cattle Egret, Bengali *go bak*, *Bubulcus ibis*. This bird has pure white plumag
 dict_label = "Dhammika"
 word = "bakula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1007,7 +1007,7 @@ See [Vakula](/define/Vakula).
 dict_label = "Dhammika"
 word = "bala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1025,7 +1025,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "balākā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1043,7 +1043,7 @@ A type of water bird described as having a crest and yellowish wings Ja.ii.226 T
 dict_label = "Dhammika"
 word = "bandhujīvaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1061,7 +1061,7 @@ Bandhujīvaka
 dict_label = "Dhammika"
 word = "bandhuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1079,7 +1079,7 @@ Bandhuka
 dict_label = "Dhammika"
 word = "barihin"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1097,7 +1097,7 @@ See [Mayūra](/define/Mayūra).
 dict_label = "Dhammika"
 word = "barihisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1115,7 +1115,7 @@ A type of grass used in sacrificial rituals A.ii.207 M.i.344.
 dict_label = "Dhammika"
 word = "baḷīyakkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1133,7 +1133,7 @@ A type of bird Ja.vi.539.
 dict_label = "Dhammika"
 word = "beluva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1151,7 +1151,7 @@ Bengal Quince or Wood Apple, sometimes also *vilva*, Hindi *bel*, *Aegle marmelo
 dict_label = "Dhammika"
 word = "bhaddamuttaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1169,7 +1169,7 @@ Nut Grass, Hindi *mothā*, *Cyperus rotundus* Ja.vi.537 Vin.iv.34, a common weed
 dict_label = "Dhammika"
 word = "bhaginimālā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1187,7 +1187,7 @@ A type of flowering tree Ja.v.420 Ja.vi.269.
 dict_label = "Dhammika"
 word = "bhallāṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1205,7 +1205,7 @@ Marking Nut Tree, Bengali *bhelatuki*, *Semicarpus aracardium* Ap.346 Ja.vi.578,
 dict_label = "Dhammika"
 word = "bhamara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1223,7 +1223,7 @@ Rock Bee, *Apis dorsata*, a large aggressive wild bee with a shiny black body an
 dict_label = "Dhammika"
 word = "bhanditittiranāmaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1241,7 +1241,7 @@ A type of bird Ja.vi.538. The name is obscure but may mean something like “bal
 dict_label = "Dhammika"
 word = "bhassara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1259,7 +1259,7 @@ A wading bird, probably either the Black Ibis, *Pseudibis papillosa*, or the Glo
 dict_label = "Dhammika"
 word = "bhaveyya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1277,7 +1277,7 @@ A type of tree with an edible fruit Ja.vi.529.
 dict_label = "Dhammika"
 word = "bhañjanaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1295,7 +1295,7 @@ A type of red\-colored vegetable. It was an offence for monks and nuns to eat it
 dict_label = "Dhammika"
 word = "bhaṅga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1317,7 +1317,7 @@ Leaves boiled and steam inhaled and/or rubbed on the skin. Whole plant: Stomachi
 dict_label = "Dhammika"
 word = "bhaṇḍi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1335,7 +1335,7 @@ A type of plant Ja.v.420 Ja.vi.537. This might be *Geranium nepalense*, a small 
 dict_label = "Dhammika"
 word = "bhaṇḍu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1353,7 +1353,7 @@ A type of bird, possibly the swift Ja.vi.538. The House Swift, *Apus affinis* is
 dict_label = "Dhammika"
 word = "bheradaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1371,7 +1371,7 @@ See [Sigāla](/define/Sigāla).
 dict_label = "Dhammika"
 word = "bhiṅkāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1389,7 +1389,7 @@ Possibly the Greater Racket\-tailed Drongo, Hindi *bhimraj*, *Dicrurus paradeseu
 dict_label = "Dhammika"
 word = "bhobhukka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1407,7 +1407,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "bhujaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1425,7 +1425,7 @@ A type of flowering tree, probably also *bhuja* Vv.35.5. The name means “snake
 dict_label = "Dhammika"
 word = "bhāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1443,7 +1443,7 @@ Eurasian Sparrow Hawk, sometimes *[bhassara](/define/bhassara)*, Hindi *basha*, 
 dict_label = "Dhammika"
 word = "bhūmipappaṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1461,7 +1461,7 @@ A type of mushroom or fungus that appeared at the beginning of the world D.iii.8
 dict_label = "Dhammika"
 word = "bhūtanaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1479,7 +1479,7 @@ Bhūtanaka
 dict_label = "Dhammika"
 word = "bidala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1497,7 +1497,7 @@ A type of pulse which was made into soup Ja.iv.352.
 dict_label = "Dhammika"
 word = "bimba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1515,7 +1515,7 @@ Hindi *bhimb*, *Cephalandra indica*, sometimes *vimba* Ja.vi.457, a herb climbin
 dict_label = "Dhammika"
 word = "bimbajāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1533,7 +1533,7 @@ A type of tree Ja.v.155. The former Buddha Dhammadassi was enlightened under one
 dict_label = "Dhammika"
 word = "biḷāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1553,7 +1553,7 @@ There are several species of wild cats in northern India, the Leopard Cat (*Feli
 dict_label = "Dhammika"
 word = "biḷālī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1571,7 +1571,7 @@ Lesser Indian Reed\-mace or Lesser Cat’s Tail, *Typha angustata*Ja.vi.578, a l
 dict_label = "Dhammika"
 word = "biḷārā sasakaṇṇikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1589,7 +1589,7 @@ This is not a name as such but a description meaning “the hare\-eared cat” J
 dict_label = "Dhammika"
 word = "bīja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1607,7 +1607,7 @@ Seed. A seed is a new plant in the form of an embryo. Some of the parts of seeds
 dict_label = "Dhammika"
 word = "bījakanīla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1625,7 +1625,7 @@ A type of water plant Vin.iii.276.
 dict_label = "Dhammika"
 word = "bīraṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1643,7 +1643,7 @@ Bīraṇa
 dict_label = "Dhammika"
 word = "cakkavāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1661,7 +1661,7 @@ Brahminy Shelduck, Hindi *chakwa*, *Tadorna ferruginea* Ja.iii.520 Ja.vi.189, a 
 dict_label = "Dhammika"
 word = "cakora"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1679,7 +1679,7 @@ A type of quail or partridge, perhaps the same as *[caṃkora](/define/caṃkora
 dict_label = "Dhammika"
 word = "campaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1697,7 +1697,7 @@ Hindi *champa*, *Michelia champaca* Ja.vi.151 Ja.vi.269, a shapely tree of mediu
 dict_label = "Dhammika"
 word = "campeyyaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1715,7 +1715,7 @@ A type of tree Ja.vi.269.
 dict_label = "Dhammika"
 word = "candana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1743,7 +1743,7 @@ Bark: With root bark of*Solanum torvum* and *Achyranthes aspera* for malaria. Oi
 dict_label = "Dhammika"
 word = "candarī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1761,7 +1761,7 @@ A type of fruit Ap.346.
 dict_label = "Dhammika"
 word = "caṃkora"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1779,7 +1779,7 @@ A type of bird Ja.vi.538, perhaps the same as *[cakora](/define/cakora)* Vv.35.8
 dict_label = "Dhammika"
 word = "celāvaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1797,7 +1797,7 @@ A type of bird, sometimes also *celāpaka* Ja.v.416 Ja.vi.538.
 dict_label = "Dhammika"
 word = "cetakedu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1815,7 +1815,7 @@ Asian Paradise Flycatcher, sometimes *celaketu*, *Terpsiphone paradisi* Ja.vi.53
 dict_label = "Dhammika"
 word = "cetasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1833,7 +1833,7 @@ A type of tree J.v.420.
 dict_label = "Dhammika"
 word = "cheta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1851,7 +1851,7 @@ Asiatic Cheetah, *Acinonyx jabatus* *ventaicus* S.i.198. This large predatory ca
 dict_label = "Dhammika"
 word = "cirīṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1869,7 +1869,7 @@ Possibly a generic name for parrots. However, it may also refer to the Yellow\-t
 dict_label = "Dhammika"
 word = "citraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1887,7 +1887,7 @@ Spotted Deer, sometimes also *[cittamiga](/define/cittamiga)* Ja.vi.538, or *[pa
 dict_label = "Dhammika"
 word = "cittacūḷā kacchapa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1905,7 +1905,7 @@ Chitra Turtle, *Chitra indica*, Ja.vi.162\-4. This turtle has a large round soft
 dict_label = "Dhammika"
 word = "cittalatā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1923,7 +1923,7 @@ Cittalatā
 dict_label = "Dhammika"
 word = "cittamiga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1941,7 +1941,7 @@ See [Citraka](/define/Citraka).
 dict_label = "Dhammika"
 word = "cittapātali"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1959,7 +1959,7 @@ A type of flower S.v.238.
 dict_label = "Dhammika"
 word = "ciñcā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1977,7 +1977,7 @@ Tamarind, Hindi *tinti*, *Tamarindus indica* Ja.v.38, a large attractive semi\-d
 dict_label = "Dhammika"
 word = "ciṅgulaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -1995,7 +1995,7 @@ A type of grain Sn.239.
 dict_label = "Dhammika"
 word = "coca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2013,7 +2013,7 @@ A fruit from which drinks were made Ja.v.420 Vin.i.246. In other ancient Indian 
 dict_label = "Dhammika"
 word = "coraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2031,7 +2031,7 @@ A plant used for making perfume Ja.vi.537.
 dict_label = "Dhammika"
 word = "cāmara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2049,7 +2049,7 @@ Yak, Hindi *ban chour*, *Bos grunniens* Ja.i.149 Ja.iii.118 Ja.v.322 Ja.vi.537, 
 dict_label = "Dhammika"
 word = "cāpalasuṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2067,7 +2067,7 @@ A type of pungent edible vegetable which monks and nuns were not allowed to eat 
 dict_label = "Dhammika"
 word = "cīnaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2085,7 +2085,7 @@ Broomcorn, Hindi *china*, *Panicum milliaceum*, an erect, sparsely\-branched typ
 dict_label = "Dhammika"
 word = "cīrilikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2103,7 +2103,7 @@ Cricket, Hindi *jhillika*, small slender jumping insects of the order Orthoptera
 dict_label = "Dhammika"
 word = "dabba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2121,7 +2121,7 @@ A type of grass A.ii.207 Th.27. *Dabba* and *[kusa](/define/kusa)* are often tho
 dict_label = "Dhammika"
 word = "daddara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2139,7 +2139,7 @@ See [Tittira](/define/Tittira).
 dict_label = "Dhammika"
 word = "daddula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2157,7 +2157,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "daṇḍamāṇavaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2175,7 +2175,7 @@ This compound means “little stick man” and was the name given to a particula
 dict_label = "Dhammika"
 word = "daṇḍapadma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2193,7 +2193,7 @@ A type of plant. The name means ”stick lotus”Ja.i.51.
 dict_label = "Dhammika"
 word = "deḍḍubha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2211,7 +2211,7 @@ A water snake described as small, harmless, with a large head and a needle\-like
 dict_label = "Dhammika"
 word = "dhanka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2229,7 +2229,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "dhanukārika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2247,7 +2247,7 @@ A type of plant Ja.v.420.
 dict_label = "Dhammika"
 word = "dhanupāṭali"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2265,7 +2265,7 @@ A type of tree Ja.v.422. The name means “bow trumpet tree”.
 dict_label = "Dhammika"
 word = "dhanutakkāri"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2283,7 +2283,7 @@ Thorn Apple, Hindi *datura*, *Datura stramonium*, Ja.v.420 Ja.vi.535, an annual 
 dict_label = "Dhammika"
 word = "dharaṇīruha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2301,7 +2301,7 @@ A type of tree Ja.vi.497.
 dict_label = "Dhammika"
 word = "dhataraṭṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2319,7 +2319,7 @@ A type of animal Ja.v.469.
 dict_label = "Dhammika"
 word = "dhava"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2337,7 +2337,7 @@ Dhava
 dict_label = "Dhammika"
 word = "dhañña"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2355,7 +2355,7 @@ Grain. Grains are the seeds of various cereal grasses. The seven types of grain 
 dict_label = "Dhammika"
 word = "dindibha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2373,7 +2373,7 @@ One or another of the four species of lapwing found in northern India, probably 
 dict_label = "Dhammika"
 word = "dukūla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2391,7 +2391,7 @@ A type of plant, the fibers of which were used to make a fine cloth A.iv.393 Ja.
 dict_label = "Dhammika"
 word = "dviguṇapalāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2409,7 +2409,7 @@ A type of tree Ja.vi.365. The name means “double *[palāsa](/define/palāsa)*�
 dict_label = "Dhammika"
 word = "dālikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2427,7 +2427,7 @@ Pomegranate, sometimes *dālima*, *dāḍima* or *dāḷima*, Hindi *dalima*, *P
 dict_label = "Dhammika"
 word = "dāsima"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2445,7 +2445,7 @@ A type of plant Ja.vi.536.
 dict_label = "Dhammika"
 word = "dīpi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2463,7 +2463,7 @@ Leopard, sometimes also *dīpika* or *[saddūla](/define/saddūla)*, Hindi *sadu
 dict_label = "Dhammika"
 word = "elambaraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2481,7 +2481,7 @@ A type of creeper or vine. The perfume of the flower would last for seven days J
 dict_label = "Dhammika"
 word = "elanda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2499,7 +2499,7 @@ A type of plant M.i.124. It is described as inhibiting the growth of sal trees s
 dict_label = "Dhammika"
 word = "elāluka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2517,7 +2517,7 @@ See [Kakkārika](/define/Kakkārika).
 dict_label = "Dhammika"
 word = "eragu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2535,7 +2535,7 @@ A type of coarse grass which could be used for making coverings Vin.i.196.
 dict_label = "Dhammika"
 word = "eraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2553,7 +2553,7 @@ A type of plant Ja.iv.88.
 dict_label = "Dhammika"
 word = "eraṇḍa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2571,7 +2571,7 @@ Castor Oil Tree, sometimes *[elanda](/define/elanda)*, Hindi *erandi*, *Ricinus 
 dict_label = "Dhammika"
 word = "eḷagalā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2589,7 +2589,7 @@ A type of plant S.iii.6.
 dict_label = "Dhammika"
 word = "eḷaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2607,7 +2607,7 @@ Domestic Sheep, sometimes *eḷahā*, *[eḷaka](/define/eḷaka)* or *elikā* A
 dict_label = "Dhammika"
 word = "eṇeyya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2625,7 +2625,7 @@ Sometimes also *eṇeyyaka* or *eṇimiga*. Uncertain but perhaps another name f
 dict_label = "Dhammika"
 word = "eṇi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2643,7 +2643,7 @@ The Blackbuck doe. According to Pāṇinī *eṇi* is a term for a female deer. 
 dict_label = "Dhammika"
 word = "gaddha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2661,7 +2661,7 @@ See [Gijjha](/define/Gijjha).
 dict_label = "Dhammika"
 word = "gadrabha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2679,7 +2679,7 @@ Donkey, Hindi *gadha*, *Equus asinus* A.i.229 Ja.ii.109, a short sturdy mammal w
 dict_label = "Dhammika"
 word = "gaha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2697,7 +2697,7 @@ Gharial, *Gavialis gangeticus*, Hindi *gah*, *gharial* or *nakar* S.iv.157. The 
 dict_label = "Dhammika"
 word = "gajakumbha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2715,7 +2715,7 @@ Elongated Tortoise, *Indotestudo elongatea*. Largely a forest dweller, this slow
 dict_label = "Dhammika"
 word = "gavaya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2733,7 +2733,7 @@ Gaur, *Bos gaurus* Ja.iii.76 Ja.v.546 Ja.vi.497. Often mistakenly called a bison
 dict_label = "Dhammika"
 word = "gavi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2751,7 +2751,7 @@ A creeper the fruit of which forest\-dwelling ascetics used to eat Sn.239. This 
 dict_label = "Dhammika"
 word = "gaṅga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2769,7 +2769,7 @@ Gaṅga
 dict_label = "Dhammika"
 word = "gaṇī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2787,7 +2787,7 @@ A type of deer Ja.v.406. The name means “of the herd”.
 dict_label = "Dhammika"
 word = "gaṇḍamba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2805,7 +2805,7 @@ A type of tree Ja.iv.264. The name means “distorted mango”.
 dict_label = "Dhammika"
 word = "gaṇḍatindu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2823,7 +2823,7 @@ A type of tree. According to the Jātaka, the Bodhisattva was once reborn as a s
 dict_label = "Dhammika"
 word = "gaṇḍikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2841,7 +2841,7 @@ A type of plant with a red flower D.ii.111 Vv.35.4.
 dict_label = "Dhammika"
 word = "gaṇḍuppādā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2859,7 +2859,7 @@ Earthworm Vin.ii.151. Earthworms are segmented worms belonging to the class Olog
 dict_label = "Dhammika"
 word = "gharagolikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2877,7 +2877,7 @@ Northern House Gecko, *Hemidactylus flaviviridis* Ja.ii.147, a small nocturnal g
 dict_label = "Dhammika"
 word = "gijjha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2895,7 +2895,7 @@ Vulture, sometimes *[gaddha](/define/gaddha)*, Hindi *gidh*. The two commonest s
 dict_label = "Dhammika"
 word = "girikaṇṇika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2913,7 +2913,7 @@ Mussel Shell Creeper, Hindi *gokarni*, *Clitoria ternatea* J.iv.536, a small sle
 dict_label = "Dhammika"
 word = "giripunnāga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2931,7 +2931,7 @@ A type of plant Ja.vi.530.
 dict_label = "Dhammika"
 word = "go"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2959,7 +2959,7 @@ One of the 32 special characteristics of a Mahāpurisa is having eyelashes like 
 dict_label = "Dhammika"
 word = "godhaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2977,7 +2977,7 @@ A type of bird Ja.vi.358. The name means “little monitor” and could refer to
 dict_label = "Dhammika"
 word = "godhā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -2995,7 +2995,7 @@ Common Indian Monitor, Hindi *goh*, *Varanus bengalensis* D.i.9. This large liza
 dict_label = "Dhammika"
 word = "godhūma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3013,7 +3013,7 @@ Wheat, Hindi *godhum*, *Triticum sativum* D.iii.71 Vin.iv.264. Wheat is an annua
 dict_label = "Dhammika"
 word = "gokaṇṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3031,7 +3031,7 @@ Nilgai, also called *gokānā*, *Boselaphus tragocamelus* Ja.iii.76 Ja.iv.256 Ja
 dict_label = "Dhammika"
 word = "gonaṅgula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3049,7 +3049,7 @@ See [Vānara](/define/Vānara).
 dict_label = "Dhammika"
 word = "goḷocī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3067,7 +3067,7 @@ See Putī.
 dict_label = "Dhammika"
 word = "goṇasirā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3085,7 +3085,7 @@ Probably another name for the wild buffalo Ja.vi.538. See Mahasi.
 dict_label = "Dhammika"
 word = "goṭhaphala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3103,7 +3103,7 @@ Very uncertain. It may refer to the fruit of *Solanum torvum*, Bengali *gota*, a
 dict_label = "Dhammika"
 word = "guggula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3121,7 +3121,7 @@ A plant mentioned together with others which either are particularly fragrant or
 dict_label = "Dhammika"
 word = "guñja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3139,7 +3139,7 @@ Indian Liquorice, sometimes also *[jiñjuka](/define/jiñjuka)*, Hindi *gumchi*,
 dict_label = "Dhammika"
 word = "guṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3157,7 +3157,7 @@ One or another of the two dozen or more wood boring beetles that live in norther
 dict_label = "Dhammika"
 word = "gūthapāṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3175,7 +3175,7 @@ One or another of the several beetles of the Scarabaeidae family found in northe
 dict_label = "Dhammika"
 word = "halidda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3197,7 +3197,7 @@ Root: For hazy vision, inflammation of eyes, with tobacco for night blindness; s
 dict_label = "Dhammika"
 word = "haripada"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3215,7 +3215,7 @@ Uncertain, but perhaps another name for the *[citraka](/define/citraka)* Ja.iii.
 dict_label = "Dhammika"
 word = "haritaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3233,7 +3233,7 @@ A type of plant. The Buddha mentioned that a great caravan traveling from east t
 dict_label = "Dhammika"
 word = "haritāyuta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3251,7 +3251,7 @@ A type of plant Ja.vi.536.
 dict_label = "Dhammika"
 word = "hariṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3269,7 +3269,7 @@ Hog Deer, *Axis porcinus* Ja.ii.26. This small deer’s short stout body gives i
 dict_label = "Dhammika"
 word = "harīta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3287,7 +3287,7 @@ A type of creeper Ja.vi.536.
 dict_label = "Dhammika"
 word = "harītaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3309,7 +3309,7 @@ Bark: As diuretic, cardiotonic, for eczema, mouth sores. Fruit: For dysentery, e
 dict_label = "Dhammika"
 word = "hatthin"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3335,7 +3335,7 @@ Throughout the Tipiṭaka, the Buddha advised his disciples to respond to diffic
 dict_label = "Dhammika"
 word = "haṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3355,7 +3355,7 @@ According to the Jātaka, the Bodhisattva was sometimes reborn as a bar\-headed 
 dict_label = "Dhammika"
 word = "haṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3373,7 +3373,7 @@ Haṭa
 dict_label = "Dhammika"
 word = "hereṇuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3391,7 +3391,7 @@ Pea, sometimes also *hareṇuka*, Ja.iv.405 Ja.vi.537. A very ancient species of
 dict_label = "Dhammika"
 word = "hintāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3409,7 +3409,7 @@ Oriya *hital*, *Phoenix paludosa* Ap.346 Vin.i.190, a small palm tree with large
 dict_label = "Dhammika"
 word = "hirivela"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3427,7 +3427,7 @@ Hirivela
 dict_label = "Dhammika"
 word = "hiṅgu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3449,7 +3449,7 @@ Bark: For colds and cough. Fruit: For pneumonia and skin diseases.
 dict_label = "Dhammika"
 word = "hiṅgulajalaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3467,7 +3467,7 @@ See [Kīṭa](/define/Kīṭa).
 dict_label = "Dhammika"
 word = "hiṅgurāja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3485,7 +3485,7 @@ A type of bird Ja.vi.539.
 dict_label = "Dhammika"
 word = "ikka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3503,7 +3503,7 @@ See [Acchaka](/define/Acchaka).
 dict_label = "Dhammika"
 word = "ikkāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3521,7 +3521,7 @@ See [Jatu](/define/Jatu).
 dict_label = "Dhammika"
 word = "indagopaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3539,7 +3539,7 @@ Red Velvet Mite, Hindi *indra*, an arthropod of the family Trombidiidae Ja.iv.25
 dict_label = "Dhammika"
 word = "indasāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3557,7 +3557,7 @@ A type of tree Ja.iv.92. According to tradition, a cave in the mountains around 
 dict_label = "Dhammika"
 word = "indavāruṇika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3579,7 +3579,7 @@ Whole plant: For heat stroke. Root: For stomach disorders.
 dict_label = "Dhammika"
 word = "indīvara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3597,7 +3597,7 @@ See [Uppala](/define/Uppala).
 dict_label = "Dhammika"
 word = "isikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3615,7 +3615,7 @@ See [Naḷa](/define/Naḷa).
 dict_label = "Dhammika"
 word = "isimugga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3633,7 +3633,7 @@ Either *Celosia argentea* or *C cristata*, both plants being very similar Ap.16.
 dict_label = "Dhammika"
 word = "issā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3651,7 +3651,7 @@ A type of deer. See [Miga](/define/Miga).
 dict_label = "Dhammika"
 word = "jalamajjāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3669,7 +3669,7 @@ See [Udda](/define/Udda).
 dict_label = "Dhammika"
 word = "jalasuttī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3687,7 +3687,7 @@ See [Sippī](/define/Sippī).
 dict_label = "Dhammika"
 word = "jambu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3705,7 +3705,7 @@ Black Plum Tree, Hindi *jam*, *Eugenia jambolana* Ja.ii.160 Ja.v.6 Sn.552 Th.822
 dict_label = "Dhammika"
 word = "jambukā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3723,7 +3723,7 @@ Indian Fox, Hindi *chamguhi*, *Vulpes bengalensis*. This dog\-like animal has a 
 dict_label = "Dhammika"
 word = "jantu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3741,7 +3741,7 @@ See [Tiṇa](/define/Tiṇa).
 dict_label = "Dhammika"
 word = "jatu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3759,7 +3759,7 @@ Modern science uses the words gum, resin, sap, latex and mucilage very specifica
 dict_label = "Dhammika"
 word = "jayasumana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3777,7 +3777,7 @@ Jayasumana
 dict_label = "Dhammika"
 word = "jhāmaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3795,7 +3795,7 @@ A type of plant Ja.ii.288 Ja.vi.537.
 dict_label = "Dhammika"
 word = "jhāpita"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3813,7 +3813,7 @@ A type of animal Ja.vi.537.
 dict_label = "Dhammika"
 word = "jiñjuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3831,7 +3831,7 @@ See [Guñja](/define/Guñja).
 dict_label = "Dhammika"
 word = "jātipuppha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3849,7 +3849,7 @@ A type of flower used as a flavoring Ja.vi.367. The *Vipaka Sūtra* says a flowe
 dict_label = "Dhammika"
 word = "jātisumanā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3867,7 +3867,7 @@ See [Sumanā](/define/Sumanā).
 dict_label = "Dhammika"
 word = "jīraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3885,7 +3885,7 @@ Black Cumin, Hindi *jeera*, *Nigella sativa* Ja.ii.363, an annual herb with long
 dict_label = "Dhammika"
 word = "jīvaṃjīvaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3903,7 +3903,7 @@ Pheasant\-tailed Jacana, *Hydrophasianus chirurgus* D.iii.201 Ja.v.406 Ja.vi.276
 dict_label = "Dhammika"
 word = "kacchaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3921,7 +3921,7 @@ A type of tree which the Buddha names along with the *[assattha](/define/assatth
 dict_label = "Dhammika"
 word = "kacchapa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3941,7 +3941,7 @@ Freshwater turtles are mentioned in the Tipiṭaka although it is not possible t
 dict_label = "Dhammika"
 word = "kacchū"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3959,7 +3959,7 @@ See Vitacchakā.
 dict_label = "Dhammika"
 word = "kaccikāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3977,7 +3977,7 @@ Kaccikāra
 dict_label = "Dhammika"
 word = "kadalimiga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -3995,7 +3995,7 @@ Sometimes *[kadalimiga](/define/kadalimiga)* and *[kadalimiga](/define/kadalimig
 dict_label = "Dhammika"
 word = "kadalī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4013,7 +4013,7 @@ Banana Tree, Hindi *kadal*, *Musa paradisiacal*, a perennial tree with a stem co
 dict_label = "Dhammika"
 word = "kadamba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4031,7 +4031,7 @@ Hindi *kadam*, *Anthocephalus cadamba* Ja.iv.535, a large straight tree with a s
 dict_label = "Dhammika"
 word = "kakaṇṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4049,7 +4049,7 @@ Common Garden Lizard, sometimes *kakaṇṭa*, Hindi *kirkantio*, *Calotes versi
 dict_label = "Dhammika"
 word = "kakkata"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4067,7 +4067,7 @@ Barking Deer, Hindi *kakar*, *Muntiacu muntjak* Ja.vi.538. This small deer has a
 dict_label = "Dhammika"
 word = "kakkaṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4085,7 +4085,7 @@ See [Kulīra](/define/Kulīra).
 dict_label = "Dhammika"
 word = "kakkārika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4103,7 +4103,7 @@ Cucumber, sometimes *kakkārī*, Hindi *kakri*, *Cucumis sativus* Vv.33.28, a cr
 dict_label = "Dhammika"
 word = "kakkāru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4121,7 +4121,7 @@ White Gourd Melon, *Benincasa cerifera* Ja.vi.536, a large climber with soft hai
 dict_label = "Dhammika"
 word = "kakola"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4139,7 +4139,7 @@ Common Raven, *Corvus corax* Ja.iii.247 Sn.675. With jet\-black plumage, the rav
 dict_label = "Dhammika"
 word = "kakudha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4157,7 +4157,7 @@ See [Ajjuna](/define/Ajjuna).
 dict_label = "Dhammika"
 word = "kakuṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4175,7 +4175,7 @@ A general term for doves, Hindi *fakhta*, birds of the Order Columbiformes, of w
 dict_label = "Dhammika"
 word = "kalaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4193,7 +4193,7 @@ A type of animal Ja.vi.538.
 dict_label = "Dhammika"
 word = "kalambaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4211,7 +4211,7 @@ A tree or shrub, sometimes *kalamba* and perhaps the same as *nīcakalambaka* me
 dict_label = "Dhammika"
 word = "kalambukā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4229,7 +4229,7 @@ A type of water plant, sometimes also *[kalambaka](/define/kalambaka)* or *kalan
 dict_label = "Dhammika"
 word = "kalandaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4247,7 +4247,7 @@ Squirrel, also called *[kalaka](/define/kalaka)* and *[kalāya](/define/kalāya)
 dict_label = "Dhammika"
 word = "kalaviṅka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4265,7 +4265,7 @@ See [Kuliṅka](/define/Kuliṅka).
 dict_label = "Dhammika"
 word = "kaliṅgu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4283,7 +4283,7 @@ A type of tree Ja.vi.537.
 dict_label = "Dhammika"
 word = "kallahāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4301,7 +4301,7 @@ See [Sogandhika](/define/Sogandhika).
 dict_label = "Dhammika"
 word = "kalāya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4319,7 +4319,7 @@ Sometimes also *[varaka](/define/varaka)* A.v.470 Ja.iii.370 M.i.245 S.i.150. Id
 dict_label = "Dhammika"
 word = "kamala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4337,7 +4337,7 @@ A type of grass from which sandals could be made Vin.i.190.
 dict_label = "Dhammika"
 word = "kamalā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4359,7 +4359,7 @@ Kamalā
 dict_label = "Dhammika"
 word = "kanda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4377,7 +4377,7 @@ The root of a plant which could be eaten and which was long and pointed like a t
 dict_label = "Dhammika"
 word = "kandamūlaphala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4397,7 +4397,7 @@ Kandala. Sometimes also *kandaḷa*, *Amorphophallus campanulatus* Ja.iv.442, a 
 dict_label = "Dhammika"
 word = "kanikāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4415,7 +4415,7 @@ Sometimes also *[kanikāra](/define/kanikāra)* or *kannikāra*, Hindi *kanak* *
 dict_label = "Dhammika"
 word = "kapi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4435,7 +4435,7 @@ Monkeys pull faces and threaten people Ja.ii.70 and while moving through the for
 dict_label = "Dhammika"
 word = "kapittha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4453,7 +4453,7 @@ Wood\-Apple Tree, sometimes *[kapittha](/define/kapittha)*, *kaviṭṭha* and *
 dict_label = "Dhammika"
 word = "kapiñjala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4471,7 +4471,7 @@ Grey Francolin, also *[vaṭṭakā](/define/vaṭṭakā)*, *Francolinus pondic
 dict_label = "Dhammika"
 word = "kapota"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4489,7 +4489,7 @@ Blue Rock Pigeon, sometimes also *[pārāvata](/define/pārāvata)*, Hindi *kabu
 dict_label = "Dhammika"
 word = "kappāsika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4511,7 +4511,7 @@ Root: For fever. Seed: For constipation, gonorrhea, catarrh, gleets and chronic 
 dict_label = "Dhammika"
 word = "kappūra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4531,7 +4531,7 @@ Concerning the harvesting of camphor in India, Xuanzang wrote: “The tree from 
 dict_label = "Dhammika"
 word = "karamadda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4549,7 +4549,7 @@ Sometimes *karamanda*, *Carissa carandas* Ja.vi.536, a large shrub covered with 
 dict_label = "Dhammika"
 word = "karavīka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4567,7 +4567,7 @@ Cuckoo, sometimes *karavī*, of which four species are found in northern India J
 dict_label = "Dhammika"
 word = "karavīra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4585,7 +4585,7 @@ Oleander, Bengali *karabi*, Hindi *kaner*, *Nerium odorum*, a medium\-sized shru
 dict_label = "Dhammika"
 word = "karañja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4603,7 +4603,7 @@ Indian Beech, Hindi *karanj*, *Pongamia galbra* Ja.vi.518 Vin.201, a small decid
 dict_label = "Dhammika"
 word = "karaṇḍava"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4621,7 +4621,7 @@ Grey Heron, Hindi, *khyra*, *Areda cinerea* Vv.35.8, a large heron with grey and
 dict_label = "Dhammika"
 word = "kareri"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4639,7 +4639,7 @@ Hindi *kari*, *Saccopetalum tomentosum*, D.ii.1 Th.1062, a medium\-sized tree wi
 dict_label = "Dhammika"
 word = "karumbhaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4657,7 +4657,7 @@ See [Nīvāra](/define/Nīvāra).
 dict_label = "Dhammika"
 word = "karāti"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4675,7 +4675,7 @@ Hindi *kartah*, *Sorghum serratum* Ja.vi.536, a stout hardy annual grass produci
 dict_label = "Dhammika"
 word = "kasāya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4693,7 +4693,7 @@ A reddish, brown or tawny\-colored substance used to dye ascetic’s robes, some
 dict_label = "Dhammika"
 word = "katamāya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4711,7 +4711,7 @@ A type of animal Ja.vi.538.
 dict_label = "Dhammika"
 word = "kattaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4729,7 +4729,7 @@ See [Kulīra](/define/Kulīra).
 dict_label = "Dhammika"
 word = "katthu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4747,7 +4747,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "kañcaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4765,7 +4765,7 @@ Indian Elm, Hindi *kanju*, *Holoptelea integrifolia* Ja.vi.536, a deciduous tree
 dict_label = "Dhammika"
 word = "kaḷānusārāī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4783,7 +4783,7 @@ See [Narada](/define/Narada).
 dict_label = "Dhammika"
 word = "kaṅgu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4801,7 +4801,7 @@ Millet, a hardy grass cultivated for its edible seeds. Several varieties of mill
 dict_label = "Dhammika"
 word = "kaṅka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4819,7 +4819,7 @@ A general term for cranes and herons, Bengali and Hindi *kank* M.i.364 of which 
 dict_label = "Dhammika"
 word = "kaṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4837,7 +4837,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "kaṇavīra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4855,7 +4855,7 @@ Indian Oleander, sometimes *kaṇavera* Hindi *kaner*, *Nerium indicum* Ja.iii.6
 dict_label = "Dhammika"
 word = "kaṇhasappa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4873,7 +4873,7 @@ Sometimes *[kālasappa](/define/kālasappa)*, meaning “black snake” both ter
 dict_label = "Dhammika"
 word = "kaṇika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4891,7 +4891,7 @@ Sometimes *kaṇṇika*, *Premna integrifolia* Ap.17, a small tree with a thorny
 dict_label = "Dhammika"
 word = "kaṇṇaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4909,7 +4909,7 @@ A type of animal Ja.v.406. The name means “one with ears” and thus may refer
 dict_label = "Dhammika"
 word = "kaṇṭakalatā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4927,7 +4927,7 @@ Kaṇṭakalatā
 dict_label = "Dhammika"
 word = "kaṇṭakuraṇḍa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4945,7 +4945,7 @@ Kaṇṭakuraṇḍa
 dict_label = "Dhammika"
 word = "kaṭeruha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4963,7 +4963,7 @@ Hindi *[kesarī](/define/kesarī)*, *Scirpus grossus* Ja.vi.537, a large sedge p
 dict_label = "Dhammika"
 word = "kaṭerukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4981,7 +4981,7 @@ A type of tree Ja.vi.536.
 dict_label = "Dhammika"
 word = "kaṭukarohiṇī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -4999,7 +4999,7 @@ Hellebore, Hindi *katuka*, *Picrorhiza karroa*. This small herb has elongated le
 dict_label = "Dhammika"
 word = "kaṭṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5017,7 +5017,7 @@ See [Naḷa](/define/Naḷa).
 dict_label = "Dhammika"
 word = "keka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5035,7 +5035,7 @@ Hindi *kekar*, *Garuga pinnata* Ja.v.405, a large tree with smooth grey flaky ba
 dict_label = "Dhammika"
 word = "kelāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5053,7 +5053,7 @@ See [Kuṭṭha](/define/Kuṭṭha).
 dict_label = "Dhammika"
 word = "kesarī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5071,7 +5071,7 @@ A type of lion, sometimes also *kesarasīha*. The name means “the maned one”
 dict_label = "Dhammika"
 word = "ketaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5089,7 +5089,7 @@ Screw Pine, Hindi *ketaki*, *Pandanus odoratissimus* Ja.iv.482 Ja.vi.269, a many
 dict_label = "Dhammika"
 word = "kevuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5107,7 +5107,7 @@ Kevuka
 dict_label = "Dhammika"
 word = "khadira"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5125,7 +5125,7 @@ Hindi *khair*, *Acacia catechu* Ja.ii.162 Ja.iv.528 , a medium\-sized tree with 
 dict_label = "Dhammika"
 word = "khagga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5143,7 +5143,7 @@ Greater One\-Horned Rhinoceros, also called *khaggamiga*, “sword creature” a
 dict_label = "Dhammika"
 word = "khajjopanaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5161,7 +5161,7 @@ Firefly, insects of the Lampyridae family that have luminous glands in one or mo
 dict_label = "Dhammika"
 word = "khajjūra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5179,7 +5179,7 @@ Date Palm, Hindi *khajur*, *Phoenix dactylifera* Ja.vi.269, a tall stately tree 
 dict_label = "Dhammika"
 word = "khandasumanā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5197,7 +5197,7 @@ See [Sumanā](/define/Sumanā).
 dict_label = "Dhammika"
 word = "khantakī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5215,7 +5215,7 @@ A type of plant S.v.299.
 dict_label = "Dhammika"
 word = "khoma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5233,7 +5233,7 @@ Linen, a cloth made from the fibers of the Flax plant also sometimes called Lins
 dict_label = "Dhammika"
 word = "khudda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5251,7 +5251,7 @@ A type of honey produced by the Little Bee, *Apis florea*, called *kṣudrā* in
 dict_label = "Dhammika"
 word = "khuddakaveḷu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5269,7 +5269,7 @@ Dwarf Bamboo, *Bambusa nana*. This type of bamboo grows in thick clumps up to ab
 dict_label = "Dhammika"
 word = "khuddapupphiya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5287,7 +5287,7 @@ A type of flower Ja.vi.536.
 dict_label = "Dhammika"
 word = "khīrapaṇṇi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5305,7 +5305,7 @@ Milk Tree, Hindi *khirni*, *Mimusops hexandra*, a large tree with rough grey bar
 dict_label = "Dhammika"
 word = "khīrarukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5323,7 +5323,7 @@ A tree whose name literally means “milk tree”. When cut, it exudes a white s
 dict_label = "Dhammika"
 word = "kikī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5341,7 +5341,7 @@ Indian Roller, *Coracias benghalensis* J.v.408. About the size of a pigeon, the 
 dict_label = "Dhammika"
 word = "kimi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5359,7 +5359,7 @@ Worm, Hindi *kim*. Like its English equivalent this Pāḷi word is a descriptiv
 dict_label = "Dhammika"
 word = "kimphala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5377,7 +5377,7 @@ A tree similar to the mango but bearing poisonous fruit Ja.i.271. This may have 
 dict_label = "Dhammika"
 word = "kimpurisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5395,7 +5395,7 @@ A type of animal, perhaps mythological A.i.77 Ja.iv.254 Ja.iv.272 Ja.v.42 Ja.v.4
 dict_label = "Dhammika"
 word = "kipillikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5413,7 +5413,7 @@ See [Pipīlikā](/define/Pipīlikā).
 dict_label = "Dhammika"
 word = "kiṃsuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5435,7 +5435,7 @@ We read of the branches of a *kiṃsuka* tree being weighed down with fruit Ja.i
 dict_label = "Dhammika"
 word = "kiṇṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5457,7 +5457,7 @@ The Jātaka tells a legendary but plausible story of how alcohol was discovered.
 dict_label = "Dhammika"
 word = "koka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5479,7 +5479,7 @@ Wolf, also called *vaka*, Hindi *kok*, *Canis cowa* Ja.i.336 Ja.v.525 Sn.201 Vin
 dict_label = "Dhammika"
 word = "kokanisātaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5497,7 +5497,7 @@ A type of animal Ja.vi.538. The name means “wolf killer” and may refer to th
 dict_label = "Dhammika"
 word = "kokila"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5515,7 +5515,7 @@ Asian Koel, Hindi *koel*, Bengali *kokila*, *Eudynamys scolopacea* Ja.ii.350 Vv.
 dict_label = "Dhammika"
 word = "kolaṭṭhi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5533,7 +5533,7 @@ See [Badara](/define/Badara).
 dict_label = "Dhammika"
 word = "koraṇḍaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5551,7 +5551,7 @@ Porcupine Flower, *Barleria prionitis*, sometimes *koraṇḍa* Bv.1.57 Ja.v.473
 dict_label = "Dhammika"
 word = "kosakāraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5569,7 +5569,7 @@ Silk Worm, also sometimes *kosakimi*, *Bombyx mori* Vin.iii.224. The Pāḷi nam
 dict_label = "Dhammika"
 word = "kosambha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5587,7 +5587,7 @@ A type of plant Ja.v.8 Ja.vi.456.
 dict_label = "Dhammika"
 word = "kosika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5605,7 +5605,7 @@ A generic name for owls, sometimes also *kosiya* Ja.ii.353 Ja.v.120. An adultere
 dict_label = "Dhammika"
 word = "kosātakī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5623,7 +5623,7 @@ Angled Gourd, *Luffa acutangula* A.i.32 A.v.212, an annual creeper with large le
 dict_label = "Dhammika"
 word = "kotthu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5641,7 +5641,7 @@ See [Sigāla](/define/Sigāla).
 dict_label = "Dhammika"
 word = "kovilāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5659,7 +5659,7 @@ Variegated Bauhinia, *Bauhinia variegata* Ja.v.69, an ornamental tree with thick
 dict_label = "Dhammika"
 word = "koñca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5677,7 +5677,7 @@ Indian Pond Heron, Hindi *konch bak*, *Ardeola grayii*, an earthy brown wading b
 dict_label = "Dhammika"
 word = "koñcavādaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5695,7 +5695,7 @@ A type of heron Ja.vi.538. The name literally means “talking heron”. Several
 dict_label = "Dhammika"
 word = "koṭṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5713,7 +5713,7 @@ See Sārasa.
 dict_label = "Dhammika"
 word = "koṭṭha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5735,7 +5735,7 @@ Woodpecker, sometimes also *rukkhakoṭṭhasakuṇa* or *[satapatta](/define/sa
 dict_label = "Dhammika"
 word = "kudrūsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5753,7 +5753,7 @@ Sometimes *kudrūsaka*, Hindi *khodoadhan*, *Paspalum scorbiculatum*, a small pe
 dict_label = "Dhammika"
 word = "kukkuha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5771,7 +5771,7 @@ A type of bird Ja.v.406 Ja.vi.538.
 dict_label = "Dhammika"
 word = "kukkura"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5789,7 +5789,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "kukkusa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5807,7 +5807,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "kukkuṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5825,7 +5825,7 @@ The name for both the Domestic Fowl, *Gallus domesticus*, and the Red Jungle Fow
 dict_label = "Dhammika"
 word = "kukutthaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5843,7 +5843,7 @@ Common Hoopoe, *Upupa epops* Ja.vi.538. One of the most attractive north Indian 
 dict_label = "Dhammika"
 word = "kulala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5861,7 +5861,7 @@ A type of raptor often mentioned together with vultures and crows Sn.675. The fe
 dict_label = "Dhammika"
 word = "kulattha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5879,7 +5879,7 @@ Horse Gram, Hindi *kulti*, *Dolichos biflorus*, a small widely cultivated herb c
 dict_label = "Dhammika"
 word = "kuliṅka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5897,7 +5897,7 @@ House Sparrow, sometimes *[kalaviṅka](/define/kalaviṅka)*, *kuliṅga* and *
 dict_label = "Dhammika"
 word = "kulāva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5915,7 +5915,7 @@ A type of bird, perhaps a variation of *[kuliṅka](/define/kuliṅka)* Ja.vi.53
 dict_label = "Dhammika"
 word = "kulāvara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5933,7 +5933,7 @@ A type of tree or shrub Ja.vi.536.
 dict_label = "Dhammika"
 word = "kulīra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5951,7 +5951,7 @@ Land Crab, also called *[kakkaṭaka](/define/kakkaṭaka)* or *[kattaka](/defin
 dict_label = "Dhammika"
 word = "kulīraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5969,7 +5969,7 @@ The name for birds of Order Coraciiformes, i.e. kingfishers and related birds D.
 dict_label = "Dhammika"
 word = "kumbhaṇḍī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -5987,7 +5987,7 @@ A type of gourd or pumpkin which could be eaten Ja.i.312 Ja.vi.536.
 dict_label = "Dhammika"
 word = "kumbhīla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6005,7 +6005,7 @@ Marsh Crocodile, also called *[suṃsumāra](/define/suṃsumāra)* or *[susumā
 dict_label = "Dhammika"
 word = "kumbhīlaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6023,7 +6023,7 @@ A type of bird Ja.iv.347. The name means “little crocodile”.
 dict_label = "Dhammika"
 word = "kumbu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6041,7 +6041,7 @@ See [Saṅkha](/define/Saṅkha).
 dict_label = "Dhammika"
 word = "kumma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6059,7 +6059,7 @@ Sometimes *kuma*. See [Kacchapa](/define/Kacchapa).
 dict_label = "Dhammika"
 word = "kummāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6077,7 +6077,7 @@ Lyon Bean, Bengali *khamach*, *Mucuna nivea* D.i.76 Ja.iv.352 Vv.80.9, a twining
 dict_label = "Dhammika"
 word = "kunta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6095,7 +6095,7 @@ A type of bird Ja.iv.466.
 dict_label = "Dhammika"
 word = "kuntanī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6113,7 +6113,7 @@ A bird, perhaps a type of heron Ja.iii.134 Ja.iii.135.
 dict_label = "Dhammika"
 word = "kunthakipillaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6131,7 +6131,7 @@ A type of ant Ja.i.439 Sn.602. The Buddha said that a monk should not intentiona
 dict_label = "Dhammika"
 word = "kunālaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6149,7 +6149,7 @@ A type of bird, sometimes *kunāla* Ja.v.406 Ja.vi.276.
 dict_label = "Dhammika"
 word = "kurara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6167,7 +6167,7 @@ A raptor described as being spotted or variegated Ja.vi.539. This could refer to
 dict_label = "Dhammika"
 word = "kuravaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6185,7 +6185,7 @@ Kuravaka
 dict_label = "Dhammika"
 word = "kurañjiya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6203,7 +6203,7 @@ A type of plant Ap.448.
 dict_label = "Dhammika"
 word = "kuraṇḍaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6221,7 +6221,7 @@ A type of plant, sometimes *[koraṇḍaka](/define/koraṇḍaka)* Ja.v.473 Ja.
 dict_label = "Dhammika"
 word = "kuruvinda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6239,7 +6239,7 @@ A type of grass Ja.iv.92.
 dict_label = "Dhammika"
 word = "kuruṅga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6257,7 +6257,7 @@ The Four\-horned Antelope, Tetracerus quadricornis. This small slender animal va
 dict_label = "Dhammika"
 word = "kusa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6275,7 +6275,7 @@ Hindi *kosa* or *kus*, *Desmostachya cynosuroides*, a type of perennial grass wi
 dict_label = "Dhammika"
 word = "kusumbha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6293,7 +6293,7 @@ Safflower, Hindi *susum*, *Carthamus tinctorius*, an erect branching herb with b
 dict_label = "Dhammika"
 word = "kusumbhara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6311,7 +6311,7 @@ A type of plant Ja.vi.535.
 dict_label = "Dhammika"
 word = "kutthu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6329,7 +6329,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "kutumbaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6347,7 +6347,7 @@ A type of flower Ja.i.60.
 dict_label = "Dhammika"
 word = "kuyyaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6365,7 +6365,7 @@ A type of flower Ja.i.60.
 dict_label = "Dhammika"
 word = "kuṭaja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6387,7 +6387,7 @@ Root: Spleen complaints, diarrhea, discharge in urine and excreta, haematuria, b
 dict_label = "Dhammika"
 word = "kuṭaji"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6405,7 +6405,7 @@ A type of tree Ja.vi.497 Ja.vi.530.
 dict_label = "Dhammika"
 word = "kuṭṭha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6431,7 +6431,7 @@ Kuṭṭha
 dict_label = "Dhammika"
 word = "kādamba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6449,7 +6449,7 @@ A type of goose with grey wings Ja.v.420, probably an alternative name for eithe
 dict_label = "Dhammika"
 word = "kāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6471,7 +6471,7 @@ The crow often featured in the proverbs of the Buddha’s time. Somebody could b
 dict_label = "Dhammika"
 word = "kākola"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6489,7 +6489,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "kālakokila"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6507,7 +6507,7 @@ Pied Crested Cuckoo, Hindi *kala papaya*, *Clamator jacobinus* Ja.iii.102, a han
 dict_label = "Dhammika"
 word = "kālamaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6525,7 +6525,7 @@ A type of fish. The name means “black fish” Ja.iv.442. See [Maccha](/define/
 dict_label = "Dhammika"
 word = "kālasappa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6543,7 +6543,7 @@ See [Kaṇhasappa](/define/Kaṇhasappa).
 dict_label = "Dhammika"
 word = "kālasīha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6561,7 +6561,7 @@ Black Lion Ja.iv.208. This may have been a name given to the occasional male lio
 dict_label = "Dhammika"
 word = "kālā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6579,7 +6579,7 @@ A type of plant which was comparable to a beautiful, slim woman Ja.vi.269 Th.243
 dict_label = "Dhammika"
 word = "kālāmeyya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6597,7 +6597,7 @@ A type of bird Ja.vi.539.
 dict_label = "Dhammika"
 word = "kālīya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6615,7 +6615,7 @@ A type of shiny sandalwood, sometimes *[kālīya](/define/kālīya)* Vin.i.203.
 dict_label = "Dhammika"
 word = "kāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6635,7 +6635,7 @@ What is called curry today is a combination of spices powdered and then added to
 dict_label = "Dhammika"
 word = "kāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6653,7 +6653,7 @@ Hindi *kans*, *Saccharum spontaneum* S.iii.137, a tall grass sometimes reaching 
 dict_label = "Dhammika"
 word = "kāsumārī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6671,7 +6671,7 @@ Ceylon Oak, Hindi *kusum*, *Schleichera trijuga* Ja.v.324, a large deciduous tre
 dict_label = "Dhammika"
 word = "kāṇamahāamaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6689,7 +6689,7 @@ A type of fish Ja.i.222. The name means “big one\-eyed fish”. See [Maccha](/
 dict_label = "Dhammika"
 word = "kīṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6709,7 +6709,7 @@ Monks and nuns were expected to examine water before using it to make sure there
 dict_label = "Dhammika"
 word = "labuja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6727,7 +6727,7 @@ Bread\-fruit Tree, Hindi *lakooch*, *Artocarpus lakoocha* D.i.53 Ja.iv.363 Vv.35
 dict_label = "Dhammika"
 word = "lasuṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6749,7 +6749,7 @@ Bulb: For fever, pulmonary phthisis, gangrene of lung, whooping cough, rheumatis
 dict_label = "Dhammika"
 word = "latā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6767,7 +6767,7 @@ A general word for creepers, climbers and vines. The Buddha compared craving to 
 dict_label = "Dhammika"
 word = "laṅghi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6785,7 +6785,7 @@ A type of deer that moves in a series of jumps Ja.vi.537.
 dict_label = "Dhammika"
 word = "laṅghīpitāmaha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6803,7 +6803,7 @@ A term for cranes and herons meaning “whose father is a thunder clap” Ja.ii.
 dict_label = "Dhammika"
 word = "laṭukikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6821,7 +6821,7 @@ See [Lāpasakuṇa](/define/Lāpasakuṇa).
 dict_label = "Dhammika"
 word = "lemapaduma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6839,7 +6839,7 @@ A type of plant J.vi.497. See [Paduma](/define/Paduma).
 dict_label = "Dhammika"
 word = "lepa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6857,7 +6857,7 @@ See [Jatu](/define/Jatu).
 dict_label = "Dhammika"
 word = "lodda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6875,7 +6875,7 @@ Hindi *lodh*, *Symplocos racemosa* Ja.v.405 Ja.vi.497, a small evergreen tree wi
 dict_label = "Dhammika"
 word = "lohapiṭṭhā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6893,7 +6893,7 @@ A type of bird Ja.vi.538. This name means “copper back” which would be a goo
 dict_label = "Dhammika"
 word = "lohitasālī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6911,7 +6911,7 @@ See [Nīvāra](/define/Nīvāra).
 dict_label = "Dhammika"
 word = "lolupa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6929,7 +6929,7 @@ A type of plant Ja.vi.537.
 dict_label = "Dhammika"
 word = "lābu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6947,7 +6947,7 @@ Bottle Gourd, Hindi *lauki*, Bengali *ladu*, *Lagenaria vulgaris*, a small climb
 dict_label = "Dhammika"
 word = "lāja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6965,7 +6965,7 @@ See [Dhañña](/define/Dhañña).
 dict_label = "Dhammika"
 word = "lākhā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -6983,7 +6983,7 @@ A resinous secretion produced by the Lac Insect, Hindi *lakh*, *Laccifer indicol
 dict_label = "Dhammika"
 word = "lāmajjaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7001,7 +7001,7 @@ Hindi *lamjak*, *Cymbopogon jwarancusa*, a tall densely\-tufted grass with a ver
 dict_label = "Dhammika"
 word = "lāpasakuṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7019,7 +7019,7 @@ Quail, sometimes also *[laṭukikā](/define/laṭukikā)* Ja.iii.174 M.i.449. T
 dict_label = "Dhammika"
 word = "lāpu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7037,7 +7037,7 @@ A type of vegetable, perhaps the same as *[lābu](/define/lābu)* Ja.i.312 Ja.i.
 dict_label = "Dhammika"
 word = "maccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7059,7 +7059,7 @@ One Jātaka story mentions a gold\-colored fish Ja.iv.335 which must be a refere
 dict_label = "Dhammika"
 word = "maddālakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7077,7 +7077,7 @@ A type of bird Ja.vi.538.
 dict_label = "Dhammika"
 word = "madhuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7095,7 +7095,7 @@ Honey Tree, Hindi *mahua*, *Bassia latifolia* Ja.iv.434 Ja.vi.93 Ja.vi.529, a la
 dict_label = "Dhammika"
 word = "madhukara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7113,7 +7113,7 @@ Bee, literally “honey maker”, sometimes *madhumakkha*, “honey fly” Ja.iv
 dict_label = "Dhammika"
 word = "madhulaṭṭhi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7131,7 +7131,7 @@ A sweet juice extracted from either the fruit or the flower of a particular cree
 dict_label = "Dhammika"
 word = "madhulaṭṭhikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7149,7 +7149,7 @@ Licorice, Hindi *mulhatti* or *jethi madh*, *Glycyrrhiza glabra* Ja.i.68 Ja.iv.5
 dict_label = "Dhammika"
 word = "madhuyanti"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7167,7 +7167,7 @@ A type of flowering tree or shrub Ja.vi.536.
 dict_label = "Dhammika"
 word = "mahisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7185,7 +7185,7 @@ Asiatic Buffalo, also *[mahisa](/define/mahisa)* or *mahiṃsa*, Hindi *mahisha*
 dict_label = "Dhammika"
 word = "mahāmukhamaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7203,7 +7203,7 @@ A type of fish Ja.ii.424. The name means “big\-mouthed fish” and probably re
 dict_label = "Dhammika"
 word = "mahāsoṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7221,7 +7221,7 @@ Hindi *[soṇa](/define/soṇa)*, *Calosanthes indica*, a small tree with few br
 dict_label = "Dhammika"
 word = "mahāveḷu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7239,7 +7239,7 @@ Great Bamboo, described as being “thick, beautiful, not pithy, leafy, straight
 dict_label = "Dhammika"
 word = "majjara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7257,7 +7257,7 @@ See Biḷāra.
 dict_label = "Dhammika"
 word = "majjhāru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7275,7 +7275,7 @@ Probably *Plumbago rosea*, a medium\-sized shrub with spreading branches and a l
 dict_label = "Dhammika"
 word = "makara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7293,7 +7293,7 @@ This name usually refers to a mythical marine creature with a huge head and mout
 dict_label = "Dhammika"
 word = "makasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7311,7 +7311,7 @@ Mosquito, also *[sūcimukha](/define/sūcimukha)* “needle mouth”, Hindi *mac
 dict_label = "Dhammika"
 word = "makkaṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7329,7 +7329,7 @@ Rhesus Macaque, sometimes also *[kapi](/define/kapi)*, Bengali *markat*, Hindi *
 dict_label = "Dhammika"
 word = "makkaṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7347,7 +7347,7 @@ Spider, also called *aṭṭhapadā* “eight legs”, and *uṇṇānābhi* “
 dict_label = "Dhammika"
 word = "makkhikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7365,7 +7365,7 @@ House Fly, Hindi *makhi*, *Musca domestica* A.ii.117 M.i.10 M.iii.148 Sn.20, a s
 dict_label = "Dhammika"
 word = "mallikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7383,7 +7383,7 @@ See [Sumanā](/define/Sumanā).
 dict_label = "Dhammika"
 word = "mandālaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7401,7 +7401,7 @@ A type of plant Ap.347 Ja.vi.564.
 dict_label = "Dhammika"
 word = "mandārava"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7419,7 +7419,7 @@ Indian Coral Tree, also *[paṅgura](/define/paṅgura)*, Hindi *mandara* or *pa
 dict_label = "Dhammika"
 word = "manosilāhaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7437,7 +7437,7 @@ Uncertain but perhaps the Pink\-headed Duck, *Rhodonessa caryophyllacea* Ja.v.35
 dict_label = "Dhammika"
 word = "marica"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7459,7 +7459,7 @@ Stem and leaves: For post\-natal complaints. Fruit: as antiperodic in malaria fe
 dict_label = "Dhammika"
 word = "maruvā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7477,7 +7477,7 @@ Perhaps *Sanseviera roxburghiana*, Bengali *murba* M.i.429, an erect fleshy plan
 dict_label = "Dhammika"
 word = "mayhaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7495,7 +7495,7 @@ A bird described as eating the figs and uttering the cry “*mayha mayha*” Ja.
 dict_label = "Dhammika"
 word = "mayūra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7513,7 +7513,7 @@ Peafowl, also called *[barihin](/define/barihin)*, *[mora](/define/mora)*, *[sik
 dict_label = "Dhammika"
 word = "mañjeṭṭhī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7531,7 +7531,7 @@ Madder, Hindi *manjit*, *Rubia cordifolia* S.ii.101, a spreading herb that climb
 dict_label = "Dhammika"
 word = "mañjiṭṭhikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7549,7 +7549,7 @@ Red Rot, *Colletotrichum falcatum*, a fungal pathogen that attacks sugar cane A.
 dict_label = "Dhammika"
 word = "mañjūsaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7567,7 +7567,7 @@ Uncertain but perhaps the *Carallia integerrima* Vv.38.6, a small tree with grey
 dict_label = "Dhammika"
 word = "maṃsi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7585,7 +7585,7 @@ See [Narada](/define/Narada).
 dict_label = "Dhammika"
 word = "maṅkuna"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7603,7 +7603,7 @@ Bed Bug, Hindi *makhun* Ja.i.10, a small rusty\-red nocturnal insect which feeds
 dict_label = "Dhammika"
 word = "maṇḍu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7621,7 +7621,7 @@ Maṇḍu
 dict_label = "Dhammika"
 word = "maṇḍūka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7641,7 +7641,7 @@ We have a description of crows eating frogs in a dried\-up pond Ja.v.106. In his
 dict_label = "Dhammika"
 word = "mella"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7659,7 +7659,7 @@ See [Mātuluṅga](/define/Mātuluṅga).
 dict_label = "Dhammika"
 word = "miga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7677,7 +7677,7 @@ A word used loosely for wild animals, particularly deer, and especially for the 
 dict_label = "Dhammika"
 word = "migamātukā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7695,7 +7695,7 @@ A type of animal, a small red\-colored deer according to the commentary Ja.i.389
 dict_label = "Dhammika"
 word = "moca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7713,7 +7713,7 @@ A type of banana Ja.iv.181 Ja.v.405. The fangs of the hounds of purgatory were s
 dict_label = "Dhammika"
 word = "mora"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7731,7 +7731,7 @@ See [Mayūra](/define/Mayūra).
 dict_label = "Dhammika"
 word = "moragu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7749,7 +7749,7 @@ Moragu
 dict_label = "Dhammika"
 word = "mucalinda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7767,7 +7767,7 @@ Uncertain but perhaps *Pterospermum acerifolium*, sometimes *mucala*, Hindi *muc
 dict_label = "Dhammika"
 word = "muddayanti"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7785,7 +7785,7 @@ Muddayanti
 dict_label = "Dhammika"
 word = "muddikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7803,7 +7803,7 @@ Grape Vine, of which there are two species native to India, the Indian Grape, *V
 dict_label = "Dhammika"
 word = "mugga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7825,7 +7825,7 @@ Medical uses for *[Tila](/define/Tila)*, *[taṇḍula](/define/taṇḍula)*, *
 dict_label = "Dhammika"
 word = "muggatiya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7843,7 +7843,7 @@ Probably *Phaseolus radiatus*, Hindi *mung* Ja.vi.536, a small plant of which th
 dict_label = "Dhammika"
 word = "muttā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7861,7 +7861,7 @@ Pearl, small round shiny silvery\-white objects sometimes found in the marine bi
 dict_label = "Dhammika"
 word = "muñja<sup>1</sup>"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7883,7 +7883,7 @@ Hindi *munj*, *Saccharum munja*, a large spiky tufted grass that commonly grows 
 dict_label = "Dhammika"
 word = "muñjarohita"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7901,7 +7901,7 @@ See [Maccha](/define/Maccha).
 dict_label = "Dhammika"
 word = "māhanīpa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7919,7 +7919,7 @@ Māhanīpa
 dict_label = "Dhammika"
 word = "māluvā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7939,7 +7939,7 @@ On another occasion he used this plant in a parable in which he warned that alth
 dict_label = "Dhammika"
 word = "māsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7957,7 +7957,7 @@ Black Gram, *Vigna mungo* Ja.v.37 Vin.iii.64 is similar to the green gram and pr
 dict_label = "Dhammika"
 word = "mātuluṅga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7975,7 +7975,7 @@ Wild Orange, sometimes *[mella](/define/mella)*, Hindi *khatta*, *Citrus auranti
 dict_label = "Dhammika"
 word = "mīḷhakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -7993,7 +7993,7 @@ Sometimes also *[mīḷhakā](/define/mīḷhakā)* or *piḷhakā*. A type of c
 dict_label = "Dhammika"
 word = "mūlakakanda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8011,7 +8011,7 @@ Horse Radish, Hindi *muli*, *Raphanus sativus* Ja.iv.88, an annual or biannual h
 dict_label = "Dhammika"
 word = "mūsikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8029,7 +8029,7 @@ House Mouse, also called *[ākhu](/define/ākhu)*, Hindi *musa*, *Mus musculus*,
 dict_label = "Dhammika"
 word = "najjuhā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8047,7 +8047,7 @@ A type of bird Ja.vi.528 Ja.vi.538.
 dict_label = "Dhammika"
 word = "nakula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8065,7 +8065,7 @@ Grey Mongoose, *Herpestes edwardsii*, the most common of the three species of mo
 dict_label = "Dhammika"
 word = "narada"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8087,7 +8087,7 @@ Root: as an aromatic, bitter tonic, stimulant, antiseptic, for convulsions, inha
 dict_label = "Dhammika"
 word = "nattamāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8109,7 +8109,7 @@ Bark and leaves: as febrifuge, emmenagogue, anthemintic. Seeds: as tonic, laxati
 dict_label = "Dhammika"
 word = "naḷa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8127,7 +8127,7 @@ A general term for reeds and rushes, grasses that grow in or near water D.iii.75
 dict_label = "Dhammika"
 word = "naḷaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8145,7 +8145,7 @@ Hindi *nal*, *Phragmites karka*, a tall grass with close\-jointed stems and whic
 dict_label = "Dhammika"
 word = "naḷapi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8163,7 +8163,7 @@ A type of aquatic animal Ja.vi.537.
 dict_label = "Dhammika"
 word = "nigguṇḍī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8181,7 +8181,7 @@ Oriya *nirgundi*, *Vitex negundo* Ja.vi.535, a large shrub with a distinct smell
 dict_label = "Dhammika"
 word = "nigrodha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8201,7 +8201,7 @@ During the Buddha’s stay at Bodh Gaya, he spent seven days sitting at the foot
 dict_label = "Dhammika"
 word = "nimba"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8225,7 +8225,7 @@ Root: as tonic, antiperiodic, strangulation of intestine. Stems: Bitter astringe
 dict_label = "Dhammika"
 word = "nisātakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8243,7 +8243,7 @@ A type of animal Ja.vi.538.
 dict_label = "Dhammika"
 word = "nādiya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8261,7 +8261,7 @@ Nādiya
 dict_label = "Dhammika"
 word = "nāga<sup>1</sup>"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8283,7 +8283,7 @@ Cobra, Hindi *nag*, large snakes of the family Elapidae which are capable of fla
 dict_label = "Dhammika"
 word = "nāgalatā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8301,7 +8301,7 @@ Uncertain, but perhaps the same as *[tambūla](/define/tambūla)* Ja.i.80. The n
 dict_label = "Dhammika"
 word = "nāgavallika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8319,7 +8319,7 @@ Uncertain, but perhaps the same as *[tambūla](/define/tambūla)* Ja.vi.536. The
 dict_label = "Dhammika"
 word = "nāmaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8337,7 +8337,7 @@ A type of bird Ja.vi.538.
 dict_label = "Dhammika"
 word = "nāḷikera"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8355,7 +8355,7 @@ Coconut Palm, also called *nārikera*, Hindi *nariyal*, *Coco nucifera* Ja.iv.15
 dict_label = "Dhammika"
 word = "nīlagīva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8373,7 +8373,7 @@ See [Mayūra](/define/Mayūra).
 dict_label = "Dhammika"
 word = "nīlakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8391,7 +8391,7 @@ A type of moss which grow over rocks Th.1070.
 dict_label = "Dhammika"
 word = "nīlamakkhikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8409,7 +8409,7 @@ The name means “blue fly” and must refer to flies of the genera Lucilia, Pyc
 dict_label = "Dhammika"
 word = "nīlamaṇḍūka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8427,7 +8427,7 @@ Indian Pond Frog, *Eyphlyctis hexadactylus*. This large frog has a flattish snou
 dict_label = "Dhammika"
 word = "nīlapupphī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8445,7 +8445,7 @@ A type of plant with blue flowers Ja.vi.536.
 dict_label = "Dhammika"
 word = "nīlī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8463,7 +8463,7 @@ Indigo, Hindi *nil*, *Indigofera tinctoria* A.iii.230 Ja.vi.537, a small shrub f
 dict_label = "Dhammika"
 word = "nīpa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8481,7 +8481,7 @@ Nīpa
 dict_label = "Dhammika"
 word = "nīvāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8499,7 +8499,7 @@ Wild Rice or Red Rice, *Oryza rufipogon*, probably the same as what was called *
 dict_label = "Dhammika"
 word = "ojā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8517,7 +8517,7 @@ See [Jatu](/define/Jatu) and [Rukkha](/define/Rukkha).
 dict_label = "Dhammika"
 word = "oluka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8535,7 +8535,7 @@ Spotted Owlet, Hindi *oolloo*, *Athene brama* Ja.ii.351. This small bird is gray
 dict_label = "Dhammika"
 word = "oṭṭha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8553,7 +8553,7 @@ Camel, Hindi *oont*, *Camelus dromedarius* Vin.iii.51, a sturdy ungainly animal 
 dict_label = "Dhammika"
 word = "pabbaja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8571,7 +8571,7 @@ See [Naḷa](/define/Naḷa).
 dict_label = "Dhammika"
 word = "pacālaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8589,7 +8589,7 @@ A type of animal Ja.vi.538. The name means “shaker”.
 dict_label = "Dhammika"
 word = "padmaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8607,7 +8607,7 @@ Himalayan Wild Cherry, Hindi *padam*, *Prunus cerasoides* Ja.vi.537, a medium\-s
 dict_label = "Dhammika"
 word = "paduma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8633,7 +8633,7 @@ Tuber: To relieve strangulation of the intestine. Rhizome: Yields nutritious arr
 dict_label = "Dhammika"
 word = "padumaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8651,7 +8651,7 @@ A type of tree M.ii.152.
 dict_label = "Dhammika"
 word = "padumuttara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8669,7 +8669,7 @@ A type of tree Ja.vi.537.
 dict_label = "Dhammika"
 word = "paggavalli"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8687,7 +8687,7 @@ A type of bitter\-tasting creeper Ja.ii.105.
 dict_label = "Dhammika"
 word = "pakkava"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8709,7 +8709,7 @@ Whole plant: Juice taken to kill worms, with turmeric, pepper and ghee to reliev
 dict_label = "Dhammika"
 word = "pakkhabiḷāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8727,7 +8727,7 @@ Giant Indian Flying Squirrel, *Petrurista philippensis* Ja.vi.538. The Pāḷi n
 dict_label = "Dhammika"
 word = "pakkhima"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8745,7 +8745,7 @@ Spotted Dove, Hindi *parki*, *Streptopelia chinensis* Ja.v.339 Th.139. This bird
 dict_label = "Dhammika"
 word = "pakkhin"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8765,7 +8765,7 @@ The Buddha said that just as a bird flies off taking only its wings with it, mon
 dict_label = "Dhammika"
 word = "pakkhipati"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8783,7 +8783,7 @@ See [Siṅgivera](/define/Siṅgivera).
 dict_label = "Dhammika"
 word = "palaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8801,7 +8801,7 @@ A type of plant Ja.vi.564.
 dict_label = "Dhammika"
 word = "palasata"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8819,7 +8819,7 @@ A type of animal, according to the commentaries, another name for the rhinoceros
 dict_label = "Dhammika"
 word = "palaṇḍuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8837,7 +8837,7 @@ Onion, Hindi *piyaz*, *Allium cepa*, a small plant with long erect leaves and a 
 dict_label = "Dhammika"
 word = "palāsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8855,7 +8855,7 @@ See [Kiṃsuka](/define/Kiṃsuka).
 dict_label = "Dhammika"
 word = "pampakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8873,7 +8873,7 @@ A type of water bird Ja.vi.538.
 dict_label = "Dhammika"
 word = "panasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8891,7 +8891,7 @@ Jack Tree, Hindi *panas*, *Artocarpu integrifolia* Ja.vi.535. A large tree with 
 dict_label = "Dhammika"
 word = "parivadantika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8909,7 +8909,7 @@ A type of bird Ja.vi.539.
 dict_label = "Dhammika"
 word = "parābhuta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8927,7 +8927,7 @@ A type of bird Ja.v.416.
 dict_label = "Dhammika"
 word = "pasatamiga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8945,7 +8945,7 @@ See [Citraka](/define/Citraka).
 dict_label = "Dhammika"
 word = "pasādiyā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8963,7 +8963,7 @@ A type of grain Ja.vi.530. The commentary says it is a type of rice Ja.vi.531.
 dict_label = "Dhammika"
 word = "pavāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8981,7 +8981,7 @@ Red Coral, Hindi *parbal*, the stony branched skeleton of the tiny marine invert
 dict_label = "Dhammika"
 word = "pavīhi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -8999,7 +8999,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "pañcavaṇṇahaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9017,7 +9017,7 @@ A type of water bird Ja.v.356. The name means “five\-colored goose” or “fi
 dict_label = "Dhammika"
 word = "paṅgura"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9035,7 +9035,7 @@ See [Mandārava](/define/Mandārava) Ja.vi.535.
 dict_label = "Dhammika"
 word = "paṇaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9053,7 +9053,7 @@ A type of moss or water plant Ja.v.37. It is sometimes mentioned together with *
 dict_label = "Dhammika"
 word = "paṇḍuhaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9071,7 +9071,7 @@ A type of water bird Ja.v.356. The name means “yellow goose” or “yellow du
 dict_label = "Dhammika"
 word = "paṭala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9089,7 +9089,7 @@ See [Alattaka](/define/Alattaka).
 dict_label = "Dhammika"
 word = "paṭanga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9107,7 +9107,7 @@ A type of insect said to fly into burning lamps at night Ja.vi.234 Ja.vi.506 Sn.
 dict_label = "Dhammika"
 word = "paṭikutta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9125,7 +9125,7 @@ A type of bird Ja.vi.538. As the word *kutta* means “woven” this might be re
 dict_label = "Dhammika"
 word = "paṭola"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9147,7 +9147,7 @@ Root: applied to leprous ulcers fresh or mixed with oil. Dry or powdered root ta
 dict_label = "Dhammika"
 word = "paṭṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9165,7 +9165,7 @@ A type of fine cloth Bv.34.11 S.ii.102 Vin.ii.266. In the *Harṣacarita*, *pa�
 dict_label = "Dhammika"
 word = "pelakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9183,7 +9183,7 @@ A type of animal Ja.vi.538.
 dict_label = "Dhammika"
 word = "phalaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9201,7 +9201,7 @@ Spinach, Hindi *palak*, *Spinacia oleracea* Ja.v.478. Spinach is an annual herb 
 dict_label = "Dhammika"
 word = "phandana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9219,7 +9219,7 @@ The Pāḷi name for this tree means “quivering” and it was described by the
 dict_label = "Dhammika"
 word = "phandanamāluvā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9237,7 +9237,7 @@ A type of creeper Ja.vi.528 Ja.vi.534.
 dict_label = "Dhammika"
 word = "phaṇijjaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9255,7 +9255,7 @@ Rosha Grass, Hindi *gandhejghas*, *Andropogon schoenanthus* Ja.vi.536 Vin.iv.35,
 dict_label = "Dhammika"
 word = "phussaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9273,7 +9273,7 @@ A type of bird A.i.188.The name means something like mottled or speckled. The Bu
 dict_label = "Dhammika"
 word = "phārusaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9291,7 +9291,7 @@ Phārusaka
 dict_label = "Dhammika"
 word = "phāṇita"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9309,7 +9309,7 @@ See [Ucchu](/define/Ucchu).
 dict_label = "Dhammika"
 word = "picu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9327,7 +9327,7 @@ A type of animal Ja.vi.537.
 dict_label = "Dhammika"
 word = "pilakkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9345,7 +9345,7 @@ Wave\-leafed Fig, Hindi *pilkhan*, *Ficus infectoria* Ja.iii.24 S.iv.160 S.v.96 
 dict_label = "Dhammika"
 word = "pippalī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9367,7 +9367,7 @@ Root: For cough, cold fever with thirst, to improve digestion, with root of*Mich
 dict_label = "Dhammika"
 word = "pipīlikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9385,7 +9385,7 @@ Ant, sometimes *[kipillikā](/define/kipillikā)*. Ants are a small insect of th
 dict_label = "Dhammika"
 word = "piyaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9403,7 +9403,7 @@ A type of tree Ja.vi.269.
 dict_label = "Dhammika"
 word = "piyaṅgu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9425,7 +9425,7 @@ Panic Seed, *Panicum italicum*, a type of millet which was made into a gruel Ja.
 dict_label = "Dhammika"
 word = "piyāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9443,7 +9443,7 @@ See [Rājāyatana](/define/Rājāyatana).
 dict_label = "Dhammika"
 word = "piñjarodaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9461,7 +9461,7 @@ The red\-colored fruit of a particular plant Ja.vi.563.
 dict_label = "Dhammika"
 word = "piḷaṅka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9479,7 +9479,7 @@ A creature, probably an insect, that lives in dung S.ii.228.
 dict_label = "Dhammika"
 word = "piṅgullya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9497,7 +9497,7 @@ A type of bird, sometimes also *piṅguliya* Ja.vi.538. The name may be a misrea
 dict_label = "Dhammika"
 word = "pokkharasātaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9515,7 +9515,7 @@ A type of bird D.iii.202 Ja.vi.539.
 dict_label = "Dhammika"
 word = "potthaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9533,7 +9533,7 @@ A type of cloth described as rough and unpleasant to touch A.i.246 Ja.iv.246 and
 dict_label = "Dhammika"
 word = "poṭakila"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9551,7 +9551,7 @@ See [Tiṇa](/define/Tiṇa).
 dict_label = "Dhammika"
 word = "pucimanda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9569,7 +9569,7 @@ See [Nimba](/define/Nimba).
 dict_label = "Dhammika"
 word = "punnāga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9587,7 +9587,7 @@ Punnāga
 dict_label = "Dhammika"
 word = "puppha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9607,7 +9607,7 @@ The ancient Indians had a deep appreciation for flowers; they wore them in their
 dict_label = "Dhammika"
 word = "pupphin"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9625,7 +9625,7 @@ A plant with blue flowers Ja.vi.536.
 dict_label = "Dhammika"
 word = "purisālu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9643,7 +9643,7 @@ A type of animal, perhaps mythological Ja.vi.537.
 dict_label = "Dhammika"
 word = "puthuloma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9661,7 +9661,7 @@ A general name for fish of the order Siluroidea, called catfish in English Ja.iv
 dict_label = "Dhammika"
 word = "puttajīva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9679,7 +9679,7 @@ Hindi *putranjiva*, *Putranjiva roxburghii* Ja.iv.530, a moderately\-sized tree 
 dict_label = "Dhammika"
 word = "puḷava"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9697,7 +9697,7 @@ Maggot, Hindi *phulu*. Maggots are the second of the four stages flies go throug
 dict_label = "Dhammika"
 word = "puṇḍarīka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9715,7 +9715,7 @@ A type of tree. The former Buddha Sikhī was enlightened under one of these tree
 dict_label = "Dhammika"
 word = "pāgusa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9733,7 +9733,7 @@ Pagusa Catfish or Yellowtail Catfish, sometimes also *[pāvusa](/define/pāvusa)
 dict_label = "Dhammika"
 word = "pākahaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9751,7 +9751,7 @@ A type of water bird Ja.v.357 Ja.vi.539. The name means “ ripe goose” or “
 dict_label = "Dhammika"
 word = "pālibhaddaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9769,7 +9769,7 @@ A type of tree, sometimes *phālibhaddaka* Ja.iv.205. The name means “very aus
 dict_label = "Dhammika"
 word = "pārevata"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9787,7 +9787,7 @@ Pārevata
 dict_label = "Dhammika"
 word = "pārichattaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9805,7 +9805,7 @@ A type of tree. See [Kovilāra](/define/Kovilāra).
 dict_label = "Dhammika"
 word = "pārijañña"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9823,7 +9823,7 @@ A type of tree Ja.vi.535, or perhaps another name for the *[mandārava](/define/
 dict_label = "Dhammika"
 word = "pārāvata"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9841,7 +9841,7 @@ Dove or Pigeon, sometimes *pārāpata* or *[pārevata](/define/pārevata)* Ja.i.
 dict_label = "Dhammika"
 word = "pāsāṇamacchaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9859,7 +9859,7 @@ A type of fish. The name means “stone fish” Ja.iv.70 Ja.vi.450. See [Maccha]
 dict_label = "Dhammika"
 word = "pāthīna"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9877,7 +9877,7 @@ Pāthīna
 dict_label = "Dhammika"
 word = "pāvusa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9895,7 +9895,7 @@ Pabda Catfish, *Ompok pabda* Ja.iv.70 Ja.vi.278. Growing up to 30 cm long this f
 dict_label = "Dhammika"
 word = "pāṭalī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9913,7 +9913,7 @@ Trumpet Flower, sometimes *pāṭhali*, Hindi, *paral*, Oriya *patuli*, *Stereos
 dict_label = "Dhammika"
 word = "pūga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9931,7 +9931,7 @@ Betel Palm, *Areca catechu* Ja.v.37 Ja.v.323, an attractive tree with a single t
 dict_label = "Dhammika"
 word = "pūtilatā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9949,7 +9949,7 @@ Gulancha Vine, Hindi *gilo* or *gilaya*, *Tinospora cordifolia* Sn.29. According
 dict_label = "Dhammika"
 word = "rattasālī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9967,7 +9967,7 @@ See [Nīvāra](/define/Nīvāra).
 dict_label = "Dhammika"
 word = "ravihaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -9985,7 +9985,7 @@ A type of water bird Ja.ii.375. The name means “sun goose” or “sun duck”
 dict_label = "Dhammika"
 word = "rohicca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10003,7 +10003,7 @@ Swamp Deer, also known as Barasingha, *Cervus duvauceli* Ja.vi.537. This name me
 dict_label = "Dhammika"
 word = "rohita"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10021,7 +10021,7 @@ Red Sun Fish, *Labeo rohita* Ja.ii.433. An edible carp found in the Ganges and i
 dict_label = "Dhammika"
 word = "rohitaruru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10039,7 +10039,7 @@ See [Ruru](/define/Ruru).
 dict_label = "Dhammika"
 word = "romā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10057,7 +10057,7 @@ A type of bird Ja.vi.538.
 dict_label = "Dhammika"
 word = "roruva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10075,7 +10075,7 @@ A type of animal, the sinews of which were used in making arrows, probably for b
 dict_label = "Dhammika"
 word = "ruca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10093,7 +10093,7 @@ A type of tree described as having a straight trunk and spreading branches Ja.i.
 dict_label = "Dhammika"
 word = "ruhaṃghasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10111,7 +10111,7 @@ Blood\-eater, probably a term for leopards and or tigers Ja.iii.481. See [Dīpi]
 dict_label = "Dhammika"
 word = "rukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10149,7 +10149,7 @@ As with other popular beliefs and superstitions the Buddha did not endorse tree 
 dict_label = "Dhammika"
 word = "rukkhakoṭṭasakuṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10167,7 +10167,7 @@ Woodpecker. See [Koṭṭha](/define/Koṭṭha).
 dict_label = "Dhammika"
 word = "ruru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10185,7 +10185,7 @@ A type of deer Ja.iv.256 Ja.v.406. It is sometimes also called *[rohitaruru](/de
 dict_label = "Dhammika"
 word = "rājahaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10203,7 +10203,7 @@ King goose or duck Ja.i.207 Ja.ii.353. It is not clear whether this refers to an
 dict_label = "Dhammika"
 word = "rājikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10221,7 +10221,7 @@ The seed of the Mustard plant, Hindi *raji*, *Brassica juncea*, a slender long\-
 dict_label = "Dhammika"
 word = "rājāyatana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10239,7 +10239,7 @@ Chirauli Nut Tree, sometimes also *[piyāla](/define/piyāla)*, Hindi *pival*, *
 dict_label = "Dhammika"
 word = "saddala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10257,7 +10257,7 @@ See [Tiṇa](/define/Tiṇa).
 dict_label = "Dhammika"
 word = "saddūla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10275,7 +10275,7 @@ See [Dīpi](/define/Dīpi).
 dict_label = "Dhammika"
 word = "sagga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10293,7 +10293,7 @@ Asian Brown Flycatcher, Hindi *zakki*, *Muscicapa dauurica* Ja.vi.538, a grayish
 dict_label = "Dhammika"
 word = "saha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10311,7 +10311,7 @@ Saha
 dict_label = "Dhammika"
 word = "sajjulasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10329,7 +10329,7 @@ See [Jatu](/define/Jatu).
 dict_label = "Dhammika"
 word = "sakula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10347,7 +10347,7 @@ Striped Snakehead or Common Snakehead, *Ophicephalus striatus* Ja.v.405. Found i
 dict_label = "Dhammika"
 word = "sakunta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10365,7 +10365,7 @@ A general term for vultures Dhp.92 Ja.iv.225 Sn.241. Several types of vultures a
 dict_label = "Dhammika"
 word = "sakuṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10383,7 +10383,7 @@ See [Pakkhin](/define/Pakkhin).
 dict_label = "Dhammika"
 word = "sakuṇagghi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10401,7 +10401,7 @@ The word literally means “bird killer” and was probably a general term for h
 dict_label = "Dhammika"
 word = "salabha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10419,7 +10419,7 @@ A type of insect. The Udāna mentions that one evening as the Buddha sat in the 
 dict_label = "Dhammika"
 word = "salaḷa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10437,7 +10437,7 @@ A type of fragrant\-smelling tree Bv.11.51 Ja.i.13 Ja.v.420. See [Sallakī](/def
 dict_label = "Dhammika"
 word = "sallaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10455,7 +10455,7 @@ Indian Porcupine, Hindi *sayal*, *Hystrix indica* Ja.v.489. A large thickset rod
 dict_label = "Dhammika"
 word = "sallakī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10473,7 +10473,7 @@ Indian Frankincense, perhaps also *[salaḷa](/define/salaḷa)*, Hindi *salag* 
 dict_label = "Dhammika"
 word = "sambuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10491,7 +10491,7 @@ See [Sippī](/define/Sippī).
 dict_label = "Dhammika"
 word = "samika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10509,7 +10509,7 @@ A type of bird Ja.vi.258.
 dict_label = "Dhammika"
 word = "samuddakappāsī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10527,7 +10527,7 @@ Bengal Cotton, *Gossypum neglectum*, a pyramidal bush with leathery furrowed and
 dict_label = "Dhammika"
 word = "santha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10545,7 +10545,7 @@ See [Naḷa](/define/Naḷa).
 dict_label = "Dhammika"
 word = "sappa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10565,7 +10565,7 @@ The Buddha said that one should be careful even of young snakes. “One should n
 dict_label = "Dhammika"
 word = "sara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10583,7 +10583,7 @@ Hindi *sar*, *Saccharum sara* D.i.9 Dhp.304. The Pāḷi name means “arrow”.
 dict_label = "Dhammika"
 word = "sarabha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10601,7 +10601,7 @@ A deer, probably the Sambar, *Cevus unicolor*, India’s largest and most common
 dict_label = "Dhammika"
 word = "sarabhū"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10619,7 +10619,7 @@ Indian Chameleon, Hindi *sarab*, *Chamaeleon zeylandicus.*Growing up to 350 mm l
 dict_label = "Dhammika"
 word = "sarala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10637,7 +10637,7 @@ Long\-leaved Pine, *Pinus longfolia* Ja.v.420, a large tree with symmetrically w
 dict_label = "Dhammika"
 word = "saravana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10655,7 +10655,7 @@ See [Naḷa](/define/Naḷa).
 dict_label = "Dhammika"
 word = "sasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10673,7 +10673,7 @@ Indian Hare, also called *sasaka*, Hindi *sasa*, *Lepus nigricollis*. This commo
 dict_label = "Dhammika"
 word = "satapadi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10691,7 +10691,7 @@ Centipede, Hindi *sata*, *Scolopendra subspinipes* A.ii.73 A.iv.320. Like its En
 dict_label = "Dhammika"
 word = "satapatha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10709,7 +10709,7 @@ A type of bird Ja.ii.153 Mil.ii.404.
 dict_label = "Dhammika"
 word = "satapatta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10727,7 +10727,7 @@ See Sārasa.
 dict_label = "Dhammika"
 word = "satapuppha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10745,7 +10745,7 @@ Indian Dill, Hindi *sowa*, *Anethum sowa* Ja.vi.537, a small plant closely resem
 dict_label = "Dhammika"
 word = "satavaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10763,7 +10763,7 @@ See [Maccha](/define/Maccha).
 dict_label = "Dhammika"
 word = "sattali"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10781,7 +10781,7 @@ A flower sometimes used to make garlands Ja.iv.440.
 dict_label = "Dhammika"
 word = "sattapatta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10799,7 +10799,7 @@ Wookpecker. See [Koṭṭha](/define/Koṭṭha).
 dict_label = "Dhammika"
 word = "sattapaṇṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10817,7 +10817,7 @@ Scholar’s Tree, *Alstonia scholaris* Ja.vi.269, an attractive medium to large\
 dict_label = "Dhammika"
 word = "savaṃka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10835,7 +10835,7 @@ See [Maccha](/define/Maccha).
 dict_label = "Dhammika"
 word = "sayaṃjātasālī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10853,7 +10853,7 @@ See [Nīvāra](/define/Nīvāra).
 dict_label = "Dhammika"
 word = "saṃsādiyā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10871,7 +10871,7 @@ A type of grain or grain\-bearing plant Ja.vi.530.
 dict_label = "Dhammika"
 word = "saṅkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10893,7 +10893,7 @@ Conch, also called *[kumbu](/define/kumbu)*, Hindi *sankh*, *Turbinella pyrum*, 
 dict_label = "Dhammika"
 word = "saṅkhamutta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10911,7 +10911,7 @@ Mother\-of\-pearl, the shell of *Pinctada margaritifera* Ja.v.380 Thi.278. This 
 dict_label = "Dhammika"
 word = "sekadhārī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10929,7 +10929,7 @@ Hindi *sekra*, *Zizyphus rugosa*, a large shrub with long large elliptic leaves 
 dict_label = "Dhammika"
 word = "semhāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10947,7 +10947,7 @@ A type of animal, the sinews of which were used in making arrows, probably to bi
 dict_label = "Dhammika"
 word = "sena"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10965,7 +10965,7 @@ A type of hawk Ja.i.273 Ja.ii.51.
 dict_label = "Dhammika"
 word = "sepaṇṇi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -10983,7 +10983,7 @@ A tree, the fruit of which spotted deer would eat Ja.i.173. The name means “ha
 dict_label = "Dhammika"
 word = "sereyyaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11001,7 +11001,7 @@ Sereyyaka
 dict_label = "Dhammika"
 word = "setaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11019,7 +11019,7 @@ A type of plant Ja.vi.535 Ja.vi.539.
 dict_label = "Dhammika"
 word = "setageru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11037,7 +11037,7 @@ A flowering tree or shrub Ja.vi.536.
 dict_label = "Dhammika"
 word = "setahaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11055,7 +11055,7 @@ A type of water bird Ja.i.418 Ja.v.356. The name means “white goose” or “w
 dict_label = "Dhammika"
 word = "setapaṇṇi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11073,7 +11073,7 @@ Setapaṇṇi
 dict_label = "Dhammika"
 word = "setapuppha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11091,7 +11091,7 @@ A type of tree or shrub Ja.v.422. The name means “white flower”.
 dict_label = "Dhammika"
 word = "setavārisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11109,7 +11109,7 @@ Sometimes *setavārī*, uncertain but perhaps asparagus, Hindi *satavar*, *Aspar
 dict_label = "Dhammika"
 word = "setaṭṭhika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11127,7 +11127,7 @@ A disease that attacked rice A.iv.279. The name means “white bone”. It is no
 dict_label = "Dhammika"
 word = "sevāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11145,7 +11145,7 @@ Submerged aquatic plants of the genus Blyxa, of which several species are found 
 dict_label = "Dhammika"
 word = "sibala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11163,7 +11163,7 @@ Uncertain but perhaps Balloon Vine, *Cardiospermum halicacabum*, Bengali *sibjhu
 dict_label = "Dhammika"
 word = "siddhatthaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11183,7 +11183,7 @@ In ancient India white mustard was widely used as an ingredient in medicines for
 dict_label = "Dhammika"
 word = "siggu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11201,7 +11201,7 @@ See [Sodhañjanaka](/define/Sodhañjanaka).
 dict_label = "Dhammika"
 word = "sigru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11219,7 +11219,7 @@ See [Sodhañjanaka](/define/Sodhañjanaka).
 dict_label = "Dhammika"
 word = "sigāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11237,7 +11237,7 @@ Jackal, also called *bheraṇḍa*, *[jambukā](/define/jambukā)*, *[kotthu](/d
 dict_label = "Dhammika"
 word = "sikhandi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11255,7 +11255,7 @@ See [Mayūra](/define/Mayūra).
 dict_label = "Dhammika"
 word = "silutta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11273,7 +11273,7 @@ A snake described in the commentary as a “house snake” and thus it may be th
 dict_label = "Dhammika"
 word = "silābhu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11291,7 +11291,7 @@ A snake described in the commentary as “green leaf\-colored” (*nālapaṇṇ
 dict_label = "Dhammika"
 word = "simbali"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11309,7 +11309,7 @@ Red Silk\-Cotton Tree, sometimes also *siṇhali*, Hindi *simal*, *Bombax malaba
 dict_label = "Dhammika"
 word = "sinduvārita"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11327,7 +11327,7 @@ Hindi *nisinda*, *Vitex leucoxylon* Ja.iv.440 Ja.vi.269, a large shrub with a wh
 dict_label = "Dhammika"
 word = "sippī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11345,7 +11345,7 @@ The shell of freshwater or marine mollusks, sometimes also *sippika*, *[sambuka]
 dict_label = "Dhammika"
 word = "sirinigguṇḍī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11363,7 +11363,7 @@ A type of tree, perhaps the same as *[nigguṇḍī](/define/nigguṇḍī)* Ja.
 dict_label = "Dhammika"
 word = "siriṃsapa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11381,7 +11381,7 @@ Creepy Crawlies, a term for reptiles and perhaps insects A.ii.73 D.ii.57 Ja.v.23
 dict_label = "Dhammika"
 word = "sirīsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11399,7 +11399,7 @@ Sometimes *[sirīsa](/define/sirīsa)*, Bengali *siris*, *Acacia sirissa* Ja.vi.
 dict_label = "Dhammika"
 word = "sithilahanu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11417,7 +11417,7 @@ Asian Openbill Stork, *Anastomus oscitians*. This small stork is white or grayis
 dict_label = "Dhammika"
 word = "siṃsaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11435,7 +11435,7 @@ A type of water plant, perhaps the same as *[siṅghāṭaka](/define/siṅghā�
 dict_label = "Dhammika"
 word = "siṃsapā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11453,7 +11453,7 @@ Hindi *shisham* or *sissu*, *Dalbergia sissoo*. This large handsome deciduous tr
 dict_label = "Dhammika"
 word = "siṅghāṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11471,7 +11471,7 @@ Water Chestnut, Hindi *singhada* or *paniphal*, *Trapa natans* Ja.vi.530. The ro
 dict_label = "Dhammika"
 word = "siṅgila"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11489,7 +11489,7 @@ Probably a name for one or another of the four species of “horned” owls foun
 dict_label = "Dhammika"
 word = "siṅgivera"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11511,7 +11511,7 @@ Root: For bronchitis, phthisis, with*Ocimum sanctum* for body pain; lumbago, wit
 dict_label = "Dhammika"
 word = "siṅgu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11529,7 +11529,7 @@ A type of fish, Hindi *singi*, *Heteropneustes fossilis* Ja.v.450 Ja.vi.537. The
 dict_label = "Dhammika"
 word = "siṅgāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11547,7 +11547,7 @@ See [Sigāla](/define/Sigāla).
 dict_label = "Dhammika"
 word = "sodhañjanaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11565,7 +11565,7 @@ Drumstick Tree or Horse Radish Tree, sometimes also *[siggu](/define/siggu)* or 
 dict_label = "Dhammika"
 word = "sogandhika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11583,7 +11583,7 @@ White Water Lily, sometimes *[kallahāra](/define/kallahāra)*, *Nymphaea lotus*
 dict_label = "Dhammika"
 word = "soma"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11605,7 +11605,7 @@ According to the Jātaka, in two of his former lives the Bodhisattva became so f
 dict_label = "Dhammika"
 word = "somarukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11623,7 +11623,7 @@ A type of tree Ja.vi.530.
 dict_label = "Dhammika"
 word = "soṇa<sup>1</sup>"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11647,7 +11647,7 @@ We read that when a group of Licchavī youths roaming around in the forest with 
 dict_label = "Dhammika"
 word = "suka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11665,7 +11665,7 @@ Parrot, sometimes also *[suva](/define/suva)*, Hindi *suka* Ja.i.324 Ja.iii.98. 
 dict_label = "Dhammika"
 word = "sulasī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11683,7 +11683,7 @@ See [Tulasi](/define/Tulasi).
 dict_label = "Dhammika"
 word = "sulopī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11701,7 +11701,7 @@ A type of animal Ja.vi.437 Ja.vi.537.
 dict_label = "Dhammika"
 word = "sumanā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11721,7 +11721,7 @@ Suriyavalli. A type of creeper Ja.vi.536.
 dict_label = "Dhammika"
 word = "supāṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11739,7 +11739,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "susu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11757,7 +11757,7 @@ Ganges Dolphin, Hindi *susu*, Bengali *susuk*, *Platanista gangetics* Ja.vi.537.
 dict_label = "Dhammika"
 word = "susukā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11775,7 +11775,7 @@ Uncertain, but probably used loosely for crocodiles, gharials, the Ganges dolphi
 dict_label = "Dhammika"
 word = "susumāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11793,7 +11793,7 @@ See [Kumbhīla](/define/Kumbhīla).
 dict_label = "Dhammika"
 word = "suva"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11811,7 +11811,7 @@ See [Suka](/define/Suka).
 dict_label = "Dhammika"
 word = "suvāṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11829,7 +11829,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "suṃsumāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11847,7 +11847,7 @@ See [Kumbhīla](/define/Kumbhīla).
 dict_label = "Dhammika"
 word = "suṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11865,7 +11865,7 @@ See [Soṇa](/define/Soṇa).
 dict_label = "Dhammika"
 word = "sāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11883,7 +11883,7 @@ Indian Teak, Hindi *sagwan*, *Tectona grandis*, a large tree growing up to 46 me
 dict_label = "Dhammika"
 word = "sākhāmiga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11901,7 +11901,7 @@ Branch creature Ja.ii.73 Ja.v.538, a term for monkeys. However, as squirrels are
 dict_label = "Dhammika"
 word = "sākhāssita"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11919,7 +11919,7 @@ Branch dweller Ja.v.73 Ja.v.233, a term for monkeys but perhaps used for squirre
 dict_label = "Dhammika"
 word = "sāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11945,7 +11945,7 @@ One moonlit night, Ānanda and Revata went to visit Sāriputta at the sal forest
 dict_label = "Dhammika"
 word = "sālakalyāṇī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11963,7 +11963,7 @@ A type of sal tree under which the past Buddha Koṇḍañña attained enlighten
 dict_label = "Dhammika"
 word = "sāleyyaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11981,7 +11981,7 @@ A type of plant Ap.346.
 dict_label = "Dhammika"
 word = "sāli"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -11999,7 +11999,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "sāliya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12017,7 +12017,7 @@ Common Hill Myna, sometimes *sāḷikā*, or *sāliyāya*, *Gracula religiosa* J
 dict_label = "Dhammika"
 word = "sāliyavaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12035,7 +12035,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "sāluka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12053,7 +12053,7 @@ See [Sogandhika](/define/Sogandhika).
 dict_label = "Dhammika"
 word = "sāmalatā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12071,7 +12071,7 @@ A type of flowering creeper Ja.i.60.
 dict_label = "Dhammika"
 word = "sāmā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12089,7 +12089,7 @@ A type of plant Ja.i.500 Ja.iv.92 Ja.v.405.
 dict_label = "Dhammika"
 word = "sāmāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12107,7 +12107,7 @@ Hindi *sawan*, Bengali *shama*, *Panicum frumentaceum*, A.i.295 Ja.i.500 Ja.iv.3
 dict_label = "Dhammika"
 word = "sāmāmigī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12125,7 +12125,7 @@ An animal, probably a type of deer Ja.ii.44.
 dict_label = "Dhammika"
 word = "sāra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12143,7 +12143,7 @@ A type of tree that gives good timber Ja.iii.318.
 dict_label = "Dhammika"
 word = "sāsapa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12161,7 +12161,7 @@ Indian Mustard, Hindi *sason*, *Brassica sarson* A.v.170 Ja.iii.225 S.ii.137, a 
 dict_label = "Dhammika"
 word = "sātaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12179,7 +12179,7 @@ A type of bird Ja.vi.538.
 dict_label = "Dhammika"
 word = "sāyana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12197,7 +12197,7 @@ Sāyana
 dict_label = "Dhammika"
 word = "sāṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12215,7 +12215,7 @@ Sun Hemp, Hindi *san*, *Crotalaria juncea* D.ii.350 M.i.22 S.i.115, a small shru
 dict_label = "Dhammika"
 word = "sīha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12239,7 +12239,7 @@ Even in the middle of the 19<sup>th</sup> century Asiatic lions were still found
 dict_label = "Dhammika"
 word = "sūcimukha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12257,7 +12257,7 @@ See [Makasa](/define/Makasa).
 dict_label = "Dhammika"
 word = "sūkara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12277,7 +12277,7 @@ The wild pig, Hindi *jangli sukar*, is larger, more hairy and more aggressive th
 dict_label = "Dhammika"
 word = "sūkarasāli"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12295,7 +12295,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "sūpeyyasāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12313,7 +12313,7 @@ A type of edible vegetable Ja.iv.445.
 dict_label = "Dhammika"
 word = "tagara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12335,7 +12335,7 @@ Root: Bitter\-tasting and applied locally as an anodyne, chewed to relieve tooth
 dict_label = "Dhammika"
 word = "takkaḷā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12353,7 +12353,7 @@ A type of plant with a bulbous root Ja.iv.46 Ja.iv.371.
 dict_label = "Dhammika"
 word = "takkola"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12371,7 +12371,7 @@ A sweet substance made from *Zizyphus oenoplia*, Hindi *kakoli*, a thorny evergr
 dict_label = "Dhammika"
 word = "takkārī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12389,7 +12389,7 @@ Takkārī
 dict_label = "Dhammika"
 word = "tambakipillika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12407,7 +12407,7 @@ The name means “copper\-colored ant” and refers to the Red Weaver Ant, *Oeco
 dict_label = "Dhammika"
 word = "tambūla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12425,7 +12425,7 @@ Betel Vine, sometimes *[nāga](/define/nāga)*, *Piper betle* Ja.i.266 Ja.i.291 
 dict_label = "Dhammika"
 word = "tamāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12443,7 +12443,7 @@ Indian Cassia, Hindi *tejpat*, *Cinnamomum tamala* Pv.35.5, a medium\-sized stra
 dict_label = "Dhammika"
 word = "taraccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12461,7 +12461,7 @@ Striped Hyena, Hindi *taras*, *Hyaena hyaena* Ja.v.416, a ungainly sulking canin
 dict_label = "Dhammika"
 word = "taṇḍula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12491,7 +12491,7 @@ Medical uses for *[Tila](/define/Tila)*, *taṇḍula*, *[mugga](/define/mugga)*
 dict_label = "Dhammika"
 word = "tikaṇṭaki"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12509,7 +12509,7 @@ A type of tree, the name of which means “three thorns”. This was probably an
 dict_label = "Dhammika"
 word = "tila"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12535,7 +12535,7 @@ Medical uses for *Tila*, *[taṇḍula](/define/taṇḍula)*, *[mugga](/define/
 dict_label = "Dhammika"
 word = "tilakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12553,7 +12553,7 @@ Tilakā
 dict_label = "Dhammika"
 word = "timbaru"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12571,7 +12571,7 @@ Sometimes also *timbara*, Hindi *tendu*, *Diospyros montana* J.iii.189 Vin.iii.5
 dict_label = "Dhammika"
 word = "timbarūsaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12589,7 +12589,7 @@ A type of tree, perhaps the same as *[timbaru](/define/timbaru)* Vin.iii.59 Vv.3
 dict_label = "Dhammika"
 word = "timbuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12607,7 +12607,7 @@ See [Tiṇḍuka](/define/Tiṇḍuka).
 dict_label = "Dhammika"
 word = "timi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12625,7 +12625,7 @@ A large marine animal, probably mythological, other types being *[ānandamaccha]
 dict_label = "Dhammika"
 word = "timira"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12643,7 +12643,7 @@ Oriya *tinia*, *Albizzia odoratissima* Ja.iii.189, an attractive tree with droop
 dict_label = "Dhammika"
 word = "tipusa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12661,7 +12661,7 @@ See Kakkarāka.
 dict_label = "Dhammika"
 word = "tirivaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12679,7 +12679,7 @@ A type of tree Ja.v.46.
 dict_label = "Dhammika"
 word = "tiriyā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12697,7 +12697,7 @@ A type of grass. In one of the series of five dreams the Buddha had before his e
 dict_label = "Dhammika"
 word = "tirīṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12715,7 +12715,7 @@ Tirīṭa
 dict_label = "Dhammika"
 word = "tittakalābu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12733,7 +12733,7 @@ Bitter Gourd, *Mamordica charantia*, a common slender climber covered with velve
 dict_label = "Dhammika"
 word = "tittira"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12751,7 +12751,7 @@ Chestnut\-bellied Sand Grouse, sometimes also *[daddara](/define/daddara)*, Hind
 dict_label = "Dhammika"
 word = "tiṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12771,7 +12771,7 @@ Several of species of grass mentioned in the Tipiṭaka which cannot be identifi
 dict_label = "Dhammika"
 word = "tiṇahaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12789,7 +12789,7 @@ A type of water bird Ja.v.356. The name means “grass goose” or “grass duck
 dict_label = "Dhammika"
 word = "tiṇḍuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12807,7 +12807,7 @@ Indian Persimmon, *Diospyros embryopteris*, sometimes also *[timbuka](/define/ti
 dict_label = "Dhammika"
 word = "tulasi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12829,7 +12829,7 @@ Root: For sudden collapse, decoction for malaria as diaphoretic. Leaf: as stimul
 dict_label = "Dhammika"
 word = "tuliya"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12847,7 +12847,7 @@ Indian Flying Fox, *Pteropus giganteus* Ja.iv.537, an animal with a chestnut\-br
 dict_label = "Dhammika"
 word = "turī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12865,7 +12865,7 @@ What this name refers to is very uncertain. The nun Subhā said her eyes were li
 dict_label = "Dhammika"
 word = "tāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12883,7 +12883,7 @@ Palmyra Palm, sometimes *tālataruṇa*, Hindi *tad*, *Borassus flabellifer* D.i
 dict_label = "Dhammika"
 word = "tālakuttha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12901,7 +12901,7 @@ A type of plant Ap.346.
 dict_label = "Dhammika"
 word = "tāḷīsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12923,7 +12923,7 @@ Bark: Given together (with the roots of other plants) to women as prenatal and p
 dict_label = "Dhammika"
 word = "tūla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12941,7 +12941,7 @@ Down from either trees, creepers or grasses Vin.ii.149. It was used to stuff qui
 dict_label = "Dhammika"
 word = "tūlinī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12959,7 +12959,7 @@ A type of tree M.i.128.
 dict_label = "Dhammika"
 word = "ucchu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12979,7 +12979,7 @@ To make sugar, cane stems were crushed in a mill and the juice reduced by boilin
 dict_label = "Dhammika"
 word = "ucchugaṇṭhikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -12997,7 +12997,7 @@ A type of sugar cane Ja.i.339 Ja.vi.114. See [Ucchu](/define/Ucchu).
 dict_label = "Dhammika"
 word = "uccāliṅga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13017,7 +13017,7 @@ The *Kāma Sūtra* mentions a procedure men used to enlarge their penis. The sof
 dict_label = "Dhammika"
 word = "udakakāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13035,7 +13035,7 @@ Both the Great Cormorant, *Phalacrocorax carbo*, and the Little Cormorant *Phala
 dict_label = "Dhammika"
 word = "udakasappa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13053,7 +13053,7 @@ Checkered Keelback, sometimes also *udakāsīva*, Hindi *panika sanp*, *Xenochro
 dict_label = "Dhammika"
 word = "udakasīvisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13071,7 +13071,7 @@ See [Udakasappa](/define/Udakasappa).
 dict_label = "Dhammika"
 word = "udda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13089,7 +13089,7 @@ Otter, also called *[jalamajjāra](/define/jalamajjāra)* “water cat” and *[
 dict_label = "Dhammika"
 word = "uddhumāyikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13107,7 +13107,7 @@ The Indian Bull Frog, *Hoplobatrachus tigerinus* M.i.142. The Pāḷi name means
 dict_label = "Dhammika"
 word = "uddāla"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13125,7 +13125,7 @@ Sometimes also *uddalāka*, Hindi *udal*, *Sterculia villosa* Ja.iv.301 Ja.iv.44
 dict_label = "Dhammika"
 word = "uddārakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13143,7 +13143,7 @@ See [Udda](/define/Udda).
 dict_label = "Dhammika"
 word = "udumbara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13163,7 +13163,7 @@ Like several other species of Indian figs, this one was an object of curiosity t
 dict_label = "Dhammika"
 word = "uhuṅkara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13181,7 +13181,7 @@ Perhaps a generic word for owls or a the name of a particular type of owl J.vi.5
 dict_label = "Dhammika"
 word = "ukkapiṇḍaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13199,7 +13199,7 @@ Uncertain. The name means something like “finding food in a house”. Perhaps 
 dict_label = "Dhammika"
 word = "ukkaṇṇaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13217,7 +13217,7 @@ See [Vitacchikā](/define/Vitacchikā).
 dict_label = "Dhammika"
 word = "ukkusā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13235,7 +13235,7 @@ A type of raptor Ja.iv.291 Ja.iv.397, possibly another name for the *[kurara](/d
 dict_label = "Dhammika"
 word = "ulūka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13253,7 +13253,7 @@ Brown Fish Owl, sometimes also *ulūkasakuṇa*, Hindi *ullu*, *Ketupa zeylonens
 dict_label = "Dhammika"
 word = "ummāpuppha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13271,7 +13271,7 @@ See [Khoma](/define/Khoma).
 dict_label = "Dhammika"
 word = "undura"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13289,7 +13289,7 @@ Rat, sometimes *[undura](/define/undura)*, Hindi *indur*. The rat is a small mam
 dict_label = "Dhammika"
 word = "unnaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13307,7 +13307,7 @@ A perfume made from the extract of a particular plant Ja.vi.537.
 dict_label = "Dhammika"
 word = "upacikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13325,7 +13325,7 @@ Sometimes called white ants, termites are small soft\-bodied insects of the orde
 dict_label = "Dhammika"
 word = "uparibhaddaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13343,7 +13343,7 @@ A type of tree Ja.vi.269.
 dict_label = "Dhammika"
 word = "uparopa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13361,7 +13361,7 @@ A type of plant, sometimes *uparopaha* Ja.ii.345 Ja.iv.359 Vin.ii.154.
 dict_label = "Dhammika"
 word = "upayānaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13379,7 +13379,7 @@ An aquatic animal, perhaps a type of crab Ja.vi.530.
 dict_label = "Dhammika"
 word = "uppala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13401,7 +13401,7 @@ Rhizome: Powdered and given for dyspepsia, diarrhea, piles, infusion in emollien
 dict_label = "Dhammika"
 word = "uppāṭaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13419,7 +13419,7 @@ Fleas are small rust\-colored wingless insects of the order Siphonaptera. They f
 dict_label = "Dhammika"
 word = "usīra"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13441,7 +13441,7 @@ Rhizome: Chewed for cough, cold, as a bitter tonic, emetic, antispasmodic, carmi
 dict_label = "Dhammika"
 word = "uṇṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13459,7 +13459,7 @@ Wool, sometimes *[uṇṇa](/define/uṇṇa)*, the hair of sheep, goats or came
 dict_label = "Dhammika"
 word = "vaca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13481,7 +13481,7 @@ Root: Chewed for coughs and colds, promotes bronchial secretion, asthma, diarrhe
 dict_label = "Dhammika"
 word = "vacattha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13499,7 +13499,7 @@ The root of a plant used as a medicine Vin.i.200.
 dict_label = "Dhammika"
 word = "vagguli"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13517,7 +13517,7 @@ Bat, winged mammals of the order Chiroptera. There are over 100 species of bats 
 dict_label = "Dhammika"
 word = "vajuḷa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13535,7 +13535,7 @@ A type of tree Ja.v.420.
 dict_label = "Dhammika"
 word = "vakkala"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13553,7 +13553,7 @@ See [Rukkha](/define/Rukkha).
 dict_label = "Dhammika"
 word = "vakula"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13571,7 +13571,7 @@ Bulletwood Tree, also *[bakula](/define/bakula)*, Bengali *[bakula](/define/baku
 dict_label = "Dhammika"
 word = "valli"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13589,7 +13589,7 @@ A general term for creepers, climbers and vines Ja.v.37 Vin.iii.144. See Lāta.
 dict_label = "Dhammika"
 word = "vanakāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13607,7 +13607,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "vanamahasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13625,7 +13625,7 @@ See [Mahisa](/define/Mahisa).
 dict_label = "Dhammika"
 word = "vantāda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13643,7 +13643,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "varaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13661,7 +13661,7 @@ See [Kalāya](/define/Kalāya).
 dict_label = "Dhammika"
 word = "vararukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13679,7 +13679,7 @@ See [Nigrodha](/define/Nigrodha).
 dict_label = "Dhammika"
 word = "varaṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13697,7 +13697,7 @@ Hindi *varuna*, *Crataeva religiosa* Ja.i.222 Ja.i.317, a small spreading tree w
 dict_label = "Dhammika"
 word = "varāha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13715,7 +13715,7 @@ Wild boar Dhp.325 Th.17 Th.101. See [Sūkara](/define/Sūkara).
 dict_label = "Dhammika"
 word = "vassikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13733,7 +13733,7 @@ Sometimes also *vassikī* this plant is often identified as jasmine Dhp.377. How
 dict_label = "Dhammika"
 word = "vaṃsa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13751,7 +13751,7 @@ See [Veḷu](/define/Veḷu).
 dict_label = "Dhammika"
 word = "vaṃsacoraka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13769,7 +13769,7 @@ A type of plant from which perfume was made Ja.v.406.
 dict_label = "Dhammika"
 word = "vaṭarukkha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13787,7 +13787,7 @@ See [Nigrodha](/define/Nigrodha).
 dict_label = "Dhammika"
 word = "vaṭṭakā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13805,7 +13805,7 @@ See [Kapiñjala](/define/Kapiñjala).
 dict_label = "Dhammika"
 word = "vedisa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13823,7 +13823,7 @@ A type of plant Ja.v.405 Ja.vi.550.
 dict_label = "Dhammika"
 word = "veluka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13841,7 +13841,7 @@ A type of tree Ja.v.405.
 dict_label = "Dhammika"
 word = "vetasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13859,7 +13859,7 @@ Probably a type of cane Ja.v.167. See [Vetta](/define/Vetta).
 dict_label = "Dhammika"
 word = "vetta"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13877,7 +13877,7 @@ Cane, Hindi *bet*. Several species of cane palms grow in northern India, a commo
 dict_label = "Dhammika"
 word = "veḷu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13897,7 +13897,7 @@ One of the Buddha’s favorite resorts in Rājagaha was the Bamboo Grove, a park
 dict_label = "Dhammika"
 word = "veṇu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13915,7 +13915,7 @@ See [Veḷu](/define/Veḷu).
 dict_label = "Dhammika"
 word = "veṇutinduka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13933,7 +13933,7 @@ A type of tree Ja.v.405.
 dict_label = "Dhammika"
 word = "vibhedika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13951,7 +13951,7 @@ A type of tree Ja.vi.529 Ja.vi.536.
 dict_label = "Dhammika"
 word = "vibhītaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13973,7 +13973,7 @@ Bark: As diuretic, cardiotonic, for eczema and sores in the mouth. Fruit: For dy
 dict_label = "Dhammika"
 word = "vicchika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -13991,7 +13991,7 @@ Scorpion, Hindi *bricchak*, an insectivorous anthropoid of the order Scorpiones,
 dict_label = "Dhammika"
 word = "vighāsāda"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14009,7 +14009,7 @@ Vighāsāda
 dict_label = "Dhammika"
 word = "vijuḷa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14027,7 +14027,7 @@ Vijuḷa
 dict_label = "Dhammika"
 word = "vilaṅga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14049,7 +14049,7 @@ Bark: used for treating cholera.
 dict_label = "Dhammika"
 word = "villibha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14067,7 +14067,7 @@ Uncertain, but perhaps *Averrhoa bilimbi*, Hindi *bilimbi* Ja.vi.536, a small at
 dict_label = "Dhammika"
 word = "vitacchikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14085,7 +14085,7 @@ Scabies, sometimes *[kacchū](/define/kacchū)* Nidd.ii.304, tiny mites of the g
 dict_label = "Dhammika"
 word = "vyaggha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14103,7 +14103,7 @@ Tiger, sometimes *[byaggha](/define/byaggha)*, Hindi *bagh*, *Panthera tigris* A
 dict_label = "Dhammika"
 word = "vyagghīnasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14121,7 +14121,7 @@ A type of raptor Ja.vi.538 S.i.148. The Pāḷi name means “little tiger” an
 dict_label = "Dhammika"
 word = "vādika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14139,7 +14139,7 @@ A type of bird Ja.vi.538. The name means “talking” and might be another name
 dict_label = "Dhammika"
 word = "vālaja"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14157,7 +14157,7 @@ An aquatic creature, probably a fish Ja.iv.70 Ja.iv.278.
 dict_label = "Dhammika"
 word = "vālamaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14175,7 +14175,7 @@ A type of freshwater fish Ja.iii.70 Ja.iii.345. The word *[vāḷa](/define/vā�
 dict_label = "Dhammika"
 word = "vānara"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14193,7 +14193,7 @@ Hunuman Langur, also sometimes *[kapi](/define/kapi)* or *[gonaṅgula](/define/
 dict_label = "Dhammika"
 word = "vāraṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14211,7 +14211,7 @@ A type of bird Ja.vi.538. According to the commentary, this bird was also known 
 dict_label = "Dhammika"
 word = "vāraṇasāyana"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14229,7 +14229,7 @@ A type of tree Ja.vi.535.
 dict_label = "Dhammika"
 word = "vārija"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14247,7 +14247,7 @@ See [Maccha](/define/Maccha).
 dict_label = "Dhammika"
 word = "vāsantī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14265,7 +14265,7 @@ A type of flowering shrub Ja.vi.537. The name means“belonging to spring”.
 dict_label = "Dhammika"
 word = "vātaghata"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14283,7 +14283,7 @@ A type of tree, sometimes also *vātaghatāka* Ja.v.199 Ja.v.407 Ja.iv.298. The 
 dict_label = "Dhammika"
 word = "vātamiga"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14301,7 +14301,7 @@ A type of animal Ja.v.416.
 dict_label = "Dhammika"
 word = "vātiṅgaṇa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14319,7 +14319,7 @@ Egg Plant, Hindi *baingan*, *Solanum melongena* Ja.v.131, an erect plant with la
 dict_label = "Dhammika"
 word = "vāyasa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14337,7 +14337,7 @@ See [Kāka](/define/Kāka).
 dict_label = "Dhammika"
 word = "vāḷa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14355,7 +14355,7 @@ Sometimes *vāḷamiga*, a term for any predatory animal A.iii.102 Ja.vi.569.
 dict_label = "Dhammika"
 word = "vīhi"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14373,7 +14373,7 @@ See [Taṇḍula](/define/Taṇḍula).
 dict_label = "Dhammika"
 word = "yava"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14393,7 +14393,7 @@ Barley, Hindi *jau*, *Hordeum vulgare* A.i.8 S.v.10, an annual erect tufted gras
 dict_label = "Dhammika"
 word = "yodhikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14411,7 +14411,7 @@ See Yāthikā.
 dict_label = "Dhammika"
 word = "yūthikā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14429,7 +14429,7 @@ Sometimes *[yodhikā](/define/yodhikā)*, *Jasminum auriculatum* Ja.iv.440 Ja.v.
 dict_label = "Dhammika"
 word = "ābhujī"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14447,7 +14447,7 @@ A type of tree Ja.v.195.
 dict_label = "Dhammika"
 word = "ākhu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14465,7 +14465,7 @@ See Mūsika.
 dict_label = "Dhammika"
 word = "ākucca"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14483,7 +14483,7 @@ A type of lizard Ja.vi.538.
 dict_label = "Dhammika"
 word = "āli"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14501,7 +14501,7 @@ See [Maccha](/define/Maccha).
 dict_label = "Dhammika"
 word = "ālu"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14519,7 +14519,7 @@ A type of plant with a tuberous root Ja.iv.371 Ja.iv.373 Ja.vi.578.
 dict_label = "Dhammika"
 word = "āluka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14537,7 +14537,7 @@ This is used generally to mean a tuber. It may have also been a name for *Diosco
 dict_label = "Dhammika"
 word = "āmalaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14559,7 +14559,7 @@ Bark: applied to sores, pimples, with the bark of*Dillenia pentagyna* for tuberc
 dict_label = "Dhammika"
 word = "ānandamaccha"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14577,7 +14577,7 @@ A large and probably fantastic marine creature. See [Timi](/define/Timi).
 dict_label = "Dhammika"
 word = "āsītika"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14595,7 +14595,7 @@ Possibly Oriya *arsi*, *Entada scandens* M.i.81, a huge woody climber with cream
 dict_label = "Dhammika"
 word = "āḷaka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14613,7 +14613,7 @@ A type of tree Ap.16.
 dict_label = "Dhammika"
 word = "āṅgahetuka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14631,7 +14631,7 @@ The Large Green\-billed Malkoha, *Phaenicophaeus tristis* Ja.vi.538. This pigeon
 dict_label = "Dhammika"
 word = "āṭa"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14649,7 +14649,7 @@ A bird described in the commentaries as *dabbīmukha*, “spoon\-mouthed” Ja.v
 dict_label = "Dhammika"
 word = "ūkā"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
@@ -14667,7 +14667,7 @@ Head Lice, insects of the order Anoplura. Head lice are a small flattened blood\
 dict_label = "Dhammika"
 word = "ḍāka"
 summary = ""
-grammar = ""
+grammar_comment = ""
 phonetic = ""
 transliteration = ""
 inflections = []
