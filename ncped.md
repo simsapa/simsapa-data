@@ -1691,11 +1691,11 @@ see_also = ["abbahati"]
 also_written_as = []
 ```
 
-abbāhitvā<sup>1</sup>
+abbāhitvā1
 
 absol.
 
-abbāhitvā<sup>2</sup>
+abbāhitvā2
 
 absol. having torn up; having pulled out, having drawn out.
 
@@ -3553,11 +3553,11 @@ see_also = ["abhikirati", "abhikirati"]
 also_written_as = []
 ```
 
-abhikīrati<sup>1</sup>
+abhikīrati1
 
 pr. 3. sg. scatter over; to sprinkle
 
-abhikīrati<sup>2</sup>
+abhikīrati2
 
 pass. pr. 3. sg. is scattered, is dispersed
 
@@ -5272,11 +5272,11 @@ see_also = ["abhinivaṭṭeti"]
 also_written_as = []
 ```
 
-abhinivatteti<sup>1</sup>
+abhinivatteti1
 
 pr. 3 sg. gives up, abandons
 
-abhinivatteti<sup>2</sup>
+abhinivatteti2
 
 pr. 3 sg. takes out; removes.
 
@@ -9279,11 +9279,11 @@ see_also = ["abhijānāti"]
 also_written_as = []
 ```
 
-abhiññā<sup>1</sup>
+abhiññā1
 
 absol.
 
-abhiññā<sup>2</sup>
+abhiññā2
 
 feminine (& \~a m.?)
 
@@ -10104,11 +10104,11 @@ see_also = []
 also_written_as = []
 ```
 
-accha<sup>1</sup>
+accha1
 
 mfn. clear; pure, clean; pellucid; transparent.
 
-accha<sup>2</sup>
+accha2
 
 masculine a bear.
 
@@ -12883,11 +12883,11 @@ see_also = []
 also_written_as = []
 ```
 
-adhipāta<sup>1</sup>
+adhipāta1
 
 masculine making fall; injuring; (or splitting).
 
-adhipāta<sup>2</sup>
+adhipāta2
 
 masculine flying insect; moth.
 
@@ -13033,11 +13033,11 @@ see_also = []
 also_written_as = []
 ```
 
-adhiseti<sup>1</sup>adhisayati
+adhiseti1adhisayati
 
 pr. 3 sg. lies down on.
 
-adhiseti<sup>2</sup>adhisseti
+adhiseti2adhisseti
 
 pr. 3 sg. has recourse to, resorts to.
 
@@ -13167,11 +13167,11 @@ see_also = ["adhivāseti"]
 also_written_as = []
 ```
 
-adhivattha<sup>1</sup>
+adhivattha1
 
 pp mfn. (act.) living in, inhabiting (loc).
 
-adhivattha<sup>2</sup>
+adhivattha2
 
 pp mfn. accepted; consented to
 
@@ -14192,11 +14192,11 @@ see_also = ["gaṇhāti", "gaṇhāti"]
 also_written_as = []
 ```
 
-aggahesi<sup>1</sup>
+aggahesi1
 
 aor. 3 sg.
 
-aggahesi<sup>2</sup>
+aggahesi2
 
 2 sg.
 
@@ -14713,11 +14713,11 @@ see_also = []
 also_written_as = []
 ```
 
-aggha<sup>1</sup>
+aggha1
 
 masculine price; worth.
 
-aggha<sup>2</sup>
+aggha2
 
 masculine neuter hospitality, respectful reception of a guest; an offering of water etc. to a guest.
 
@@ -15156,14 +15156,14 @@ see_also = []
 also_written_as = []
 ```
 
-agha<sup>1</sup>
+agha1
 
 neuter (& m.) & mfn.
 
 1. (n. m) wicked; pain, distress.
 2. (mfn.) bad; dangerous.
 
-agha<sup>2</sup>
+agha2
 
 neuter (& m. or mfn.?) (?) the air, the sky; space; (void, unrestricted?).
 
@@ -15181,11 +15181,11 @@ see_also = ["aggha", "aggha"]
 also_written_as = []
 ```
 
-aghagata<sup>1</sup>
+aghagata1
 
 neuter wicked; distress
 
-aghagata<sup>2</sup>
+aghagata2
 
 neuter sky; space
 
@@ -16255,11 +16255,11 @@ see_also = ["adhigacchati", "adhigacchati"]
 also_written_as = []
 ```
 
-ajjhagamā<sup>1</sup>
+ajjhagamā1
 
 aor. 3 sg.
 
-ajjhagamā<sup>2</sup>
+ajjhagamā2
 
 2 sg.
 
@@ -16309,11 +16309,11 @@ see_also = ["adhigā", "adhigā"]
 also_written_as = []
 ```
 
-ajjhagā<sup>1</sup>
+ajjhagā1
 
 aor. 3 sg.
 
-ajjhagā<sup>2</sup>
+ajjhagā2
 
 2 sg.
 
@@ -18110,11 +18110,11 @@ see_also = ["kappiya", "kappiya"]
 also_written_as = []
 ```
 
-akappiya<sup>1</sup>
+akappiya1
 
 mfn. not lawful or acceptable (for *bhikkhus* or *bhikkhunīs*); unsuitable, improper
 
-akappiya<sup>2</sup>
+akappiya2
 
 mfn. not to be theorised about; not subject to imaginings
 
@@ -18421,11 +18421,11 @@ see_also = ["kataññu", "akata"]
 also_written_as = []
 ```
 
-akataññu<sup>1</sup>
+akataññu1
 
 neg. mfn. ungrateful
 
-akataññu<sup>2</sup>
+akataññu2
 
 mfn. knowing what is not made ( *nibbāna*)
 
@@ -19406,14 +19406,14 @@ see_also = []
 also_written_as = []
 ```
 
-akkha<sup>1</sup>
+akkha1
 
 masculine neuter
 
 1. an axle, an axle\-tree.
 2. the collarbone.
 
-akkha<sup>2</sup>
+akkha2
 
 masculine a die; dice.
 
@@ -19736,11 +19736,11 @@ see_also = []
 also_written_as = []
 ```
 
-akkhikahāraka<sup>1</sup>
+akkhikahāraka1
 
 masculine one who removes eyes.
 
-akkhikahāraka<sup>2</sup>
+akkhikahāraka2
 
 masculine one who collects seeds.
 
@@ -19998,11 +19998,11 @@ see_also = ["akkhāti", "akkhāti"]
 also_written_as = []
 ```
 
-akkhāyati<sup>1</sup>
+akkhāyati1
 
 pr. 3 sg.
 
-akkhāyati<sup>2</sup>
+akkhāyati2
 
 pass. pr. 3 sg. is declared; is called, is stated to be; is named; esp. *aggam \~ayati*, is called the most excellent
 
@@ -22052,11 +22052,11 @@ see_also = []
 also_written_as = []
 ```
 
-amba<sup>1</sup>
+amba1
 
 mfn. sour.
 
-amba<sup>2</sup>
+amba2
 
 masculine & neuter
 
@@ -23249,11 +23249,11 @@ see_also = ["acchariya"]
 also_written_as = []
 ```
 
-anacchariya<sup>1</sup>
+anacchariya1
 
 mfn. & neuter not marvelous, not surprising; natural; not unusual, unexceptional; a natural thing or occurrence
 
-anacchariya<sup>2</sup>
+anacchariya2
 
 mfn. spontaneous, original; not articulated (before).
 
@@ -24634,7 +24634,7 @@ see_also = ["apalokita"]
 also_written_as = []
 ```
 
-anapalokita<sup>1</sup>
+anapalokita1
 
 pp mfn.
 
@@ -25486,11 +25486,11 @@ see_also = ["atthasaṃhita", "anattha"]
 also_written_as = []
 ```
 
-anatthasaṃhita<sup>1</sup>
+anatthasaṃhita1
 
 neg. mfn. not connected with the goal; not useful, not profitable; not having meaning
 
-anatthasaṃhita<sup>2</sup>
+anatthasaṃhita2
 
 neg. mfn. connected with harm, harmful
 
@@ -27798,15 +27798,15 @@ see_also = []
 also_written_as = []
 ```
 
-anta<sup>1</sup>
+anta1
 
 masculine end, limit, conclusion; death, destruction; edge, boundary; extreme, opposing principle.
 
-anta<sup>2</sup>
+anta2
 
 mfn. last, ultimate; worst, mean, contemptible.
 
-anta<sup>3</sup>
+anta3
 
 neuter (sg. & pl.) the bowels, intestines.
 
@@ -31007,11 +31007,11 @@ see_also = ["uggaha"]
 also_written_as = []
 ```
 
-anuggaha<sup>1</sup>
+anuggaha1
 
 masculine favor, kindness; help, assistance.
 
-anuggaha<sup>2</sup>
+anuggaha2
 
 mfn. not taking up
 
@@ -31093,11 +31093,11 @@ see_also = ["anuggaṇhāti", "uggahita"]
 also_written_as = []
 ```
 
-anuggahita<sup>1</sup>anuggahīta
+anuggahita1anuggahīta
 
 pp mfn. made happy; satisfied; helped, furthered
 
-anuggahita<sup>2</sup>
+anuggahita2
 
 neg. mfn.
 
@@ -31195,11 +31195,11 @@ see_also = ["uggata"]
 also_written_as = []
 ```
 
-anuggata<sup>1</sup>
+anuggata1
 
 mfn. arisen along with.
 
-anuggata<sup>2</sup>
+anuggata2
 
 neg mfn. not risen; not high
 
@@ -31217,11 +31217,11 @@ see_also = ["anuggaṇhāti", "uggaṇhanta"]
 also_written_as = []
 ```
 
-anuggaṇhanta<sup>1</sup>
+anuggaṇhanta1
 
 part. pr. mf(\~antī)n.
 
-anuggaṇhanta<sup>2</sup>
+anuggaṇhanta2
 
 neg. mfn.
 
@@ -36660,11 +36660,11 @@ see_also = ["anusarati"]
 also_written_as = []
 ```
 
-anussarati<sup>1</sup>
+anussarati1
 
 pr. 3 sg. follows, pursues; conforms oneself to
 
-anussarati<sup>2</sup>
+anussarati2
 
 pr. 3 sg. remembers, recollects, calls to mind; reflects upon.
 
@@ -37681,7 +37681,7 @@ see_also = ["anutthunāti"]
 also_written_as = []
 ```
 
-anutthunanta<sup>1</sup>
+anutthunanta1
 
 part. pr. mfn.
 
@@ -37715,11 +37715,11 @@ see_also = ["anutthuṇāti", "anutthuṇāti"]
 also_written_as = []
 ```
 
-anutthunāti<sup>1</sup>
+anutthunāti1
 
 pr. 3 sg. wails; deplores; laments (for)
 
-anutthunāti<sup>2</sup>
+anutthunāti2
 
 pr. 3 sg. praises; speaks of repeatedly
 
@@ -37737,11 +37737,11 @@ see_also = ["anutthunāti", "anutthunāti"]
 also_written_as = []
 ```
 
-anutthuṇāti<sup>1</sup>
+anutthuṇāti1
 
 pr. 3 sg. wails; deplores; laments (for)
 
-anutthuṇāti<sup>2</sup>
+anutthuṇāti2
 
 pr. 3 sg. praises; speaks of repeatedly
 
@@ -39544,15 +39544,15 @@ see_also = []
 also_written_as = []
 ```
 
-anvagū<sup>1</sup>
+anvagū1
 
 aor. 3 sg. (they) followed.
 
-anvagū<sup>2</sup>
+anvagū2
 
 aor. 3 sg. (they) will follow.
 
-anvagū<sup>3</sup>
+anvagū3
 
 mfn. gone into, falling into.
 
@@ -40198,11 +40198,11 @@ see_also = ["ādiyanta", "ādiyati"]
 also_written_as = []
 ```
 
-anādiyanta<sup>1</sup>
+anādiyanta1
 
 neg. mfn.
 
-anādiyanta<sup>2</sup>
+anādiyanta2
 
 neg. mfn.
 
@@ -40220,11 +40220,11 @@ see_also = ["ādiyitvā", "ādiyati"]
 also_written_as = []
 ```
 
-anādiyitvā<sup>1</sup>
+anādiyitvā1
 
 neg. absol. not taking; not receiving
 
-anādiyitvā<sup>2</sup>
+anādiyitvā2
 
 neg. absol. taking no notice of, ignoring, disregarding
 
@@ -41255,11 +41255,11 @@ see_also = ["ārambha"]
 also_written_as = []
 ```
 
-anārambha<sup>1</sup>
+anārambha1
 
 masculine absence of undertaking; non\-exertion
 
-anārambha<sup>2</sup>
+anārambha2
 
 mfn. not involving killing or destruction.
 
@@ -42576,11 +42576,11 @@ see_also = ["apacināti", "apacinati"]
 also_written_as = []
 ```
 
-apacinati<sup>1</sup>
+apacinati1
 
 pr. 3 sg. diminishes, makes less; dismantles, does away with
 
-apacināti<sup>2</sup>
+apacināti2
 
 pr. 3 sg. pays attention to; respects
 
@@ -42646,11 +42646,11 @@ see_also = ["apacinati", "apacinati"]
 also_written_as = []
 ```
 
-apacināti<sup>1</sup>
+apacināti1
 
 pr. 3 sg. diminishes, makes less; dismantles, does away with
 
-apacināti<sup>2</sup>
+apacināti2
 
 pr. 3 sg. pays attention to; respects
 
@@ -43493,11 +43493,11 @@ see_also = ["apaloketi"]
 also_written_as = []
 ```
 
-apalokita<sup>1</sup>
+apalokita1
 
 pp mfn. asked for leave; consulted
 
-apalokita<sup>2</sup>
+apalokita2
 
 mfn. not liable to decay, not subject to destruction.
 
@@ -43979,11 +43979,11 @@ see_also = ["aparajjhati"]
 also_written_as = []
 ```
 
-aparaddha<sup>1</sup>
+aparaddha1
 
 mfn. destroyed, disappeared.
 
-aparaddha<sup>2</sup>
+aparaddha2
 
 pp mfn.
 
@@ -46117,14 +46117,14 @@ see_also = ["appa"]
 also_written_as = []
 ```
 
-appasadda<sup>1</sup>
+appasadda1
 
 mfn.
 
 1. free from noise quiet.
 2. making little or no noise quiet.
 
-appasadda<sup>2</sup>
+appasadda2
 
 neuter quiet
 
@@ -46174,11 +46174,11 @@ see_also = ["appasuta", "appa"]
 also_written_as = []
 ```
 
-appassuta<sup>1</sup>
+appassuta1
 
 mfn. of little learning, uneducated.
 
-appassuta<sup>2</sup>
+appassuta2
 
 neuter little learning, ignorance
 
@@ -46212,11 +46212,11 @@ see_also = ["appassuta", "appa"]
 also_written_as = []
 ```
 
-appasuta<sup>1</sup>
+appasuta1
 
 mfn. of little learning, uneducated.
 
-appasuta<sup>2</sup>
+appasuta2
 
 neuter little learning, ignorance
 
@@ -46347,11 +46347,11 @@ see_also = ["appeti", "appeti"]
 also_written_as = []
 ```
 
-appayati<sup>1</sup>
+appayati1
 
 pr. 3 sg. puts in, inserts; fixes on, fastens; directs, turns towards, esp. directs the mind (upon), concentrates, achieves a state of concentration; delivers up, gives; displays, exhibits
 
-appayati<sup>2</sup>
+appayati2
 
 pr. 3 sg. enters into; flows into
 
@@ -46674,11 +46674,11 @@ see_also = ["appayati", "appayati"]
 also_written_as = []
 ```
 
-appeti<sup>1</sup>
+appeti1
 
 pr. 3 sg. puts in, inserts; fixes on, fastens; directs, turns towards, esp. directs the mind (upon), concentrates, achieves a state of concentration; delivers up, gives; displays, exhibits
 
-appeti<sup>2</sup>
+appeti2
 
 pr. 3 sg. enters into; flows into
 
@@ -47482,12 +47482,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["arahati"]
-also_written_as = ["arahat<sup>1</sup>"]
+also_written_as = ["arahat1"]
 ```
 
 (& f.?) ‘a worthy one’, an arahat; (in Buddhism) one who has realized nibbāna; one in whom the *āsavas* are destroyed and who is no longer liable to rebirth.
 
-araha(t)<sup>2</sup>
+araha(t)2
 
 part. pr. mfn.
 
@@ -48340,11 +48340,11 @@ see_also = []
 also_written_as = []
 ```
 
-asana<sup>1</sup>
+asana1
 
 neuter eating; food.
 
-asana<sup>2</sup>
+asana2
 
 neuter a shot; a missile, an arrow.
 
@@ -48618,11 +48618,11 @@ see_also = ["asati"]
 also_written_as = []
 ```
 
-asita<sup>1</sup>
+asita1
 
 neuter scythe; sickle.
 
-asita<sup>2</sup>
+asita2
 
 pp neuter eating
 
@@ -48736,19 +48736,19 @@ see_also = ["atthi", "atthi"]
 also_written_as = []
 ```
 
-assa<sup>1</sup>
+assa1
 
 masculine a horse; pl. also; cavalry.
 
-assa<sup>2</sup>
+assa2
 
 masculine ashes; dust.
 
-assa<sup>3</sup>
+assa3
 
 opt. 3 sg. assa \+ gen. (esp. preceded by siyä), (perhaps) it might occur to…, one might think…
 
-assa<sup>4</sup>
+assa4
 
 2 sg.
 
@@ -49152,11 +49152,11 @@ see_also = ["assasati"]
 also_written_as = []
 ```
 
-assattha<sup>1</sup>
+assattha1
 
 masculine the holy fig tree ficus religiosa.
 
-assattha<sup>2</sup>
+assattha2
 
 pp mfn. revived, recovered; comforted
 
@@ -49254,11 +49254,11 @@ see_also = []
 also_written_as = []
 ```
 
-assu<sup>1</sup>
+assu1
 
 neuter a tear; tears.
 
-assu<sup>2</sup>
+assu2
 
 ind. expletive particle; particle of emphasis or inquiry.
 
@@ -51904,7 +51904,7 @@ see_also = ["attan"]
 also_written_as = []
 ```
 
-atta<sup>1</sup>
+atta1
 
 masculine
 
@@ -51912,7 +51912,7 @@ masculine
 2. the self, one’s own self (the abstract individual); the image in a looking\-glass; especially.
 3. oneself, himself, yourself, (used (in the sg.) as reflexive pronoun for all three persons and genders); instr. attanā, by oneself; in oneself, as for oneself, often used in the sense of a nom.
 
-atta<sup>2</sup>
+atta2
 
 mfn. full, complete (or personal)
 
@@ -52395,11 +52395,11 @@ see_also = ["atta", "atta"]
 also_written_as = []
 ```
 
-attarūpa<sup>1</sup>
+attarūpa1
 
 mfn. very complete; (or quite personal)
 
-attarūpa<sup>2</sup>
+attarūpa2
 
 mfn. or neuter fitting for oneself; just oneself; *\~ena*, *\~ehi*, by oneself, for one’s own sake
 
@@ -52545,7 +52545,7 @@ see_also = []
 also_written_as = []
 ```
 
-attha<sup>1</sup>
+attha1
 
 m rarely neuter
 
@@ -52557,7 +52557,7 @@ m rarely neuter
 
 4. meaning, sense; very often in commentaries at end of explained (esp. paraphrased) passages as ti attho: this is the meaning; in association with dhamma, attha expresses the goal as opposed to the doctrine; practical affairs as opposed to spiritual matters; the practical application and result as opposed to the theory; the interpretation as opposed to the text.
 
-attha<sup>2</sup>
+attha2
 
 masculine neuter
 
@@ -53267,7 +53267,7 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["atthin<sup>1</sup>"]
+also_written_as = ["atthin1"]
 ```
 
 1. is exists; is found.
@@ -53275,7 +53275,7 @@ also_written_as = ["atthin<sup>1</sup>"]
 3. as auxiliary verb with pp.
 4. atthi is frequently used (usually at the beginning of a clause), with sg. or pi. subject (even with 1 sg. or 2sg.), to mean: there is, there are; there exists; or with a following verb (so also santiy to mean: there is (exists)… who…; it is the case that….
 
-atthi(n)<sup>2</sup>
+atthi(n)2
 
 mfn. (mfn., sg. nom. m. \~i) desirous; wanting something; having an aim.
 
@@ -53293,11 +53293,11 @@ see_also = []
 also_written_as = []
 ```
 
-atthika<sup>1</sup>
+atthika1
 
 mfn. desiring, wanting (instr.); aiming at, having as purpose (instr.); in need (of, instr.).
 
-atthika<sup>2</sup>
+atthika2
 
 mfn. who believes in the existence (of merit, another world, etc).
 
@@ -53361,7 +53361,7 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["atthin<sup>1</sup>"]
+also_written_as = ["atthin1"]
 ```
 
 1. is exists; is found.
@@ -53369,7 +53369,7 @@ also_written_as = ["atthin<sup>1</sup>"]
 3. as auxiliary verb with pp.
 4. atthi is frequently used (usually at the beginning of a clause), with sg. or pi. subject (even with 1 sg. or 2sg.), to mean: there is, there are; there exists; or with a following verb (so also santiy to mean: there is (exists)… who…; it is the case that….
 
-atthi(n)<sup>2</sup>
+atthi(n)2
 
 mfn. (mfn., sg. nom. m. \~i) desirous; wanting something; having an aim.
 
@@ -55108,11 +55108,11 @@ see_also = ["avassajiṃ", "avassajī"]
 also_written_as = []
 ```
 
-avassajī<sup>1</sup>
+avassajī1
 
 aor. 3 sg. let loose; gave up; dismissed
 
-avassajī<sup>2</sup>
+avassajī2
 
 3 sg.
 
@@ -57587,14 +57587,14 @@ see_also = []
 also_written_as = []
 ```
 
-aḍḍha<sup>1</sup>addha
+aḍḍha1addha
 
 masculine n.
 
 1. one half; a part.
 2. half a kahāpaṇa).
 
-aḍḍha<sup>2</sup>addha
+aḍḍha2addha
 
 mfn. rich; wealthy; well\-to\-do.
 
@@ -58129,11 +58129,11 @@ see_also = []
 also_written_as = []
 ```
 
-aṅgaṇa<sup>1</sup>
+aṅgaṇa1
 
 neuter a place to walk in; open space, a court; a clearing.
 
-aṅgaṇa<sup>2</sup>
+aṅgaṇa2
 
 neuter a speck of dirt; a blemish; a moral blemish, defilements.
 
@@ -58780,15 +58780,15 @@ see_also = []
 also_written_as = []
 ```
 
-aṭṭa<sup>1</sup>
+aṭṭa1
 
 masculine a watchtower.
 
-aṭṭa<sup>2</sup>
+aṭṭa2
 
 mfn. a lawsuit, a legal case.
 
-aṭṭa<sup>3</sup>
+aṭṭa3
 
 mfn. distressed, tormented, afflicted; molested, plagued, hurt.
 
@@ -60419,11 +60419,11 @@ see_also = []
 also_written_as = []
 ```
 
-calaka<sup>1</sup>
+calaka1
 
 masculine military officer.
 
-calaka<sup>2</sup>
+calaka2
 
 neuter a piece of food thrown away after its been chewed.
 
@@ -62476,7 +62476,7 @@ see_also = []
 also_written_as = []
 ```
 
-caturassa<sup>1</sup>
+caturassa1
 
 mfn. & m (or n.)
 
@@ -62484,7 +62484,7 @@ mfn. & m (or n.)
 2. (m. or n.) a four cornered figure, a square or rectangle (?)
 3. (\~assa) yoked with four horses.
 
-caturassa<sup>2</sup>
+caturassa2
 
 mfn yoked with four horses.
 
@@ -64797,7 +64797,7 @@ see_also = []
 also_written_as = []
 ```
 
-chanda<sup>1</sup>
+chanda1
 
 masculine & neuter (m.)
 
@@ -64805,7 +64805,7 @@ masculine & neuter (m.)
 2. in a good sense or neutral sense: will; intention; appetite for; eagerness.
 3. consent; esp. consent to an official act of the *saṅgha*, given by proxy by an absent bhikkhu.
 
-chanda<sup>2</sup>
+chanda2
 
 neuter
 
@@ -64887,12 +64887,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["chanda", "chanda"]
-also_written_as = ["chandas<sup>1</sup>"]
+also_written_as = ["chandas1"]
 ```
 
 (& \~a., f.?)
 
-chanda(s)<sup>2</sup>
+chanda(s)2
 
 neuter
 
@@ -65134,14 +65134,14 @@ see_also = ["chādeti", "chādeti"]
 also_written_as = []
 ```
 
-channa<sup>1</sup>
+channa1
 
 pp mfn. & n. of chādeti
 
 1. (mfn.) covered; concealed; thatched; secret.
 2. (n.) what is covered or roofed; a covered place, a roofed place
 
-channa<sup>2</sup>
+channa2
 
 pp mfn. of chādeti suitable; fitting
 
@@ -66011,11 +66011,11 @@ see_also = ["chaḍḍeti", "chaḍḍeti"]
 also_written_as = []
 ```
 
-chaḍḍiya<sup>1</sup>
+chaḍḍiya1
 
 absol. of chaḍḍeti
 
-chaḍḍiya<sup>2</sup>
+chaḍḍiya2
 
 fpp. mfn. of chaḍḍeti
 
@@ -66915,11 +66915,11 @@ see_also = ["chindati", "chindati"]
 also_written_as = []
 ```
 
-chijjati<sup>1</sup>
+chijjati1
 
 pr. 3 sg. of chindati; (quasi 4th class, in form identical with pass.; the meanings overlap), (intrans.) breaks, breaks off; dries up, comes to an end.
 
-chijjati<sup>2</sup>
+chijjati2
 
 pass. pr. 3 sg. of chindati is cut; is cut off; is cut down; is destroyed; is brought to an end
 
@@ -67003,11 +67003,11 @@ see_also = ["chindati", "chindati"]
 also_written_as = []
 ```
 
-chindi<sup>1</sup>
+chindi1
 
 aor. 3 sg. of chindati
 
-chindi<sup>2</sup>
+chindi2
 
 2 sg. of chindati
 
@@ -67493,11 +67493,11 @@ see_also = ["chādeti", "chādeti"]
 also_written_as = []
 ```
 
-chādayati<sup>1</sup>
+chādayati1
 
 
 
-chādayati<sup>2</sup>
+chādayati2
 
 pr. 3 sg.
 
@@ -67579,11 +67579,11 @@ see_also = []
 also_written_as = []
 ```
 
-chādeti<sup>1</sup>
+chādeti1
 
 covers, covers over; hides, conceals.
 
-chādeti<sup>2</sup>
+chādeti2
 
 pr. 3 sg.
 
@@ -68694,14 +68694,14 @@ see_also = []
 also_written_as = []
 ```
 
-citta<sup>1</sup>
+citta1
 
 neuter
 
 1. mind; thought.
 2. a single thought; a thought moment; a moment of consciousness.
 
-citta<sup>2</sup>
+citta2
 
 mfn. & neuter bright, bright colored; decorated; may colored; extraordinary, wonderful; variegated; speckled; various, different, manifold.
 
@@ -70214,11 +70214,11 @@ see_also = ["coraka"]
 also_written_as = []
 ```
 
-corikā<sup>1</sup>
+corikā1
 
 feminine
 
-corikā<sup>2</sup>
+corikā2
 
 feminine theft, stealing, banditry.
 
@@ -70480,11 +70480,11 @@ see_also = []
 also_written_as = []
 ```
 
-culla<sup>1</sup>cūlacūḷa
+culla1cūlacūḷa
 
 mfn. small, minor, lesser.
 
-culla<sup>2</sup>
+culla2
 
 masculine a fireplace; a hearth.
 
@@ -72689,11 +72689,11 @@ see_also = ["ḍahati"]
 also_written_as = []
 ```
 
-dahati<sup>1</sup>
+dahati1
 
 pr. 3 sg.
 
-dahati<sup>2</sup>
+dahati2
 
 pr. 3 sg. puts, places; fixes; takes, holds; takes as, considers as.
 
@@ -73646,7 +73646,7 @@ see_also = []
 also_written_as = []
 ```
 
-danta<sup>1</sup>
+danta1
 
 masculine
 
@@ -73654,7 +73654,7 @@ masculine
 2. elephant’s tusks; ivory.
 3. the tooth of a comb (?)
 
-danta<sup>2</sup>
+danta2
 
 mfn. tamed, subdued; controlled; restrained.
 
@@ -73928,11 +73928,11 @@ see_also = []
 also_written_as = []
 ```
 
-dasabala<sup>1</sup>
+dasabala1
 
 mfn. & masculine possessing ten powers; the one who possesses ten powers, a buddha.
 
-dasabala<sup>2</sup>
+dasabala2
 
 neuter pl. ten powers.
 
@@ -74481,11 +74481,11 @@ see_also = ["dassati"]
 also_written_as = []
 ```
 
-dassati<sup>1</sup>
+dassati1
 
 pr. 3 sg. gives; makes a gift; yields; applies.
 
-dassati<sup>2</sup>
+dassati2
 
 fut. 3 sg of dassati
 
@@ -75255,11 +75255,11 @@ see_also = []
 also_written_as = []
 ```
 
-daḷhadamma<sup>1</sup>
+daḷhadamma1
 
 neuter firm, enduring, by nature.
 
-daḷhadamma<sup>2</sup>
+daḷhadamma2
 
 mfn. & neuter having a strong bow; a good archer.
 
@@ -79191,11 +79191,11 @@ see_also = []
 also_written_as = []
 ```
 
-dhaṃsati<sup>1</sup>
+dhaṃsati1
 
 pr. 3 sg. is bold; dares to attack.
 
-dhaṃsati<sup>2</sup>
+dhaṃsati2
 
 pr. 3 sg. falls (from); is gone (from); is deprived of.
 
@@ -79229,11 +79229,11 @@ see_also = ["dhamsati", "dhamsati"]
 also_written_as = []
 ```
 
-dhaṃseti<sup>1</sup>
+dhaṃseti1
 
 caus. pr. 3 sg. of dhamsati dares to attack; offends
 
-dhaṃseti<sup>2</sup>
+dhaṃseti2
 
 caus. pr. 3 sg. of dhamsati makes fall; deprives of; destroys; scatters, disperses
 
@@ -80632,11 +80632,11 @@ see_also = []
 also_written_as = []
 ```
 
-dhārā<sup>1</sup>
+dhārā1
 
 feminine a stream of water; a drop of liquid; a stream, a shower.
 
-dhārā<sup>2</sup>
+dhārā2
 
 feminine the sharp edge of a knife or a sword etc.; a blade.
 
@@ -81511,11 +81511,11 @@ see_also = ["dīpeti"]
 also_written_as = []
 ```
 
-dippati<sup>1</sup>
+dippati1
 
 pr. 3 sg. shines, blazes; is manifest; appears clearly.
 
-dippati<sup>2</sup>
+dippati2
 
 pass pr. 3 sg. of dīpeti
 
@@ -81741,14 +81741,14 @@ see_also = []
 also_written_as = []
 ```
 
-disā<sup>1</sup>
+disā1
 
 f., pl.
 
 1. (f.) a direction, a cardinal point; a quarter of the sky; a region, area.
 2. (pl.) another region, another country; abroad; elsewhere.
 
-disā<sup>2</sup>
+disā2
 
 adverb in the four directions.
 
@@ -82591,11 +82591,11 @@ see_also = []
 also_written_as = []
 ```
 
-dosa<sup>1</sup>
+dosa1
 
 masculine a fault, a defect, a deficiency; harm, a detrimental effect.
 
-dosa<sup>2</sup>
+dosa2
 
 masculine & mfn.
 
@@ -85771,14 +85771,14 @@ see_also = []
 also_written_as = []
 ```
 
-dussati<sup>1</sup>
+dussati1
 
 pr. 3 sg.
 
 1. be comes dirtied or spoilt or damaged.
 2. commits a fault, does wrong.
 
-dussati<sup>2</sup>
+dussati2
 
 pr. 3 sg. is unfriendly or hostile towards.
 
@@ -86011,11 +86011,11 @@ see_also = []
 also_written_as = []
 ```
 
-duttara<sup>1</sup>
+duttara1
 
 mfn. difficult to cross over, to pass beyond.
 
-duttara<sup>2</sup>
+duttara2
 
 mfn. hard to cross over; hard to climb out of or escape from.
 
@@ -86225,11 +86225,11 @@ see_also = []
 also_written_as = []
 ```
 
-duṭṭha<sup>1</sup>
+duṭṭha1
 
 pp mfn corrupt; spoilt; sullied.
 
-duṭṭha<sup>2</sup>
+duṭṭha2
 
 pp. mfn. & masculine bearing ill\-will; inimical; angered; malignant; (of animals) enraged; vicious; a rogue, a villain.
 
@@ -86263,11 +86263,11 @@ see_also = []
 also_written_as = []
 ```
 
-duṭṭhulla<sup>1</sup>
+duṭṭhulla1
 
 mfn. (mfn. & n.) serious; grievously wrong; a serious offense; esp. of speech: unseemly, suggestive, lewd; lewd talk.
 
-duṭṭhulla<sup>2</sup>
+duṭṭhulla2
 
 neuter discomfort; disquiet.
 
@@ -87575,11 +87575,11 @@ see_also = []
 also_written_as = []
 ```
 
-dvādasaka<sup>1</sup>
+dvādasaka1
 
 neuter a set of twelve.
 
-dvādasaka<sup>2</sup>
+dvādasaka2
 
 mf(\~ī)n. consisting of twelve.
 
@@ -89376,11 +89376,11 @@ see_also = []
 also_written_as = []
 ```
 
-dīpa<sup>1</sup>
+dīpa1
 
 masculine a lamp, a light.
 
-dīpa<sup>2</sup>
+dīpa2
 
 masculine neuter
 
@@ -90189,11 +90189,11 @@ see_also = ["eti", "eti"]
 also_written_as = []
 ```
 
-ehisi<sup>1</sup>
+ehisi1
 
 2 sg.
 
-ehisi<sup>2</sup>
+ehisi2
 
 2 sg.
 
@@ -90591,11 +90591,11 @@ see_also = ["ekaccika"]
 also_written_as = []
 ```
 
-ekacciya<sup>1</sup>
+ekacciya1
 
 mfn. single, of a single thickness
 
-ekacciya<sup>2</sup>
+ekacciya2
 
 mfn. a certain, a certain sort of; some.
 
@@ -90841,11 +90841,11 @@ see_also = ["eka", "eka"]
 also_written_as = []
 ```
 
-ekagārika<sup>1</sup>
+ekagārika1
 
 neuter attacking and robbing isolated houses
 
-ekagārika<sup>2</sup>
+ekagārika2
 
 m(fn). taking alms only from one house
 
@@ -91577,14 +91577,14 @@ see_also = ["eka", "eka"]
 also_written_as = []
 ```
 
-ekatta<sup>1</sup>
+ekatta1
 
 neuter abstr. the being one;
 
 1. oneness, unity; identity; integration; a collective idea; a single concept; the single number, the singular;
 2. singleness, being alone, solitariness
 
-ekatta<sup>2</sup>
+ekatta2
 
 mfn. onl, being the only one; unique; of one nature, of a single kind, uniform
 
@@ -91631,12 +91631,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["ekatta", "ekatta"]
-also_written_as = ["ekattasaññin<sup>1</sup>"]
+also_written_as = ["ekattasaññin1"]
 ```
 
 having a notion of unity or identity; (*ekattasaññi(n)*)
 
-ekattasaññi(n)<sup>2</sup>
+ekattasaññi(n)2
 
 mfn. having perceptions or notions of the same nature; (*ekattasaññi(n)*)
 
@@ -91651,12 +91651,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["ekatta", "ekatta"]
-also_written_as = ["ekattasaññin<sup>1</sup>"]
+also_written_as = ["ekattasaññin1"]
 ```
 
 having a notion of unity or identity; (*ekattasaññi(n)*)
 
-ekattasaññi(n)<sup>2</sup>
+ekattasaññi(n)2
 
 mfn. having perceptions or notions of the same nature; (*ekattasaññi(n)*)
 
@@ -91690,11 +91690,11 @@ see_also = ["ekaṭṭha", "eka"]
 also_written_as = []
 ```
 
-ekattha<sup>1</sup>
+ekattha1
 
 ind. in one place; in one and the same place; in only one place.
 
-ekattha<sup>2</sup>
+ekattha2
 
 mfn. having one meaning; having the same sense
 
@@ -91894,14 +91894,14 @@ see_also = ["eka", "eka"]
 also_written_as = []
 ```
 
-ekaṃsa<sup>1</sup>
+ekaṃsa1
 
 masculine
 
 1. one part.
 2. certainty; absolute assurance
 
-ekaṃsa<sup>2</sup>
+ekaṃsa2
 
 masculine & mfn.
 
@@ -92713,11 +92713,11 @@ see_also = ["ekūnatiṃsaṃ"]
 also_written_as = []
 ```
 
-ekūnatiṃsa<sup>1</sup>
+ekūnatiṃsa1
 
 num. 29
 
-ekūnatiṃsa<sup>2</sup>
+ekūnatiṃsa2
 
 mfn. 29th; 29 (yrs. old).
 
@@ -93087,14 +93087,14 @@ see_also = ["esanā"]
 also_written_as = []
 ```
 
-esana<sup>1</sup>
+esana1
 
 feminine
 
 1. seeking, seeking to obtain; search (esp. for food or means of living).
 2. probing
 
-esana<sup>2</sup>
+esana2
 
 mfn. seeking, searching for.
 
@@ -93513,11 +93513,11 @@ see_also = ["ayati", "iti"]
 also_written_as = []
 ```
 
-eti<sup>1</sup>
+eti1
 
 pr. 3 sg. goes; goes towards; reaches, obtains; reaches (a state); is involved (in)
 
-eti<sup>2</sup>
+eti2
 
 pr. 3 sg. comes, comes to; approaches; comes back, returns.
 
@@ -93759,7 +93759,7 @@ see_also = ["eva", "eva"]
 also_written_as = []
 ```
 
-eva<sup>1</sup>
+eva1
 
 ind.
 
@@ -93768,7 +93768,7 @@ ind.
 3. indeed, really; certainly; absolutely; even, still.
 4. eva is especially common in combination with other particles, e.g.: c’eva… ca …, both … and ….
 
-eva<sup>2</sup>
+eva2
 
 ind. like, as; as it were.
 
@@ -94949,14 +94949,14 @@ see_also = []
 also_written_as = []
 ```
 
-gaha<sup>1</sup>
+gaha1
 
 masculine & neuter
 
 1. a house, a home, a store house.
 2. a seizer, one who seizes; seizing, laying hold of; one who holds.
 
-gaha<sup>2</sup>
+gaha2
 
 masculine a seizer, one who seizes; seizing, laying hold of; one who holds.
 
@@ -95103,11 +95103,11 @@ see_also = []
 also_written_as = []
 ```
 
-gahapati<sup>1</sup>
+gahapati1
 
 masculine the master of a house, the head of the family, one whose business is trade or agriculture.
 
-gahapati<sup>2</sup>
+gahapati2
 
 masculine place of storage or cooking.
 
@@ -98742,11 +98742,11 @@ see_also = []
 also_written_as = []
 ```
 
-gedha<sup>1</sup>
+gedha1
 
 masculine feminine greedy, hungry desire; eager longing.
 
-gedha<sup>2</sup>
+gedha2
 
 mfn. thick, dense, entangled, or a thicket.
 
@@ -98828,11 +98828,11 @@ see_also = ["gedha"]
 also_written_as = []
 ```
 
-geha<sup>1</sup>
+geha1
 
 neuter house; dwelling place; shelter; a home, a household; esp. that of a layman, living in a worldly life in a family.
 
-geha<sup>2</sup>
+geha2
 
 m of gedha
 
@@ -99331,11 +99331,11 @@ see_also = ["ghaṭā"]
 also_written_as = []
 ```
 
-ghaṭa<sup>1</sup>
+ghaṭa1
 
 masculine a pitcher, a pot, esp. for water; a large water jar.
 
-ghaṭa<sup>2</sup>
+ghaṭa2
 
 masculine
 
@@ -99449,11 +99449,11 @@ see_also = []
 also_written_as = []
 ```
 
-ghaṭikā<sup>1</sup>
+ghaṭikā1
 
 feminine a jar, a pot; a water pitcher.
 
-ghaṭikā<sup>2</sup>
+ghaṭikā2
 
 feminine
 
@@ -102898,11 +102898,11 @@ see_also = []
 also_written_as = []
 ```
 
-gādha<sup>1</sup>
+gādha1
 
 neuter firm footing (in water); firm ground.
 
-gādha<sup>2</sup>
+gādha2
 
 masculine or neuter a hole; a refuge.
 
@@ -102936,11 +102936,11 @@ see_also = []
 also_written_as = []
 ```
 
-gāha<sup>1</sup>
+gāha1
 
 masculine a hiding place; retreat; or diving in, penetrating.
 
-gāha<sup>2</sup>
+gāha2
 
 mfn. & m. neuter
 
@@ -104300,11 +104300,11 @@ see_also = []
 also_written_as = []
 ```
 
-icchati<sup>1</sup>
+icchati1
 
 pr. 3 sg. wishes, wishes for; desires, longs for; strives to obtain; is willing, intends.
 
-icchati<sup>2</sup>
+icchati2
 
 pr. 3 sg. goes moves; reaches; obtains.
 
@@ -104600,7 +104600,7 @@ see_also = []
 also_written_as = []
 ```
 
-idaṃ<sup>1</sup>
+idaṃ1
 
 neuter demonstr. pronoun
 
@@ -104609,7 +104609,7 @@ neuter demonstr. pronoun
 3. (with rel. pronoun) whoever, whatever.
 4. (as personal pronoun) of him, of her; his, etc.
 
-idaṃ<sup>2</sup>
+idaṃ2
 
 neuter adv. (sometimes ida) here; now, thus; there.
 
@@ -105305,7 +105305,7 @@ see_also = []
 also_written_as = []
 ```
 
-issara<sup>1</sup>
+issara1
 
 mfn. and masculine
 
@@ -105314,7 +105314,7 @@ mfn. and masculine
    1. one in authority, with power; a lord, a king; a chief; a master.
    2. the Lord; the supreme deity; a creator god.
 
-issara<sup>2</sup>
+issara2
 
 neuter supremacy, kingship; royal power.
 
@@ -105717,7 +105717,7 @@ see_also = ["ayati", "eti"]
 also_written_as = []
 ```
 
-iti<sup>1</sup>
+iti1
 
 ind. (before vowels except i usually taking the form ice or, occasionally, itv), in this way; so; thus (often following a clause ending with ti); iti is used especially to mark
 
@@ -105727,7 +105727,7 @@ ind. (before vowels except i usually taking the form ice or, occasionally, itv),
 
 2. a single word or name or expression; a list.
 
-iti<sup>2</sup>
+iti2
 
 pr. 3 sg. goes; goes towards; reaches, obtains; reaches (a state); is involved (in)
 
@@ -106091,11 +106091,11 @@ see_also = []
 also_written_as = []
 ```
 
-itthatta<sup>1</sup>
+itthatta1
 
 neuter the state of being thus; existence in this form; existence here.
 
-itthatta<sup>2</sup>
+itthatta2
 
 neuter the state of being a woman; femaleness.
 
@@ -107445,14 +107445,14 @@ see_also = []
 also_written_as = []
 ```
 
-jana<sup>1</sup>
+jana1
 
 masculine
 
 1. (m.) generating.
 2. (m.) (sg.) people; the people; people of the household; (rarely) a person; (pl.) people; persons; creatures.
 
-jana<sup>2</sup>
+jana2
 
 neuter generating birth.
 
@@ -107870,11 +107870,11 @@ see_also = []
 also_written_as = []
 ```
 
-jantu<sup>1</sup>
+jantu1
 
 masculine a creature; a living being; a person.
 
-jantu<sup>2</sup>
+jantu2
 
 masculine or neuter a kind of grass.
 
@@ -108053,18 +108053,18 @@ see_also = []
 also_written_as = []
 ```
 
-jappa<sup>1</sup>
+jappa1
 
 neuter whispering; a muttered prayer or spell; a recitation of the Vedas.
 
-jappa<sup>2</sup>
+jappa2
 
 masculine
 
 1. talk, speech.
 2. idle talk, chatter.
 
-jappa<sup>3</sup>
+jappa3
 
 feminine longing; desire.
 
@@ -108095,12 +108095,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["jappati", "jappati"]
-also_written_as = ["jappat<sup>1</sup>"]
+also_written_as = ["jappat1"]
 ```
 
 of jappati
 
-jappa(t)<sup>2</sup>
+jappa(t)2
 
 part. pr. mfn. of jappati
 
@@ -108118,14 +108118,14 @@ see_also = []
 also_written_as = []
 ```
 
-jappati<sup>1</sup>
+jappati1
 
 pr. 3 sg.
 
 1. speaks; converses with; prattles; mutters.
 2. mutters or recites the Vedas.
 
-jappati<sup>2</sup>
+jappati2
 
 pr. 3. sg prays for; desires; longs for.
 
@@ -108191,11 +108191,11 @@ see_also = []
 also_written_as = []
 ```
 
-jara<sup>1</sup>
+jara1
 
 mfn. old; worn out.
 
-jara<sup>2</sup>
+jara2
 
 masculine fever.
 
@@ -108421,11 +108421,11 @@ see_also = []
 also_written_as = []
 ```
 
-jatu<sup>1</sup>
+jatu1
 
 neuter gum or resin; lac.
 
-jatu<sup>2</sup>
+jatu2
 
 feminine a bat.
 
@@ -108620,11 +108620,11 @@ see_also = ["jaññā", "jaññā"]
 also_written_as = []
 ```
 
-jaññu<sup>1</sup>
+jaññu1
 
 opt. 3 sg.
 
-jaññu<sup>2</sup>
+jaññu2
 
 3 pl.
 
@@ -108642,15 +108642,15 @@ see_also = ["jānāti", "jānāti", "jānāti"]
 also_written_as = []
 ```
 
-jaññā<sup>1</sup>
+jaññā1
 
 opt. 3 sg. of jānāti
 
-jaññā<sup>2</sup>
+jaññā2
 
 3 pl. of jānāti
 
-jaññā<sup>3</sup>
+jaññā3
 
 absol. of jānāti
 
@@ -109600,11 +109600,11 @@ see_also = []
 also_written_as = []
 ```
 
-jhāyati<sup>1</sup>
+jhāyati1
 
 pr. 3 sg. burns, is on fire, is consumed, wastes away, dries up.
 
-jhāyati<sup>2</sup>
+jhāyati2
 
 pr. 3 sg. meditates, contemplates, thinks upon, broods over; is thoughtful or meditative.
 
@@ -109959,11 +109959,11 @@ see_also = []
 also_written_as = []
 ```
 
-jina<sup>1</sup>
+jina1
 
 masculine for Buddhists a designation usually only of a buddha; rarely of a paccekabuddha.
 
-jina<sup>2</sup>
+jina2
 
 mfn. beaten, conquered; or deprived (of property)
 
@@ -109981,11 +109981,11 @@ see_also = []
 also_written_as = []
 ```
 
-jinati<sup>1</sup>
+jinati1
 
 pr. 3. sg wins, is victorious; conquers, defeats; wins.
 
-jinati<sup>2</sup>
+jinati2
 
 pr. 3 sg. oppresses; deprives someone of property, confiscates someone’s property; fines.
 
@@ -110263,11 +110263,11 @@ see_also = []
 also_written_as = []
 ```
 
-jiyati<sup>1</sup>
+jiyati1
 
 pass. pr. 3 sg. is defeated, loses (something, acc., in dicing or gambling)
 
-jiyati<sup>2</sup>
+jiyati2
 
 pr. 3 sg. grows old; decays, wears out; perishes.
 
@@ -110285,11 +110285,11 @@ see_also = ["jīyati", "jīyati"]
 also_written_as = []
 ```
 
-jiyyati<sup>1</sup>
+jiyyati1
 
 pass. pr. 3 sg.
 
-jiyyati<sup>2</sup>
+jiyyati2
 
 pr. 3 sg.
 
@@ -110772,11 +110772,11 @@ see_also = ["juṇhā"]
 also_written_as = []
 ```
 
-juṇha<sup>1</sup>
+juṇha1
 
 masculine the light half of a month.
 
-juṇha<sup>2</sup>
+juṇha2
 
 f of juṇhā
 
@@ -111031,7 +111031,7 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["jālin<sup>1</sup>"]
+also_written_as = ["jālin1"]
 ```
 
 1. (mfn.)
@@ -111040,7 +111040,7 @@ also_written_as = ["jālin<sup>1</sup>"]
 
 2. (taṇhā) the ensnarer, desire.
 
-jāli(n)<sup>2</sup>
+jāli(n)2
 
 masculine & neuter possessing flames.
 
@@ -111055,7 +111055,7 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["jālin<sup>1</sup>"]
+also_written_as = ["jālin1"]
 ```
 
 1. (mfn.)
@@ -111064,7 +111064,7 @@ also_written_as = ["jālin<sup>1</sup>"]
 
 2. (taṇhā) the ensnarer, desire.
 
-jāli(n)<sup>2</sup>
+jāli(n)2
 
 mfn. possessing flames.
 
@@ -111402,11 +111402,11 @@ see_also = []
 also_written_as = []
 ```
 
-jāni<sup>1</sup>
+jāni1
 
 feminine a wife.
 
-jāni<sup>2</sup>
+jāni2
 
 feminine loss, deprivation; fine, confiscation.
 
@@ -111874,11 +111874,11 @@ see_also = []
 also_written_as = []
 ```
 
-jātaka<sup>1</sup>
+jātaka1
 
 neuter a birth; a story describing a previous life of the Buddha (when he was a *bodhisatta*); the name of one of the nine categories (*aṅgas*) of the scriptures; one of the collections making up the Khuddakanikaya of the Pāḷi canon.
 
-jātaka<sup>2</sup>
+jātaka2
 
 mfn. born; grown; growing.
 
@@ -112605,11 +112605,11 @@ see_also = []
 also_written_as = []
 ```
 
-jīrati<sup>1</sup>
+jīrati1
 
 pr. 3 sg. (abs.) having burnt.
 
-jīrati<sup>2</sup>
+jīrati2
 
 pr. 3 sg. grows, increases.
 
@@ -112949,11 +112949,11 @@ see_also = []
 also_written_as = []
 ```
 
-jīyati<sup>1</sup>
+jīyati1
 
 pr. 3 sg. grows old; decays, wears out; perishes.
 
-jīyati<sup>2</sup>
+jīyati2
 
 pass. pr. 3 sg. is oppressed; is deprived of; loses.
 
@@ -113195,27 +113195,27 @@ see_also = ["kacchā", "katheti"]
 also_written_as = []
 ```
 
-kaccha<sup>1</sup>
+kaccha1
 
 masculine neuter a forest, esp. a dry wood; deadwood; under wood.
 
-kaccha<sup>2</sup>
+kaccha2
 
 m.(& n. (?) pl. acc. \~āni) the armpit.
 
-kaccha<sup>3</sup>
+kaccha3
 
 masculine a girdle, belt, esp. the girth of an elephant; the end of the lower garment (brought up behind and tucked into the waistband).
 
-kaccha<sup>4</sup>
+kaccha4
 
 masculine neuter marshy ground; a water\-meadow; (according to commentaries) an upland meadow, a meadow on a hillside.
 
-kaccha<sup>5</sup>
+kaccha5
 
 masculine neuter growing (naturally) in a meadow; (from a natural wood;)
 
-kaccha<sup>6</sup>
+kaccha6
 
 mfn. fit to be spoken to
 
@@ -115461,11 +115461,11 @@ see_also = ["kantati"]
 also_written_as = []
 ```
 
-kanta<sup>1</sup>
+kanta1
 
 mfn. & masculine desired; loved; pleasing, lovely.
 
-kanta<sup>2</sup>
+kanta2
 
 pp mfn. spun
 
@@ -115483,11 +115483,11 @@ see_also = ["kanteti"]
 also_written_as = []
 ```
 
-kantati<sup>1</sup>
+kantati1
 
 pr. 3 sg. cuts; destroys
 
-kantati<sup>2</sup>
+kantati2
 
 pr. 3 sg. spins.
 
@@ -115713,11 +115713,11 @@ see_also = []
 also_written_as = []
 ```
 
-kapalla<sup>1</sup>
+kapalla1
 
 neuter a bowl (of earthenware); an alms\-bowl; a cooking\-pan; a piece of earthenware.
 
-kapalla<sup>2</sup>
+kapalla2
 
 neuter lampblack, soot (used as eye preparation).
 
@@ -116339,11 +116339,11 @@ see_also = []
 also_written_as = []
 ```
 
-kappiya<sup>1</sup>
+kappiya1
 
 mfn. according to the rule; lawful, allowable, acceptable; (for *bhikkhus* and *bhikkhunīs*); suitable, proper; (what is) proper.
 
-kappiya<sup>2</sup>
+kappiya2
 
 mfn. to be imagined, to be theorized about; subject to imaginings or theories.
 
@@ -118693,11 +118693,11 @@ see_also = []
 also_written_as = []
 ```
 
-kathā<sup>1</sup>
+kathā1
 
 feminine talking, talk, conversation; discussion; a talk, discourse; an account, a story.
 
-kathā<sup>2</sup>
+kathā2
 
 ind. how?.
 
@@ -120883,14 +120883,14 @@ see_also = []
 also_written_as = []
 ```
 
-kaṇṭaka<sup>1</sup>
+kaṇṭaka1
 
 m. & neuter
 
 1. a point; a thorn, a prickle; a spike.
 2. an annoyance, obstacle, impediment.
 
-kaṇṭaka<sup>2</sup>
+kaṇṭaka2
 
 m. & neuter thorny; with a rough stalk.
 
@@ -121300,14 +121300,14 @@ neuter a framework (covered with a mat) to which the cloth for making robes was 
 2. participates, at the end of the rains\-residence, in a communal robe\-making, during which certain rules and practices are suspended (perhaps in order to facilitate the robe making); this involves: a) a *saṅghakamma* allotting the material (and the use of the *kaṭhina*) to a *bhikkhu* according to need and seniority; b) the preparation of the robe, by all the participating *bhikkhus*, from washing the cloth to adding the *kappabindu* the approval of the robe by one or more *bhikkhus* . Only those can take part and share the privileges who have spent the earlier rain\-retreat within that *sīmā* and have participated in the *pavāranā* ceremony. A minimum of five *bhikkhus* is required, but unqualified ones may make up the number without sharing the privileges. The donor gives cloth, sewing materials and food to the participating *bhikkhus* . The whole process must be completed in one day.
 3. displays the finished robe.
 
-kaṭhinaṃ attharataṃ<sup>1</sup>
+kaṭhinaṃ attharataṃ1
 
 neuter
 
 1. As well as referring to the literal covering of the *kaṭhina* and the proper carrying\-out of the communal robe making, also describes a state existing in an *āvāsa* where qualified *bhikkhu* have a claim on material given to the *saṅgha* (and on the use of the *kaṭhina*) and enjoy the five concessions or privileges; at the end of five months (or earlier by decision of the *saṅgha*) this special state is ended (*kaṭhinam uddhariyati*, the *kaṭhina* is removed or put away, *ubbhataṃ*); the claims and privileges of individual *bhikkhus* end at this time, or before, if they leave the āvāsa, not intending to return.
 2. the *kaṭhina* robemaking and ritual; (the materials for) the *kaṭhina* ceremony.
 
-kaṭhinaṃ attharataṃ<sup>2</sup>
+kaṭhinaṃ attharataṃ2
 
 (?) also implies that the special concessions associated with the *kaṭhina* ritual are in force
 
@@ -121698,11 +121698,11 @@ see_also = ["kasati"]
 also_written_as = []
 ```
 
-kaṭṭha<sup>1</sup>
+kaṭṭha1
 
 neuter wood; a piece of wood, a stick, a twig; esp. wood used as fuel, kindling, firewood.
 
-kaṭṭha<sup>2</sup>
+kaṭṭha2
 
 pp mfn. plowed
 
@@ -122489,14 +122489,14 @@ see_also = []
 also_written_as = []
 ```
 
-khalita<sup>1</sup>
+khalita1
 
 pp mfn. & neuter
 
 1. (mfn.) (act.) stumbling; going wrong; stammering, faltering; who has erred, gone wrong.
 2. (n.) blunder, error; stumbling; stammering.
 
-khalita<sup>2</sup>
+khalita2
 
 mfn. with thinning hair, balding.
 
@@ -122706,11 +122706,11 @@ see_also = ["khamati"]
 also_written_as = []
 ```
 
-khama<sup>1</sup>
+khama1
 
 mfn. patient, enduring; able to put up with; forbearing; amenable to; adequate, fit for; appropriate, proper for.
 
-khama<sup>2</sup>
+khama2
 
 2 sg.
 
@@ -123070,11 +123070,11 @@ see_also = ["khaṇati", "khaṇati"]
 also_written_as = []
 ```
 
-khanati<sup>1</sup>
+khanati1
 
 pr. 3 sg. hurts, injures; impairs
 
-khanati<sup>2</sup>
+khanati2
 
 pr. 3 sg. digs; digs up; excavates
 
@@ -123448,12 +123448,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["khattar<sup>1</sup>"]
+also_written_as = ["khattar1"]
 ```
 
 an attendant, a porter, an equerry; a steward.
 
-khatta(r)<sup>2</sup>
+khatta(r)2
 
 masculine a digger; one who digs.
 
@@ -123468,12 +123468,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["khattar<sup>1</sup>"]
+also_written_as = ["khattar1"]
 ```
 
 an attendant, a porter, an equerry; a steward.
 
-khatta(r)<sup>2</sup>
+khatta(r)2
 
 masculine a digger; one who digs.
 
@@ -123879,11 +123879,11 @@ see_also = ["khanati", "khanati"]
 also_written_as = []
 ```
 
-khaṇati<sup>1</sup>
+khaṇati1
 
 pr. 3 sg. hurts, injures; impairs
 
-khaṇati<sup>2</sup>
+khaṇati2
 
 pr. 3 sg. digs; digs up; excavates
 
@@ -124319,11 +124319,11 @@ see_also = ["khema", "khema"]
 also_written_as = []
 ```
 
-khematta<sup>1</sup>
+khematta1
 
 m(fn). one who is secure, at peace
 
-khematta<sup>2</sup>
+khematta2
 
 neuter abstr. security, safety; well being; peace
 
@@ -124389,11 +124389,11 @@ see_also = []
 also_written_as = []
 ```
 
-khepetvā<sup>1</sup>
+khepetvā1
 
 absol. having used up, diminished; destroyed; made an end of.
 
-khepetvā<sup>2</sup>
+khepetvā2
 
 absol. having (passed) time; spent; passed through (space).
 
@@ -124687,11 +124687,11 @@ see_also = ["khipa"]
 also_written_as = []
 ```
 
-khippa<sup>1</sup>
+khippa1
 
 neuter a basket for catching fish, a trap
 
-khippa<sup>2</sup>
+khippa2
 
 mfn. quick; swift.
 
@@ -124871,11 +124871,11 @@ see_also = ["khīyati", "khīyati"]
 also_written_as = []
 ```
 
-khiyyati<sup>1</sup>
+khiyyati1
 
 pass. pr. 3 sg. is exhausted, used up; is diminished, decreases; wastes away; perishes, comes to an end
 
-khiyyati<sup>2</sup>
+khiyyati2
 
 pass. pr. 3 sg. expresses anger, complains; criticises publicly, denounces
 
@@ -125048,11 +125048,11 @@ see_also = []
 also_written_as = []
 ```
 
-khudda<sup>1</sup>
+khudda1
 
 mfn. small, minute; trifling; poor, weak; mean, low.
 
-khudda<sup>2</sup>
+khudda2
 
 neuter (& mfn?) honey.
 
@@ -126229,11 +126229,11 @@ see_also = ["khiyyati", "khiyyati"]
 also_written_as = []
 ```
 
-khīyati<sup>1</sup>
+khīyati1
 
 pass. pr. 3 sg. is exhausted, used up; is diminished, decreases; wastes away; perishes, comes to an end
 
-khīyati<sup>2</sup>
+khīyati2
 
 pass. pr. 3 sg. expresses anger, complains; criticises publicly, denounces
 
@@ -126251,11 +126251,11 @@ see_also = ["khīyati", "khīyati"]
 also_written_as = []
 ```
 
-khīyi<sup>1</sup>
+khīyi1
 
 aor. 3 sg.
 
-khīyi<sup>2</sup>
+khīyi2
 
 aor. 3 sg.
 
@@ -127109,11 +127109,11 @@ see_also = ["kilisati", "kilisnāti", "klissati", "kilissati"]
 also_written_as = []
 ```
 
-kilissati<sup>1</sup>
+kilissati1
 
 pr. 3 sg. troubles, afflicts, molests; spoils
 
-kilissati<sup>2</sup>
+kilissati2
 
 3 sg. is troubled, is afflicted; feels pain is or becomes dirty or stained; is morally stained
 
@@ -128145,11 +128145,11 @@ see_also = ["kiñcanaṃ"]
 also_written_as = []
 ```
 
-kiñcana<sup>1</sup>
+kiñcana1
 
 neuter (& m.) something; anything; (as abstracted from *akiñcana*, interpreted as) an impediment or defilement.
 
-kiñcana<sup>2</sup>
+kiñcana2
 
 adv. at all, in any way
 
@@ -130085,11 +130085,11 @@ see_also = []
 also_written_as = []
 ```
 
-koñca<sup>1</sup>
+koñca1
 
 masculine (or n.) a trumpeting noise.
 
-koñca<sup>2</sup>
+koñca2
 
 masculine a land of bird, prob, a heron or crane; (possibly a curlew).
 
@@ -130350,11 +130350,11 @@ see_also = []
 also_written_as = []
 ```
 
-koṭṭhaka<sup>1</sup>
+koṭṭhaka1
 
 masculine an enclosure or room at the gate, a porch, a gatehouse.
 
-koṭṭhaka<sup>2</sup>
+koṭṭhaka2
 
 masculine a stone\-cutter, a mason (?); a carpenter (?).
 
@@ -131066,7 +131066,7 @@ also_written_as = []
 
 linear measure (about 45 cm).
 
-kukku<sup>2</sup>
+kukku2
 
 mfn. according to commentary) (what is) temporary; given for a limited time
 
@@ -131358,11 +131358,11 @@ see_also = []
 also_written_as = []
 ```
 
-kukkuṭaka<sup>1</sup>
+kukkuṭaka1
 
 masculine a cock.
 
-kukkuṭaka<sup>2</sup>
+kukkuṭaka2
 
 ind. onomat. a cock’s cry.
 
@@ -134146,11 +134146,11 @@ see_also = ["kāja"]
 also_written_as = []
 ```
 
-kāca<sup>1</sup>
+kāca1
 
 masculine glass; a clay for making glass.
 
-kāca<sup>2</sup>
+kāca2
 
 masculine a carrying\-pole (a pole with ropes to which burdens are attached); a carrying\-pole’s load
 
@@ -134408,7 +134408,7 @@ see_also = ["kāḷa"]
 also_written_as = []
 ```
 
-kāla<sup>1</sup>
+kāla1
 
 masculine time;
 
@@ -134418,7 +134418,7 @@ masculine time;
 2. the proper time for (gen., dat., inf., or yaṃ \+ opt.); the right time; a suitable time.
 3. time as lifetime; time as destroyer; death.
 
-kāla<sup>2</sup>
+kāla2
 
 mf(\~ā & ī)n. m. & neuter
 
@@ -135749,11 +135749,11 @@ see_also = ["kāraṇa"]
 also_written_as = []
 ```
 
-kāraṇā<sup>1</sup>
+kāraṇā1
 
 abl. because of; for the sake of (\+gen. or ifc)
 
-kāraṇā<sup>2</sup>
+kāraṇā2
 
 feminine torture, pain; punishment.
 
@@ -136203,11 +136203,11 @@ see_also = []
 also_written_as = []
 ```
 
-kāsa<sup>1</sup>
+kāsa1
 
 masculine a species of grass.
 
-kāsa<sup>2</sup>
+kāsa2
 
 masculine a cough.
 
@@ -137906,14 +137906,14 @@ see_also = []
 also_written_as = []
 ```
 
-kūṭa<sup>1</sup>
+kūṭa1
 
 masculine n.
 
 1. (m.n.) a prominence or projection; a horn; a summit, a peak.
 2. (n.) the peak of a roof, the roof\-plate or roofridge into which the ends of the rafters are inserted.
 
-kūṭa<sup>2</sup>
+kūṭa2
 
 masculine n. & mfn.
 
@@ -138046,15 +138046,15 @@ see_also = ["ciraṃ", "ciraṃ"]
 also_written_as = []
 ```
 
-na ciraṃ<sup>1</sup>
+na ciraṃ1
 
 not long; not for a long time
 
-na ciraṃ<sup>2</sup>
+na ciraṃ2
 
 not after a long time; soon
 
-na ciraṃ<sup>3</sup>
+na ciraṃ3
 
 soon.
 
@@ -138088,19 +138088,19 @@ see_also = ["naṃ"]
 also_written_as = []
 ```
 
-na<sup>1</sup>
+na1
 
 (negative particle) not; no; nor; neither; na doubled with a single verb is a strong affirmation; in successive clauses or phrases na is often simply repeated, but is also often strengthened by another particle; na … na pi/nāpi …, n’ eva . . . na …, n’ eva . . . na pana …, na c’ eva . . na …, not … not …; neither … nor …; na is often followed by one or more other particles: not at all; certainly not; indeed not; na kho, na kho pana; na tu, na ca, but not; and not; rather than; na is sometimes used (or written) iic: not\-a\-, a not\-; without.
 
-na<sup>2</sup>
+na2
 
 indeclinable interrogative particle.
 
-na<sup>3</sup>
+na3
 
 ind. of naṃ
 
-na<sup>4</sup>
+na4
 
 mfn. demonstr. pronoun in acc. often following a particle, esp. atha, or at the end of a sentence, after imperat. or fut., and so possibly to be interpreted as particle.
 
@@ -140345,14 +140345,14 @@ see_also = []
 also_written_as = []
 ```
 
-nava<sup>1</sup>
+nava1
 
 mfn.
 
 1. new, fresh; recent; young; (iic also: newly, recently)
 2. new, having recently entered the *saṅgha*; a novice.
 
-nava<sup>2</sup>
+nava2
 
 num. nine.
 
@@ -140434,11 +140434,11 @@ see_also = []
 also_written_as = []
 ```
 
-navaka<sup>1</sup>
+navaka1
 
 masculine new; having recently entered the *saṅgha*; a novice.
 
-navaka<sup>2</sup>
+navaka2
 
 masculine & neuter a set of nine; (being) a section consisting of a set or sets of nine.
 
@@ -140874,11 +140874,11 @@ see_also = ["na"]
 also_written_as = []
 ```
 
-naṃ<sup>1</sup>
+naṃ1
 
 sg. acc of na
 
-naṃ<sup>2</sup>
+naṃ2
 
 indeclinable empathic particle: indeed; certainly.
 
@@ -140896,11 +140896,11 @@ see_also = []
 also_written_as = []
 ```
 
-naṅgala<sup>1</sup>
+naṅgala1
 
 neuter a plow.
 
-naṅgala<sup>2</sup>
+naṅgala2
 
 neuter a tail.
 
@@ -140979,12 +140979,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["naṅgala", "naṅgala"]
-also_written_as = ["naṅgalāvattanin<sup>1</sup>"]
+also_written_as = ["naṅgalāvattanin1"]
 ```
 
 turning the plow
 
-naṅgalāvattani(n)<sup>2</sup>
+naṅgalāvattani(n)2
 
 mfn. swishing its tail
 
@@ -140999,12 +140999,12 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = ["naṅgala", "naṅgala"]
-also_written_as = ["naṅgalāvattanin<sup>1</sup>"]
+also_written_as = ["naṅgalāvattanin1"]
 ```
 
 turning the plow
 
-naṅgalāvattani(n)<sup>2</sup>
+naṅgalāvattani(n)2
 
 mfn. swishing its tail
 
@@ -141375,11 +141375,11 @@ see_also = ["nela"]
 also_written_as = []
 ```
 
-nelaṅga<sup>1</sup>
+nelaṅga1
 
 mfn. whose parts are faultless; whose frame is smooth or polished; ?
 
-nelaṅga<sup>2</sup>
+nelaṅga2
 
 mfn. the interior part or seat of a carriage; having an interior part or seat; ?
 
@@ -142621,11 +142621,11 @@ see_also = ["nibbattati"]
 also_written_as = []
 ```
 
-nibbatti<sup>1</sup>
+nibbatti1
 
 caus. pr. 3 sg. of nibbattati
 
-nibbatti<sup>2</sup>
+nibbatti2
 
 aor. 3 sg. coming into being; origination; appearance.
 
@@ -145701,11 +145701,11 @@ see_also = ["nidahati", "nihi"]
 also_written_as = []
 ```
 
-nihita<sup>1</sup>
+nihita1
 
 laid aside; (what is) deposited, stored; hidden; laid down
 
-nihita<sup>2</sup>
+nihita2
 
 pp mfn. of nihi set in motion; impelled
 
@@ -146683,11 +146683,11 @@ see_also = []
 also_written_as = []
 ```
 
-nikhaṇati<sup>1</sup>
+nikhaṇati1
 
 pr. 3 sg. closes (the eye); winks.
 
-nikhaṇati<sup>2</sup>
+nikhaṇati2
 
 pr. 3 sg. digs (something) into (the ground), buries; implants, erects.
 
@@ -147926,11 +147926,11 @@ see_also = []
 also_written_as = []
 ```
 
-nikujjati<sup>1</sup>
+nikujjati1
 
 pr. 3 sg. tums upside down, overtums; places face downwards; esp. tums (a layman’s bowl) upside down, refuses alms (with a formal act of the *saṅgha*)
 
-nikujjati<sup>2</sup>
+nikujjati2
 
 pr. 3 sg. rejects; ? puts aside, stores.
 
@@ -150310,11 +150310,11 @@ see_also = ["nipphoṭeti", "nipphoṭeti"]
 also_written_as = []
 ```
 
-nipphoṭenta<sup>1</sup>
+nipphoṭenta1
 
 part. pr. mfn. of nipphoṭeti
 
-nipphoṭenta<sup>2</sup>
+nipphoṭenta2
 
 part. pr. mfn. of nipphoṭeti
 
@@ -150753,11 +150753,11 @@ see_also = ["nirassati"]
 also_written_as = []
 ```
 
-niratta<sup>1</sup>
+niratta1
 
 mfn. the lack of an enduring self; ? the letting go (of an enduring self); ?
 
-niratta<sup>2</sup>
+niratta2
 
 neuter thrown off; let go.
 
@@ -152979,11 +152979,11 @@ see_also = []
 also_written_as = []
 ```
 
-nivasati<sup>1</sup>
+nivasati1
 
 pr. 3 sg. clothes; dresses oneself.
 
-nivasati<sup>2</sup>
+nivasati2
 
 pr. 3 sg. passes or spends time; dwells, lives (in), inhabits.
 
@@ -153407,11 +153407,11 @@ see_also = ["nibbiṭṭha", "nivisati"]
 also_written_as = []
 ```
 
-niviṭṭha<sup>1</sup>
+niviṭṭha1
 
 3 pl.
 
-niviṭṭha<sup>2</sup>
+niviṭṭha2
 
 pp mfn. of nivisati
 
@@ -153480,11 +153480,11 @@ see_also = ["nivapati"]
 also_written_as = []
 ```
 
-nivutta<sup>1</sup>
+nivutta1
 
 mfn. shaved, cut off.
 
-nivutta<sup>2</sup>
+nivutta2
 
 mfn. thrown down; scattered
 
@@ -153903,14 +153903,14 @@ see_also = []
 also_written_as = []
 ```
 
-nivāta<sup>1</sup>
+nivāta1
 
 pr. 3 sg.
 
 1. (mfn.) sheltered from the wind; unruffled, calm; free from drafts; safe, secure.
 2. (n.) a place sheltered from the wind; absence of wind, calm, stillness; safety, security.
 
-nivāta<sup>2</sup>
+nivāta2
 
 mfn. & neuter humble; modest; biddable; calm, mild.
 
@@ -154778,14 +154778,14 @@ see_also = []
 also_written_as = []
 ```
 
-niṭṭhā<sup>1</sup>
+niṭṭhā1
 
 feminine
 
 1. completion; culminating point; end, object, aim.
 2. death.
 
-niṭṭhā<sup>2</sup>
+niṭṭhā2
 
 certain knowledge, decision, conclusion.
 
@@ -154947,15 +154947,15 @@ see_also = []
 also_written_as = []
 ```
 
-no<sup>1</sup>
+no1
 
 3 pl. us, me.
 
-no<sup>2</sup>
+no2
 
 pl. of us; to us; by us.
 
-no<sup>3</sup>
+no3
 
 pl.
 
@@ -154969,7 +154969,7 @@ pl.
 
 6. no! not so.
 
-no<sup>4</sup>
+no4
 
 indeclinable emphatic and interrog. particle.
 
@@ -155556,7 +155556,7 @@ see_also = []
 also_written_as = []
 ```
 
-nāma<sup>1</sup>
+nāma1
 
 indeclinable
 
@@ -155565,7 +155565,7 @@ indeclinable
    1. to mark a word being defined or explained.
    2. to emphasize a preceding word; with interrogatives or other particles (often expressing astonishment or reproach):
 
-nāma<sup>2</sup>
+nāma2
 
 neuter
 
@@ -155860,11 +155860,11 @@ see_also = []
 also_written_as = []
 ```
 
-nānatta<sup>1</sup>
+nānatta1
 
 neuter various; different; separated.
 
-nānatta<sup>2</sup>
+nānatta2
 
 neuter abstr. diversity, variety; difference.
 
@@ -157823,11 +157823,11 @@ see_also = []
 also_written_as = []
 ```
 
-obhāsa<sup>1</sup>
+obhāsa1
 
 masculine light, luster, radiance; appearance, manifestation.
 
-obhāsa<sup>2</sup>
+obhāsa2
 
 masculine intimation.
 
@@ -157893,11 +157893,11 @@ see_also = ["obhāseti", "obhāsate"]
 also_written_as = []
 ```
 
-obhāsati<sup>1</sup>
+obhāsati1
 
 pr. 3 sg. speaks to suggestively or lewdly or offensively; insults
 
-obhāsati<sup>2</sup>
+obhāsati2
 
 pr. 3 sg. shines forth, is bright; becomes manifest, appears; (perhaps also: shines through, illumines)
 
@@ -159233,11 +159233,11 @@ see_also = ["ogāhati", "ogāhati"]
 also_written_as = []
 ```
 
-ogāhetvā<sup>1</sup>
+ogāhetvā1
 
 absol
 
-ogāhetvā<sup>2</sup>
+ogāhetvā2
 
 caus. absol. plunging (someone) into; immersing; inserting
 
@@ -160206,11 +160206,11 @@ see_also = []
 also_written_as = []
 ```
 
-okkamana<sup>1</sup>
+okkamana1
 
 neuter coming down (into); entering; entering (a womb), conception.
 
-okkamana<sup>2</sup>
+okkamana2
 
 neuter going away from; going astray; neglecting; transgression.
 
@@ -160308,11 +160308,11 @@ see_also = ["okkamayati", "okkamati", "okkāmeti"]
 also_written_as = []
 ```
 
-okkameti<sup>1</sup>
+okkameti1
 
 caus. pr. 3 sg. moves into, enters
 
-okkameti<sup>2</sup>
+okkameti2
 
 caus. pr. 3 sg. makes go up; makes move away.
 
@@ -161466,11 +161466,11 @@ see_also = []
 also_written_as = []
 ```
 
-omasati<sup>1</sup>
+omasati1
 
 pr. 3 sg. hurts; pierces; strikes; strikes in a downward direction; attacks verbally.
 
-omasati<sup>2</sup>
+omasati2
 
 pr. 3 sg. touches, strokes (in a downward direction).
 
@@ -162513,11 +162513,11 @@ see_also = ["opuñchitvā", "opuñjati"]
 also_written_as = []
 ```
 
-opuñjitvā<sup>1</sup>
+opuñjitvā1
 
 absol. having wiped; wiped over (with); smeared
 
-opuñjitvā<sup>2</sup>
+opuñjitvā2
 
 absol.
 
@@ -164023,14 +164023,14 @@ see_also = ["osāreti", "osarati", "osāreti"]
 also_written_as = []
 ```
 
-osārayati<sup>1</sup>
+osārayati1
 
 pp mfn.
 
 1. makes enter; puts into or on to; lowers (into).
 2. makes re\-enter, re\-admits (a *bhikkhu* to the *saṅgha* after suspension)
 
-osārayati<sup>2</sup>
+osārayati2
 
 caus. pr. 3 sg. recites; recounts.
 
@@ -164080,11 +164080,11 @@ see_also = ["osāreti", "osāreti"]
 also_written_as = []
 ```
 
-osārenta<sup>1</sup>
+osārenta1
 
 part. pr. mfn.
 
-osārenta<sup>2</sup>
+osārenta2
 
 part. pr. mfn.
 
@@ -164134,14 +164134,14 @@ see_also = ["osārayati", "osarati", "osārayati"]
 also_written_as = []
 ```
 
-osāreti<sup>1</sup>
+osāreti1
 
 pp mfn.
 
 1. makes enter; puts into or on to; lowers (into).
 2. makes re\-enter, readmits (a *bhikkhu* to the *saṅgha* after suspension)
 
-osāreti<sup>2</sup>
+osāreti2
 
 caus. pr. 3 sg. recites; recounts.
 
@@ -165892,11 +165892,11 @@ see_also = []
 also_written_as = []
 ```
 
-oṭṭha<sup>1</sup>
+oṭṭha1
 
 masculine a camel.
 
-oṭṭha<sup>2</sup>
+oṭṭha2
 
 masculine a lip, lips; the lip of a bowl.
 
@@ -167502,7 +167502,7 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["tadtad<sup>1</sup>"]
+also_written_as = ["tadtad1"]
 ```
 
 demonstr. pronoun & adv.
@@ -167512,7 +167512,7 @@ demonstr. pronoun & adv.
 3. as correlative to ya(d)
 4. repeated, often with indefinite sense: each one; anyone; this and that.
 
-tad<sup>2</sup>
+tad2
 
 acc. adv. there, thither; then; thus, in regard to this; therefore.
 
@@ -167786,7 +167786,7 @@ inflections = []
 synonyms = []
 antonyms = []
 see_also = []
-also_written_as = ["tadtad<sup>1</sup>"]
+also_written_as = ["tadtad1"]
 ```
 
 demonstr. pronoun & adv.
@@ -167796,7 +167796,7 @@ demonstr. pronoun & adv.
 3. as correlative to ya(d)
 4. repeated, often with indefinite sense: each one; anyone; this and that.
 
-tad<sup>2</sup>
+tad2
 
 acc. adv. there, thither; then; thus, in regard to this; therefore.
 
@@ -168422,11 +168422,11 @@ see_also = []
 also_written_as = []
 ```
 
-takka<sup>1</sup>
+takka1
 
 neuter buttermilk mixed with water.
 
-takka<sup>2</sup>
+takka2
 
 masculine conjecture; speculation, reasoning; thought, reflection; estimating.
 
@@ -168460,11 +168460,11 @@ see_also = []
 also_written_as = []
 ```
 
-takkara<sup>1</sup>
+takkara1
 
 mfn (one) who does that, who follows that.
 
-takkara<sup>2</sup>
+takkara2
 
 masculine (m.) a thief.
 
@@ -169157,11 +169157,11 @@ see_also = []
 also_written_as = []
 ```
 
-tapanīya<sup>1</sup>
+tapanīya1
 
 mfn. connected with, causing, pain or distress.
 
-tapanīya<sup>2</sup>
+tapanīya2
 
 neuter gold purified by fire.
 
@@ -169518,11 +169518,11 @@ see_also = ["tarati", "tarati"]
 also_written_as = []
 ```
 
-taramāna<sup>1</sup>
+taramāna1
 
 part. pr. mfn. of tarati
 
-taramāna<sup>2</sup>
+taramāna2
 
 part. pr. mfn. of tarati
 
@@ -169574,11 +169574,11 @@ see_also = []
 also_written_as = []
 ```
 
-tarati<sup>1</sup>
+tarati1
 
 pr. 3 sg. crosses; passes over; crosses to; crosses by swimming; floats; gets beyond, surmounts, overcomes.
 
-tarati<sup>2</sup>
+tarati2
 
 pr. 3 sg. is in a hurry, makes haste; runs.
 
@@ -169660,11 +169660,11 @@ see_also = ["tarita", "turita"]
 also_written_as = []
 ```
 
-taritabba<sup>1</sup>
+taritabba1
 
 fpp mfn.
 
-taritabba<sup>2</sup>
+taritabba2
 
 fpp mfn.
 
@@ -169858,11 +169858,11 @@ see_also = []
 also_written_as = []
 ```
 
-tasati<sup>1</sup>
+tasati1
 
 pr. 3 sg. is thirsty; craves for.
 
-tasati<sup>2</sup>
+tasati2
 
 pr. 3 sg. trembles, shakes; is afraid.
 
@@ -172060,11 +172060,11 @@ see_also = []
 also_written_as = []
 ```
 
-tevijjaka<sup>1</sup>
+tevijjaka1
 
 mfn. who knows the three Vedas.
 
-tevijjaka<sup>2</sup>
+tevijjaka2
 
 mfn. connected with the three Vedas; belonging to those who know the three Vedas.
 
@@ -172437,11 +172437,11 @@ see_also = ["thamba"]
 also_written_as = []
 ```
 
-thambha<sup>1</sup>
+thambha1
 
 masculine
 
-thambha<sup>2</sup>
+thambha2
 
 masculine
 
@@ -172951,11 +172951,11 @@ see_also = []
 also_written_as = []
 ```
 
-theragāthā<sup>1</sup>
+theragāthā1
 
 feminine a verse of an elder; a verse from the Theragāthā.
 
-theragāthā<sup>2</sup>
+theragāthā2
 
 feminine pl. the verses of the elders; one of the collections making up the Khuddakanikāya of the Pāḷi Canon.
 
@@ -174096,14 +174096,14 @@ see_also = []
 also_written_as = []
 ```
 
-ti<sup>1</sup>
+ti1
 
 indeclinable
 
 1. (ind.) a quotation of words or thoughts or intentions, with or without a verb of saying, thinking etc. (serving the purpose of inverted commas)
 2. a single word or name or expression, esp. the lemma in a commentary or a definition.
 
-ti<sup>2</sup>
+ti2
 
 num. the number three; three.
 
@@ -177496,11 +177496,11 @@ see_also = ["tuleti", "tulya"]
 also_written_as = []
 ```
 
-tuliya<sup>1</sup>
+tuliya1
 
 absol. of tuleti
 
-tuliya<sup>2</sup>
+tuliya2
 
 fpp mfn.
 
@@ -178353,11 +178353,11 @@ see_also = []
 also_written_as = []
 ```
 
-tādisa<sup>1</sup>
+tādisa1
 
 mf(\~ā \~ī)n. such a, of such a kind; like that/him/them, the same.
 
-tādisa<sup>2</sup>
+tādisa2
 
 mfn. like you.
 
@@ -178407,15 +178407,15 @@ see_also = ["used as a measure of height", "tāḷa"]
 also_written_as = []
 ```
 
-tāla<sup>1</sup>
+tāla1
 
 masculine the palmyra palm, the fanpalm, borassus flabellifer l.;
 
-tāla<sup>2</sup>
+tāla2
 
 neuter a key.
 
-tāla<sup>3</sup>
+tāla3
 
 masculine
 
@@ -178961,11 +178961,11 @@ see_also = []
 also_written_as = []
 ```
 
-tāreti<sup>1</sup>
+tāreti1
 
 caus. pr. 3 sg. hurries; urges forward.
 
-tāreti<sup>2</sup>
+tāreti2
 
 caus. pr. 3 sg. carries or leads over or across; rescues, saves (from)
 
@@ -179333,11 +179333,11 @@ see_also = ["tāla"]
 also_written_as = []
 ```
 
-tāḷa<sup>1</sup>
+tāḷa1
 
 neuter a key
 
-tāḷa<sup>2</sup>
+tāḷa2
 
 masculine beating; striking the hands together, clapping; a percussion instrument.
 
@@ -180032,11 +180032,11 @@ see_also = []
 also_written_as = []
 ```
 
-ubbhida<sup>1</sup>
+ubbhida1
 
 mfn. springing up, welling up.
 
-ubbhida<sup>2</sup>
+ubbhida2
 
 neuter a kind of salt.
 
@@ -181788,11 +181788,11 @@ see_also = []
 also_written_as = []
 ```
 
-udabbahi<sup>1</sup>
+udabbahi1
 
 aor. 3 sg. plucked out, rooted up.
 
-udabbahi<sup>2</sup>
+udabbahi2
 
 aor. 3 sg. having gathered; having lifted up, carried; having picked out.
 
@@ -183316,11 +183316,11 @@ see_also = []
 also_written_as = []
 ```
 
-uddhasta<sup>1</sup>
+uddhasta1
 
 mfn. risen; flaring up.
 
-uddhasta<sup>2</sup>
+uddhasta2
 
 mfn. covered (with); smothered.
 
@@ -183354,11 +183354,11 @@ see_also = ["uddhaṭa", "uddharati"]
 also_written_as = []
 ```
 
-uddhata<sup>1</sup>
+uddhata1
 
 mfn. raised; puffed up; overstimulated; agitated, over\-excited; flurried
 
-uddhata<sup>2</sup>
+uddhata2
 
 mfn.
 
@@ -183559,11 +183559,11 @@ see_also = ["uddhata"]
 also_written_as = []
 ```
 
-uddhaṭa<sup>1</sup>
+uddhaṭa1
 
 mfn. raised; puffed up; overstimulated; agitated, over\-excited; flurried
 
-uddhaṭa<sup>2</sup>
+uddhaṭa2
 
 pp mfn. pulled out; dug out; removed; collected; selected; cited.
 
@@ -185778,11 +185778,11 @@ see_also = ["ujjhāyati"]
 also_written_as = []
 ```
 
-ujjhati<sup>1</sup>
+ujjhati1
 
 pr. 3 sg. abandons, leaves off; lets go, discharges; casts out, removes.
 
-ujjhati<sup>2</sup>
+ujjhati2
 
 pr. 3 sg.
 
@@ -186168,15 +186168,15 @@ see_also = ["ukkā"]
 also_written_as = []
 ```
 
-ukka<sup>1</sup>
+ukka1
 
 feminine a fire brand
 
-ukka<sup>2</sup>
+ukka2
 
 masculine neuter a house.
 
-ukka<sup>3</sup>
+ukka3
 
 masculine re\-opening (of a (legal) question already settled).
 
@@ -187949,11 +187949,11 @@ see_also = ["ummaṅga"]
 also_written_as = []
 ```
 
-ummagga<sup>1</sup>
+ummagga1
 
 masculine a deviating way, a different way; a wrong way.
 
-ummagga<sup>2</sup>
+ummagga2
 
 masculine emergence on the surface; (emergence of) an idea, conception; initial thought
 
@@ -188147,11 +188147,11 @@ see_also = []
 also_written_as = []
 ```
 
-ummujjati<sup>1</sup>
+ummujjati1
 
 pr. 3 sg. emerges (from); emerges on the surface (esp. of water); raises one’s head (out of).
 
-ummujjati<sup>2</sup>
+ummujjati2
 
 pr. 3 sg. has an idea, conceives (a thought); considers.
 
@@ -188201,11 +188201,11 @@ see_also = ["ummuka"]
 also_written_as = []
 ```
 
-ummukka<sup>1</sup>
+ummukka1
 
 neuter a firebrand, a piece of burning charcoal to kindle a fire
 
-ummukka<sup>2</sup>
+ummukka2
 
 mfn. loosened, taken off.
 
@@ -190868,11 +190868,11 @@ see_also = ["upalippat", "upalimpati"]
 also_written_as = []
 ```
 
-upalimpati<sup>1</sup>
+upalimpati1
 
 pr. 3 sg. anoints; smears; defiles.
 
-upalimpati<sup>2</sup>
+upalimpati2
 
 pass. pr. 3 sg.
 
@@ -193915,11 +193915,11 @@ see_also = ["upabbajati", "upavadati"]
 also_written_as = []
 ```
 
-upavajja<sup>1</sup>
+upavajja1
 
 fpp mfn.
 
-upavajja<sup>2</sup>
+upavajja2
 
 fpp mfn. to be criticized, blameworthy
 
@@ -195982,11 +195982,11 @@ see_also = ["uppāta"]
 also_written_as = []
 ```
 
-uppāda<sup>1</sup>
+uppāda1
 
 masculine an unusual or startling event, taken as a portent; theinterpretation of portents
 
-uppāda<sup>2</sup>
+uppāda2
 
 masculine coming into being, appearance; production.
 
@@ -200523,11 +200523,11 @@ see_also = ["uḍḍayati", "oḍḍeti", "oḍḍayati"]
 also_written_as = []
 ```
 
-uḍḍeti<sup>1</sup>
+uḍḍeti1
 
 pr. 3 sg. flies up
 
-uḍḍeti<sup>2</sup>
+uḍḍeti2
 
 pr. 3 sg. ties, strings up; lays out, fixes (a snare or noose or net); lays out, presents (as a trap, or to mislead)
 
@@ -202218,11 +202218,11 @@ see_also = []
 also_written_as = []
 ```
 
-ābhā<sup>1</sup>
+ābhā1
 
 feminine splendor, radiance, light; resemblance, appearance.
 
-ābhā<sup>2</sup>
+ābhā2
 
 masculine f. plural radiant, (the name of) a class of devas.
 
@@ -203989,11 +203989,11 @@ see_also = ["ādisati", "ādisati"]
 also_written_as = []
 ```
 
-ādissa<sup>1</sup>
+ādissa1
 
 absol. aiming at; indicating; specifying; with reference to; assigning
 
-ādissa<sup>2</sup>
+ādissa2
 
 fpp mfn. to be pointed at; to be criticized
 
@@ -204155,11 +204155,11 @@ see_also = []
 also_written_as = []
 ```
 
-ādiyati<sup>1</sup>
+ādiyati1
 
 pr. 3 sg. takes, accepts, receives; takes up, undertakes; appropriates; seizes, grasps.
 
-ādiyati<sup>2</sup>
+ādiyati2
 
 pr. 3 sg. attends to, takes notice of; shows respect to (\+ acc. or gen.).
 
@@ -204177,11 +204177,11 @@ see_also = ["ādiyati", "ādiyati"]
 also_written_as = []
 ```
 
-ādiyi<sup>1</sup>
+ādiyi1
 
 aor. 3 sg.
 
-ādiyi<sup>2</sup>
+ādiyi2
 
 aor. 3 sg.
 
@@ -204391,11 +204391,11 @@ see_also = []
 also_written_as = []
 ```
 
-ādāya<sup>1</sup>
+ādāya1
 
 absol. taking, receiving, with.
 
-ādāya<sup>2</sup>
+ādāya2
 
 masculine (the adopting of) a belief, a view.
 
@@ -204525,11 +204525,11 @@ see_also = ["āgā", "āgā"]
 also_written_as = []
 ```
 
-āga<sup>1</sup>
+āga1
 
 aor. 3 sg.
 
-āga<sup>2</sup>
+āga2
 
 2 sg.
 
@@ -204595,11 +204595,11 @@ see_also = ["āgacchati", "āgacchati"]
 also_written_as = []
 ```
 
-āgacchi<sup>1</sup>
+āgacchi1
 
 aor. 3 sg.
 
-āgacchi<sup>2</sup>
+āgacchi2
 
 2 sg.
 
@@ -205280,11 +205280,11 @@ see_also = ["āgacchati", "āgacchati"]
 also_written_as = []
 ```
 
-āgañchi<sup>1</sup>
+āgañchi1
 
 aor. 3 sg.
 
-āgañchi<sup>2</sup>
+āgañchi2
 
 2 sg.
 
@@ -205447,11 +205447,11 @@ see_also = ["āguṃ", "āgū", "āgā"]
 also_written_as = []
 ```
 
-āgu<sup>1</sup>
+āgu1
 
 3 plural
 
-āgu<sup>2</sup>
+āgu2
 
 neuter offense, wrong\-doing.
 
@@ -205517,15 +205517,15 @@ see_also = ["āga", "āga"]
 also_written_as = []
 ```
 
-āgā<sup>1</sup>
+āgā1
 
 (?) comes to; returns.
 
-āgā<sup>2</sup>
+āgā2
 
 aor. 3 sg.; comes to; returns.
 
-āgā<sup>3</sup>
+āgā3
 
 2 sg.; comes to; returns.
 
@@ -206286,11 +206286,11 @@ see_also = ["āha", "āhu"]
 also_written_as = []
 ```
 
-āhu<sup>1</sup>
+āhu1
 
 perf. 3 sg. (perf. expressing present, past and indefinite time) says, speaks; tells; said, spoke; speaks about; calls, regards as; (to introduce objections) someone might say, it is said; 3 sg. āha.
 
-āhu<sup>2</sup>
+āhu2
 
 3 plural
 
@@ -208741,11 +208741,11 @@ see_also = ["āmo"]
 also_written_as = []
 ```
 
-āma<sup>1</sup>
+āma1
 
 ind. (particle of assent or approval or recollection, usually followed by voc. and/or affirming clause): yes, indeed, certainly.
 
-āma<sup>2</sup>
+āma2
 
 mfn. raw, uncooked; unbaked; unripe, immature; undigested.
 
@@ -209564,14 +209564,14 @@ see_also = ["ānantariya", "ānantariya"]
 also_written_as = []
 ```
 
-ānantarika<sup>1</sup>
+ānantarika1
 
 mfn. & neuter
 
 1. (mfn.) immediately preceding or following, next; nearest.
 2. (mfn.) immediate; bringing immediate results; (of an action) producing consequences in the immediately following existence; (of a person) suffering immediate retribution, suffering consequences in the immediately following existence; (n.) an action producing consequences in the immediately following existence
 
-ānantarika<sup>2</sup>
+ānantarika2
 
 neuter immediacy, immediate sequence or succession; the state bringing immediate results
 
@@ -209605,14 +209605,14 @@ see_also = ["ānantarika", "ānantarika"]
 also_written_as = []
 ```
 
-ānantariya<sup>1</sup>
+ānantariya1
 
 mfn. & neuter
 
 1. (mfn.) immediately preceding or following, next; nearest.
 2. (mfn.) immediate; bringing immediate results; (of an action) producing consequences in the immediately following existence; (of a person) suffering immediate retribution, suffering consequences in the immediately following existence; (n.) an action producing consequences in the immediately following existence
 
-ānantariya<sup>2</sup>
+ānantariya2
 
 neuter immediacy, immediate sequence or succession; the state bringing immediate results
 
@@ -211393,11 +211393,11 @@ see_also = ["ārambhati", "ārabbhati"]
 also_written_as = []
 ```
 
-ārabhati<sup>1</sup>
+ārabhati1
 
 pr. 3 sg. takes hold of; begins, undertakes, embarks upon; starts, initiates
 
-ārabhati<sup>2</sup>
+ārabhati2
 
 pr. 3 sg. kills, slaughters; sacrifices.
 
@@ -211479,11 +211479,11 @@ see_also = ["ārabhati"]
 also_written_as = []
 ```
 
-āraddha<sup>1</sup>
+āraddha1
 
 pp mfn. (pass.) taken hold of, undertaken, begun, initiated
 
-āraddha<sup>2</sup>
+āraddha2
 
 mfn. accomplished, achieved; pleased; satisfied.
 
@@ -213623,11 +213623,11 @@ see_also = ["atthi"]
 also_written_as = []
 ```
 
-āsi<sup>1</sup>
+āsi1
 
 aor. 3 sg.
 
-āsi<sup>2</sup>
+āsi2
 
 pr. 3. sg. you sit; or you are.
 
@@ -214205,11 +214205,11 @@ see_also = []
 also_written_as = []
 ```
 
-āsītika<sup>1</sup>
+āsītika1
 
 mfn. of eighty years; eighty years old.
 
-āsītika<sup>2</sup>
+āsītika2
 
 masculine a name of a creeper.
 
@@ -214403,11 +214403,11 @@ see_also = ["attañjaha", "attañjaha"]
 also_written_as = []
 ```
 
-āttañjahadaṇḍa<sup>1</sup>
+āttañjahadaṇḍa1
 
 mfn. who has taken a stick in hand, who has embraced violence
 
-āttañjahadaṇḍa<sup>2</sup>
+āttañjahadaṇḍa2
 
 mfn. a raised stick; violence
 
@@ -215004,11 +215004,11 @@ see_also = ["āvaṭṭa", "āvattati"]
 also_written_as = []
 ```
 
-āvatta<sup>1</sup>
+āvatta1
 
 masculine (n.) turning; turning round; turning back; whirlpool, eddy
 
-āvatta<sup>2</sup>
+āvatta2
 
 pp mfn.
 
@@ -215110,11 +215110,11 @@ see_also = ["āvatta", "āvaṭṭati"]
 also_written_as = []
 ```
 
-āvaṭṭa<sup>1</sup>
+āvaṭṭa1
 
 masculine (n.) turning; turning round; turning back; whirlpool, eddy
 
-āvaṭṭa<sup>2</sup>
+āvaṭṭa2
 
 pp mfn.
 
@@ -215880,11 +215880,11 @@ see_also = ["āvutā", "āvuṭa", "āvarati", "āvuṇati"]
 also_written_as = []
 ```
 
-āvuta<sup>1</sup>
+āvuta1
 
 pp mfn. covered, encompassed; obstructed; shut, shut off
 
-āvuta<sup>2</sup>
+āvuta2
 
 pp mfn. threaded through; inserted
 
@@ -217747,11 +217747,11 @@ see_also = []
 also_written_as = []
 ```
 
-ūhanati<sup>1</sup>
+ūhanati1
 
 pr. 3 sg. pushes upwards or out; throws up, throws away; removes; raises.
 
-ūhanati<sup>2</sup>
+ūhanati2
 
 pr. 3 sg. hits at, strikes; hurts, damages, afflicts, spoils.
 
@@ -217801,15 +217801,15 @@ see_also = ["ūdahati", "ūhanati", "ūhanati"]
 also_written_as = []
 ```
 
-ūhata<sup>1</sup>
+ūhata1
 
 pp mfn. soiled (with excrement)
 
-ūhata<sup>2</sup>
+ūhata2
 
 pp mfn. removed; raised; elevated, high
 
-ūhata<sup>3</sup>
+ūhata3
 
 pp mfn. hit; afflicted; distressed
 
@@ -218435,11 +218435,11 @@ see_also = ["ḍahati"]
 also_written_as = []
 ```
 
-ḍayhati<sup>1</sup>
+ḍayhati1
 
 pr. 3 sg.
 
-ḍayhati<sup>2</sup>
+ḍayhati2
 
 pass. pr. 3 sg. pass.pr. is burnt, burns (intrans.); suffers pain.
 
@@ -218842,11 +218842,11 @@ see_also = ["ṭhapeti", "ṭhapeti"]
 also_written_as = []
 ```
 
-ṭhapetvā<sup>1</sup>
+ṭhapetvā1
 
 absol. of ṭhapeti making stand; placing; setting
 
-ṭhapetvā<sup>2</sup>
+ṭhapetvā2
 
 absol. of ṭhapeti stopping; setting aside; leaving out; except; save for
 

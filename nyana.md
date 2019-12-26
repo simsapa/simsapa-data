@@ -467,7 +467,7 @@ see_also = []
 also_written_as = []
 ```
 
-**[[acquired image]]Acquired !<em>nimitta</em> *samādhi*  *kasina***
+**[[acquired image]]Acquired !nimitta *samādhi*  *kasina***
 
 ``` toml
 dict_label = "Nyana"
@@ -5268,7 +5268,7 @@ see_also = []
 also_written_as = []
 ```
 
-**Counter\-!<em>nimitta</em> *kasina* *samādhi***
+**Counter\-!nimitta *kasina* *samādhi***
 
 ``` toml
 dict_label = "Nyana"

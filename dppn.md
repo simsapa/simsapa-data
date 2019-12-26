@@ -85,11 +85,11 @@ see_also = []
 also_written_as = []
 ```
 
-Abhaya <sup>1</sup>
+Abhaya 1
 
 A monk whose verse concerning the bewildering effects of beautiful sights is in the Theragāthā. Thag.98
 
-Abhaya<sup>2</sup>Abhayarājakumāra
+Abhaya2Abhayarājakumāra
 
 The son of King Bimbisāra and of Padumavatī, the belle of Ujjeni. When the boy was seven years old, his mother sent him to the king and he grew up with the boys of the court. He first came under the influence of the Nigaṇṭha Nāṭaputta, who taught him a dilemma to set the “Samaṇa Gotama.” In the Buddha’s reply, the prince recognised the defeat of the Nigaṇṭha and the supreme Enlightenment of the Exalted One, whose disciple he then became. Later, when the king died, Abhaya was disturbed in mind, and entered the Order. On the occasion of the preaching of the Tālacchiggalūpama Sutta, SN.v.455 MN.iii.169 he became a Stream\-enterer and afterwards attained arahantship. Thag.26 The Abhayarājakumāra Sutta MN.i.392*ff.* contains the dilemma episode. It also mentions that at the time the prince had a little son of whom he was evidently very fond.
 
@@ -97,7 +97,7 @@ In the Saṃyutta Nikāya SN.v.126–128 he is stated as having visited the Budd
 
 In the Vinaya, Vin.i.269 Abhaya is mentioned as having discovered Jīvaka Komārabhacca lying on a dung\-heap (cast there by the orders of his mother, the courtesan Sālavatī), and having brought him up.
 
-Abhaya<sup>3</sup>
+Abhaya3
 
 A Licchavi of Vesāli. On one occasion he comes with another Licchavi, Paṇḍita Kumāraka, to Ānanda in the Kūṭāgārasālā in Vesāli, and discusses with him certain views held by Nigaṇṭha Nāṭaputta. Ānanda teaches him the Buddha’s three Ways of purification. AN.i.220–222 On another occasion he visits the Buddha, again at Vesāli, with the Licchavi Sāḷha; the latter asks the Buddha’s views on purity of morals and self\-mortification. The Buddha tells him of the Ariyan Way and explains its implications by various similes. AN.ii.202–204 We are not told that either of them became converts on this occasion.
 
@@ -147,13 +147,13 @@ see_also = []
 also_written_as = []
 ```
 
-Abhibhū<sup>1</sup>
+Abhibhū1
 
 Chief disciple of Sikhī Buddha. DN.ii.9 In the Aruṇavatī Sutta it is said that he went with Sikhī to a Brahma\-world and, at the Buddha’s request, preached a sermon to the accompaniment of great magical powers. He proved that by using just such speech as if he were preaching to a gathering of monks, he could, standing in the Brahma\-world, make his voice heard by its thousand realms. SN.i.154*f.* The verses spoken on this occasion are, in the Theragāthā, ascribed to Abhibhūta. Thag.1147–1148
 
 In the Aṅguttara Nikāya AN.i.226*f.* we find Ānanda asking the Buddha how far Abhibhū’s powers bore relation to those of a Buddha, and the Buddha replying that Abhibhū was a mere disciple, and proceeding to describe the immeasurable powers of the Tathāgata.
 
-Abhibhū<sup>2</sup>
+Abhibhū2
 
 A class of devas belonging to the formless plane. MN.i.1 They live in the same plane as the Vehapphalā. In the Brahmanimantanika Sutta MN.i.329 the Buddha claims to be Abhibhū (=the conqueror).
 
@@ -273,7 +273,7 @@ see_also = []
 also_written_as = []
 ```
 
-Acelakassapa<sup>1</sup>AcelaKassapa
+Acelakassapa1AcelaKassapa
 
 A naked ascetic. He visited the Buddha at Ujuññā in the Kaṇṇa\-katthala deer\-park and asked him if it were true that he disparaged all penance and reviled ascetics. Their conversation is recorded in the Kassapa\-Sīhanāda Sutta. DN.i.161*ff.* After the usual four months’ probation, he joined the Order and in due course became an arahant. DN.i.177
 
@@ -281,7 +281,7 @@ In the Majjhima Nikāya MN.iii.124*ff.* we are told that he was an old friend of
 
 The Kassapa mentioned in the Acela Sutta SN.ii.18*f.* is probably the same person, though the stories of their conversions are different.
 
-Acelakassapa<sup>2</sup>AcelaKassapa
+Acelakassapa2AcelaKassapa
 
 An old family friend of Cittagapahati. Having been for thirty years a *paribbājaka*, he admits to Citta that he had thereby obtained no particular excellence of knowledge. Citta tells him of his own attainments and Kassapa expresses a desire to enter the Order. He is duly ordained, and shortly afterwards becomes an arahant. SN.iv.300*ff.*
 
@@ -445,11 +445,11 @@ see_also = []
 also_written_as = []
 ```
 
-Aggikabhāradvāja<sup>1</sup>AggikaBhāradvāja
+Aggikabhāradvāja1AggikaBhāradvāja
 
 A brahmin of Sāvatthī, of the Bhāradvāja clan. The Buddha, while on his rounds, sees him tending the fire and preparing oblations, and stands for alms in front of his house. The brahmin abuses him, calling him *muṇḍaka* and *vasala*. Thereupon the Buddha preaches to him the Vasala Sutta (or, as it is sometimes called, the Aggika Bhāradvāja Sutta), and wins him over to the faith. Snp.21–25
 
-Aggikabhāradvāja<sup>2</sup>AggikaBhāradvāja
+Aggikabhāradvāja2AggikaBhāradvāja
 
 A brahmin of Rājagaha, a fire\-tender. He prepares a meal for sacrifice, and when the Buddha, out of compassion for him, appears before his house for alms, he says the meal is meant only for one who has the “threefold lore” (the three Vedas). The Buddha gives the brahmin another interpretation of the “threefold lore”;. The brahmin, thereupon, becomes a convert, enters the Order, and, in due course, attains arahantship. SN.i.166*f.*
 
@@ -643,19 +643,19 @@ see_also = []
 also_written_as = []
 ```
 
-Ajita<sup>1</sup>
+Ajita1
 
 A monk. He devoted his time to explaining the Pātimokkha rules to the monks. At the time of the Second Council he was a monk of ten years’ standing and was appointed to assign seats to the Theras. Vin.ii.305
 
-Ajita<sup>2</sup>
+Ajita2
 
 A *paribbājaka* who visited the Buddha, and at whose instigation the Buddha preached to the Bhikkhus on the difference between dhamma and adhamma. AN.v.229*ff.*
 
-Ajita<sup>3</sup>
+Ajita3
 
 General of the Licchavis and follower of the Buddha. Immediately after his death he was born in Tāvatiṃsā; he visited the Buddha to refute a statement made about him by the naked ascetic Pātikaputta to the effect that he had been born in the Mahāniraya as a result of having followed the teaching of the Buddha. DN.iii.15–16
 
-Ajita<sup>5</sup>Ajina
+Ajita5Ajina
 
 A monk whose Theragāthā verses speak of how sometimes the wise are unknown, while the fool is honored. Thag.129–130
 
@@ -871,7 +871,7 @@ see_also = []
 also_written_as = []
 ```
 
-Ambalaṭṭhikā<sup>1</sup>
+Ambalaṭṭhikā1
 
 A royal park on the road between Rājagaha and Nāḷandā. It contained a royal rest\-house in which the Buddha and members of the Order used to stay in the course of their journeying. It was on one such occasion that the Brahmajāla Sutta was preached. Vin.ii.287 DN.i.1
 
@@ -879,7 +879,7 @@ It was one of the spots in which the Buddha rested during his last tour, and we 
 
 But the most famous of the Buddha’s sermons in Ambalaṭṭhikā seems to have been the Ambalaṭṭhikā\-Rāhulovāda Sutta. MN.i.414*ff.* From the context it appears as though Ambalaṭṭhikā was within walking distance from the Kalandakanivāpa in Rājagaha.
 
-25.083111,85.4281432parkAmbalaṭṭhikā<sup>2</sup>
+25.083111,85.4281432parkAmbalaṭṭhikā2
 
 A park in the brahmin village Khāṇumata. The Buddha went there during one of his tours through Māgadha. On this occasion was preached the Kūṭadanta Sutta. DN.i.127
 
@@ -1511,7 +1511,7 @@ see_also = []
 also_written_as = []
 ```
 
-Ariṭṭha<sup>1</sup>
+Ariṭṭha1
 
 A monk. He had been subjected by the Saṅgha to the *ukkhepanīyakamma* for refusal to renounce a sinful doctrine, namely, that the states of mind declared by the Buddha to be stumbling\-blocks are not such at all for him who indulges in them.
 
@@ -1527,11 +1527,11 @@ It was Ariṭṭha’s heresy that led to the preaching of the Alagaddūpama Sut
 
 In the Saṃyutta Nikāya, SN.v.314–315 Ariṭṭha is mentioned as having said to the Buddha that he practised concentration in breathing and as having described how he did it. The Buddha, thereupon, instructs him as to how such concentration can be done perfectly and in every detail.
 
-Ariṭṭha<sup>2</sup>
+Ariṭṭha2
 
 An *upāsaka* mentioned in the Aṅguttara Nikāya AN.iii.451 in a list of householders and upāsakas who had seen and realised immortality and were possessed of unwavering faith in the Buddha, the Dhamma and the Saṅgha. They practised Ariyan conduct and had won wisdom and liberty.
 
-Ariṭṭha<sup>3</sup>
+Ariṭṭha3
 
 A messenger of Vessavaṇa, employed by him to take his proclamations and publish them. DN.iii.201
 
@@ -1657,11 +1657,11 @@ see_also = []
 also_written_as = []
 ```
 
-Asita<sup>1</sup>KaṇhāsiriKāladevala
+Asita1KaṇhāsiriKāladevala
 
 An ascetic who possessed various psychic powers. Once, while in Tāvatiṃsā heaven, he saw the whole city decked with splendour and the gods engaged in great rejoicing. On inquiry he learnt that Siddhattha Gotama, destined to become the Buddha, had been born. Immediately he went to Suddhodana’s home and asked to see the babe. From the auspicious marks on its body he knew that it would become the Enlightened One and was greatly overjoyed, but realising that he himself would, by then, be born in an Arūpa world and would not therefore be able to hear the Buddha preach, he wept and was sad. Having reassured the king regarding the babe’s future, Asita sought his sister’s son, Nalaka, and ordained him that he might be ready to benefit by the Buddha’s teaching when the time came. Snp.p.131–136
 
-Asita<sup>2</sup>Devala
+Asita2Devala
 
 A sage (*isi*). His story is given in the Assalāyana Sutta. MN.ii.154*ff.* Once there were seven brahmin sages living in thatched cabins in the wilds. They conceived the view that the brahmins are the highest class of men and that they alone are the legitimate sons of Brahma. Hearing of this, Asita Devala appeared before their hermitage in orange attire, with stout sandals and staff, and shouted for them. The brahmins cursed him with the intention of shrivelling him into a cinder, but the more they cursed the more comely and handsome grew Asita. Feeling that their austerities were evidently fruitless, they questioned Asita who urged them to discard their delusion. Having learnt his identity, they saluted him and wished to be instructed; Asita examined and cross\-questioned them about their pretensions regarding their lineage and they could find no answer. They thereupon followed his advice and renounced their claims to superiority.
 
@@ -1711,7 +1711,7 @@ see_also = []
 also_written_as = []
 ```
 
-Assaji<sup>1</sup>
+Assaji1
 
 The fifth of the Pañcavaggiyā monks. When the Buddha preached the Dhammacakkappavattana Sutta, he was the last in whom dawned the eye of Truth, and the Buddha had to discourse to him and to Mahānāma while their three colleagues went for alms. Vin.i.13 He became an arahant, together with the others, at the preaching of the Anattalakkhaṇa Sutta. Vin.i.14
 
@@ -1725,7 +1725,7 @@ One day when Assaji was going about in Vesāli for alms, the Nigaṇṭha Saccak
 
 The Saṃyutta Nikāya SN.iii.124*ff.* records a visit paid by the Buddha to Assaji as he lay grievously sick in Kassapārāma near Rājagaha. He tells the Buddha that he cannot enter into *jhāna* because of his difficulty in breathing and that he cannot win balance of mind. The Buddha encourages him and asks him to dwell on thoughts of impermanence and non\-self.
 
-Assaji<sup>2</sup>
+Assaji2
 
 One of the leaders of the Assaji\-Punabbasukā, the other being Punabbasu. He was one of the Chabbaggiyā, the others being Mettiya, Bhummajaka, Panduka and Lohitaka.
 
@@ -2250,11 +2250,11 @@ see_also = []
 also_written_as = []
 ```
 
-Aṅgīrasi<sup>1</sup>
+Aṅgīrasi1
 
 A term of affection (Radiant One) used by Pañcasikha in addressing Suriyavaccasā. DN.ii.265
 
-Aṅgīrasa<sup>2</sup>
+Aṅgīrasa2
 
 One of the ten ancient seers who conducted great sacrifices and were versed in Vedic lore. The others being Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Bhāradvāja, Vāseṭṭha, Kassapa and Bhagu. The list occurs in several places. Vin.i.245 AN.iii.224 MN.ii.169 MN.ii.200
 
@@ -2292,7 +2292,7 @@ see_also = []
 also_written_as = []
 ```
 
-Aṭṭhaka<sup>1</sup>
+Aṭṭhaka1
 
 A celebrated sage, composer and reciter of sacred runes, mentioned together with nine others (Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha and Bhagu), Vin.i.245 DN.i.104 as the ancient sages of the brahmins. They abstained from food at unseasonable times. They were the first teachers of the Tevijja Brahmins DN.i.238 and great sacrifices were conducted by them. AN.iv.61
 
@@ -2300,7 +2300,7 @@ Various teachings are attributed to them, e.g. that they recognised five kinds o
 
 Aṭṭhaka may be identified with Aṣṭaka mentioned as the author of Ṛg Veda 10.104 or else with Atri, author of Ṛg Veda 5.5.
 
-Aṭṭhaka<sup>1</sup>
+Aṭṭhaka1
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
@@ -2502,11 +2502,11 @@ see_also = []
 also_written_as = []
 ```
 
-Bandhumatī<sup>1</sup>
+Bandhumatī1
 
 The city of birth of Vipassī Buddha. DN.i.7
 
-5townBandhumatī<sup>2</sup>
+5townBandhumatī2
 
 Wife of King Bandhumā and mother of Vipassī Buddha. DN.i.7
 
@@ -2638,11 +2638,11 @@ see_also = []
 also_written_as = []
 ```
 
-Bhadda<sup>1</sup>
+Bhadda1
 
 A lay disciple of Nādikā who, the Buddha declared, had destroyed the five lower fetters and had been born in the highest deva worlds, thence to pass away entirely. DN.ii.92
 
-Bhadda<sup>2</sup>
+Bhadda2
 
 A monk whose Theragāthā verses tell how his parents with pride and compassion brought him to the Buddha to be ordained. Ānanda gave him the going forth, and the same night Bhadda became an arahant. The next morning the Buddha called to him saying, “Come, Bhadda,” and that was his full ordination, at age seven. Thag.473–479
 
@@ -2700,23 +2700,23 @@ see_also = []
 also_written_as = []
 ```
 
-Bhaddiya<sup>1</sup>
+Bhaddiya1
 
 An *anāgāmī*, one of seven persons who became arahants as soon as they were born in Avihā. SN.i.35 SN.i.60
 
-Bhaddiya<sup>2</sup>Kāligodhāputta
+Bhaddiya2Kāligodhāputta
 
 Chief among monks of aristocratic birth. AN.i.23 He belonged to a family of the Sākyan rājas of Kapilavatthu and entered the Order in the Anupiya Mango grove with Anuruddha and the others, soon afterwards attaining to arahantship. Dwelling in the bliss of Nibbāna, under a tree in a lonely spot, Bhaddiya used to exclaim “Ahh, what bliss! Ahh, what bliss!” When this was reported to the Buddha, he questioned Bhaddiya, who answered that when he was ruling his principality he was well protected, yet was ever fearful and nervous, whereas now, having renounced all, he was free from all fear Thag.842–865 Vin.i.183*f.*
 
 It is said Vin.ii.182*f.* that Bhaddiya attained arahantship in the first rainy season after his ordination.
 
-Bhaddiya<sup>3</sup>
+Bhaddiya3
 
 A city in the Aṅga kingdom. The Buddha visited there several times and stayed sometimes at the Jātiyāvana where Meṇḍaka, who lived there, came to see him. Vin.ii.242 AN.iii.36
 
 It was there that the precept was laid down forbidding monks to wear sandals, Vin.i.190 and also another ruling re the *Pārājika*. Vin.iii.37*f.*
 
-25.933347,86.7984012townBhaddiya<sup>4</sup>
+25.933347,86.7984012townBhaddiya4
 
 A Licchavi who visited the Buddha at the Kūṭāgārasālā and asked if it were true that the Buddha was a magician who, by a glamorous trick, enticed away the followers of others. The Buddha advised Bhaddiya not to be led away by hearsay but to judge for himself.; and he then proceeded, by means of question and answer, to convince Bhaddiya that his teachings were truly founded on fact and, if accepted and practised, would benefit not only human beings but the very trees of the forest. AN.ii.190*ff.*
 
@@ -2734,21 +2734,21 @@ see_also = []
 also_written_as = []
 ```
 
-Bhaddā<sup>1</sup>
+Bhaddā1
 
 Wife of King Muṇḍa. At her death the king placed her body in a vessel of oil and mourned for her until his friend Piyaka took him to Nārada Thera at the Kukkuṭārāma, and there made him realize the folly of mourning. AN.iii.57*ff.*
 
-Bhaddā<sup>2</sup>Kāpilānī
+Bhaddā2Kāpilānī
 
 A bhikkhunī whose Therīgāthā verses speak in praise of Kassapa, who she went forth with, and also of her own attainments. Thig.63–66 The Buddha declared her foremost of the bhikkhunīs in recollecting past lives. AN.i.25
 
 Bhaddā Kāpilānī’s name is mentioned several times Vin.iv.227 Vin.iv.268 Vin.iv.269 in the Vinaya rules in connection with her pupils who were found guilty of transgressing them. She and Thullanandā were both famous as preachers, and the latter, being jealous of Bhaddā, went out of her way to insult her. Vin.iv.290 Once Bhaddā sent word to Sāketa asking Thullanandā if she could find her a lodging in Sāvatthī. Nandā agreed to do this, but made things very unpleasant for Bhaddā when she arrived. Vin.iv.292
 
-Bhaddā<sup>3</sup>Kuṇḍalakesā
+Bhaddā3Kuṇḍalakesā
 
 A bhikkhunī. She was foremost among nuns of swift intuition. AN.i.25 In the Therīgāthā Thig.107–111 are included several verses spoken by her when she had been a nun for fifty years, wandering about in Aṅga, Māgadha, Kāsi and Kosala, living on the people’s alms.
 
-Bhaddā<sup>4</sup>Suriyavaccasā
+Bhaddā4Suriyavaccasā
 
 Daughter of the Gandhabba Timbarū and beloved of Pañcasikha.
 
@@ -2894,11 +2894,11 @@ see_also = []
 also_written_as = []
 ```
 
-Bhagu<sup>1</sup>
+Bhagu1
 
 A famous sage of old. Vin.i.245 DN.i.104 DN.i.238 DN.i.243 MN.ii.169 MN.ii.200 AN.iii.224 AN.iv.61
 
-Bhagu<sup>2</sup>
+Bhagu2
 
 He was born in a Sākiyan family, and having left the world with his clansmen Anuruddha and Kimbila, he dwelt in the village of Bākalona. One day, having left his cell in order to drive away his drowsiness, he fell as he was stepping on to the terrace, and, urged thereby to further effort, he accomplished self mastery and won arahantship. Thag.271–274 MN.iii.155 Vin.i.350 Vin.ii.182
 
@@ -2938,11 +2938,11 @@ see_also = []
 also_written_as = []
 ```
 
-Bharata<sup>1</sup>
+Bharata1
 
 A monk whose Theragāthā verses call on Nandaka and himself to declare their spiritual prowess to the Buddha. Thag.175–176
 
-Bharata<sup>2</sup>
+Bharata2
 
 King of the Sovīras in the time of Reṇu. His capital was in Roruva. DN.ii.235*f.*
 
@@ -3236,21 +3236,21 @@ see_also = []
 also_written_as = []
 ```
 
-Bhāradvāja<sup>1</sup>
+Bhāradvāja1
 
 A monk whose Theragāthā verses speak of the heroic roar of the conquerors. Thag.177–178
 
-Bhāradvāja<sup>2</sup>
+Bhāradvāja2
 
 He was the eldest of a clan of Bhāradvājas living in Rājagaha and his wife was a Dhanañjāni brahminee. The wife was a devout follower of the Buddha, and constantly sang the praises of the Buddha, of his teachings, and of the Order. Annoyed at this, Bhāradvāja went to the Buddha and asked a question. He was so pleased with the answer that he joined the Order and not long after became an arahant. SN.i.160*f.* several of his brothers following his example.
 
-Bhāradvāja<sup>3</sup>
+Bhāradvāja3
 
 A young brahmin, pupil of Tārukkha. A discussion between him and Vāseṭṭha led to the preaching of the Tevijja Sutta, DN.i.235 and also the Vāseṭṭha Sutta. Snp.p.115*ff.* MN.ii.197*f.*
 
 Bhāradvāja later became the Buddha’s follower.DN.i.252 Snp.p.123 The Aggañña Sutta was preached to him and to Vāseṭṭha when they were undergoing the probationary period prior to their becoming fully ordained monks. DN.iii.80
 
-Bhāradvāja<sup>4</sup>
+Bhāradvāja4
 
 The name of a brahmin clan; about twenty individuals belonging to this clan are mentioned in the Pitakas. In one family, living at Rājagaha, the eldest was married to a Dhanañjāni brahmince and later became an arahant. His brothers Akkosaka Bhāradvāja, Asurindaka Bhāradvāja, Bilaṅgika Bhāradvāja and Saṅgārava Bhāradvāja, followed him. SN.i.160*ff.*
 
@@ -3260,19 +3260,19 @@ The Elder Piṇḍola also belonged to the Bhāradvājagotta; so did Kāpathika.
 
 In a Vinaya passage Vin.iv.6 the Bhāradvājagotta is mentioned together with the Kosiya as a low clan.
 
-Bhāradvāja<sup>5</sup>
+Bhāradvāja5
 
 A brahmin of the Bhāradvāja gotta living at Kammāssadhamma. The Buddha once stayed there and slept on a mat in his fire hut, and there he met the wanderer Māgaṇḍiya. MN.i.501*ff.*
 
-Bhāradvāja<sup>6</sup>
+Bhāradvāja6
 
 A *yakkha* chief to whom disciples of the Buddha should make appeal in time of need. DN.iii.204
 
-Bhāradvāja<sup>7</sup>
+Bhāradvāja7
 
 A Pacceka Buddha. MN.iii.70
 
-Bhāradvāja<sup>11</sup>AkkosakaAkkosakabhāradvāja
+Bhāradvāja11AkkosakaAkkosakabhāradvāja
 
 A brahmin of Rājagaha who—incensed that his eldest brother, a member of the Bhāradvāja clan had been converted by the Buddha—visits the Buddha and insults him.
 
@@ -3454,19 +3454,19 @@ see_also = []
 also_written_as = []
 ```
 
-Brahmadatta<sup>1</sup>
+Brahmadatta1
 
 King of Kāsi. He captured Kosala and murdered its king Dīghiti and Dīghiti’s wife, but made peace later with Dīghiti’s son, Dīghāvu, restored to him his father’s kingdom, and gave him his own daughter in marriage. Vin.i.342*ff.*
 
-Brahmadatta<sup>2</sup>
+Brahmadatta2
 
 King of the Assakas and friend of Reṇu. When Mahāgovinda divided Jambudīpa into seven equal portions for Reṇu and his six friends, Brahmadatta was given the kingdom, of the Assakas, with Potama as his capital. DN.ii.235*f.*
 
-Brahmadatta<sup>3</sup>
+Brahmadatta3
 
 A monk whose Theragāthā verses speak of avoiding anger when confronted with harsh words. Thag.441–446
 
-Brahmadatta<sup>4</sup>
+Brahmadatta4
 
 Pupil of the wanderer Suppiya. A conversation between these two led to the preaching of the Brahmajāla Sutta. DN.i.1
 
@@ -3592,19 +3592,19 @@ see_also = []
 also_written_as = []
 ```
 
-Bāhiya<sup>1</sup>Dārucīriya
+Bāhiya1Dārucīriya
 
 As an ascetic, he came himself to believe that he had attained arahantship, but a *devatā*, reading his thoughts and wishing him well, pointed out to him his error and advised him to seek the Buddha at Sāvatthī. By the power of the *devatā*, Bāhiya reached Sāvatthī in one night, a distance of one hundred and twenty leagues, and was told that the Buddha was in the city begging alms. Bāhiya followed him thither and begged to be taught something for his salvation. Twice he asked and twice the Buddha refused, saying that it was not the hour for teaching. But Bāhiya insisted, saying that life was uncertain and that the Buddha or he might die.
 
 The Buddha then taught him the proper method of regarding all sense experiences—namely, as experiences and no more. Even as he listened, Bāhiya became an arahant and the Buddha left him. Shortly after, Bāhiya was gored to death by a cow with calf. The Buddha, seeing his body lying on the dung heap, asked the monks to remove it and to have it burnt, erecting a thūpa over the remains. In the assembly he declared Bāhiya to be foremost among those who instantly comprehended the Truth. AN.i.24 Ud.i.10
 
-Bāhiya<sup>2</sup>
+Bāhiya2
 
  A monk. He is said to have, come to the Buddha asking for a teaching in brief and the Buddha told him to dwell on the impermanence of the senses and of sense objects. Profiting by the lesson, Bāhiya dwelt apart and, putting forth effort, soon became an arahant. SN.iv.63*f.*
 
 It is perhaps the same monk—called Bāhiya or Bāhika—who is mentioned elsewhere SN.v.165*f.* as asking for the Buddha for a lesson and being told to meditate on the four satipaṭṭhānas. This contemplation led to arahantship.
 
-Bāhiya<sup>3</sup>
+Bāhiya3
 
 A monk, fellow dweller of Anuruddha at the Ghositārāma. He seems to have taken a prominent part in the disputes of the Kosambī monks, helping them, but Anuruddha let him take his own way, not protesting at all. AN.ii.239
 
@@ -3864,11 +3864,11 @@ see_also = []
 also_written_as = []
 ```
 
-Candana<sup>1</sup>
+Candana1
 
 A deva, vassal of the Four Regent Gods. DN.ii.258 He is mentioned as one of the chief Yakkhas to be invoked by followers of the Buddha in case of need. DN.iii.204 He once visited Lomasakaṅgiya at the Nigrodhārāma, questioned him regarding the True Saint, and recited to him stanzas learnt when the Buddha preached the Bhaddekaratta Sutta in Tāvatiṃsā.MN.iii.199*f.* The Saṃyutta Nikāya SN.i.53 records a conversation between Candana and the Buddha and a visit paid by Candana to Mahā Moggallāna. SN.iv.280
 
-Candana<sup>2</sup>
+Candana2
 
 A monk whose Theragāthā verses speak of how he was visited by his wife and child who hoped to win him back, but, seeing them from afar, he made a special effort and became an arahant. Thag.299–302
 
@@ -4126,15 +4126,15 @@ see_also = []
 also_written_as = []
 ```
 
-Channa<sup>1</sup>
+Channa1
 
 A Wanderer, classed among those who wore clothes. He is only mentioned once, in the Aṅguttara Nikāya, AN.iii.215 where we are told that he visited Ānanda at Sāvatthī and asked him questions about the Buddha’s teaching.
 
-Channa<sup>2</sup>
+Channa2
 
 A monk. He once stayed at Gijjhakūṭa, dangerously ill and suffering much pain. He was visited by Sāriputta and Mahā Cunda, and when they discovered that he contemplated suicide, they tried to deter him, promising to provide him with all necessaries and to wait on him themselves. Finding him quite determined, Sāriputta discussed with him the Buddha’s teachings and then left him. Soon afterwards Channa committed suicide by cutting his throat. When this was reported to the Buddha, he explained that no blame was attached to Channa, for he was an arahant at the moment of death. MN.iii.263*ff.* SN.iv.55*ff.*
 
-Channa<sup>3</sup>
+Channa3
 
 A monk of the Sakiyan clan whose Theragāthā verse speaks of how he became a monk after being inspired by the teaching of the Buddha.
 
@@ -4188,7 +4188,7 @@ see_also = []
 also_written_as = []
 ```
 
-Citta<sup>1</sup>
+Citta1
 
 A householder of Macchikāsaṇḍa, where he was Treasurer. He was later declared by the Buddha to be pre\-eminent among laymen who preached the Doctrine. AN.i.26
 
@@ -4200,7 +4200,7 @@ A thera named Sudhamma was a permanent resident in the Ambātakārāma and was l
 
 When Citta lay ill just before his death, devas visited him and advised him to wish for kingship among them, but he refused to aspire to anything so impermanent, and instructed the devas and his kinsfolk gathered round him, telling them of the Buddha and his teachings. SN.iv.302*f.* He is regarded as the ideal layman. AN.i.88 AN.ii.164 AN.iii.451
 
-Citta<sup>2</sup>HatthirohaputtaHatthisāriputta
+Citta2HatthirohaputtaHatthisāriputta
 
 A monk, son of an elephant trainer, who, having entered the Order, studied under the Buddha and gained special proficiency in distinguishing subtle differences in the meanings of words. Six times he left the Order and six times returned. His last quarrel was with Mahā Koṭṭhita, who objected to his constant interruptions of the Elder’s discussions regarding the Abhidhamma. AN.iii.392*ff.*
 
@@ -4320,13 +4320,13 @@ see_also = []
 also_written_as = []
 ```
 
-Cunda<sup>1</sup>
+Cunda1
 
 A worker in metals living in Pāvā. When the Buddha reached Pāvā on his way to Kusinārā, he stayed in Cunda’s Mango grove. There Cunda visited him and invited him and the monks to a meal the next day. The meal consisted of sweet rice and cakes and sūkaramaddava. At the meal the Buddha ordered that he alone should be served with sūkaramaddava, and that what was left over should be buried in a hole. This was the Buddha’s last meal, as very soon after it he developed dysentery.DN.ii.126 Ud.viii.5 The Buddha, a little while before his death, gave special instructions to Ānanda that he should visit Cunda and reassure him by telling him that no blame at all attached to him and that he should feel no remorse, but should, on the contrary, rejoice, in that he had been able to give to the Buddha a meal which, in merit, far exceeded any other. DN.ii.135*f.*
 
 The Aṅguttara Nikāya AN.v.263*ff.* mentions another conversation between the Buddha and Cunda. Cunda tells the Buddha that he approves of the methods of purification laid down by the brahmins of the west (*pacchābhūmakā*) The Buddha tells him of the teaching of the Ariyans regarding the threefold defilement and purification of the body, the fourfold defilement and purification of the speech, and the threefold defilement and purification of the mind. Cunda accepts the Buddha’s explanations and declares himself his follower.
 
-Cunda<sup>2</sup>
+Cunda2
 
 The books appear to refer to two theras by the name of Cunda, the better known being Mahā\-Cunda and the other Cūḷa\-Cunda. But the legends connected with them are so confused that it is not possible to differentiate clearly one from the other.
 
@@ -5004,11 +5004,11 @@ see_also = []
 also_written_as = []
 ```
 
-Dhamma<sup>1</sup>
+Dhamma1
 
 The palace built by Vissakamma for Mahāsudassana, by order of Sakka. DN.ii.180*ff.*
 
-5buildingDhamma<sup>2</sup>
+5buildingDhamma2
 
 The lake in front of the palace mentioned above. DN.ii.184.
 
@@ -5164,11 +5164,11 @@ see_also = []
 also_written_as = []
 ```
 
-Dhaniya<sup>1</sup>Dhanika
+Dhaniya1Dhanika
 
 A herdsman living on the bank of the river Mahī. One day, while he was in this house, having finished his preparations for the approach of the rains, he sat meditating on his comfortable circumstances and broke forth into song in token of his happiness. As Dhaniya proceeded with his song, the Buddha added a verse to each one of Dhaniya’s. At the end of this song Dhaniya and his wife were converted. Snp.18*ff.*
 
-Dhaniya<sup>2</sup>
+Dhaniya2
 
 A monk whose Theragāthā verses urge one who wants to live happily as a monk to be content. Thag.228–30 He once made a grass but on the slopes of Isigili and lived there with several others during the rains. He continued to live there after the others had left. While he was away begging for alms, his hut was pulled down by women searching for straw and firewood, but he rebuilt it. Three times this happened, until, in exasperation, Dhaniya very skilfully made bricks and tiles and built a hut both strong and splendid, with tiles of shining crimson which gave out a bell\-like sound when tapped. The Buddha, seeing this, chided Dhaniya and ordered the hut to be pulled down. Dhaniya then built a hut of wood which he obtained from a guild of timber merchants, suppliers of wood to the king, giving them to understand that he had the king’s permission. Vassakāra, hearing of this, reported the matter to Bimbisāra, who sent for Dhaniya. Dhaniya maintained that the king, by royal proclamation, had permitted the monks to use the royal supplies of wood and other materials. Bimbisāra admitted the proclamation, but said it referred only to supplies straight from the forest, and he sent Dhaniya away with a warning. The matter created a great uproar and the Buddha blamed Dhaniya. Vin.iii.41–5
 
@@ -5204,15 +5204,15 @@ see_also = []
 also_written_as = []
 ```
 
-Dhataraṭṭha<sup>1</sup>
+Dhataraṭṭha1
 
 One of the Cātummahārājikā, the ruler of the Eastern Quarter. His followers are the Gandhabbas. He has numerous sons called Indra.DN.ii.207 DN.ii.220 DN.ii.257*f.* DN.iii.197 He was present at the preaching of the Mahāsamaya Sutta and the Āṭānāṭiya Sutta.
 
-Dhataraṭṭha<sup>2</sup>
+Dhataraṭṭha2
 
 There were two kings of this name, contemporaries and vassals of Reṇu. One of these two was king of Aṅga with his capital in Campā, and the other of the Kāsīs with his capital in Benares. DN.ii.235*f.*
 
-Dhataraṭṭha<sup>3</sup>
+Dhataraṭṭha3
 
 A class of Nāgas. DN.ii.259
 
@@ -5246,11 +5246,11 @@ see_also = []
 also_written_as = []
 ```
 
-Dhīrā<sup>1</sup>
+Dhīrā1
 
 A bhikkhunī whose Therīgāthā verse speaks of the wise one who attains Nibbana. Thig.6
 
-Dhīrā<sup>2</sup>Vīrā
+Dhīrā2Vīrā
 
 A bhikkhunī whose Therīgāthā verse speaks of how the heroic one overcomes Māra. Thig.7
 
@@ -5568,11 +5568,11 @@ see_also = []
 also_written_as = []
 ```
 
-Ekapuṇḍarīka<sup>1</sup>
+Ekapuṇḍarīka1
 
 A monastery of the wanderers, the residence of Vacchagotta. MN.i.481*f.* It was near the Kūṭāgārasālā in the Mahāvana of Vesāli. The Buddha went there to see Vacchagotta, and it was on this occasion that the Tevijja\-Vacchagotta Sutta was preached. MN.i.481*f.*
 
-25.990761,85.0863652non\-Buddhist monasteryEkapuṇḍarīka<sup>2</sup>
+25.990761,85.0863652non\-Buddhist monasteryEkapuṇḍarīka2
 
 An elephant belonging to Pasenadi. It was while riding on this elephant that the king met Ānanda. The king followed the Elder to the monastery, and their conversation is recorded in the Bāhitika Sutta. MN.ii.112*f.*
 
@@ -5726,11 +5726,11 @@ see_also = []
 also_written_as = []
 ```
 
-Gagga<sup>1</sup>
+Gagga1
 
 A monk. He became insane, and in this condition did many things unworthy of a monk. When his colleagues blamed him, the Buddha interceded on his behalf and suggested that he be given absolution for his offences, in view of his insanity. The monks acted according to the Buddha’s advice. Vin.i.123 Vin.ii.80*f.*
 
-Gagga<sup>2</sup>
+Gagga2
 
 A brahmin, father of Aṅgulimāla. MN.ii.102 Gagga may have been a gotta\-name. Thus when, after his ordination, Aṅgulimāla is introduced to Pasenadi, the latter addresses him as Gagga Mantāniputta. MN.ii.102
 
@@ -5824,11 +5824,11 @@ see_also = []
 also_written_as = []
 ```
 
-Gandhāra<sup>1</sup>
+Gandhāra1
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.69
 
-Gandhāra<sup>2</sup>
+Gandhāra2
 
 One of the sixteen Great Nations.AN.i.213 AN.iv.252 One of the teeth of the Buddha was deposited in Gandhāra. DN.ii.167
 
@@ -6310,11 +6310,11 @@ see_also = []
 also_written_as = []
 ```
 
-Gopaka<sup>2</sup>
+Gopaka2
 
 A monk. He once stayed at the Kukkuṭārāma in Pāṭaliputta, where he was given a set of robes. Vin.i.300
 
-Gopaka<sup>3</sup>
+Gopaka3
 
 A deva. A series of verses attributed to Gopaka are given in the Sakkapañha Sutta. DN.ii.271–275
 
@@ -6348,11 +6348,11 @@ see_also = []
 also_written_as = []
 ```
 
-Gosiṅgasālavanadāya<sup>1</sup>
+Gosiṅgasālavanadāya1
 
 A forest tract near Nādikā. Once, when Anuruddha, Nandiya and Kimbila were living there, they were visited by the Buddha, who came from Giñjakāvasatha. The result of the visit was the preaching of the Cūḷagosiṅga Sutta. MN.i.205*f.* On another occasion, when the Buddha was staying there with many eminent monks, among whom were Sāriputta, Moggallāna and others, their conversation led to the preaching of the Mahāgosiṅga Sutta. MN.i.212*f.*
 
-25.78382,85.271763monasteryGosiṅgasālavanadāya<sup>2</sup>
+25.78382,85.271763monasteryGosiṅgasālavanadāya2
 
 A forest tract near Vesāli. When the Buddha was living in the Kūṭāgārasāla, in the Mahāvana, he was visited by many people and there was great disturbance. In order to find quiet and solitude, certain monks, among whom were Cāla, Upacāla, Kakkaṭa, Kaḷimbha, Nikata and Kaṭissaha, retired into this forest. AN.v.133
 
@@ -6390,7 +6390,7 @@ see_also = []
 also_written_as = []
 ```
 
-Gotama<sup>1</sup>BuddhaSiddhatthaSakyamunīTathāgataAṅgīrasa
+Gotama1BuddhaSiddhatthaSakyamunīTathāgataAṅgīrasa
 
 He was a Sākiyan, son of Suddhodana and of Mahā Māyā, Suddhodana’s chief consort, and he belonged to the Gotama\-gotta. At age 29 he departed from his home to seek Awakening. Six years later he realized this goal. He spent the remaining 45 years of his life teaching, and died at the age of eighty in Kusināra.
 
@@ -6686,11 +6686,11 @@ see_also = []
 also_written_as = []
 ```
 
-Hatthaka<sup>1</sup>
+Hatthaka1
 
 A monk. He was a Sākyan and loved holding discussions with the heretics. When he suffered defeat at their hands, he would resort to falsehood and evasion, or would ask his opponent to and meet him somewhere and then go there before the appointed time and give it out that his opponent had avoided him. This matter was reported to the Buddha, who rebuked Hatthaka for his conduct. Vin.iv.1*f.*
 
-Hatthaka<sup>2</sup>Āḷavaka
+Hatthaka2Āḷavaka
 
 An eminent lay disciple of the Buddha declared foremost among those who gather a following by means of the four bases of sympathy. AN.i.26 The books record several conversations between the Buddha and Hatthaka. He once saw the Buddha at Gomagga in Siṃsapāvana, near Alavi, and asked him if he were one of those who lived happily. The Buddha said he was always happy in any circumstances. AN.i.136*f.* On another occasion the Buddha asked Hatthaka how he could command the allegiance of such a large company. “By the four bases of sympathy,” he answered, by giving gifts, by kindly words, by kindly deeds, by equality of treatment. And when Hatthaka had gone, the Buddha praised him for his eminence, in that he possessed eight marvellous qualities: faith, virtue, conscientiousness, fear of blame, ability to listen well, charity, wisdom, modesty. AN.iv.218*f.* AN.iv.216
 
@@ -6990,15 +6990,15 @@ see_also = []
 also_written_as = []
 ```
 
-Hārita<sup>1</sup>
+Hārita1
 
 A Mahā Brahmā who was present at the preaching of the Mahāsamaya Sutta, at the head of one hundred thousand other Brahmās. DN.ii.261
 
-Hārita<sup>2</sup>
+Hārita2
 
 A monk whose Theragāthā verse speaks of making body and mind straight. Thag.29
 
-Hārita<sup>3</sup>
+Hārita3
 
 A monk whose Theragāthā verses speak of doing what is good, and the peace of Nibbana. Thag.261–263
 
@@ -7056,7 +7056,7 @@ see_also = []
 also_written_as = []
 ```
 
-Inda<sup>1</sup>
+Inda1
 
 Given in the Āṭānāṭiya Sutta as the name of the ninety\-one sons of Dhataraṭṭha, king of the Gandhabbas. They are represented as being of great strength and followers of the Buddha. DN.iii.197
 
@@ -7064,7 +7064,7 @@ The name is also given as that of the ninety\-one sons of Virūḷha, king of th
 
 In the Mahāsamaya Sutta, DN.ii.257*f.* also, Inda is mentioned as the name of the Sons of the Regent Gods of the Four Quarters.
 
-Inda<sup>2</sup>
+Inda2
 
 The Pāḷi equivalent of the Vedic Indra. He is referred to only very seldom in the Nikāyas, but is usually identifed as Sakka. In one such passage DN.i.244–245 he is mentioned with Soma, Varuṇa, Isāna, Pajāpati, Brahmā, Mahiddi and Yāma, as a god whom brahmins invoke and pray to, for union with Brahma after death. In another place, he is described as being seated in the company of Pajāpati and other gods in the Assembly Hall, named Sudhamma. Two of his companions, having listened to the admonition of Gopaka, became disciples of the Buddha and, as a result, far surpassed in glory Inda and his other companion devas. In the same context, Vāsava, ruler of the gods, identified with Sakka, is addressed by Gopaka as “Indra.”. DN.ii.274 He is mentioned with Brahmā and Pajāpati. MN.i.140
 
@@ -7146,13 +7146,13 @@ see_also = []
 also_written_as = []
 ```
 
-Isidatta<sup>1</sup>
+Isidatta1
 
 A verse uttered by Isidatta, in response to the Buddha’s enquiry regarding his welfare, is recorded in the Therāgāthā. Thag.120
 
 According to the Saṃyutta Nikāya, SN.iv.283–288 Isidatta was once staying with a number of senior monks at Macchikāsaṇḍa in the Ambātaka grove. Citta\-gahapati invited the monks to a meal. On this occasion Citta asked a question regarding the Buddha’s teaching on the diversity of the elements. The chief Elder, being unable to answer, remained silent. Isidatta, though the most junior of the whole company, obtained the chief Elder’s permission, and answered the question to the satisfaction of Citta. Citta likewise asked questions regarding various views, such as the infinity of the world, etc. At the end of the discourse, Citta discovered, by accident, that the Elder who had preached to him was none other than his unseen friend, Isidatta. Delighted with the discovery, he invited Isidatta to spend his time at a Macchikāsaṇḍa, promising to provide him with all requisites. But that same day Isidatta left Macchikāsaṇḍa and never returned.
 
-Isidatta<sup>2</sup>
+Isidatta2
 
 An equerry or chamberlain of Pasenadi, King of Kosala. Isidatta is always mentioned with Purāṇa.
 
@@ -7600,11 +7600,11 @@ see_also = []
 also_written_as = []
 ```
 
-Jenta<sup>1</sup>
+Jenta1
 
 A monk whose Theragāthā verse speaks of how the contemplation of impermanence helps to cope with the sufferings of life. Thag.111
 
-Jenta<sup>2</sup>Purohitaputta
+Jenta2Purohitaputta
 
 A monk whose Theragāthā verses speak of his former pride and arrogance and how these have been left behind due to following the Buddha. Thag.423–428 Perhaps he is to be identified with Mānatthaddha of the Saṃyutta Nikāya. SN.i.177
 
@@ -7640,11 +7640,11 @@ see_also = []
 also_written_as = []
 ```
 
-Jeta<sup>1</sup>
+Jeta1
 
 A prince. Owner of Jetavana, which he sold to Anāthapiṇḍika for eighteen crores. He then spent all that money on the erection of a gateway at the entrance, which he decorated with much grandeur. Vin.ii.158*f.*
 
-Jeta<sup>2</sup>
+Jeta2
 
 A Pacceka Buddha. MN.iii.70
 
@@ -7764,11 +7764,11 @@ see_also = []
 also_written_as = []
 ```
 
-Jotipāla<sup>1</sup>
+Jotipāla1
 
 The Bodhisatta born as a brahmin of Vehaliṅga in the time of Kassapa Buddha. Ghaṭīkāra was his friend and invited Jotipāla to accompany him to the Buddha, but Jotipāla refused to go, saying that a “shaveling recluse” could be of no use to him. But Ghaṭīkāra was very insistent, and one day, after they had bathed together in the river, seized Jotipāla by the hair and made a final appeal. This boldness on the part of an inferior caused Jotipāla to realise his extreme earnestness and he agreed to go. After hearing the Buddha preach, Jotipāla became a monk. MN.ii.46ff.;S.i.34*f.*
 
-Jotipāla<sup>2</sup>
+Jotipāla2
 
 A brahmin, son of Govinda, chaplain of Disampati. Jotipāla was a friend of Disampati’s son, Reṇu, who had six other nobles as companions. On the death of Govinda, Jotipāla became chaplain to Disampati. He inspired Reṇu’s six companions to wait on Reṇu and make him promise to share the kingdom with them when he should come to the throne. This promise Reṇu kept when he succeeded his father and appointed Jotipāla to carry out the division of the kingdom, which the latter duly did. All the kings wished Jotipāla to be their chaplain, and he instructed them in the art of government, teaching the mantras also to seven eminent brahmins and to seven hundred young graduates. Jotipāla himself came to be known as Mahā Govinda.
 
@@ -7952,7 +7952,7 @@ see_also = []
 also_written_as = []
 ```
 
-Kaccāna<sup>1</sup>
+Kaccāna1
 
 See Mahā\-Kaccāna, Pakudha\-Kaccāna, Pubba\-Kaccāna, Sambula\-Kaccāna, Sabhiya\-Kaccāna, etc. See also Kaccāyana.
 
@@ -8048,7 +8048,7 @@ see_also = []
 also_written_as = []
 ```
 
-Kakkaṭa<sup>2</sup>
+Kakkaṭa2
 
 An eminent monk mentioned, with Cāla, Upacāla, Kaḷimbha, Nikata and Kaṭissaha, as staying with the Buddha at the Kūṭāgārasālā in Vesāli. When the Licchavis started coming there to pay their respects to the Buddha, the monks, desiring solitude, went into the woodlands near by, such as the Gosiṅgasālavana. AN.v.133*f.*
 
@@ -8066,11 +8066,11 @@ see_also = []
 also_written_as = []
 ```
 
-Kakudha<sup>1</sup>Kakkaṭa
+Kakudha1Kakkaṭa
 
 A lay disciple of the Buddha who dwelt at Nādikā. When the Buddha arrived at Nādikā on his last journey, Ānanda asked him what had happened to Kakudha, who was already dead. The Buddha replied that Kakudha had found birth in the highest heavens, there to pass away entirely. DN.ii.92
 
-Kakudha<sup>2</sup>
+Kakudha2
 
 A deva who visited the Buddha at the Añjanavana in Sāketa, and asked him whether he experienced feelings of pleasure and sorrow. The Buddha replied that he had overcome such feelings and was utterly free, whereupon Kakudha uttered his praises. SN.i.54*f.*
 
@@ -8374,15 +8374,15 @@ see_also = []
 also_written_as = []
 ```
 
-Kappa<sup>1</sup>
+Kappa1
 
 One of Bāvarī’s disciples. The questions he asked of the Buddha are recorded in the Kappamāṇavapucchā. Snp.1007 Snp.1092–1095
 
-Kappa<sup>2</sup>
+Kappa2
 
 A monk whose Theragāthā verses speak of the unattractiveness of the body. Thag.567–576 In the Saṃyutta Nikāya SN.iii.169*f.* two suttas are connected him, in both of which he asks the Buddha how it is possible to cultivate knowledge and thought so as to be free from thoughts of “I” and “mine” with regard to the body. The same questions, receiving the same answers, are elsewhere attributed to Rāhula. SN.ii.253*f.*
 
-Kappa<sup>3</sup>Kappaka
+Kappa3Kappaka
 
 In the Saṃyutta Nikāya. SN.i.144 Bakabrahma is identified with Kappa’s teacher, Kesava.
 
@@ -8540,7 +8540,7 @@ see_also = []
 also_written_as = []
 ```
 
-Kassapa<sup>1</sup>
+Kassapa1
 
 One of the seven Buddhas mentioned in the Canon. DN.ii.7
 
@@ -8550,19 +8550,19 @@ During the time of Kassapa Buddha, the Bodhisatta was a brahmin youth named Joti
 
 The Majjhima Nikāya MN.ii.45*f.* gives details of the earnestness with which Ghaṭīkāra worked for Jotipāla’s conversion when Kassapa was living at Vehaliṅga. The same sutta bears evidence of the great regard Kassapa had for Ghaṭīkāra.
 
-Kassapa<sup>2</sup>
+Kassapa2
 
 A monk whose admonition by his mother is recorded in the Theragāthā. Thag.82
 
-Kassapa<sup>3</sup>
+Kassapa3
 
 A *devaputta*. He visited the Buddha late one night at Jetavana and uttered several stanzas, admonishing monks to train themselves in their tasks, laying particular stress on the cultivation of Jhāna. SN.i.46
 
-Kassapa<sup>4</sup>
+Kassapa4
 
 One of the famous sages of yore, of whom ten are several times mentioned in the books DN.i.104 DN.i.238 MN.ii.169 MN.ii.200 AN.iii.224 DN.i.1041 as having been brahmin sages, who composed and promulgated the mantras and whose compositions are chanted and repeated and rehearsed by the brahmins of the present day. For details see Aṭṭhaka.
 
-Kassapa<sup>5</sup>
+Kassapa5
 
 See also Acela Kassapa, Uruvelā Kassapa, Kumāra°, Gayā°, Dasabala°, Nadī°, Nārada°, Pūraṇa°, Mahā° and Lomasa°.
 
@@ -8582,15 +8582,15 @@ see_also = []
 also_written_as = []
 ```
 
-Kassapagotta<sup>1</sup>
+Kassapagotta1
 
 A monk living in Vāsabhagāma in the Kāsi kingdom. He was in the habit of showing extreme hospitality to the monks who came there from other parts. Once some monks who visited him enjoyed his hospitality and stayed on. After some time, feeling that they had outstayed their welcome, Kassapagotta grew tired of looking after them and was blamed by them for his neglect. He therefore went to Campā, where he laid his case before the Buddha, who declared that no blame attached to him. Vin.i.312*ff.*
 
-Kassapagotta<sup>2</sup>
+Kassapagotta2
 
 A monk living in Pankadhā in the Kosala country. He heard the Buddha preach a sermon, but was not satisfied with it and kept on thinking— “This recluse is much too scrupulous”. Later, he was filled with remorse and, having sought the Buddha at Rājagaha, begged forgiveness for his thoughtlessness. The Buddha praised him for having seen his transgression, and for his confession thereof and determination to practise self\-restraint. AN.i.236*f.*
 
-Kassapagotta<sup>3</sup>
+Kassapagotta3
 
 A monk, perhaps to be identified with one of the others of the same name. He was once staying in a forest tract in Kosala and, seeing a trapper pursuing deer, intervened and protested against the man’s earning his living by such cruel means. The trapper was too preoccupied with his quarry to pay much attention to what was said. A deva of the forest drew near the monk and instructed him not to waste his time in preaching to a man who heard but did not understand what was being said. Kassapa was agitated and, according to the Commentary, gave himself up to much striving and became an arahant. SN.i.198*f.*
 
@@ -8734,11 +8734,11 @@ see_also = []
 also_written_as = []
 ```
 
-Kaṇha<sup>1</sup>
+Kaṇha1
 
 Son of Disā, a slave girl of Okkāka. He was called Kaṇha because he was black and, like a devil, spoke as soon as he was born. He was the ancestor of the Kaṇhāyanagotta. DN.i.93 Later he went into the Dekkhan and, having learnt mystic verses, became a mighty seer. Coming back to Okkāka, Kaṇha demanded the hand of the king’s daughter Maddarūpi. At first the request was indignantly refused, but when Kaṇha displayed his supernatural powers he gained the princess. DN.i.96*f.*
 
-Kaṇha<sup>2</sup>
+Kaṇha2
 
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.71
 
@@ -9158,15 +9158,15 @@ see_also = []
 also_written_as = []
 ```
 
-Khema<sup>1</sup>
+Khema1
 
 A Khattiya in the time of Kakusandha Buddha. He gave alms to the Buddha and the monks and entertained the Order. DN.ii.7
 
-Khema<sup>2</sup>
+Khema2
 
 A *devaputta* who visited the Buddha at Jetavana and spoke several verses on the desirability of leading the good life. SN.i.57
 
-Khema<sup>3</sup>
+Khema3
 
 An arahant. AN.iii.358
 
@@ -9218,11 +9218,11 @@ see_also = []
 also_written_as = []
 ```
 
-Khemaṅkara<sup>1</sup>Khemaṅkura
+Khemaṅkara1Khemaṅkura
 
 The constant attendant of Sikhī Buddha. DN.ii.6
 
-Khemaṅkara<sup>2</sup>KhemaKhemākara
+Khemaṅkara2KhemaKhemākara
 
 The king of Khema or Khemavatī, where the Buddha Kakusandha was born. DN.ii.7
 
@@ -9310,11 +9310,11 @@ see_also = []
 also_written_as = []
 ```
 
-Khitaka<sup>1</sup>
+Khitaka1
 
 A monk whose Theragāthā verse speaks of how light and joyful his body feels. Thag.104
 
-Khitaka<sup>2</sup>
+Khitaka2
 
 A monk whose Theragāthā verse speaks of one who stands firm like a rock among painful experiences. Thag.191–192
 
@@ -9740,7 +9740,7 @@ see_also = []
 also_written_as = []
 ```
 
-Kosala<sup>1</sup>
+Kosala1
 
 A country inhabited by the Kosalans, to the north\-west of Māgadha and next to Kāsī. It is mentioned second in the list of sixteen Great Nations.AN.i.213 AN.iv.252 In the Buddha’s time it was a powerful kingdom ruled over by Pasenadi, who was succeeded by his son Viḍūḍabha. By this time Kāsī was under the subjection of Kosala. With the capture of Kāsi the power of Kosala increased rapidly, until a struggle between this country and Māgadha became inevitable. Quite soon after Bimbisāra’s death there were many fierce fights between Ajātasattu, his successor, and Pasenadi, these fights bringing varying fortunes to the combatants. The Sutta Nipāta Snp.405 AN.i.276 speaks of the Buddha’s birthplace as belonging to the Kosalans. Elsewhere. MN.ii.124 Pasenadi is reported as saying, that both the Buddha and he were Kosalans.
 
@@ -9754,7 +9754,7 @@ The Buddha spent the greater part of his time in Kosala, either in Sāvatthī or
 
 Kosala is often mentioned in combination with Kāsi in the compound Kāsi\-Kosala; Pasenadi was king of Kāsi\-Kosala. AN.v.59
 
-27.517073, 82.0506191janapadaKosala<sup>2</sup>
+27.517073, 82.0506191janapadaKosala2
 
 A Pacceka Buddha, mentioned in a list of names. MN.iii.70
 
@@ -9870,13 +9870,13 @@ see_also = []
 also_written_as = []
 ```
 
-Kosiya<sup>1</sup>Kosiyagotta
+Kosiya1Kosiyagotta
 
 The name of a brahmin clan. In the *pācittiya* it is given as one of the lower *gottas*, Vin.iv.8 but it is also Sakka’s gotta, and is therefore generally regarded as a high one. Thag.415
 
 The name Kosiya is also used in speaking of Sakka by the Buddha, DN.ii.270 Mahā Moggallāna, MN.i.252 and by Mahā Kassapa. Ud.iii.7
 
-Kosiya<sup>2</sup>
+Kosiya2
 
 A monk whose Theragāthā verses emphasize the importance of listening to a teacher and being reflective and learned. Thag.370–374
 
@@ -10322,11 +10322,11 @@ see_also = []
 also_written_as = []
 ```
 
-Kuṭivihārī<sup>1</sup>
+Kuṭivihārī1
 
 The monk was so called because he obtained insight in a hut. Thag.56
 
-Kuṭivihārī<sup>2</sup>
+Kuṭivihārī2
 
 A monk whose Theragāthā verse is an encouragement to be content with his old hut. Thag.57
 
@@ -10410,11 +10410,11 @@ see_also = []
 also_written_as = []
 ```
 
-Kāliṅga<sup>1</sup>
+Kāliṅga1
 
 An inhabitant of Ñātika. While staying in Ñātika, at the Giñjakāvasatha, the Buddha tells Ānanda that Kālinga was reborn after death in the Suddhavāsā, and that there he would attain to nibbāna. DN.ii.92 SN.v.358*f.*
 
-Kāliṅga<sup>2</sup>
+Kāliṅga2
 
 A country. It is one of the seven political divisions mentioned in the time of the mythical king Reṇu and is given first in the list, its capital being Dantapura and its king Sattabhū. DN.ii.235*f.*
 
@@ -10436,7 +10436,7 @@ see_also = []
 also_written_as = []
 ```
 
-Kālāma<sup>1</sup>
+Kālāma1
 
 The name of a family. Mention is made of a town belonging to them in Kosala, which was called Kesaputta. The sermon preached by the Buddha on his visit to Kesaputta is justly famous. AN.i.188*ff.* Among members of this family specially mentioned by name are Bharaṇḍu\-Kālāma, who was once a co\-disciple of the Bodhisatta, and Āḷāra\-Kālāma, the teacher of Gotama before his Enlightenment.
 
@@ -10668,19 +10668,19 @@ see_also = []
 also_written_as = []
 ```
 
-Kāḷī<sup>1</sup>Kururagharikā
+Kāḷī1Kururagharikā
 
 Described among laywomen as the best of those who believe even from hearsay. AN.i.26 A conversation between her and Mahā Kaccāna is related, where she asks him for a detailed exposition of one of the stanzas in the Kumāripañhas. The stanza occurs at. SN.i.126 Mahā\-Kaccāna explains, and his explanation deals with the ten kasinas. AN.v.46*f.*
 
-Kāḷī<sup>2</sup>
+Kāḷī2
 
 Maidservant of Videhikā of Sāvatthī. Videhikā was reputed to be gentle and meek, but Kāḷī, who was a bright girl and a good worker, thought she would test her mistress. One day she rose late and, on being reproved, spoke very lightly of her fault. Finding that Videhikā lost her temper, Kāḷī repeated her offence several times, until one day her mistress struck her with a lynch\-pin, drawing blood from her head. Kāḷī ran out and roused the neighbourhood with her shrieks. Videhikā’s reputation for meekness was no more. The story is related in the Kakacūpama Sutta. MN.i.125*f.*
 
-Kāḷī<sup>3</sup>
+Kāḷī3
 
 A Māra\-woman, sister of Dūsī and mother of the Māra of the present age. MN.i.333
 
-Kāḷī<sup>4</sup>
+Kāḷī4
 
 A crematrix of Sāvatthī. Seeing Mahākāla meditating in the cemetery, she cut off from a recently cremated body its thighs and arms, and making of them a sort of milk bowl, placed it near where the Thera sat. Thag.151
 
@@ -10890,11 +10890,11 @@ see_also = []
 also_written_as = []
 ```
 
-Lohicca<sup>1</sup>
+Lohicca1
 
 A brahmin of Makkarakata in Avanti. Once when Mahā Kaccāna was living there in a forest hut, a number of Lohicca’s pupils came there and began abusing the monks, calling them shavelings, menials, etc. Kaccāna talked to them, telling them how degenerate were the brahmins, differing from brahmins of old, the present ones being backsliders, mere reciters, doing things for trifling gains. The pupils went back to Lohicca and told him this. Lohicca visited Kaccāna and discussed with him these statements, and, at the end of the talk, declared himself Kaccāna’s follower. SN.iv.117*ff.*
 
-Lohicca<sup>2</sup>
+Lohicca2
 
 A brahmin of Sālāvatikā. He once conceived the idea that a samaṇa or recluse who had reached a good state of mind should tell no one else of it, lest he should entangle himself in new bonds. When the Buddha went to Sālāvatikā Lohicca sent the barber, Bhesikā, to invite the Buddha and the monks in his name. The Buddha accepted the invitation, and, at the end of the meal, questioned Lohicca regarding his views. At the end of the discussion Lohicca became the Buddha’s follower. DN.i.224*ff.*
 
@@ -11528,7 +11528,7 @@ see_also = []
 also_written_as = []
 ```
 
-Mahānāma<sup>1</sup>
+Mahānāma1
 
 A Sākiyan rājā, son of Amitodana; he was elder brother of Anuruddha and cousin of the Buddha. When the Sākiyan families of Kapilavatthu sent their representatives to join the Order of their distinguished kinsman, Mahānāma allowed Anuruddha to leave the household, he knowing nothing of household affairs. Vin.ii.180*f.*
 
@@ -11540,11 +11540,11 @@ See also the Cūḷa Dukkhakkhandha Sutta and Sekha Sutta, both preached to Mah�
 
 Mahānāma is included in a list of exemplary lay devotees. AN.iii.451
 
-Mahānāma<sup>2</sup>
+Mahānāma2
 
 A Licchavi. One day while walking about in the Mahāvana in Vesāli he saw some young Licchavis paying homage to the Buddha and accused them of inconsistency. AN.iii.75*ff.*
 
-Mahānāma<sup>3</sup>
+Mahānāma3
 
 A monk whose Theragāthā verse speaks of the beauty of Mount Nesadaka. Thag.115
 
@@ -11761,15 +11761,15 @@ see_also = []
 also_written_as = []
 ```
 
-Mahāvana<sup>1</sup>
+Mahāvana1
 
 A wood near Vesāli, in which the Kūṭāgārasālā was located.
 
-Vesāli3parkMahāvana<sup>2</sup>
+Vesāli3parkMahāvana2
 
 A wood near Kapilavatthu. In this wood was preached the Mahāsamaya Sutta and the Madhupiṇḍika Sutta.
 
-27.57037,83.020933parkMahāvana<sup>3</sup>
+27.57037,83.020933parkMahāvana3
 
 A forest on the outskirts of Uruvelakappa, where the Buddha retired for his noonday rest after his meal at Uruvelakappa. It was in that grove that Ānanda took Tapussa to see him. AN.iv.437*f.*
 
@@ -12853,11 +12853,11 @@ see_also = []
 also_written_as = []
 ```
 
-Mucalinda<sup>1</sup>
+Mucalinda1
 
 A tree near the Ajapālanigrodha in Uruvelā. The Buddha spent there the third week after the Enlightenment. There was a great shower of rain, and the Nāga king, Mucalinda, of the tree, sheltered the Buddha by winding his coils seven times round the Buddha’s body and holding his hood over the Buddha’s head. Vin.i.3 Ud.ii.1
 
-Mucalinda<sup>2</sup>
+Mucalinda2
 
 One of the chief Yakkhas to be invoked by the Buddha’s followers in time of need. DN.iii.205
 
@@ -12927,15 +12927,15 @@ see_also = []
 also_written_as = []
 ```
 
-Muttā <sup>1</sup>
+Muttā 1
 
 A bhikkhunī whose Therīgāthā verse speaks of being freed. Thig.2
 
-Muttā <sup>2</sup>
+Muttā 2
 
 A bhikkhunī whose Therīgāthā verse speaks of being freed from three crooked things. Thig.11
 
-Muttā <sup>3</sup>
+Muttā 3
 
 An eminent upāsikā, mentioned in a list of such. AN.iv.347
 
@@ -12999,11 +12999,11 @@ see_also = []
 also_written_as = []
 ```
 
-Māgaṇḍiya<sup>1</sup>
+Māgaṇḍiya1
 
 The Sutta Nipāta contains a dialogue between Māgaṇḍiya and the Buddha. Snp.1011–1023 The Buddha starts with an emphatic rejection of an offer of a sexual nature, which sparks a discussion on what is truly worth desiring.
 
-Māgaṇḍiya<sup>2</sup>
+Māgaṇḍiya2
 
 A Paribbājaka. The Buddha was once staying in the fire hut of the brahmin Bhāradvājaggotta at Kammāsadamma and Māgaṇḍiya came to the hut. Seeing the grass mat on which the Buddha slept at night, he inquired whose it was, and, on being told, he was very annoyed, calling the Buddha a rigid repressionist. Bhāradvāja protested, whereupon Māgaṇḍiya offered to repeat his charge to the Buddha’s face. The Buddha, aware of this conversation, entered the hut in the evening and had a discussion with Māgaṇḍiya, who ended by joining the Order, later becoming an arahant. MN.i.502*ff.*
 
@@ -13075,11 +13075,11 @@ see_also = []
 also_written_as = []
 ```
 
-Mānatthaddha<sup>1</sup>
+Mānatthaddha1
 
 A brahmin of Sāvatthī who, because of his great pride respected no one. One day he came upon the Buddha preaching to a large crowd of people and stood near, on one side. The Buddha, seeing him, preached on the vanity of pride; Mānatthaddha understood, and, falling at the Buddha’s feet, worshipped him. And then, in answer to his question, the Buddha told him of those to whom respect should be shown, among whom the arahants are perfect. Mānatthaddha became the Buddha’s follower. SN.i.177*f.*
 
-Mānatthaddha<sup>2</sup>
+Mānatthaddha2
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.71
 
@@ -13357,13 +13357,13 @@ see_also = []
 also_written_as = []
 ```
 
-Nanda<sup>1</sup>Vaccha
+Nanda1Vaccha
 
 Mentioned in a list of well known leaders of the Ajivakas, the others being Kisa Saṅkicca and Makkhali Gosāla. MN.i.524 They were declared by Purāṇa Kassapa, in his classification of the six classes, to be of the pure white class. AN.iii.384
 
 The austerities practised by Nanda Vaccha are detailed in the Mahā Saccaka Sutta. MN.i.238
 
-Nanda<sup>2</sup>
+Nanda2
 
 The Buddha’s half\-brother. He became a monk, but was dissatisifed due to longing for his beautiful former partner. The Buddha shows him the bauty of the celestial nymphs, beside whom his beloved looked like a scalded she\-monkey with nose and ears cut off. The Buddha promised Nanda 500 such nymphs if he were to stay as a monk. He remained in robes, but later became ashamed of his purpose and practiced sincerely, attaining arahantship. Ud.iii.2 His Theragāthā verses speak of his struggle with desire. Thag.157*f.*
 
@@ -13373,23 +13373,23 @@ Nanda was very beautiful, and was only four inches shorter than the Buddha. He o
 
 The Aṅguttara Nikāya AN.iv.166*f.* contains a discourse in which the Buddha discusses Nanda’s claim to have achieved self control in all things.
 
-Nanda<sup>3</sup>Nandamāṇava
+Nanda3Nandamāṇava
 
 One of the chief disciples of Bāvarī. His conversation with the Buddha is recorded in the Nanda māṇavaapucchā. Snp.1007 Snp.1124
 
-Nanda<sup>4</sup>Nandagopālaka
+Nanda4Nandagopālaka
 
 He was a cowherd of Kosambi. One day he heard the Buddha preach to the monks, using as simile a log of wood how, in certain circumstances, it finds its way direct to the sea and how, similarly, a monk may reach nibbina. Nanda asked permission to join the Order. But the Buddha insisted that he should first return the cattle, for which he was responsible, to their owners. Nanda did so, and was then ordained, becoming an arahant soon after. SN.iv.181
 
-Nanda<sup>5</sup>
+Nanda5
 
 A *devaputta* who visited the Buddha and had a conversation with him. S.i.62.
 
-Nanda<sup>6</sup>Kumāputta
+Nanda6Kumāputta
 
 A monk whose Theragāthā verse extolls the virtues of the homeless life. Thag.36
 
-Nanda<sup>7</sup>
+Nanda7
 
 The Isigili Sutta mentions four Pacceka Buddhas of this name. MN.iii.70
 
@@ -13407,7 +13407,7 @@ see_also = []
 also_written_as = []
 ```
 
-Nandaka<sup>1</sup>
+Nandaka1
 
 Once, at the Buddha’s request, he preached a sermon to the nuns; on the first day they became sotāpannas, and, on the second, five hundred of them attained arahantship. MN.iii.270 AN.iv.358*ff.* From that time the Buddha declared him foremost among exhorters of the nuns. AN.i.24
 
@@ -13415,11 +13415,11 @@ The Theragāthā Thag.279–282 contains several verses uttered by him to a woma
 
 The Aṅguttara Nikāya attributes two discourses to Nandaka. The first AN.i.193*f.* was preached at the Migāramātupāsāda and takes the form of a discussion with Sāḷha, Migāra’s grandson, and Rohana, Pekkhuniya’s grandson on greed, covetousness, malice and delusion, and the benefits following their destruction. The second discourse is a sermon addressed to the monks at the waiting hall at Jetavana. It is said that the Buddha was attracted to the spot by the sound of Nandaka’s preaching, and, finding the door locked, stood for a long time outside, listening. AN.iv.358*ff.* When his back began to ache he knocked at the door, and, having entered, told Nandaka that he had been waiting until the end of his discourse to speak to him. Nandaka expressed. his regret that he should have kept the Buddha waiting and pleaded ignorance of his presence. The Buddha, conscious of Nandaka’s remorse, went on to praise his sermon, and said that the preaching of such sermons was the duty of all pious monks. When the Buddha left, Nandaka resumed his sermon, and told his audience of the five results of listening to the Dhamma in due season.
 
-Nandaka<sup>2</sup>
+Nandaka2
 
 A monk whose Theragāthā verses speak of how a horse might stumble but then recovers and stands firm. Thag.173*f.*
 
-Nandaka<sup>3</sup>
+Nandaka3
 
 A minister of the Licchavis who visited the Buddha at the Kūṭāgārasālā in Vesali. The Buddha tells him that the Ariyan disciple, possessed of unwavering loyalty to the Buddha, the Dhamma and the Saṅgha., and having Ariyan virtues, is assured of enlightenment and happiness. During the conversation, a man comes to tell Nandaka that his bath is ready. Nandaka sends him away, saying that the inner washing loyalty to the Buddha is far more important. SN.v.389
 
@@ -13437,11 +13437,11 @@ see_also = []
 also_written_as = []
 ```
 
-Nandana<sup>1</sup>
+Nandana1
 
 A *devaputta* who visited the Buddha at Sāvatthī and asked him questions regarding virtue, wisdom, etc. The Buddha answered them, and he went away satisfied. SN.i.62
 
-Nandana<sup>2</sup>Nandanavana
+Nandana2Nandanavana
 
 The chief of the parks in Tāvatiṃsā, where the inhabitants of Tāvatiṃsā, headed by Indra, go for their amusement. AN.iii.40 Cakkavatti kings are born in Tāvatiṃsā after death and spend their time in Nandanavana. SN.v.342
 
@@ -13493,15 +13493,15 @@ see_also = []
 also_written_as = []
 ```
 
-Nandiya<sup>1</sup>
+Nandiya1
 
 He belonged to a Sākiyan family of Kapilavatthu, and was called Nandiya because his birth brought bliss. He left the world at the same time as Anuruddha, Kimbila and the others, and he soon attained arahantship. Thereafter he dwelt with his companions in the Pācīnavaṃsamigadāya. Vin.i.350*f.* It was to them that the Upakkilesa Sutta was preached. MN.iii.155 Later, they seem to have lived in the Gosiṅgasālavana. MN.i.205 His Theragāthā verse is a warning to the Dark Lord not to attack a bhikkhu such as he. Thag.25
 
-Nandiya<sup>2</sup>
+Nandiya2
 
 A Sakyan layman. He visited the Buddha at the Nigrodhārāma in Kapilavatthu and had a discussion with him on the different kinds of Ariyan disciple, the one who dwells in remissness and the one who is earnest.SN.v.397*ff.* SN.v.403 Later, when the Buddha returned to Sāvatthī for the rainy season, Nandiya also went there, finding some business to do, and from time to time he visited the Buddha. At the end of the rains, when the Buddha and the monks were about to start on tour, Nandiya went to the Buddha and was taught the eleven conditions which lead to the destruction of evil. AN.v.334*ff.*
 
-Nandiya<sup>3</sup>
+Nandiya3
 
 A Paribbājaka who visits the Buddha at Jetavana and asks him the conditions for the attainment of nibbana. The Buddha teaches him the Noble Eightfold Path. SN.v.11
 
@@ -13535,15 +13535,15 @@ see_also = []
 also_written_as = []
 ```
 
-Nandā<sup>1</sup>
+Nandā1
 
 A nun, sister of Thullanandā. Her other two sisters were Nandavatī and Sundarinandā. Vin.iv.211 Vin.iv.259
 
-Nandā<sup>2</sup>
+Nandā2
 
 Declared by the Buddha AN.i.25 to be foremost among nuns in *jhāna*. She is evidently to be identified with Sundarīnandā.
 
-Nandā<sup>3</sup>
+Nandā3
 
 A nun mentioned as having died at Nātika and having been reborn spontaneously in the Suddhāvāsā, there to pass away, never to return. DN.ii.91 SN.v.356*f.*
 
@@ -13653,11 +13653,11 @@ see_also = []
 also_written_as = []
 ```
 
-Nemi<sup>1</sup>
+Nemi1
 
 A servitor of Kuvera. DN.iii.201
 
-Nemi<sup>2</sup>
+Nemi2
 
 A Pacceka Buddha, perhaps the same as Nimi. MN.iii.70
 
@@ -13797,11 +13797,11 @@ see_also = []
 also_written_as = []
 ```
 
-Nigrodha<sup>1</sup>
+Nigrodha1
 
 A wanderer. Once, when he was staying with a large number of colleagues at the Udumbarikārāma near Rājagaha, Sandhāna, on his way to see the Buddha, stopped him and entered into conversation. The Buddha, by his divine ear, hearing their talk, approached them and continued the discussion with Nigrodha; this discussion is recorded in the Udumbarika Sīhanāda Sutta. DN.iii.36*ff.* The discussion is also referred to in the Kassapa Sīhanāda Sutta. DN.i.175*f.* There Nigrodha is said to have felt great joy, but this is not mentioned in the Udumbarika Sīhanāda. DN.iii.57
 
-Nigrodha<sup>2</sup>
+Nigrodha2
 
 A monk whose Theragāthā verse speaks of overcoming fear. Thag.21
 
@@ -13837,13 +13837,13 @@ see_also = []
 also_written_as = []
 ```
 
-Nigrodhārāma<sup>1</sup>
+Nigrodhārāma1
 
 A grove near Kapilavatthu, where a residence was provided for the Buddha. Vin.i.82 There Mahāpajāpati Gotamī first asked permission for women to enter the Order. This was refused, and from there the Buddha went on to Vesāli.Vin.ii.253 AN.iv.274 The Buddha stayed at the Nigrodhārāma on several other occasions, and several Vinaya rules are mentioned as being first promulgated there.Vin.iii.235 Vin.iii.244 Vin.iv.55 Vin.iv.101 Vin.iv.167 Vin.iv.181 Vin.iv.262 Vin.iv.314 Various Sākyans came to see the Buddha at the Nigrodhārāma, among them, Mahānāma, Godha, Sarakāni, Nandiya and Vappa SN.v.369–378 SN.v.395–397 SN.v.403–404 SN.v.408 AN.ii.196 AN.iii.284 AN.iv.220 AN.v.83 AN.v.328 AN.v.332 AN.v.334 The Buddha himself visited Kāḷigodhā during his residence there. It was during a discussion with Mahānāma that the Cūḷa Dukkhakkhandha Sutta was preached. During one of the Buddha’s residences in Nigrodhārāma, the Sākyans invited him to consecrate their new Mote Hall, which he did by preaching there far into the night and then asking Moggallāna to continue his discourse.SN.iv.182*ff.* MN.i.353 On another occasion the Buddha is mentioned as having spent a period of convalescence at Nigrodhārāma. AN.i.219*f.* It seems to have been the Buddha’s custom, when staying at Nigrodhārāma, sometimes to spend the noonday siesta in the Mahāvana near by. SN.iii.91*f.*
 
 Among others mentioned as having stayed at Nigrodhārāma is Lomasakaṅgiya. MN.iii.200 A deva called Candana there taught him the Bhaddekaratta Sutta. Is this Lomasakaṅgiya the same as Lomavaṅgīsa, who is also mentioned SN.v.327 as having lived in Nigrodhārāma?
 
-27.54115, 83.080673monasteryNigrodhārāma<sup>2</sup>
+27.54115, 83.080673monasteryNigrodhārāma2
 
 A grove in Rājagaha. The Buddha says that there he once gave Ānanda the chance of asking him to live for a whole aeon, but Ānanda missed his opportunity. D.ii.116
 
@@ -13863,11 +13863,11 @@ see_also = []
 also_written_as = []
 ```
 
-Nikata<sup>1</sup>
+Nikata1
 
 An upāsaka of Ñātikā. After death he was born in the Suddhāvāsā, there to pass away. SN.v.358*f.* DN.ii.91*f.*
 
-Nikata<sup>2</sup>
+Nikata2
 
 One of several eminent theras mentioned as staying in the Kūṭāgārasāla in Vesāli. When the Buddha came there, Licchavis crowded out the place with all their retinues, and Nikata and his coleagues, desiring solitude, retired to the Gosiṅgasālavana. AN.v.133*f.*
 
@@ -14095,11 +14095,11 @@ see_also = []
 also_written_as = []
 ```
 
-Nāgita<sup>1</sup>
+Nāgita1
 
 A monk whose Theragāthā verse speaks of the unique efficacy of practicing the Buddha’s path. Thag.86
 
-Nāgita<sup>2</sup>
+Nāgita2
 
 For some time the personal attendant of the Buddha. DN.i.151 AN.iii.31 AN.iii.341 AN.iv.341
 
@@ -14367,11 +14367,11 @@ see_also = []
 also_written_as = []
 ```
 
-Opamañña<sup>1</sup>
+Opamañña1
 
 One of the names of Pokkharasāti. MN.ii.200
 
-Opamañña<sup>2</sup>
+Opamañña2
 
 A Gandhabba chieftain, who was among those present at the preaching of the Mahāsamaya Sutta. DN.ii.258 He is mentioned in the Āṭānāṭiya Sutta, DN.iii.204 in a list of eminent *yakkha* generals.
 
@@ -15607,11 +15607,11 @@ see_also = []
 also_written_as = []
 ```
 
-Piṇḍola<sup>1</sup>
+Piṇḍola1
 
 A Pacceka Buddha, given in a nominal list. MN.iii.69
 
-Piṇḍola<sup>2</sup>Bhāradvāja
+Piṇḍola2Bhāradvāja
 
 An arahant who announced before the Buddha his readiness to answer the questions of any doubting monks, thus uttering his “lion’s roar.” The Buddha declared him chief of the “lion roarers.”. AN.i.23 The Udāna Ud.iv.6 contains the praise uttered by him of the Buddha, because of his perfected self mastery.
 
@@ -15809,11 +15809,11 @@ see_also = []
 also_written_as = []
 ```
 
-Pukkusa<sup>1</sup>
+Pukkusa1
 
 A prince of the Mallas. He was a disciple of Āḷāra Kālama, and one day, while on his way from Kusinārā to Pāvā, he saw the Buddha seated under a tree by the roadside and stayed to talk to him. He mentioned that once five hundred carts had passed by where Āḷāra sat, and yet so deep was he in meditation that he had failed to notice them. The Buddha told him how, when he himself was in Atumā in the Bhusāgāra, there was a great thunderstorm which killed two peasants and four oxen, but that he had heard and seen nothing, so deep was his concentration. Pukkusa was greatly impressed by this statement, and, having declared himself a follower of the Buddha, he gave to the Buddha two robes of cloth of gold, one of which, at the Buddha’s suggestion, he handed to Ānanda. When Pukkusa had left, Ānanda draped one robe over the Buddha, and was greatly astonished at its pale appearance in comparison with the deep gold of the Buddha’s body. DN.ii.130*ff.*
 
-Pukkusa<sup>2</sup>
+Pukkusa2
 
 The name of a caste, classified among the despised castes. AN.ii.85 MN.ii.152
 
@@ -15849,11 +15849,11 @@ see_also = []
 also_written_as = []
 ```
 
-Punabbasu<sup>1</sup>
+Punabbasu1
 
 A young Yakkha. SN.i.210
 
-Punabbasu<sup>2</sup>
+Punabbasu2
 
 One of the Chabbaggiyā. His followers were called Panabbasukā, and, together with the followers of Assaji, they were called Assaji Punabbasukā
 
@@ -15937,11 +15937,11 @@ see_also = []
 also_written_as = []
 ```
 
-Purāṇa<sup>1</sup>
+Purāṇa1
 
 A monk who lived in Dakkhiṇāgiri. It is said that when he visited Rājagaha after the holding of the First Council, he was asked to give his approval to the “findings” of the same. His answer was that he preferred to remember what he himself had heard and learnt from the Buddha. Vin.ii.189*f.*
 
-Purāṇa<sup>2</sup>
+Purāṇa2
 
 A chamberlain of Pasenadi. He was the brother of Isidatta and the father of Migasālā. In his later years he lived the life of a celibate and was reborn in Tusita as a sakadāgāmī. AN.iii.348*ff.* AN.v.138*ff.*
 
@@ -15979,19 +15979,19 @@ see_also = []
 also_written_as = []
 ```
 
-Puṇṇa<sup>1</sup>
+Puṇṇa1
 
 He was born in the family of a householder of Suppāraka in the Sunāparanta country. One day he asked the Buddha for a short lesson so that, having learnt it, he might go back to dwell in Sunāparanta. The Buddha preached to him the Puṇṇovāda Sutta. MN.iii.267*ff.* His Theragāthā verse speaks of the value of virtue. Thag.70
 
-Puṇṇa<sup>2</sup>
+Puṇṇa2
 
 A servitor who held the oblation ladles for the seven sages, mentioned in the Assalāyana Sutta MN.ii.157 ; they were rebuked by Asita Devala for their pretensions regarding the superiority of brahmins.
 
-Puṇṇa<sup>2</sup>Koliyaputta
+Puṇṇa2Koliyaputta
 
 A naked ascetic who visited the Buddha at Haliddavasana, together with Seniya Kukkuravatika. Puṇṇa questioned the Buddha regarding the practices of Seniya, while Seniya did likewise regarding those of Puṇṇa. The discussion is recorded in the Kukkuravatika Sutta. At the end of the discussion, Puṇṇa declared himself a follower of the Buddha. He is called one who keeps a vow to behave like a cow. MN.i.387*ff.*
 
-Puṇṇa<sup>3</sup>Mantānīputta
+Puṇṇa3Mantānīputta
 
 Sāriputta, hearing of the fame of Puṇṇa, wished to meet him, and went to Andhavana, where Puṇṇa was spending his siesta. Sāriputta questioned him on the seven acts of purity, and Puṇṇa answered him. The two monks found great joy in each other’s words. The interview with Sāriputta is given in the Rathavinīta Sutta. MN.i.146*ff.*
 
@@ -16013,11 +16013,11 @@ see_also = []
 also_written_as = []
 ```
 
-Puṇṇaka<sup>1</sup>
+Puṇṇaka1
 
 One of the sixteen disciples of Bāvarī, who visited the Buddha. Snp.1006 His conversation with the Buddha is given in the Puṇṇakamāṇavapucchā. Snp.1043–1048
 
-Puṇṇaka<sup>2</sup>
+Puṇṇaka2
 
 A Yakkha chief mentioned in the Āṭānāṭiya Sutta DN.iii.204 among those to be invoked by followers of the Buddha in times of tribulation.
 
@@ -16035,11 +16035,11 @@ see_also = []
 also_written_as = []
 ```
 
-Puṇṇamāsa<sup>1</sup>
+Puṇṇamāsa1
 
 A monk whose Theragāthā verse says that a restrained and wise one knows the rise and passing away of the world. Thag.10
 
-Puṇṇamāsa<sup>2</sup>
+Puṇṇamāsa2
 
 A monk whose Theragāthā verses speak of seeing oneself as empty. Thag.171–172
 
@@ -16057,7 +16057,7 @@ see_also = []
 also_written_as = []
 ```
 
-Puṇṇikā<sup>2</sup>
+Puṇṇikā2
 
 A slave girl of Pokkharasāti. MN.ii.201
 
@@ -16091,11 +16091,11 @@ see_also = []
 also_written_as = []
 ```
 
-Puṇṇā<sup>1</sup>
+Puṇṇā1
 
 A bhikkhunī whose Therīgāthā verse speaks of being full with good qualities, like the full moon. Thig.3
 
-Puṇṇā<sup>2</sup>Puṇṇikā
+Puṇṇā2Puṇṇikā
 
 A bhikkhunī whose Therīgāthā verses argue that bathing cannot purify oneself. Thig.236–251
 
@@ -16203,11 +16203,11 @@ see_also = []
 also_written_as = []
 ```
 
-Pārāsariya<sup>1</sup>Pārāpariya
+Pārāsariya1Pārāpariya
 
 A monk whose Theragāthā verse speaks of how being restrained he has overcome defilements. Thag.116
 
-Pārāsariya<sup>2</sup>
+Pārāsariya2
 
 A brahmin teacher mentioned in the Indriyabhāvanā Sutta. He is said, by his pupil Uttara, to have taught that those who have developed their indriyas could neither see forms with their eyes nor hear sounds with their ears. MN.iii.298
 
@@ -16379,11 +16379,11 @@ see_also = []
 also_written_as = []
 ```
 
-Pāvārikambavana<sup>1</sup>
+Pāvārikambavana1
 
 The mango grove of Pāvārika of Kosambī.
 
-Kosambī3parkPāvārikambavana<sup>2</sup>
+Kosambī3parkPāvārikambavana2
 
 A mango grove at Nāḷandā where the Buddha stayed when on a visit there. DN.ii.81 It was there that he preached the Kevaṭṭa Sutta, the Sampasādanīya Sutta and the Upāli Sutta. Among those who visited the Buddha there are mentioned Kevaddha, Upāligahapati and Asibandhakaputta.
 
@@ -16507,11 +16507,11 @@ see_also = []
 also_written_as = []
 ```
 
-Rakkhita <sup>1</sup>
+Rakkhita 1
 
 A monk whose Theragāthā verse speaks of having uprooted all defilements and become cool. Thag.79
 
-Rakkhita<sup>2</sup>Rakkhitavanasaṇḍa
+Rakkhita2Rakkhitavanasaṇḍa
 
 A forest tract near the village of Pārileyya. There the Buddha retired and lived at the foot of the Bhaddasāla, when unable to settle the dispute among the Kosambī monks. The elephant Pārileyya lived there and waited upon the Buddha. Vin.i.352*f.* Ud.iv.5
 
@@ -16583,19 +16583,19 @@ see_also = []
 also_written_as = []
 ```
 
-Revata<sup>1</sup>Khadiravaniya
+Revata1Khadiravaniya
 
 An eminent disciple of the Buddha, declared by him foremost among forest dwellers. AN.i.24
 
 His Theragāthā verses appear under two names. As Khadiravaniya he admonishes Cāla, Upacāla, and Sīsapacāla to be mindful. Thag.42 The greater part of his verses, where his is called Revata, speak of his good intentions in going forth, and how he has accomplished the Buddha’s path. Thag.645–658
 
-Revata<sup>2</sup>Kaṅkhārevata
+Revata2Kaṅkhārevata
 
 The Buddha declared him chief of the monks who practised *jhāna*.AN.i.24 Ud.v.9 Thag.3 Before he became an arahant he was greatly troubled in mind as to what was permissible for him to use and what was not, hence his name, “Revata the Doubter”. UdA.314
 
 He is often mentioned in company with other very eminent disciples—e.g., Anuruddha, Nandiya, Kimbila, Kuṇḍadhāna and Ānanda—at the preaching of the Naḷakapāna Sutta. MN.i.462 The Mahāgosiṅga Sutta MN.i.212*ff.* records a discussion between Moggallāna, Mahā Kassapa, Anuruddha, Revata and Ānanda, and there we find Revata praising, as the highest type of monk, one who delights in meditation and has his habitation in the abodes of solitude.
 
-Revata<sup>3</sup>Soreyya
+Revata3Soreyya
 
 He was one of the Elders who took a prominent part in the Second Council.
 
@@ -16637,7 +16637,7 @@ see_also = []
 also_written_as = []
 ```
 
-Rohinī<sup>1</sup>
+Rohinī1
 
 The Therīgāthā Thig.271–290 contains a set of verses spoken by her in exaltation, when, after becoming an arahant, she recalled to mind the discussion she had had with her father while she was yet a *sotāpanna*.
 
@@ -16687,7 +16687,7 @@ see_also = []
 also_written_as = []
 ```
 
-Rohīnī<sup>2</sup>
+Rohīnī2
 
 A small river dividing the Sākyan and Koliyan countries. A dam was constructed across the river, and the people on the two sides used the water to cultivate their fields.
 
@@ -16707,13 +16707,13 @@ see_also = []
 also_written_as = []
 ```
 
-Rojā<sup>1</sup>
+Rojā1
 
 A Malla, inhabitant of Kusinārā. When the Buddha and Ānanda visited Kusinārā, the Malla chieftains decreed that whoever failed to pay homage to the Buddha would be fined five hundred coins. Rojā was Ānanda’s friend, and Ānanda was pleased when he arrived to pay homage to the Buddha, but when Rojā said that he did so only out of regard for his kinsmen’s decree, Ānanda was bitterly disappointed and asked the Buddha to discover some means by which Rojā could be made to become his follower. The Buddha agreed to do this, and by means of the power of his compassion, Rojā was induced to visit him again. The Buddha preached to Rojā, who asked, as a boon, that the monks should accept hospitality only from him. This request was refused by the Buddha, who said that Rojā must take his turn with others in showing hospitality to him and his monks. Finding that he had long to wait for his turn, Rojā made enquiries, and, discovering that the monks had no supply of green vegetables or pastry, he consulted Ānanda, and, with the Buddha’s sanction, offered these things to the Buddha and his monks. Vin.i.247*ff.*
 
 Once Rojā forced on Ānanda a linen cloth (*khomapilotikā*); Ānanda had need of it, and accepted it with the Buddha’s permission. Vin.i.296
 
-Rojā<sup>2</sup>
+Rojā2
 
 A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
@@ -17145,11 +17145,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sahali<sup>1</sup>
+Sahali1
 
 A class of Devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
-Sahali<sup>2</sup>
+Sahali2
 
 A *devaputta*, follower of Makkhali Gosāla. He visited the Buddha at Veḷuvana, in the company of several other Devas, and spoke a verse in praise of Makkhali. SN.i.65*f.*
 
@@ -17288,11 +17288,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sakulā<sup>1</sup>
+Sakulā1
 
 The foremost among nuns in the divine eye. AN.i.25 Her Therīgāthā verses say that while still living in the household, she heard the Dhamma taught by a monk, and then saw the Dhamma, and left behind her family and possessions. After ordination she attained Awakening together with the divine eye. Thig.97–101
 
-Sakulā<sup>2</sup>
+Sakulā2
 
 Sister of Somā. They were both wives of Pasenadi and followers of the Buddha. Once, when Pasenadi was staying at Ujjuñña, he went to see the Buddha, and carried to him the greetings of the two queens. MN.ii.125*f.*
 
@@ -17380,11 +17380,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sambhūta<sup>1</sup>Sītavaniya
+Sambhūta1Sītavaniya
 
 A monk whose Theragāthā verse speaks of how a bhikkhu in the Sītavana (Cool Grove) is victorious. Thag.6
 
-Sambhūta<sup>2</sup>Sānavāsī
+Sambhūta2Sānavāsī
 
 When the Vajjiputtaka heresy arose, his help was sought by Yasa Kākandakaputta. At that time he lived on Ahogaṅgapabbata and was called Sānavāsī because he wore a hempen robe.
 
@@ -17736,11 +17736,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sarabhaṅga<sup>1</sup>
+Sarabhaṅga1
 
 A Pacceka Buddha. MN.iii.70
 
-Sarabhaṅga<sup>2</sup>
+Sarabhaṅga2
 
 A monk whose Theragāthā verses speak of living in a hut of reeds he built himself. By practicing the straight road of the seven Buddhas he realized the ending of rebirth. Thag.487–493
 
@@ -17982,15 +17982,15 @@ see_also = []
 also_written_as = []
 ```
 
-Sañjaya<sup>1</sup>
+Sañjaya1
 
 A monk whose Theragāthā verse says that since going forth he has not had any hate. Thag.48
 
-Sañjaya<sup>2</sup>
+Sañjaya2
 
 In the Kaṇṇakatthala Sutta Viḍūḍabha tells the Buddha that it was Sañjaya who started the story round the palace to the effect that, according to the Buddha, no recluse or brahmin can ever attain to absolute knowledge and insight. Sañjaya is sent for by Pasenadi, but, on being questioned, says that Viḍūḍabha was responsible for the statement. MN.ii.127 MN.ii.132
 
-Sañjaya<sup>3</sup>Belaṭṭhiputta
+Sañjaya3Belaṭṭhiputta
 
 One of the six famous heretical teachers of the Buddha’s day. He was a great skeptic, his teaching being the evasion of problems and the suspension of judgment. His doctrines seem to have been identical with those of the Amarāvikkhepikas (Eel wrigglers) who, when asked a question, would equivocate and wriggle like an eel. DN.i.58 DN.i.27
 
@@ -18248,11 +18248,11 @@ see_also = []
 also_written_as = []
 ```
 
-Serissaka<sup>1</sup>
+Serissaka1
 
 A Yakkha chieftain to be invoked in time of need by followers of the Buddha. DN.iii.205
 
-Serissaka<sup>1</sup>Serīsaka
+Serissaka1Serīsaka
 
 A *vimāna* in the Cātummahārājika world, which was occupied by Pāyāsi during his life there. Gavampati, who used to go there for his siesta, met him and had a conversation with him, which he reported to the Buddha. DN.ii.356*f.* The deva of the *vimāna* was also called Serīsaka, and is evidently to be identified with the Yakkha Serissaka.
 
@@ -18611,11 +18611,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sirimā<sup>1</sup>
+Sirimā1
 
 A monk whose Theragāthā verses speak of remaining still in mind amid praise and blame. Thag.159–160
 
-Sirimā<sup>2</sup>
+Sirimā2
 
 Sirimā is mentioned in a list of eminent *upāsikās*. AN.iv.347
 
@@ -18633,15 +18633,15 @@ see_also = []
 also_written_as = []
 ```
 
-Sirivaḍḍha<sup>1</sup>
+Sirivaḍḍha1
 
 A monk whose Theragāthā verses speak of meditating in the cleft of Mounts Vebhāra and Paṇḍava while the lightning flashes. Thag.41
 
-Sirivaḍḍha<sup>2</sup>
+Sirivaḍḍha2
 
 A minister of Pasenadi, who once sent a message through him to Ānanda. MN.ii.112
 
-Sirivaḍḍha<sup>3</sup>
+Sirivaḍḍha3
 
 A householder of Rājagaha. When he was ill he sent word to Ānanda asking him to visit him. Ānanda, went and preached to him on the four *satipaṭṭhānas*. Sirivaḍḍha became an anāgāmī. SN.v.176*f.*
 
@@ -18695,15 +18695,15 @@ see_also = []
 also_written_as = []
 ```
 
-Siṃsapāvana<sup>1</sup>
+Siṃsapāvana1
 
 A grove in Āḷavī, where the Buddha stayed in the Gomagga and was visited by Hatthaka of Āḷavī. AN.i.136
 
-26.12098, 83.34133parkSiṃsapāvana<sup>2</sup>Sīsapāvane
+26.12098, 83.34133parkSiṃsapāvana2Sīsapāvane
 
 A grove in Kosambī, where the Buddha once stayed. SN.v.437
 
-25.37131, 81.344823parkSiṃsapāvana<sup>3</sup>
+25.37131, 81.344823parkSiṃsapāvana3
 
 A grove to the north of Setavyā, where Kumāra Kassapa once stayed. It was the scene of the preaching of the Pāyāsi Sutta. DN.ii.316
 
@@ -18723,11 +18723,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sobhita<sup>1</sup>
+Sobhita1
 
 A Pacceka Buddha. MN.iii.71
 
-Sobhita<sup>2</sup>
+Sobhita2
 
 A monk who was foremost among those who could remember past births. AN.i.25 Thag.165–166
 
@@ -18799,11 +18799,11 @@ see_also = []
 also_written_as = []
 ```
 
-Somā<sup>1</sup>
+Somā1
 
 One day, as she was meditating at the foot of a tree in Andhavana, Māra, wishing to interrupt her privacy, approached her, invisible in the air, and teased her, remarking on the “two finger” wsidom of women. Somā rebuked him, saying that the fact of being a woman was no obstacle to the comprehension of the Dhamma. SN.i.129 Thig.60–62
 
-Somā<sup>2</sup>
+Somā2
 
 Sister of Sakulā and queen of Pasenadi. She was a devout follower of the Buddha. MN.ii.125 She is probably the eminent lay woman referred to at. AN.iv.347
 
@@ -18853,11 +18853,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sopāka<sup>1</sup>
+Sopāka1
 
 A monk whose Theragāthā verse says one should love all beings, like a woman loves her only child. Thag.33
 
-Sopāka<sup>2</sup>
+Sopāka2
 
 A monk whose Theragāthā verse says that he walked with the Buddha when aged seven, and answered his questions. The Buddha praised him and gave him the ordination right away. Thag.480–486
 
@@ -18947,13 +18947,13 @@ see_also = []
 also_written_as = []
 ```
 
-Soṇa<sup>1</sup>
+Soṇa1
 
 A Thera, declared chief of those possessing clear utterance. AN.i.24 He lived in Avantī, where he met Mahākaccāna and was later ordained by him, after much difficulty assembling the required 10 monks.
 
 Soṇa then visited the Buddha in Sāvathhī, and the Buddha invited him to share his hut. The Buddha asked him to speak on Dhamma, and he recited the whole of the Aṭṭhakavagga. At the end of the recital the Buddha congratulated him. Soṇa asked for the relaxation of sive points of Vinaya for those living in border regions, principal among which was to allow ordination with a few as five monks in the quorum. Vin.i.194*ff.* Ud.v.6 Thag.365–369
 
-Soṇa<sup>2</sup>KoḷivisaSukhumāla
+Soṇa2KoḷivisaSukhumāla
 
 A monk, foremost in those who strive energetically. AN.i.24 His hands and feet were soft like flowers, and a fine down grew on them. He lived in great luxury in three palaces, each for its own season. King Bimbisāra, hearing of him, sent for him and Soṇa went with eighty thousand fellow townsmen.
 
@@ -18961,11 +18961,11 @@ In Rājagaha he heard the Buddha preach, and, winning faith, entered the Order w
 
 The Vinaya Vin.i.179*ff.* gives details of Soṇa’s visit to Bimbisāra. The king, being curious to see Soṇa’s feet, sent for him. He and his eighty\-thousand companions went to see the Buddha, and there they were greatly impressed by the *iddhi*\-power of Sāgata. Soṇa then sought the Buddha alone and joined the Order. After ordination he walked about meditating, his feet bled, and his cankamana was covered with blood “like a slaughter house for oxen.” After Soṇa attained arahantship, the Buddha gave him permission to wear shoes with one lining. Soṇa said he had abandoned eighty cartloads of gold and a retinue of seven elephants. He did not wish, as a monk, to have any luxuries which his colleagues did not share. The Buddha then gave permission to all monks to wear shoes with one lining.
 
-Soṇa<sup>3</sup>PotirīyaputtaPoṭiriyaputtaSeṭṭhiputta
+Soṇa3PotirīyaputtaPoṭiriyaputtaSeṭṭhiputta
 
 A monk whose Theragāthā verse says that the night is for striving, not sleeping. Thag.193–194
 
-Soṇa<sup>4</sup>
+Soṇa4
 
 A layman of Rājagaha. He is mentioned as having had two conversations with the. Buddha at Veḷuvana: one on the impermanence of the body, feelings, etc., their origin and their cessation; SN.iii.48*f.* and, on another occasion, as to why some beings achieve complete cessation in this life and others do not. SN.iv.113
 
@@ -19015,11 +19015,11 @@ see_also = []
 also_written_as = []
 ```
 
-Soṇā<sup>1</sup>
+Soṇā1
 
 An eminent lay woman, disciple of the Buddha. AN.iv.348
 
-Soṇā<sup>2</sup>Bahuputtikā
+Soṇā2Bahuputtikā
 
 A Therī. She was declared foremost among nuns for capacity of effort. She had ten sons and daughters, and she entered the Order in her old age. Her Therīgāthā verses tell of her striving and attainment. AN.i.25 Thig.102–106
 
@@ -19037,11 +19037,11 @@ see_also = []
 also_written_as = []
 ```
 
-Subha<sup>1</sup>
+Subha1
 
 A Pacceka Buddha. MN.iii.70
 
-Subha<sup>2</sup>TodeyyaputtaBhāradvāja
+Subha2TodeyyaputtaBhāradvāja
 
 A young brahman student. He once visited the Buddha in Sāvatthī, asking him various questions. The interview is described in the Subha Sutta. DN.i.204*f.* At the end of the discourse he declared himself the Buddha’s follower. While on his way back from the city, he met Jāṇussoṇi, and, on being asked what he thought of the Buddha, spoke of him in terms of the highest praise, saying that none but Gotama’s own peer could utter sufficient praise of him.MN.i.196*f.* MN.i.208*f.* Subha is described MN.i.202 as the son of the brahmin Todeyya of Tudigāma.
 
@@ -19059,15 +19059,15 @@ see_also = []
 also_written_as = []
 ```
 
-Subhadda<sup>1</sup>
+Subhadda1
 
 When the Buddha died and the monks stood weeping, Subhadda asked them to rejoice instead, saying— “We are well rid of the Great Monk; we shall now do just as we like.” Mahā Kassapa heard this while he was on his way from Pāvā to Kusināra, and it was this remark which made him decide to hold the First Council after the Buddha’s death. Vin.ii.284*f.* DN.ii.162
 
-Subhadda<sup>2</sup>
+Subhadda2
 
 A wanderer, who was the last person to be converted by the Buddha. Having heard that the Buddha would die in the third watch of the night, Subhadda went to the *sāla* grove, where the Buddha lay on his death bed, and asked Ānanda for permission to see him. But three times Ānanda refused the request, saying that the Buddha was weary. The Buddha overheard the conversation and asked Subhadda to come in. Subhadda asked the Buddha if there were any truth in the teachings of other religious instructors. The Buddha said he had no time to discuss that, but that any system devoid of the Noble Eightfold Path was useless for salvation, and he taught Subhadda the Doctrine. Subhadda asked to be allowed to join the Order, and the Buddha gave Ānanda special permission to admit him at once without waiting for the usual probationary period. Subhadda dwelt in solitude and in meditation and soon became an arahant. DN.ii.148*ff.*
 
-Subhadda<sup>3</sup>
+Subhadda3
 
 A lay disciple of Nātikā. He was an *anāgāmī* and was born in the Suddhavāsā, never to be reborn. DN.ii.92 SN.v.348*f.*
 
@@ -19123,15 +19123,15 @@ see_also = []
 also_written_as = []
 ```
 
-Subhā<sup>1</sup>
+Subhā1
 
 A group of Brahmās; the group includes the Parittasubhā, the Appamāṇasubhā and the Subhakiṇhā. MN.iii.102
 
-Subhā<sup>2</sup>Kammāradhītā
+Subhā2Kammāradhītā
 
 The daughter of a rich goldsmith of Rājagaha. One day she went to pay obeisance to the Buddha and he preached to her. She became a *sotāpanna*, and later she joined the Order. From time to time her relations tried to persuade her to leave the Order and return to the world. One day she set forth, in twenty four verses, the dangers of household life and dismissed them, convinced of her rightness. Then, striving for insight, she attained arahantship on the eighth day. Thig.338–361 The Buddha saw this and praised her in three verses. Thig.362–364
 
-Subhā<sup>3</sup>Jīvakambavanikā
+Subhā3Jīvakambavanikā
 
 A bhikkhunī whose Therīgāthā verses speak of how in Jīvakambavana, a libertine, in the prime of youth, seeing her going to her siesta, stopped her, inviting her to sensual pleasures. She talked to him of the evils of such pleasures, but he pesagested. Seeing that he was particularly enamoured of the beauty of her eyes, she pulled out one of them, saying— “Come, here is the offending eye.” The man was appalled and asked her forgiveness. Subhā went to the Buddha, and, at sight of him, her eye recovered. Thig.366–399
 
@@ -19183,11 +19183,11 @@ see_also = []
 also_written_as = []
 ```
 
-Subrahmā<sup>1</sup>
+Subrahmā1
 
 A *devaputta*. He visits the Buddha at Veḷuvana and tells him that his heart is full of dismay. The Buddha replies that the only path out of sorrow is by way of wisdom, renunciation and restraint. SN.i.53
 
-Subrahmā<sup>2</sup>
+Subrahmā2
 
 A Pacceka Brahmā. He was a follower of the Buddha, and, after visiting him together with Suddhavāsa, he went on to another Brahmā, who was infatuated with his own importance. There, by a display of magic power, Subrahmā convinced him that he was far more powerful than the Brahmā, but declared that his own power was as nothing compared with that of the Buddha. SN.i.146*f.* On another occasion, Subrahmā visited the Buddha to declare the folly of Kokālika and of Katamoraka Tissa. SN.i.148 Subrahmā was present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
@@ -19205,15 +19205,15 @@ see_also = []
 also_written_as = []
 ```
 
-Subāhu<sup>1</sup>
+Subāhu1
 
 He was the son of a seṭṭhi family of Benares, and was the friend of Yasa. When Yasa and his companions joined the Order Subāhu followed his example, and they all became arahants. Vin.i.19*f.*
 
-Subāhu<sup>2</sup>
+Subāhu2
 
 A monk whose Theragāthā verse speaks of the joy of meditating in his little hut while the rain falls. Thag.52
 
-Subāhu<sup>3</sup>
+Subāhu3
 
 A Pacceka Buddha. MN.iii.70
 
@@ -19311,15 +19311,15 @@ see_also = []
 also_written_as = []
 ```
 
-Sudatta<sup>1</sup>
+Sudatta1
 
 A lay disciple of Nādikā who had become a sakadāgāmin. DN.ii.92 SN.v.356*f.*
 
-Sudatta<sup>2</sup>
+Sudatta2
 
 A *devaputta* who visited the Buddha at Jetavana and spoke two stanzas on the value of earnestness. SN.i.53
 
-Sudatta<sup>3</sup>SudantaKumāputtassa therassa sahāyaka
+Sudatta3SudantaKumāputtassa therassa sahāyaka
 
 A monk whose Theragāthā verse criticizes those who wander unrestrained. Thag.37
 
@@ -19449,11 +19449,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sudhamma<sup>1</sup>
+Sudhamma1
 
 He lived in Macchikāsaṇḍa, in a monastery (the Ambātakārāma) provided by Citta. Citta used to invite Sudhamma to his house for meals. One day Sāriputta, at the head of several eminent monks, visited Macchikāsaṇḍa and stayed in the monastery. Citta heard Sāriputta preach, and, at the end of the sermon, invited him and the monks to his house the next day. He also invited Sudhamma, but because he had been invited after the others, Sudhamma refused to go. Early the next day he visited Citta’s house to see what offerings had been prepared, and after seeing them, remarked that one thing was missing: sesame cakes. Then Citta rebuked him, comparing him to a crow, the offspring of a cock and a crow. Sudhamma left the house in anger, and going to Sāvatthī, reported the matter to the Buddha. The Buddha blamed Sudhamma and said that the Saṅgha should pass the *paṭisāraṇīyakamma* on him. Sudhamma, thereupon, went to Macchikāsaṇḍa to ask pardon of Citta, but Citta would not forgive him. The Buddha then gave him a companion, and together they went to Citta, and Sudhamma again asked pardon for his fault. Citta pardoned him and asked to be pardoned himself. Vin.i.15–20
 
-Sudhamma<sup>1</sup>
+Sudhamma1
 
 The meeting hall of the deities in Tāvatiṃsā heaven. DN.ii.268 MN.ii.79 SN.i.221 Thag.1198
 
@@ -19555,19 +19555,19 @@ see_also = []
 also_written_as = []
 ```
 
-Sujātā<sup>1</sup>
+Sujātā1
 
 The foremost laywoman in being first to go for refuge. DN.ii.135 AN.i.26
 
-Sujātā<sup>2</sup>
+Sujātā2
 
 A lay woman of Ñātikā. The Buddha said that she had become a sotāpanna and had thus assured for herself the attainment of arahantship. DN.ii.92 SN.v.356*f.*
 
-Sujātā<sup>3</sup>
+Sujātā3
 
 Youngest sister of Visākhā. She was the daughter of Dhanañjayasetthi and was given in marriage to Anāthapiṇḍika’s son. She was very haughty and obstinate. One day, when the Buddha visited Anāthapiṇḍika’s house, she was scolding the servants. The Buddha stopped what he was saying, and, asking what the noise was, sent for her and described to her the seven kinds of wives that were in the world. She listened to the sermon and altered her ways. AN.iv.91*f.*
 
-Sujātā<sup>4</sup>
+Sujātā4
 
 She was the daughter of a seṭṭhi of Sāketa and was given in marriage to a husband of equal rank, with whom she lived happily. One day, while on her way home from a carnival, she saw the Buddha at Añjanavana and listened to his preaching. Even as she sat there her insight was completed, and she became an arahant. She went home, obtained her husband’s permission, and joined the Order. Thig.145–150
 
@@ -19585,11 +19585,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sukkā<sup>1</sup>
+Sukkā1
 
 A bhikkhunī who was famous as a teacher of Dhamma, to the extent that a spirit went Rājagaha about praising her and exhorting others to listen to her Dhamma. Thig.54–56 SN.i.212 SN.i.213
 
-Sukkā<sup>2</sup>
+Sukkā2
 
 A class of Devas who were present, in the company of the Veghanasā, at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
@@ -19623,21 +19623,21 @@ see_also = []
 also_written_as = []
 ```
 
-Sumana<sup>1</sup>
+Sumana1
 
 A monk whose Theragāthā verses speak of having accomplished all that he was aksed to do. Thag.330–334
 
-Sumana<sup>2</sup>Cūḷasumana
+Sumana2Cūḷasumana
 
 A monk whose Theragāthā verses speak of ordaining at age seven, overcoming a dragon, and bringing water for his teacher from lake Anotatta. He is said to be Anuruddha’s novice. Thag.429–434
 
 He may be the same Sumana who represented the monks from Pāveyyakā at the Second Council. Vāsabhagāmi was his colleague. . Vin.ii.305
 
-Sumana<sup>3</sup>
+Sumana3
 
 He is mentioned as having lived in Andhavana with Khema. Together they visited the Buddha, and, when Khema had gone away, Sumana talked with the Buddha about arahants. AN.iii.348*f.* He may be identical with one of the other Sumanas.
 
-Sumana<sup>4</sup>
+Sumana4
 
 A Yakkha chief, to be invoked in time of need by followers of the Buddha. DN.iii.205
 
@@ -19655,11 +19655,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sumanā<sup>1</sup>Sumanārājakumārī
+Sumanā1Sumanārājakumārī
 
 She was the daughter of the king of Kosala and sister of Pasenadi. She is included among the eminent *upāsikās*. AN.iv.347 She once visited the Buddha, with five hundred royal maidens in five hundred royal chariots, and questioned him regarding the efficacy of giving. AN.iii.32*f.* She was present when the Buddha preached to Pasenadi the discourse SN.i.68–70 beginning with, “There are four young creatures, Sire, who may not be disregarded,” and Pasenadi was established in the Refuges and the Precepts. She later became a bhikkhunī and her Therīgāthā verse was spoken by way of encouragement in old age. Thig.16
 
-Sumanā<sup>2</sup>
+Sumanā2
 
 A bhikkhunī whose Therīgāthā verse is an encouragemnt not to be reborn. Thig.14
 
@@ -19677,11 +19677,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sumaṅgala<sup>1</sup>
+Sumaṅgala1
 
 A monk whose Theragāthā verse speaks of being well rid of three crooked things, and exhorts himself to meditation. Thag.43
 
-Sumaṅgala<sup>2</sup>
+Sumaṅgala2
 
 A Pacceka Buddha. MN.iii.70
 
@@ -19715,11 +19715,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sumbha<sup>1</sup>
+Sumbha1
 
 A Pacceka Buddha. MN.iii.70
 
-Sumbha<sup>2</sup>
+Sumbha2
 
 A country in which was Desaka, where Udāyi visited the Buddha during a stay, and had a conversation with him. SN.v.89 SN.v.168
 
@@ -19879,11 +19879,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sundarī<sup>1</sup>
+Sundarī1
 
 A bhikkhunī whose Therīgāthā verses consist of a dialogue, firstly between her father Sujāta and a bhikkhunī, Vāsiṭṭhī, Thig.313–324 and later between Sundarī and her mother. Thig.325–338 Sujāta asked Vāsiṭṭhī why she does not grieve her lost children, and she answers that she has learnt the Dhamma from the Buddha. Sujāta then determines to go to Mithila to see the Buddha and go forth. When Sundarī’s mother heard the news, she implored Sundarī to remain as the heir to the family, but Sundarī was also committed to the Dhamma. She went to the Buddha and roared a Lion’s Roar.
 
-Sundarī<sup>1</sup>Sundarikā
+Sundarī1Sundarikā
 
 A Paribbājikā. She listened to the persuasions of her colleagues, the heretics, and would be seen in the evenings going towards Jetavana with garlands, perfumes, fruits, etc. When asked where she was going, she would reply that she was going to spend the night in the Buddha’s cell. She would then spend it in a neighbouring monastery of the Paribbājakas and be seen again early in the morning coming from the direction of Jetavana. After some days, the heretics hired some villains to kill Sundarī and hide her body under a heap of rubbish near Jetavana. Then they raised a hue and cry and reported to the king that Sundarī was missing. A search was made, and her body was found near the Gandhakuti of the Buddha. Placing the body on a litter, they went about the streets of the city crying— “Behold the deeds of the Sākyan monks!” As a result, the monks were subjected to great insults in the streets. For seven days the Buddha stayed in the Gandhakuti, not going to the city for alms, and Ānanda even suggested that they should go to another city.
 
@@ -19903,11 +19903,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sundarīnandā<sup>1</sup>
+Sundarīnandā1
 
 Younger sister of Thullanandā; she had two other sisters, Nandā and Nandavatī. Sāḷha Migāranattā seduced her, and she was proclaimed guilty of a *Pārājika* offence. Vin.iv.211*f.* She was also blamed for her greediness as regards food. Vin.iv.232–234
 
-Sundarīnandā<sup>1</sup>Nandā
+Sundarīnandā1Nandā
 
 A bhikkhunī whose Therīgāthā verses are an exhortation to her to overcome attchment to the body. She was declared foremost among nuns in power of meditation. Thag.82–86 AN.i.25
 
@@ -20145,11 +20145,11 @@ see_also = []
 also_written_as = []
 ```
 
-Suppiya<sup>1</sup>
+Suppiya1
 
 A Paribbājaka. He was the teacher of Brahmadatta. It was the discussion between these two, in the Ambalaṭṭhikā park, regarding the virtues of the Buddha, his Dhamma and his Order, which led to the preaching of the Brahmajāla Sutta. DN.i.1
 
-Suppiya<sup>2</sup>
+Suppiya2
 
 He was born in Sāvatthī in a family of cemetery keepers. Converted by the preaching of his friend, the Thera Sopāka, he entered the Order and attained arahantship.
 
@@ -20169,11 +20169,11 @@ see_also = []
 also_written_as = []
 ```
 
-Suppiyā<sup>1</sup>
+Suppiyā1
 
 The name of the inhabitants of Rājagaha in the time of Kassapa Buddha. At that time Vepulla was called Supassa. SN.ii.192
 
-Suppiyā<sup>2</sup>
+Suppiyā2
 
 An *upāsaka* of Benares. Her husband was Suppiya, and they were both greatly devoted to the Order. One day, while on a visit to the monastery, Suppiyā saw a sick monk who needed a meat broth. On her return home, she sent an attendant to fetch meat; but there was none to be had in the whole of Benares. She therefore, with a knife, cut a piece of flesh from her thigh and gave it to her servant to make into soup for the monk. She then went to her room and lay on her bed. When Suppiya returned and discovered what had happened he was overjoyed, and, going to the monastery, invited the Buddha to a meal the next day. The Buddha accepted the invitation, and when, on the next day, he arrived with his monks, he asked for Suppiyā. On hearing that she was ill, he desired that she be brought to see him. At the moment when the Buddha saw her wound was healed, covered with good skin, on which grew fine hairs as on the rest of her body.
 
@@ -20295,15 +20295,15 @@ see_also = []
 also_written_as = []
 ```
 
-Susīma<sup>1</sup>
+Susīma1
 
 A *devaputta*. Once, when Ānanda utters high praise of Sāriputta, Susīma, who is present, reflects on it and confirms all that Ānanda has said. The retinue of Susīma listen enraptured, waxing wondrous, in diverse colours. SN.163*f.*
 
-Susīma<sup>2</sup>
+Susīma2
 
 One of the thousand sons of Sakka. He was one of the deva generals in the fight with the Asuras, but he was lazy, and Sakka had to admonish him. SN.i.217
 
-Susīma<sup>3</sup>
+Susīma3
 
 A Paribbājaka of Rājagaha. When the Buddha’s fame spread and his gains increased, Susīma’s followers suggested that he should learn the Buddha’s doctrine and preach it to the laity so that he and his followers, too, could reap some of the advantages.
 
@@ -20359,11 +20359,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sutavā<sup>1</sup>
+Sutavā1
 
 A Pacceka Buddha mentioned in a nominal list. MN.iii.69
 
-Sutavā<sup>2</sup>
+Sutavā2
 
 A wanderer who visited the Buddha on Gijjhakūṭa and questioned him regarding the description of an arahant. AN.iv.369*f.*
 
@@ -20419,11 +20419,11 @@ see_also = []
 also_written_as = []
 ```
 
-Suyāma<sup>1</sup>
+Suyāma1
 
 A *devaputta*, chief of the Yāma\-devas. AN.iv.242 DN.i.217
 
-Suyāma<sup>2</sup>Suyāmana
+Suyāma2Suyāmana
 
 A monk whose Theragāthā verses speak of abandoning unwholesome states of mind. Thag.74
 
@@ -20713,11 +20713,11 @@ see_also = []
 also_written_as = []
 ```
 
-Sāmā<sup>1</sup>
+Sāmā1
 
 A bhikkhunī whose Therīgāthā verses speak of how she could not find peace after going to the monastery five times, then later attained the end of suffering. Thig.37–38
 
-Sāmā<sup>2</sup>Aparasāmā
+Sāmā2Aparasāmā
 
 A bhikkhunī whose Therīgāthā verses speak of how, despite having gone forth for 25 years, she had not had peace of mind, but later found peace. Thig.39–41
 
@@ -20911,19 +20911,19 @@ see_also = []
 also_written_as = []
 ```
 
-Sāḷha<sup>1</sup>Migāranattā
+Sāḷha1Migāranattā
 
 He once visited Nandaka Thera with Pekkhuniya’s grandson, Rohana. AN.i.193*f.* He built a *vihāra* for the nuns and Sundarīndā was appointed to supervise the work. As a result, Sāḷha and Sundarīnandā saw each other frequently and fell in love. Wishing to seduce her, Sāḷha invited a party of nuns to his house and set apart seats for those nuns who were older than Nandā in one part, and for those younger in another, so that Nandā would be alone. But she, guessing the reason for the invitation, did not go, and, instead, sent an attendant nun to Sāḷha’s house for her alms, excusing herself on the plea that she was taken ill. Salha, hearing of this, set a servant to look after the other nuns and ran off to the monastery. Nandā, on her bed, was waiting for him, and he seduced her. Vin.iv.211*f.*
 
-Sāḷha<sup>2</sup>
+Sāḷha2
 
 A Licchavi, who once visited the Buddha at the Kūṭāgārasālā. AN.ii.200
 
-Sāḷha<sup>3</sup>
+Sāḷha3
 
 A monk of Ñātikā. The Buddha declared that he died an arahant. DN.ii.191 SN.v.356
 
-Sāḷha<sup>4</sup>
+Sāḷha4
 
 An eminent monk who took a prominent part in the Second Council. He lived in Sahajāti, and, on hearing of the heresy of the Vajjiputtakas, retired into solitude in order to decide whether he thought their contentions right. There an inhabitant of the Suddhāvāsā informed him that the Vajjiputtakas were wrong. He was one of the four appointed on behalf of the Pācinakas (Vajjiputtakas) on the committee which discussed the dispute. Vin.ii.302*ff.*
 
@@ -20975,17 +20975,17 @@ see_also = []
 also_written_as = []
 ```
 
-Sīha<sup>1</sup>
+Sīha1
 
 A Licchavi general of Vesāli. He was a follower of the Nigaṇṭhas. When the Buddha visited Vesāli, Sīha, having heard reports of his greatness, wished to see him, but Nigaṇṭha Nāṭaputta dissuaded him, saying that Gotama denied the result of actions and was not worth a visit. But in the end Sīha, accompanied by five hundred chariots, went to the Buddha. Having discovered in conversation with the Buddha that he was falsely accused of preaching wrong doctrines, Sīha declared himself the Buddha’s follower. The Buddha accepted his adherence on condition that he would continue to give alms to any Nigaṇṭhas who sought them at his house. This generosity made Sīha honour the Buddha even more highly, and he invited him and the monks to a meal on the next day. Meat formed one of the dishes, and the Nigaṇṭhas went about Vesāli crying that Sīha had killed a large ox to provide meat for the Buddha and his monks and that the food had been accepted. This was the occasion for the formulation of the rule that no monk should eat flesh where he has reason to believe that the animal had been specially killed for him. Vin.i.233*f.* AN.iv.179*f.*
 
 The Aṅguttara Nikāya AN.iii.38*f.* AN.iv.79*f.* contains two discussions, in more or less identical terms, in which Sīha asks the Buddha if it is possible to show the visible results of giving. The Buddha, by means of a counter question, elicits from Sīha that the giver has his reward in this world itself, and in the end Sīha acknowledges that he has experienced the benefits which the Buddha set forth.
 
-Sīha<sup>2</sup>
+Sīha2
 
 A monk whose Theragāthā verse speaks of remaining vigilent by day and night. Thag.83
 
-Sīha<sup>3</sup>
+Sīha3
 
 A novice who entered the Order at the age of seven and was a great favourite among the monks for his charm. He was much liked by the Buddha. He was a student under Nāgita, and was with him when the Buddha once stayed in Vesāli. Seeing a great number of people coming to visit the Buddha, he informed Nāgita of this, and, with his permission, went to tell the Buddha. This led to the preaching of the Mahāli Sutta. DN.i.151
 
@@ -21109,15 +21109,15 @@ see_also = []
 also_written_as = []
 ```
 
-Sīvaka<sup>1</sup>
+Sīvaka1
 
 A Yakkha who helped Anāthapiṇḍika to find the Buddha at Sītavana.Vin.ii.155*f.* SN.i.211 He is mentioned among the chief Yakkhas to be invoked by followers of the Buddha in time of need. DN.iii.205
 
-Sīvaka<sup>2</sup>
+Sīvaka2
 
 A monk whose Theragāthā verse says his preceptor, Vanavaccha, asked him to go from here, and that though his body dwells in the village, his mind is in the forest. Thag.14
 
-Sīvaka<sup>3</sup>
+Sīvaka3
 
 A monk whose Theragāthā verses speak of the impermanence of houses, and the end of rebirth. Thag.183–184
 
@@ -21865,31 +21865,31 @@ see_also = []
 also_written_as = []
 ```
 
-Tissa<sup>1</sup>
+Tissa1
 
 One of the two chief disciples of Vipassī Buddha. DN.ii.4
 
-Tissa<sup>2</sup>
+Tissa2
 
 A monk who was reborn as a Brahmā with great *iddhi*\-powers. Moggallāna visited him soon after his birth in the Brahma\-world and asked him questions about devas and Brahmas who were assured of salvation.AN.iii.331 AN.iv.75*ff.* He was evidently the Tissa mentioned as being present at the Mahāsamaya. DN.ii.261
 
-Tissa<sup>3</sup>
+Tissa3
 
 A friend of Metteyya. They together visited the Buddha at Jetavana and, having listened to his teaching, entered the Order. Metteyya retired with his teacher into the forest and not long after became an arahant. Tissa lived in Sāvatthī and when his elder brother died, he went home and was persuaded by his relations to return to the lay life. Later, Metteyya, passing through the village with the Buddha, during a journey, visited Tissa and brought him once more to the Buddha. The Buddha preached to them the Tissa\-Metteyya Sutta, at the end of which Tissa became a Sotāpanna, later attaining arahantship. Snp.p.160*f.*
 
-Tissa<sup>4</sup>
+Tissa4
 
 The personal name of Metteyya, friend of Tissa. In the Sutta Nipāta Snp.814 he is called Tissa\-Metteyya.
 
-Tissa<sup>6</sup>
+Tissa6
 
 The Theragāthā contains verses uttered by him regarding certain monks who were jealous of his great renown. Thag.153–154
 
-Tissa<sup>7</sup>
+Tissa7
 
 A monk whose Theragāthā verse speaks of giving up costly bowls and taking a simple earthenware bowl. Thag.97
 
-Tissa<sup>8</sup>
+Tissa8
 
 A monk, son of the Buddha’s paternal aunt. He told the monks of his doubts, and they took him to the Buddha, who gave a discourse to help him. SN.iii.106*f.* On another occasion, the Buddha encouraged him to be patient with harsh words. SN.ii.282 His Theragāthā verse encourages effort. Thag.39
 
@@ -21957,13 +21957,13 @@ see_also = []
 also_written_as = []
 ```
 
-Todeyya<sup>1</sup>
+Todeyya1
 
 A Mahāsāla brahmin, mentioned in a list of eminent brahmins gathered together at Icchanankala and Manasākaṭa. DN.i.235 Snp.p.115
 
 There was in Caṇḍalakappa a mango grove belonging to the Todeyya brahmins. MN.ii.210 A Todeyya brāhmaṇa was also the owner of the mango grove at Kāmandā. SN.iv.121 The Aṅguttara Nikāya AN.ii.180 mentions the pupils of the Todeyya\-brahmin speaking ill of Eḷeyya because the latter followed the teachings of Rāmaputta.
 
-Todeyya<sup>2</sup>
+Todeyya2
 
 A disciple of Bāvarī. Snp.1006 He visited the Buddha, and his questions, with the answers given by the Buddha, are given in the Todeyya\-māṇavaa\-pucchā. Snp.1088–1091
 
@@ -22217,11 +22217,11 @@ see_also = []
 also_written_as = []
 ```
 
-Udaya<sup>1</sup>
+Udaya1
 
 A brahmin of Sāvatthī. One day the Buddha came to his house and he filled the Buddha’s bowl with the food prepared for his own use. Three days in succession the Buddha came, and Udaya, feeling annoyed, said to the Buddha— “A pertinacious and greedy man is the Samaṇa Gotama that he comes again and again.” The Buddha pointed out to him how, again and again, the furrow has to be sown to ensure a continuous supply of food, how over and over again the dairy\-folk draw milk, and how again and again birth and death come to the slow\-witted. At the end of the sermon both Udaya and his household became followers of the Buddha. SN.i.173*f.*
 
-Udaya<sup>2</sup>
+Udaya2
 
 A brahmin, pupil of Bāvarī. When his turn came to question the Buddha, he asked him to explain emancipation through higher knowledge and the destruction of ignorance. Because Udaya had already attained to the fourth *jhāna*, the Buddha gave his explanation in the terms of *jhāna*. Snp.1006 Snp.1105–1111
 
@@ -22287,17 +22287,17 @@ see_also = []
 also_written_as = []
 ```
 
-Udena<sup>1</sup>Utena
+Udena1Utena
 
 King of Kosambī. He was the son of Parantapa. Once when be discovered that the women of the court had given five hundred costly robes to Ānanda, he was annoyed, but when in answer to his questions Ānanda explained to him that nothing given to members of the Order was wasted, he was pleased and himself made a similar offering of robes to Ānanda. Vin.ii.291 The incident took place after the Buddha’s death.
 
 Udena visited Piṇḍola Bhāradvāja to learn how young monastics curbed their passions, at which meeting Udena declared himself a follower of the Buddha. SN.iv.110*f.*
 
-Udena<sup>2</sup>
+Udena2
 
 A thera. He once stayed, after the Buddha’s death, in the Khemiyambavana near Benares. There the brahmin Ghoṭamukha visited him. Their conversation is recorded in the Ghoṭamukha Sutta. At the end of Udena’s sermon, the brahmin offered to share with him the daily allowance he received from the Aṅga king. This offer was refused, and at Udena’s suggestion Ghoṭamukha built an assembly\-hall for monks at Pāṭaliputta; this assembly\-hall was named after him. MN.ii.157*ff.*
 
-Udena<sup>3</sup>
+Udena3
 
 An upāsaka of Kosala. He built a dwelling for the Order, and he invited monks for its dedication, which took place during the Vassa. It being against the rules to go on a journey before the Vassa, the monks asked him to postpone the dedication. This annoyed him. When the matter was referred to the Buddha, he altered the rule so that a journey lasting not more than seven days could be undertaken during the Vassa. Vin.i.139
 
@@ -22367,7 +22367,7 @@ see_also = []
 also_written_as = []
 ```
 
-Udāyī<sup>1</sup>LāludāyīPaṇḍita Udāyī
+Udāyī1LāludāyīPaṇḍita Udāyī
 
 There were at least two monks called Udāyī, and it is not always possible to be sure which one is meant. When the Buddha preached the Nāgopama Sutta, AN.iii.344*f.* on the occasion when Seta, King Pasenadi’s elephant, was publicly admired, Udāyī was stirred to enthusiasm by thoughts of the Buddha and uttered sixteen verses, extolling the virtues of the Buddha, comparing him to a great and wondrous elephant. Thag.689–704 AN.iii.346–347
 
@@ -22381,13 +22381,13 @@ He is rebuked by the Buddha for his sarcastic remark to Ānanda, that Ānanda ha
 
 Udāyī was evidently a clever and attractive preacher, for he is mentioned as having addressed large crowds, a task demanding great powers, as the Buddha himself says when this news of Udāyī is reported to him. AN.iii.184
 
-Udāyī<sup>2</sup>
+Udāyī2
 
 There were at least two monks called Udāyī, and it is not always possible to be sure which one is meant. It was once his turn to recite the Pātimokkha before the Saṅgha, but because he had a crow’s voice, he had to obtain permission to make a special effort so that his recitation might be audible to the others. Vin.i.115 It is, perhaps, this same monk who is mentioned in the Vinaya as having been guilty of numerous Sanghādisesa offences. Vin.iii.110*f.* Vin.iii.119*f.* Vin.iii.127*f.* Vin.iii.137*f.* Vin.iii.135*ff.*
 
 He is censured again and again and various penalties are inflicted on him, nevertheless he repeats his offences. Vin.ii.38*ff.* In the Nissagyiya Vin.iii.205*f.* a story is told of a nun, a former mistress of Udāyī, who conceived a child through touching a garment worn by him. Once when Uppalavaṇṇā asked him to take some meat to the Buddha, he demanded her inner robe as his fees. Vin.iii.208 He seems to have been very fond of the company of women and they returned his liking. Vin.iv.20 Vin.iv.61 Vin.iv.68 There was evidently a strain of cruelty in him, for we are told of his shooting crows and spitting them with their heads cut off. Vin.iv.124 He is described as being fat. Vin.iv.171 He is perhaps to be identified with Lāludāyī.
 
-Udāyī<sup>3</sup>
+Udāyī3
 
 A brahmin. He visited the Buddha at Sāvatthī and asked if the Buddha ever praised sacrifice. The Buddha’s answer was that he did not commend sacrifices which involved butchery, but praised those which were innocent of any killing. AN.ii.43*f.*
 
@@ -22407,17 +22407,17 @@ also_written_as = []
 
 He once visited the Buddha and told him how he rivalled in power and wealth the seṭṭhi Migāra, grandson of Rohana. He was worth one hundred thousand in gold alone, to say nothing of silver. The Buddha tells him that all this wealth could easily be lost in various ways, not so the seven kinds of Ariyan wealth. AN.iv.6–7
 
-Ugga<sup>1</sup>
+Ugga1
 
 One of those that formed the retinue of the *rājā* Eḷeyya. He was a follower of Uddaka\-Rāmaputta, whom the king too held in veneration. AN.ii.180
 
-Ugga<sup>2</sup>
+Ugga2
 
 A householder of Hatthigāma of the Vajji country. Among householders he was declared by the Buddha to be the best of those who waited on the Order. AN.i.26 The Buddha once stated that Ugga was possessed of eight special and wonderful qualities. AN.iv.212–216
 
 The Saṃyutta Nikāya SN.iv.109*f.* records a visit paid to the Buddha by Ugga, at Hatthigāmaka. He asked the Buddha why it was that some beings attained full freedom in this very life, while others did not. Because of grasping, says the Buddha.
 
-Ugga<sup>3</sup>
+Ugga3
 
 A householder of Vesāli, declared by the Buddha to be the best of those who gave agreeable gifts. AN.i.26
 
@@ -22429,7 +22429,7 @@ A sutta in the Aṅguttara Nikāya AN.iii.49–51 gives a list of things of whic
 
 He is included in a list of householders who possessed six special qualities: unwavering loyalty to the Buddha, the Dhamma and the Saṅgha, Ariyan conduct, insight and liberation. AN.iv.451
 
-Ugga<sup>4</sup>
+Ugga4
 
 A monk whose verse is recorded in the Theragāthā. Thag.80
 
@@ -22501,15 +22501,15 @@ see_also = []
 also_written_as = []
 ```
 
-Ujjaya<sup>1</sup>
+Ujjaya1
 
 A Pacceka Buddha, mentioned in the list in the Isigili Sutta. MN.iii.70
 
-Ujjaya<sup>2</sup>
+Ujjaya2
 
 A monk whose verse is in the Theragāthā. Thag.67
 
-Ujjaya<sup>3</sup>
+Ujjaya3
 
 A brahmin. He once went to the Buddha and asked him if he thought well of sacrifices. The Buddha replied that he was opposed to sacrifices which involved the slaughter of animals, but sacrifices not necessitating butchery, such as, for instance, a long\-established charity, an oblation for the welfare of the family, had his approval. AN.ii.42
 
@@ -22701,11 +22701,11 @@ see_also = []
 also_written_as = []
 ```
 
-Upaka<sup>1</sup>
+Upaka1
 
 An Ājivaka whom the Buddha met on his way between Gayā and the Bodhi Tree, after he set out from Isipatana for the preaching of the First Sermon. Upaka questioned the Buddha on his attainments, and when the Buddha told him what he had accomplished he asked the Buddha if he were “Anantajina.” When the Buddha acknowledged it, Upaka shook his bead saying, “It may be so, friend,” and went along by another road Vin.i.8 MN.i.170–171 The Saṃyutta Nikāya SN.i.35 SN.i.60 records a visit paid to the Buddha by Upaka and six other beings born in Avihā.
 
-Upaka<sup>2</sup>Maṇḍikāputta
+Upaka2Maṇḍikāputta
 
 He once visited the Buddha at Gijjhakūṭa and stated before him his view that whoever starts abusive talk of another, without being able to make good his case, is blameworthy. The Buddha agrees and says that Upaka himself has been guilty of this offence. Upaka protests against being caught in a big noose of words, like a fish caught as soon as he pops up his head. The Buddha explains that it is necessary for him to teach with endless variations of words and similes. Upaka is pleased with the Buddha’s talk and reports the conversation to Ajātasattu. The king shows his anger at the man’s presumption in having remonstrated with the Buddha. AN.ii.181*f.*
 
@@ -22757,7 +22757,7 @@ see_also = []
 also_written_as = []
 ```
 
-Upananda<sup>1</sup>
+Upananda1
 
 A monk, belonging to the Sākyan clan, who was known for his greed in procuring requisites. Several incidents connected with him are mentioned in the Vinaya. Once he promised to spend the rainy season with Pasenadi Kosala, but on his way there he saw two lodgings where robes were plentiful and so kept Vassa in those lodgings instead. Pasenadi was greatly annoyed and when, in due course, the matter reached the ears of the Buddha, Upananda was rebuked and a set of rules was passed regarding promises made about the rainy season. Vin.i.153 On another occasion Upananda spent the rainy season at Sāvatthī, but when the time came for the monks to gather together and divide the robes that had been given to them, he went from village to village, taking his share of the robes from everywhere. The Buddha sent for him and rebuked him in the presence of the Order, but the rebuke had evidently no effect, for we find him again spending the Vassa alone in two residences, with the idea of obtaining many robes. The Buddha, however, ordered that only one portion should be given to him. Vin.i.300 His greediness was not confined to robes. Once he was invited to a meal by an official, a follower of the Ājīvakas. He went late, and finding no room left for him, made a junior monk get up and give him his seat. There was a great uproar, but Upananda had his way. Vin.ii.165 Elsewhere he is accused of having appropriated two lodgings for himself at the same time, one at Sāvatthī and the other somewhere in the country. He was evidently unpopular among the monks, because on this occasion we find him spoken of as “a maker of strife, quarrelsome, a maker of disputes, given to idle talk, a raiser of legal questions.”. Vin.ii.168 Upananda was fond of money, for we find in the Vinaya Vin.ii.297 a statement to the effect that “on the occasion of the matter of Upananda the Sākyan, the Buddha distinctly laid down a precept by which gold and silver were forbidden.” Upananda had been given his meals regularly by a certain
 
@@ -22771,11 +22771,11 @@ With most laymen, however, be was evidently popular. Mention is made of a meal w
 
 Upananda had under him two novices, Kaṇḍaka and Mahaka, who seem to have resembled their teacher in being undesirables. They were found guilty of having sex together, and the Buddha laid down a rule forbidding a monk from having two novices as students. Vin.i.79 This rule seems to have been rescinded later. Vin.i.83
 
-Upananda<sup>2</sup>
+Upananda2
 
 Four Pacceka Buddhas, mentioned in the Isigili Sutta. MN.iii.70
 
-Upananda<sup>3</sup>
+Upananda3
 
 Commander\-in\-chief of the Māgadha kingdom. He was present at the conversation, recorded in the Gopaka\-Moggallāna Sutta, between Ānanda and Vassakāra. MN.iii.13
 
@@ -22989,11 +22989,11 @@ see_also = []
 also_written_as = []
 ```
 
-Uppala<sup>1</sup>
+Uppala1
 
 A Pacceka Buddha mentioned in the Isigili Sutta. MN.iii.70
 
-Uppala<sup>2</sup>
+Uppala2
 
 A hell realm. SN.i.152 Snp.p.126
 
@@ -23037,7 +23037,7 @@ see_also = []
 also_written_as = []
 ```
 
-Upāli <sup>1</sup>
+Upāli 1
 
 One of the most eminent of the Buddha’s immediate disciples. He belonged to a barber’s family in Kapilavatthu and entered the service of the Sākiyan princes. When Anuruddha and his cousins left the world and sought ordination from the Buddha at Anupiya Grove, Upāli accompanied them.
 
@@ -23057,11 +23057,11 @@ The canon contains but few records of any discourses connected with Upāli, apar
 
 Three verses are ascribed to Upāli in the Theragāthā Thag.249–251 where he admonishes the brethren to seek noble friends of unfaltering character, to learn the monks’ code of discipline and to dwell in solitude.
 
-Upāli<sup>2</sup>
+Upāli2
 
 A lad of Rājagaha. His parents, wishing him to live a life of ease, did not have him instructed in any of the usual means of livelihood, lest he should be inconvenienced while learning them. After much consideration, they decided to have him ordained. He joined the Order with sixteen other companions equally young, and it is said that they rose at dawn and started shouting for food. This was the reason for the rule that no one under twenty years of age should receive the upasampadā ordination. Vin.i.77*f.*
 
-Upāli<sup>3</sup>Upāligahapati
+Upāli3Upāligahapati
 
 He was present when Dīgha\-Tapassī reported to Nāṭaputta an account of his visit to the Buddha in the Pāvārika Mango\-grove. Upāli undertook to go himself to the Buddha and refute his views, in spite of the protestations of Dīgha\-Tapassī. At the end of his discussion with the Buddha, which is recorded in the Upāli Sutta, Upāli is converted and invites the Buddha to a meal. Although the Buddha enjoins upon Upāli that his benefactions to the Nigaṇṭhas should not cease because of his conversion, Upāli gives instructions that no Nigaṇṭha be admitted to his presence, but that if they need food it shall be given to them. Hearing a rumour of his conversion, first Tapassī, and later Nāṭaputta himself, go to Upāli’s house, where they learn the truth. When Nāṭaputta is finally convinced that Upāli has become a follower of the Buddha, hot blood gushes from his mouth. MN.i.371*ff.*
 
@@ -23187,15 +23187,15 @@ see_also = []
 also_written_as = []
 ```
 
-Usabha <sup>1</sup>
+Usabha 1
 
 Going out one day from his cave after the rains, he saw the loveliness of the woods and mountains and reflected, “These trees and creepers, though unconscious, yet by the season’s fulfilment, have won full growth. Why should not I, who have obtained suitable season, win growth by good qualities?” Pondering thus, he strove and obtained insight. Thag.110
 
-Usabha <sup>2</sup>
+Usabha 2
 
 After entering a town for alms while riding an elephant, he became ashamed and attained enlightenment. Thag.197–198
 
-Usabha <sup>3</sup>
+Usabha 3
 
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 
@@ -23249,11 +23249,11 @@ see_also = []
 also_written_as = []
 ```
 
-Uttamā<sup>1</sup>
+Uttamā1
 
 A bhikkhunī whose verses in the Therīgāthā tell of her repeated struggles before realizing awakening. Thig.42–44
 
-Uttamā<sup>2</sup>
+Uttamā2
 
 A bhikkhunī whose verses in the Therīgāthā tell of how, as a daughter of the Buddha, she has developed the seven awakening\-factors and attained Nibbāna. Thig.45–47
 
@@ -23271,39 +23271,39 @@ see_also = []
 also_written_as = []
 ```
 
-Uttara<sup>1</sup>
+Uttara1
 
 A monk whose verses are recorded in the Theragāthā. Thag.121–122
 
-Uttara<sup>2</sup>
+Uttara2
 
 A monk whose verse are recorded in the Theragāthā. Thag.161–162
 
-Uttara<sup>3</sup>
+Uttara3
 
 A *devaputta* who visits the Buddha at the Añjanavana in Sāketa. He utters a stanza, and the Buddha, in another stanza, amplifies what he has said. SN.i.54
 
-Uttara<sup>4</sup>
+Uttara4
 
 At the time of the Vajjian heresy that prompted the Second Council, he was the attendant of the Elder Revata and had been twenty years in the Order. The Vajjians of Vesāli went to him and, after much persuasion, succeeded in getting him to accept one robe from them.
 
 In return for this he agreed to say before the Saṅgha that the Pācīnaka Bhikkhus held the true Doctrine and that the Pātheyyaka monks did not. Thereafter Uttara went to Revata, but Revata, on hearing what he had done, instantly dismissed him from attendance upon him. When the Vesāli monks were informed of the occurrence, they took the nissaya from Uttara and became his pupils. Vin.ii.302–303
 
-Uttara<sup>5</sup>
+Uttara5
 
 A brahmin youth, pupil of Pārāsariya. He once visited the Buddha at Kajaligalā in the Mukheluvana and the Buddha preached to him the Indriya\-bhāvanā Sutta. MN.iii.298*ff.*
 
 Perhaps it is this same student that is mentioned in the Pāyāsi Sutta. When Pāyāsi Rājañña was converted by Kumāra Kassapa, he instituted almsgiving to all and sundry, but the gifts he gave consisted of such things as gruel and scraps of food and coarse robes. Uttara, who was one of his retainers, spoke sarcastically of Pāyāsi’s generosity, and on being challenged by Pāyāsi to show what should be done, Uttara gave gladly and with his own hands excellent foods and garments. As a result, after death, while Pāyāsi was born only in the empty Serisakavimāna of the Cātummahārājika world, Uttara was born in Tāvatiṃsā. DN.ii.354–357
 
-Uttara<sup>6</sup>
+Uttara6
 
 A pupil of Brahmāyu. He was sent by his teacher from Mithilā to Videha, to find out if the Buddha bore the marks of the Super man. Having made sure of the presence of all the thirty\-two marks on the Buddha’s person, he dogged the Buddha’s footsteps for seven months, in order to observe his carriage in his every posture. At the end of that period, he returned to Brahmāyu and reported what he had seen. MN.ii.134*ff.*
 
-Uttara<sup>7</sup>
+Uttara7
 
 One of the chief disciples of Vessabhu Buddha. DN.ii.4
 
-Uttara<sup>8</sup>Uttaraka
+Uttara8Uttaraka
 
 A township of the Koliyans. Once, when the Buddha was staying there, he was visited by the headman Pāṭaliya. SN.iv.340
 
@@ -23365,7 +23365,7 @@ see_also = []
 also_written_as = []
 ```
 
-Uttarakā<sup>2</sup>
+Uttarakā2
 
 A village of the Thūlūs. The Buddha once stayed there and Sunakkhatta was in his company. At that time Korakkhattiya was also staying there. DN.iii.6
 
@@ -23433,27 +23433,27 @@ see_also = []
 also_written_as = []
 ```
 
-Uttarā<sup>1</sup>
+Uttarā1
 
 A bhikkhunī whose Therīgāthā verses tell of her awakening. Thig.15
 
-Uttarā<sup>2</sup>
+Uttarā2
 
 The Therīgāthā contains seven verses uttered by her after becoming an arahant, the result of her determination not to leave the sitting posture till she had won emancipation. Thig.175–181
 
-Uttarā<sup>3</sup>
+Uttarā3
 
 In the Theragāthā two verses Thag.1020–1021 are attributed to Ānanda, as having been spoken by him in admonition to a lay woman named Uttarā, who was filled with the idea of her own beauty.
 
-Uttarā<sup>4</sup>Nandamātā
+Uttarā4Nandamātā
 
 In the Aṅguttara Nikāya, AN.i.26 she is described as the best of women disciples in *jhāna*. She is again mentioned AN.iv.347 in a list of eminent lay\-women disciples, who observed the *uposatha* of the eight precepts.
 
-Uttarā<sup>5</sup>
+Uttarā5
 
 A little yakkhinī, sister of Punabbasu. For her story see Uttaramātā.
 
-Uttarā<sup>6</sup>
+Uttarā6
 
 Chief female lay disciple of Koṇāgamana Buddha. DN.ii.7
 
@@ -23525,7 +23525,7 @@ see_also = []
 also_written_as = []
 ```
 
-Uttiya<sup>1</sup>
+Uttiya1
 
 A monk whose Theragāthā verse tells of how when ill, he aroused mindfulness. Thag.30
 
@@ -23533,11 +23533,11 @@ In the Saṃyutta Nikāya SN.v.22 the Buddha explains to him, in answer to his q
 
 Perhaps he is also identical with Uttiya Paribbājaka, who is represented in the Aṅguttara Nikāya AN.v.193*ff.* as asking the Buddha various questions on the duration of the world, etc., and as being helped by Ānanda to understand the real import of the Buddha’s answers.
 
-Uttiya<sup>2</sup>
+Uttiya2
 
 One of four monks with similar Theragāthā verses, the others being Godhika, Subāhu and Valliya. The verses speak of the song of the rain on their well\-sealed huts, as their minds delight in meditation. Thag.51–54
 
-Uttiya<sup>3</sup>
+Uttiya3
 
 A monk whose Theragāthā verse warns of how addiction to the senses increases defilement. Thag.99
 
@@ -23687,7 +23687,7 @@ see_also = []
 also_written_as = []
 ```
 
-Vajirā<sup>2</sup>
+Vajirā2
 
 The Saṃyutta Nikāya SN.i.134*f.* relates that one day, when she was meditating in Andhavana at Sāvatthī, Māra questioned her as to the origin of a “being”, its creator, its origin, its destiny. Vajirā answers that there is no such thing as a “being,” apart from certain conditioned factors, like a chariot, which exists only because of its parts. Māra retires discomfited.
 
@@ -23891,11 +23891,11 @@ see_also = []
 also_written_as = []
 ```
 
-Vappa <sup>1</sup>
+Vappa 1
 
 One of the group of five monks who practiced with the Bodhisatta before his Awakening, and who were his first monastic followers. Vappa was disappointed when the Buddha began taking solid food, he left him and went to Isipatana, where the Buddha preached to him and the others the Dhammacakkappavattana Sutta. Soon after, Vappa and his companions became arahants, at the end of the Anattalakkhaṇa Sutta. Vin.i.12 A verse attributed to him is found in the Theragāthā. Thag.61
 
-Vappa<sup>2</sup>
+Vappa2
 
 A Sākiyan, disciple of the Nigaṇṭhas. He visits Moggallāna and they talk of the *āsavas*. The Buddha joins them and tells Vappa how the *āsavas* can be completely destroyed so that the monk who has so destroyed them will abide in the six satata vihāras with equanimity, mindful and comprehending. Vappa is convinced of the superiority of the Buddha’s teaching and becomes his follower. AN.ii.196*f.*
 
@@ -24073,13 +24073,13 @@ see_also = []
 also_written_as = []
 ```
 
-Vaḍḍha<sup>1</sup>
+Vaḍḍha1
 
 A Licchavi. He was a friend of the Mettiyabhummajakā, and, at their instigation, charged Dabba Mallaputta with having committed adultery with his wife. Dabba repudiated the charge, and the Buddha ordered the monks to proclaim the “overturning the bowl” on Vaḍḍha. When Ānanda visited Vaḍḍha and told him this news he fell in a faint, and, later, visited the Buddha with his family to ask for forgiveness. He was ordered to go before the Saṅgha and confess his error, after which the sentence was revoked. Vin.ii.124*ff.*
 
 He may be identical with Vaḍḍhamāna.
 
-Vaḍḍha<sup>2</sup>
+Vaḍḍha2
 
 A monk whose Theragāthā verses express thanks to his mother and sister for encouraging him in the Dhamma. Thag.335–339 The Therīgāthā conatins an exchange between he and his mother. Thig.204–212
 
@@ -24373,17 +24373,17 @@ see_also = []
 also_written_as = []
 ```
 
-Vejayanta<sup>1</sup>
+Vejayanta1
 
 A palace belonging to Sakka. When Moggallāna visited Sakka to discover if he had fully understood the Buddha’s teaching in the Cūlatanhā saṅkhaya Sutta, Sakka tried to evade his questions by showing him this palace. It has one hundred towers, each seven stories high, with seven nymphs in each storey, waited on by seven attendants. Moggallāna allowed himself to be shown round, and then, with his big toe, he made the palace quake and rock. MN.i.252*f.* Thag.1194–1197.
 
 When the Buddha visited Tāvatiṃsā with Nanda, Sakka was in the palace with his pink\-footed nymphs and came forward with them to greet him.
 
-5buildingVejayanta<sup>2</sup>
+5buildingVejayanta2
 
 A chariot owned by Sakka, with Mātali as charioteer. SN.i.224
 
-Vejayanta<sup>3</sup>
+Vejayanta3
 
 The chief of the eighty four thousand chariots owned by Mahāsudassana. SN.iii.145 DN.ii.187
 
@@ -24639,11 +24639,11 @@ see_also = []
 also_written_as = []
 ```
 
-Vessāmitta<sup>1</sup>
+Vessāmitta1
 
 A celebrated sage of old. Vin.i.245 DN.i.104 MN.ii.169 MN.ii.200 AN.iii.224 Vin.i.2451
 
-Vessāmitta<sup>2</sup>
+Vessāmitta2
 
 A Yakkha chief who, with five hundred others of the same name, was present at the preaching of the Mahāsamaya Sutta. DN.ii.257 He is mentioned among the Yakkha chiefs to be invoked in time of need by followers of the Buddha. DN.iii.205
 
@@ -24855,7 +24855,7 @@ see_also = []
 also_written_as = []
 ```
 
-Veḷuvana<sup>1</sup>Veṇuvana
+Veḷuvana1Veṇuvana
 
 A park near Rājagaha, the pleasure garden of Bimbisāra. When the Buddha first visited Rājagaha, after his Enlightenment, he stayed at the Latthivanuyyāna. Vin.i.35 The day after his arrival, he accepted the king’s invitation to a meal at the palace, at the end of which the king, seeking a place for the Buddha to live “not too far from the town, not too near, suitable for coming and going, easily accessible to all people, by day not too crowded, by night not exposed to noise and clamour, clean of the smell of people, hidden from men and well fitted to seclusion” decided on Veḷuvana, and bestowed it on the Buddha and the fraternity. This was the first monastery accepted by the Buddha, and a rule was passed allowing monks to accept such a monastery. Vin.i.39*f.*
 
@@ -24865,11 +24865,11 @@ Kalaṇḍakanivāpa is the place nearly always mentioned as the spot where the 
 
 During the Buddha’s stay at Veḷuvana, Dabba Mallaputta, at his own request, was appointed regulator of lodgings and apportioner of rations. Vin.ii.74 The Buddha was at Veḷuvana when Dabba also decided to die. He went there to take leave of the Buddha. Ud.viii.9 Sāriputta and Moggallāna brought back the five hundred monks whom Devadatta had enticed away to Gayāsīsa. Vin.ii.200 It was there that the monks of the First Council met Purāṇa, who said he would remember the teachings in his own way. Vin.ii.289*f.*
 
-25.015773,85.4185871monasteryVeḷuvana<sup>2</sup>
+25.015773,85.4185871monasteryVeḷuvana2
 
 A bamboo grove in Kajaṅgalā, where the Buddha once stayed. The *upāsakas* of Kajaṅgalā, having questioned the Kajaṅgalā Bhikkhunī, went to the Buddha there and asked him to verify her answers. AN.v.54*f.*
 
-25.04579, 87.843932parkVeḷuvana<sup>3</sup>
+25.04579, 87.843932parkVeḷuvana3
 
 A bamboo grove in Kimbilā, where the Buddha stayed and was visited by Kimbila. AN.iii.247 AN.iii.339 AN.iv.84
 
@@ -24991,11 +24991,11 @@ see_also = []
 also_written_as = []
 ```
 
-Vijaya<sup>1</sup>
+Vijaya1
 
 A householder, mentioned as an exemplary layman. AN.iii.451
 
-Vijaya<sup>2</sup>
+Vijaya2
 
 A monk whose Theragāthā verse says that one without defilements may not be traced, like birds in the sky. Thag.92
 
@@ -25061,19 +25061,19 @@ see_also = []
 also_written_as = []
 ```
 
-Vimala<sup>1</sup>
+Vimala1
 
 One of the four friends of Yasa who, following the latter’s example, joined the Order and attained arahantship. Vin.i.18*f.*
 
-Vimala<sup>2</sup>
+Vimala2
 
 A monk whose Theragāthā verse speaks of being peaceful amidst a storm. Thag.50
 
-Vimala<sup>3</sup>
+Vimala3
 
 A monk whose Theragāthā verses speak of avoiding bad companions and associating with the diligent. Thag.264–266
 
-Vimala<sup>4</sup>
+Vimala4
 
 A Pacceka Buddha. MN.iii.70
 
@@ -25155,11 +25155,11 @@ see_also = []
 also_written_as = []
 ```
 
-Virūpakkha<sup>1</sup>
+Virūpakkha1
 
 One of the Four Great Kings. He is Regent of the western quarter and lord of the Nāgas.DN.ii.258 DN.iii.199 In the assembly of the devas he sits facing east. DN.ii.207 DN.ii.221
 
-Virūpakkha<sup>2</sup>
+Virūpakkha2
 
 A family of snakes or nāgas. Vin.ii.109 AN.ii.72 They were, perhaps, followers of Virūpakkha.
 
@@ -25195,11 +25195,11 @@ see_also = []
 also_written_as = []
 ```
 
-Visākha<sup>1</sup>
+Visākha1
 
 Husband of Dhammadinnā. After Dhammadinnā had joined the Order, she left the city and retired into the country, returning to Rājagaha after she had attained arahantship. Visākha, hearing of her return, visited her at the nunnery and asked her various questions regarding the Buddha’s teachings, all of which she answered. Their conversation is recorded in the Culla Vedalla Sutta. MN.i.299*f.* Visākha then visited the Buddha and reported their conversation to him, winning the Buddha’s praises for Dhammadinnā.
 
-Visākha<sup>2</sup>Pañcālīputta
+Visākha2Pañcālīputta
 
 A monk whose Theragāthā verses speaks of not attacking the virtuous, nor praising oneself. Thag.209–210
 
@@ -25219,11 +25219,11 @@ see_also = []
 also_written_as = []
 ```
 
-Visākhā<sup>1</sup>
+Visākhā1
 
 . Thig.13
 
-Visākhā<sup>2</sup>
+Visākhā2
 
 The chief among the female lay disciples of the Buddha and declared by him to be foremost among those who ministered to the Order. AN.i.26 She is considered the ideal lay woman. AN.iv.348 Her father was Dhanañjaya, son of Meṇḍaka, and her mother Sumanā.
 
@@ -25487,19 +25487,19 @@ see_also = []
 also_written_as = []
 ```
 
-Vāseṭṭha<sup>1</sup>
+Vāseṭṭha1
 
 An old sage held in high esteem for his knowledge. He was one of the originators of the Vedic mantras. Vin.i.245 DN.i.104 MN.ii.164 MN.ii.200
 
-Vāseṭṭha<sup>2</sup>
+Vāseṭṭha2
 
 A clan, probably tracing its descent to the sage Vāseṭṭha (Sanskrit Vāsiṣṭha). In the Mahā Parinibbāna Sutta DN.ii.147 DN.ii.159 we find the Mallas of Kusināra addressed as Vāseṭṭhā, as well as the Mallas of Pāvā. DN.iii.209 It was a gotta held in esteem. Vin.iv.8
 
-Vāseṭṭha<sup>3</sup>
+Vāseṭṭha3
 
 A young brahmin who, with his friend Bhāradvāja, visited the Buddha and held discussions with him. These discussions are recorded in the Tevijja Sutta, the Vāseṭṭha Sutta, and the Aggañña Sutta. Vāseṭṭha’s first visit to the Buddha was on the occasion of the preaching of the Vāseṭṭha Sutta, at the conclusion of which he accepted the Buddha as his teacher. He again did so, when, at his next visit, the Buddha preached to him the Tevijja Sutta. Soon after, he entered the Order, and the he was taught the Aggañña Sutta.
 
-Vāseṭṭha<sup>4</sup>
+Vāseṭṭha4
 
 A lay disciple, evidently distinct from the Vāseṭṭha who became a monk. He visited the Buddha at the Kūṭagārasālā in Vesāli and the Buddha preached to him. AN.iv.258 He is mentioned among the Buddha’s eminent lay disciples. AN.iii.451
 
@@ -25737,13 +25737,13 @@ see_also = []
 also_written_as = []
 ```
 
-Yasa <sup>1</sup>
+Yasa 1
 
 He was the son of a very wealthy treasurer of Benares, and was brought up in great luxury, living in three mansions, according to the seasons and surrounded with all kinds of pleasures. Impelled by antecedent conditions, he saw one night the indecorum of his sleeping attendants, and, greatly distressed, put on his gold slippers and left the house and the town, non humans opening the gates for him. He took the direction of Isipatana, exclaiming— “Alas! What distress! Alas! What danger!” The Buddha saw him in the distance and called to him, “Come Yasa, here is neither distress nor danger.” Filled with joy, Yasa took off his slippers and sat beside the Buddha. The Buddha preached to him a graduated discourse, and when he had finished teaching the Truths, Yasa attained realization of the Dhamma. To Yasa’s father, too, who had come in search of his son, the Buddha preached the Doctrine, having first made Yasa invisible to him. At the end of the sermon he acknowledged himself the Buddha’s follower, and Yasa, who had been listening, became an arahant. When, therefore, Yasa’s presence became known to his father, who asked him to return to his grieving mother, the Buddha declared that household life had no attractions for Yasa and granted his request to be admitted to the Order. The next day, at the invitation of Yasa’s father, he went, accompanied by Yasa, to his house, and there, at the conclusion of the meal, he preached to Yasa’s mother and other members of the household, who all became his followers, thus becoming the first tevācikā upāsikā. When Yasa’s intimate friends, Vimala, Subāhu, Punnaji and Gavampati, heard of Yasa’s ordination they followed his example and joined the Order, attaining arahantship in due course, as did fifty others of Yasa’s former friends and acquaintances. Vin.i.15–20
 
 A verse attributed to him in the Theragāthā says that he attained the Three Knowledges even while still adorned with fine clothes. Thag.117
 
-Yasa<sup>2</sup>Kākandakaputta
+Yasa2Kākandakaputta
 
 A monk who lived about a century after the Buddha, and who was one of the leaders in the events of the Second Council. When he arrived at the Kūṭāgārasālā in the Mahāvana, he discovered that the Vajjian monks had raised the “Ten Points” contrary to the Buddha’s teachings, and that they were publicly asking for money from their lay disciples. Yasa thereupon protested against such misdemeanours, and the Vajjian monks, hoping to win him over, offered him a share of the money they had collected.
 
@@ -25753,7 +25753,7 @@ When the Vajjian monks heard of this, they pronounced on him the *Ukkhepaniyakam
 
 Together they returned to Vesāli, where lived Sabbakāmī, the oldest Thera of the day. After obtaining his opinion on the matter, an assembly of the monks was held and a committee was appointed of four from the East: Sabbakāmī, Sāḷha, Khujjasobhita, and Vāsabhagāmika; and four from the West: Revata, Sambhūta\-Sānavāsī, Yasa and Sumana. They debated the question at the Vālikārāma, Revata acting as questioner and Sabbakāmī answering his questions. At the end of the enquiry the decision was given against the ten points of the Vajjian monks, and this decision was conveyed to the assembly. Then the recital of the Vinaya was held in which seven hundred monks participated; this recital was called the Sattasatī. Vin.ii.294*ff.*
 
-Yasa <sup>3</sup>
+Yasa 3
 
 A deva, present at the preaching of the Mahāsamaya Sutta. DN.ii.259 Perhaps the name is Yasasā.
 
@@ -26327,7 +26327,7 @@ see_also = []
 also_written_as = []
 ```
 
-Āḷavī<sup>1</sup>
+Āḷavī1
 
 A town between Sāvatthī and Rājagaha. The Buddha goes from Sāvatthī to Kīṭāgiri, thence to Āḷavī, and finally, to Rājagaha. The Buddha, on several occasions, stayed at Āḷavī at the Aggālava shrine, which was near the town. The town later became famous as the residence of Āḷavaka Yakkha and of Hatthaka Āḷavaka. The Therī, Selā was born in Āḷavī and was therefore known as Aḷavikā. There was evidently a large community of monks at Āḷavī, some of whom seem to have chiefly occupied themselves with building vihāras for themselves.
 
