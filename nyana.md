@@ -99,55 +99,55 @@ also_written_as = []
 
 The stereotype text often met with in the Suttas e.g. D. 11, 33; M. 77; A. VIII, 65; X, 29 is as follows:
 
->
->
->
->
-> 1: Perceiving blue…, red…, yellow…, white forms in or on one’s own body, one sees as if external small forms (e.g.: tooth), beautiful or ugly; and in mastering these one understands: 'I know, I understand.' This is the first stage of mastery.
->
->
->
->
->
->
->
-> 2: Perceiving forms on one’s own body, one sees these forms as if external, yet now also large ones (e.g.: leg\-bone=femur). This is the second stage of mastery.
->
->
->
->
->
->
->
-> 3: Not perceiving forms on one’s own body, one sees forms externally, small ones (e.g.: pollen inside flower). This is the third stage of mastery.
->
->
->
->
->
->
->
-> 4: Not perceiving forms on one’s own body, one sees forms externally, large ones (e.g.: planets, galaxies). This is the fourth stage of mastery.
->
->
->
->
->
->
->
-> 5: Not perceiving forms on one’s own body, one sees forms externally, blue (cobalt, yves\-klein, flax, clear & pure) forms, forms of blue color, blue appearance, blue lustre, and mastering these one understands: 'I know, I understand. This is the fifth stage of mastery.
->
->
->
->
->
->
->
-> 6\-8: The same is repeated with yellow, red and white forms.
->
->
->
->
+»
+»
+»
+»
+» 1: Perceiving blue…, red…, yellow…, white forms in or on one’s own body, one sees as if external small forms (e.g.: tooth), beautiful or ugly; and in mastering these one understands: 'I know, I understand.' This is the first stage of mastery.
+»
+»
+»
+»
+»
+»
+»
+» 2: Perceiving forms on one’s own body, one sees these forms as if external, yet now also large ones (e.g.: leg\-bone=femur). This is the second stage of mastery.
+»
+»
+»
+»
+»
+»
+»
+» 3: Not perceiving forms on one’s own body, one sees forms externally, small ones (e.g.: pollen inside flower). This is the third stage of mastery.
+»
+»
+»
+»
+»
+»
+»
+» 4: Not perceiving forms on one’s own body, one sees forms externally, large ones (e.g.: planets, galaxies). This is the fourth stage of mastery.
+»
+»
+»
+»
+»
+»
+»
+» 5: Not perceiving forms on one’s own body, one sees forms externally, blue (cobalt, yves\-klein, flax, clear & pure) forms, forms of blue color, blue appearance, blue lustre, and mastering these one understands: 'I know, I understand. This is the fifth stage of mastery.
+»
+»
+»
+»
+»
+»
+»
+» 6\-8: The same is repeated with yellow, red and white forms.
+»
+»
+»
+»
 
 As preparatory kasina\-object for the 1st and 2nd exercise one should choose on one’s own body a small or a large spot, beautiful or ugly, and thereon one should focus one’s full undivided concentration, so that this object after a while in mind is visualized as a mental reflex or image *nimitta* and, as if it were, as something external. Such an exercise, though appearing quite mechanical, if properly carried out will bring about a high degree of mental concentration and entrance into the 4 absorptions *jhāna*. In the 3rd and 4th exercises the Bhikkhu by an external kasina\-object gains the mental reflexes and absorption see: As objects of the remaining exercises, perfectly clear and radiant colors should be chosen, flowers, cloth, etc.
 
@@ -251,55 +251,55 @@ also_written_as = []
 
 **Abhiññā:** The 6 'higher powers', or supernormal knowledge’s, consist of 5 mundane *lokiya* powers attainable through the utmost perfection in mental concentration *samādhi* and one supra\-mundane *lokuttara* power attainable through penetrating insight *vipassanā*, i.e. ceasing of all mental fermentation *āsavakkhaya* see: *āsava*, in other words, realization of Arahatship or Nobility. They are: 1: magical powers *iddhi*, 2: divine ear *dibba\-sota*, 3: penetration of the minds of others *ceto\-pariya\-ñāna*, 4: remembrance of former existences *pubbe* \- *nivāsānussati*, 5: divine eye *dibba\-cakkhu*, 6: ceasing of all fermentation *āsavakkhaya*. The stereotype text met with in all the 4 Sutta\-collections e.g. D. 34; M. 4, 6, 77; A. III, 99; V, 23; see: XV, 9 and Pug. 271, 239 is as follows:
 
->
->
->
->
-> 1: Now, O Bhikkhus, the Bhikkhu enjoys the various magical powers *iddhi,* such as being one he becomes many, and having become many he again becomes one. He appears and disappears. Without being obstructed he passes through walls and mountains, just as if through the air. In the earth he dives and rises up again, just as if in the water. He walks on water without sinking, just as if on the earth. Cross\-legged he floats & flies through the air, just like a winged bird. With his hand he touches the sun and moon, so mighty & giant. Even up to the Brahma\-world can he master his body.
->
->
->
->
->
->
->
-> 2: With the divine ear *dibba\-sota* he hears sounds both divine and human, whether far or near.
->
->
->
->
->
->
->
-> 3: He knows the minds of other beings *parassa ceto\-pariya\-ñāna*, of other persons, by penetrating & embracing them with his own mind. He knows the greedy mind as greedy and the not\-greedy one as not greedy; knows the hating mind as hating and the not\-hating one as not hating; knows the confused mind as confused and the not\-confused one as not confused; knows the contracted min, the distracted, the developed mind and the undeveloped one, the surpassable and the unsurpassable mind, the concentrated and the unconcentrated mind, the freed and the unfreed mind.
->
->
->
->
->
->
->
-> 4: He remembers many prior existences *pubbe* \- *nivāsānussati*, such as one birth, two, three, four and five births; 10; 100, 1000; hundred thousand births; remembers many expansions and dissolutions of universes: 'There I was this, such name I had… and vanishing from there I entered into existence somewhere else… and vanishing from there I again reappeared here.' Thus he remembers, always together with all the details and peculiarities many former existences.
->
->
->
->
->
->
->
-> 5: With the divine eye *dibba\-cakkhu* = *yathā* \- *kammūpaga* \- *ñāna* or *cutūpapāta\-ñāna*, the pure one, he sees beings vanishing and reappearing, low and noble ones, beautiful and ugly ones, he sees how beings are reappearing according to their actions (see: *kamma* ) 'These beings, indeed, followed evil ways in bodily actions, words and thoughts, insulted the noble ones, held evil & wrong views, and according to their evil views they acted. At the dissolution of their body, after death, they have appeared in the lower worlds, in painful states of existence, in the world of suffering, even in hell. Those other beings, however, who are endowed with good behaviour, have appeared in happy state of existence, even in a divine world.
->
->
->
->
->
->
->
-> 6: Through the ceasing of all fermentation *āsavakkhaya* even in this very life he enters into the possession of liberation of mind, liberation through understanding, after having himself understood and directly realized it.
->
->
->
->
+»
+»
+»
+»
+» 1: Now, O Bhikkhus, the Bhikkhu enjoys the various magical powers *iddhi,* such as being one he becomes many, and having become many he again becomes one. He appears and disappears. Without being obstructed he passes through walls and mountains, just as if through the air. In the earth he dives and rises up again, just as if in the water. He walks on water without sinking, just as if on the earth. Cross\-legged he floats & flies through the air, just like a winged bird. With his hand he touches the sun and moon, so mighty & giant. Even up to the Brahma\-world can he master his body.
+»
+»
+»
+»
+»
+»
+»
+» 2: With the divine ear *dibba\-sota* he hears sounds both divine and human, whether far or near.
+»
+»
+»
+»
+»
+»
+»
+» 3: He knows the minds of other beings *parassa ceto\-pariya\-ñāna*, of other persons, by penetrating & embracing them with his own mind. He knows the greedy mind as greedy and the not\-greedy one as not greedy; knows the hating mind as hating and the not\-hating one as not hating; knows the confused mind as confused and the not\-confused one as not confused; knows the contracted min, the distracted, the developed mind and the undeveloped one, the surpassable and the unsurpassable mind, the concentrated and the unconcentrated mind, the freed and the unfreed mind.
+»
+»
+»
+»
+»
+»
+»
+» 4: He remembers many prior existences *pubbe* \- *nivāsānussati*, such as one birth, two, three, four and five births; 10; 100, 1000; hundred thousand births; remembers many expansions and dissolutions of universes: 'There I was this, such name I had… and vanishing from there I entered into existence somewhere else… and vanishing from there I again reappeared here.' Thus he remembers, always together with all the details and peculiarities many former existences.
+»
+»
+»
+»
+»
+»
+»
+» 5: With the divine eye *dibba\-cakkhu* = *yathā* \- *kammūpaga* \- *ñāna* or *cutūpapāta\-ñāna*, the pure one, he sees beings vanishing and reappearing, low and noble ones, beautiful and ugly ones, he sees how beings are reappearing according to their actions (see: *kamma* ) 'These beings, indeed, followed evil ways in bodily actions, words and thoughts, insulted the noble ones, held evil & wrong views, and according to their evil views they acted. At the dissolution of their body, after death, they have appeared in the lower worlds, in painful states of existence, in the world of suffering, even in hell. Those other beings, however, who are endowed with good behaviour, have appeared in happy state of existence, even in a divine world.
+»
+»
+»
+»
+»
+»
+»
+» 6: Through the ceasing of all fermentation *āsavakkhaya* even in this very life he enters into the possession of liberation of mind, liberation through understanding, after having himself understood and directly realized it.
+»
+»
+»
+»
 
 4\-6 appear frequently under the name of the 'threefold higher knowledge' *te* \- *vijjā*. They are, however, not a necessary condition for the attainment of sainthood *arahatta,* i.e. of the sixth **abhiññā.**
 
@@ -645,31 +645,31 @@ also_written_as = []
 
 **Adhitthāna,** as a doctrinal term, occurs chiefly in two meanings:
 
->
->
->
->
-> 1. 'Foundation': four 'foundations or basics' of an Arahat’s mentality, mentioned and explained in M. 140: the foundation of understanding *paññā,* of truthfulness *sacca* of generosity *cāga* and of peace *upasama.* See also D. 33 and Com.
->
->
->
->
->
->
->
-> dic2\-abbrev.htm#Com.
->
->
->
->
->
->
->
-> 2. 'Determination', resolution, resolve in: *adhitthāna* \- *iddhi* magical power of determination' see: *iddhi*, *adhitthāna* \- *pāramī* perfection of resolution' see: *pāramī.*
->
->
->
->
+»
+»
+»
+»
+» 1. 'Foundation': four 'foundations or basics' of an Arahat’s mentality, mentioned and explained in M. 140: the foundation of understanding *paññā,* of truthfulness *sacca* of generosity *cāga* and of peace *upasama.* See also D. 33 and Com.
+»
+»
+»
+»
+»
+»
+»
+» dic2\-abbrev.htm#Com.
+»
+»
+»
+»
+»
+»
+»
+» 2. 'Determination', resolution, resolve in: *adhitthāna* \- *iddhi* magical power of determination' see: *iddhi*, *adhitthāna* \- *pāramī* perfection of resolution' see: *pāramī.*
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -1009,16 +1009,16 @@ also_written_as = []
 
 **Akusala\-vitakka:** Disadvantageous thoughts as defined under *akusala* In M. 20, five methods of overcoming them are given: by changing the object, thinking of the evil results, paying no attention to them, analyzing them, suppressing them.
 
->
->
->
->
-> M. 20 is translated in: The Removal of Distracting Thoughts WHEEL 21.  
-> See also: How to remove recurring Disadvantageous Distracting Thoughts?
->
->
->
->
+»
+»
+»
+»
+» M. 20 is translated in: The Removal of Distracting Thoughts WHEEL 21.  
+» See also: How to remove recurring Disadvantageous Distracting Thoughts?
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -1276,18 +1276,18 @@ also_written_as = []
 
 **Anattā:** No\-self, egolessness, soullessness, impersonality, absence of identity, is the last of the 3 universal characteristics of existence *ti\-lakkhana.* This *anattā* doctrine, which only is taught by a Buddha, teaches that neither within the bodily, material and mental phenomena of existence, nor outside of them, can be found anything at all, that in the ultimate sense could be regarded as a self\-existing, real & same, ego\-entity, identity, soul, self or independently existing substance. This is the central core doctrine of Buddhism, crucial for understanding the message & method of Buddhism. It is the only really specific Buddhist doctrine, with which the entire structure of the Buddhist teaching stands or falls. All the remaining Buddhist doctrines may, more or less, be found in other philosophic systems and religions, but the *anattā* doctrine has been clearly and unreservedly taught only by the Buddha, wherefore the Buddha is known as the *anattā* \- *vādi* or 'Teacher of impersonality '. Whosoever has not penetrated this universal impersonality of all existence, and does not comprehend that in reality there exists only this continually self\-consuming & self\-referring process of arising and passing away of bodily, material and mental phenomena, and that there is no separate ego\-entity or stable and same core neither within nor outside this process, he will not be able to understand Buddhism, i.e. the teaching of the 4 Noble Truths *sacca*, in the right light. He will think that it is his ego, his personality, that experiences suffering, his personality that performs good and evil actions and will be reborn according to these actions, his personality that will enter into Nibbāna, his personality that walks on the 8\-fold path. This is the fatal 'personalist\-view' *sakkāya\-ditthi* and self\-deception *māna* 'I Am' that keep beings wandering in *Samsāra.* Thus it is said in Vis.M XVI:
 
->
->
->
->
-> Mere suffering exists, no sufferer is found;  
-> Actions are, but no actor is ever found;  
-> *Nibbāna* is, but no being exists that enters it;  
-> The path is, but no traveler is seen.
->
->
->
->
+»
+»
+»
+»
+» Mere suffering exists, no sufferer is found;  
+» Actions are, but no actor is ever found;  
+» *Nibbāna* is, but no being exists that enters it;  
+» The path is, but no traveler is seen.
+»
+»
+»
+»
 
 Whosoever does not understand the origin of conditionally arisen phenomena, and does not comprehend that all the actions are conditioned by ignorance, greed and hate, he thinks that it is an ego or self that understands or does not understand, that acts or causes to act, and that comes into existence at rebirth. He believes there exists an identity 'I' that has the sense\-contact, that feels, desires, becomes attached, continues and at rebirth again enters a new existence as the same being… Vis.M XVII, 117.
 
@@ -1299,15 +1299,15 @@ The contemplation of no\-self *anattānupassanā* leads to the emptiness liberat
 
 For further details, see *paramattha\-sacca, paticca\-samuppāda, khandha, ti\-lakkhana, nāma\-rūpa, patisandhi*
 
->
->
->
->
-> Literature: Anattā\-lakkhana Sutta, Vinaya I, 13\-14; se e: XXII, 59; tr. in Three Cardinal Discourses of the Buddha WHEEL 17. \- Another important text on Anattā is the Discourse on the Snake Simile Alagaddūpama Sutta, M. 22; tr. in WHEEL 48/49. Other texts in path. \- Further: Anattā and Nibbāna, by Nyanaponika Thera WHEEL 11; The Truth of Anattā, by Dr. G. P. Malalasekera WHEEL 94; The Three Basic Facts of Existence III: Egolessness WHEEL 202/204
->
->
->
->
+»
+»
+»
+»
+» Literature: Anattā\-lakkhana Sutta, Vinaya I, 13\-14; se e: XXII, 59; tr. in Three Cardinal Discourses of the Buddha WHEEL 17. \- Another important text on Anattā is the Discourse on the Snake Simile Alagaddūpama Sutta, M. 22; tr. in WHEEL 48/49. Other texts in path. \- Further: Anattā and Nibbāna, by Nyanaponika Thera WHEEL 11; The Truth of Anattā, by Dr. G. P. Malalasekera WHEEL 94; The Three Basic Facts of Existence III: Egolessness WHEEL 202/204
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -1413,15 +1413,15 @@ The insight leading to the first stage of deliverance: Stream\-entry *sotāpatti
 
 Without this deep insight into the impermanence and insubstantiality of all phenomena of existence there is no mental release, no relinquishment, no attainment of deliverance. Hence comprehension of impermanence gained by direct meditative experience heads two lists of insight knowledge: 1: Contemplation of impermanence *aniccānupassanā* is the first of the 18 chief kinds of insight, 2: Contemplation of arising and vanishing *udayabbayānupassanā\-ñāna* is the first of 9 kinds of knowledge which lead to the purification by knowledge and vision of the path \-progress see: *visuddhi* VI. Contemplation of impermanence leads to the signless deliverance *animitta\-vimokkha*; see: *vimokkha*. As herein the ability of confidence *saddhindriya* is outstanding, he who attains in this way the path of Stream\-entry is called a faith\-devotee *saddhānusārī* see. *ariya\-puggala* and at the seven higher stages he is called faith\-liberated *saddhā* \- *vimutta*, See also: *anicca\-saññā.*
 
->
->
->
->
-> See The Three Basic Facts of Existence I: Impermanence WHEEL 186/187
->
->
->
->
+»
+»
+»
+»
+» See The Three Basic Facts of Existence I: Impermanence WHEEL 186/187
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -1745,55 +1745,55 @@ also_written_as = []
 5: Recollection of Generosity, *cāgānussati*  
 6: Recollection of divine beings, *devatānussati.*
 
->
->
->
->
-> 1: The Noble Disciple, Mahānāma, recollects thus: Worthy, honourable and perfectly self\-Enlightened is the *Buddha* ! Consummated in knowledge and behaviour, totally transcended, expert in all dimensions, knower of all worlds, unsurpassable trainer of those who can be tamed, both teacher and guide of gods as well as of humans, blessed, exalted, awakened and enlightened is the Buddha !!!
->
->
->
->
->
->
->
-> 2: Perfectly formulated is this Buddha\- *Dhamma*, visible right here and now, immediately effective, timeless, inviting each and everyone to come and see for themselves, inspect, examine and verify. Leading each and everyone through progress towards perfection. Directly observable, experiencable and realizable by each intelligence…
->
->
->
->
->
->
->
-> 3: Perfectly training is this Noble *S* *angha* community of the Buddha’s disciples; the right way, the true way, the good way, the direct way! Therefore do these eight kinds of individuals, the four Noble pairs, deserve both gifts, self\-sacrifice, offerings, hospitality and reverential salutation with joined palms, since this Noble Sangha community of the Buddha’s Noble Disciples, is an unsurpassable and forever unsurpassed field of merit, in the world, for the world, to honour, and give to…
->
->
->
->
->
->
->
-> 4: The Noble Disciple further recollects his own morality *sīla,* which is unbroken, without any breach, unspotted, untarnished, conducive to liberation, praised by the wise, independent of craving & opinion, leading to concentration.
->
->
->
->
->
->
->
-> 5: The Noble Disciple further recollects his own generosity *cāga* thus: Blessed truly am I, highly blessed am I who, amongst beings defiled with the filth of stinginess, live with heart free from stinginess, liberal, open\-handed, rejoicing in giving, ready to give anything asked for, glad to give and share with others.
->
->
->
->
->
->
->
-> 6: The Noble Disciple further recollects the divine beings *devatā:* There are the divine beings of the retinue of the Four Great Kings, the divine beings of the World of the Thirty\-Three, the Yāma\-devas… and there are divine beings besides see: *deva*. Such faith, such morality, such knowledge, such generosity, such insight, possessed of which those divine beings, after vanishing from here, are reborn in those worlds, such things are also found in me. A. III,70; VI,10; XI,12.
->
->
->
->
+»
+»
+»
+»
+» 1: The Noble Disciple, Mahānāma, recollects thus: Worthy, honourable and perfectly self\-Enlightened is the *Buddha* ! Consummated in knowledge and behaviour, totally transcended, expert in all dimensions, knower of all worlds, unsurpassable trainer of those who can be tamed, both teacher and guide of gods as well as of humans, blessed, exalted, awakened and enlightened is the Buddha !!!
+»
+»
+»
+»
+»
+»
+»
+» 2: Perfectly formulated is this Buddha\- *Dhamma*, visible right here and now, immediately effective, timeless, inviting each and everyone to come and see for themselves, inspect, examine and verify. Leading each and everyone through progress towards perfection. Directly observable, experiencable and realizable by each intelligence…
+»
+»
+»
+»
+»
+»
+»
+» 3: Perfectly training is this Noble *S* *angha* community of the Buddha’s disciples; the right way, the true way, the good way, the direct way! Therefore do these eight kinds of individuals, the four Noble pairs, deserve both gifts, self\-sacrifice, offerings, hospitality and reverential salutation with joined palms, since this Noble Sangha community of the Buddha’s Noble Disciples, is an unsurpassable and forever unsurpassed field of merit, in the world, for the world, to honour, and give to…
+»
+»
+»
+»
+»
+»
+»
+» 4: The Noble Disciple further recollects his own morality *sīla,* which is unbroken, without any breach, unspotted, untarnished, conducive to liberation, praised by the wise, independent of craving & opinion, leading to concentration.
+»
+»
+»
+»
+»
+»
+»
+» 5: The Noble Disciple further recollects his own generosity *cāga* thus: Blessed truly am I, highly blessed am I who, amongst beings defiled with the filth of stinginess, live with heart free from stinginess, liberal, open\-handed, rejoicing in giving, ready to give anything asked for, glad to give and share with others.
+»
+»
+»
+»
+»
+»
+»
+» 6: The Noble Disciple further recollects the divine beings *devatā:* There are the divine beings of the retinue of the Four Great Kings, the divine beings of the World of the Thirty\-Three, the Yāma\-devas… and there are divine beings besides see: *deva*. Such faith, such morality, such knowledge, such generosity, such insight, possessed of which those divine beings, after vanishing from here, are reborn in those worlds, such things are also found in me. A. III,70; VI,10; XI,12.
+»
+»
+»
+»
 
 At the time when the Noble Disciple recollects the Perfect One… at such a time his mind is neither possessed of greed, nor of hate, nor of confusion. Quite upright at such a time is his mind owing to the Perfect One… With upright mind the Noble Disciple attains understanding of the meaning, understanding of the law of Dhamma, and attains to joy through the law of Dhamma. In the joyous one rapture arises. With heart enraptured, his whole being becomes stilled. Stilled within his being, he feels happiness; and the mind of the happy one becomes firm. Of this Noble Disciple it is said that amongst those gone astray, he walks on the right path, among those suffering he abides free from suffering. Thus having reached the stream of the law, he develops and expands this recollection of the Enlightened One. A. VI, 10.
 
@@ -1824,47 +1824,47 @@ also_written_as = []
 
 A being, through the disappearing of the 5 lower mental chains *samyojana*, reappears in a higher world amongst the devas of the Pure Abodes, *suddhāvāsa*, and without returning from that world into the sense\-sphere, he there reaches *Nibbāna.*
 
->
->
->
->
-> 1: He may, immediately after appearing there in the Pure Abodes or before half of the life\-time, attain the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* within the first half of the life *antarā\-parinibbāyī*.
->
->
->
->
->
->
->
-> 2: Or, while living more than half of the lifetime there, or at the moment of death, he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* after crossing half the life\-time *upahacca* \- *parinibbāyī*.
->
->
->
->
->
->
->
-> 3: Or, with effort he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* with exertion *sasankhāra* \- *parinibbāyī*.
->
->
->
->
->
->
->
-> 4: Or, without effort he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* without exertion *asankhāra\-parinibbāyī*.
->
->
->
->
->
->
->
-> 5: Or, after vanishing from the heaven of the Aviha\-gods see: *suddhāvāsa*, he appears in the heaven of the unworried *atappa* gods. After vanishing from there he appears in the heaven of the clearly\-visible *sudassa* gods, from there in the heaven of the clear\-visioned *sudassī* gods, from there in the heaven of the highest *akanittha* gods. There he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who passes up\-stream to the highest gods *uddhamsota* \- *akanittha* \- *gāmī*.
->
->
->
->
+»
+»
+»
+»
+» 1: He may, immediately after appearing there in the Pure Abodes or before half of the life\-time, attain the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* within the first half of the life *antarā\-parinibbāyī*.
+»
+»
+»
+»
+»
+»
+»
+» 2: Or, while living more than half of the lifetime there, or at the moment of death, he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* after crossing half the life\-time *upahacca* \- *parinibbāyī*.
+»
+»
+»
+»
+»
+»
+»
+» 3: Or, with effort he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* with exertion *sasankhāra* \- *parinibbāyī*.
+»
+»
+»
+»
+»
+»
+»
+» 4: Or, without effort he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who reaches *Nibbāna* without exertion *asankhāra\-parinibbāyī*.
+»
+»
+»
+»
+»
+»
+»
+» 5: Or, after vanishing from the heaven of the Aviha\-gods see: *suddhāvāsa*, he appears in the heaven of the unworried *atappa* gods. After vanishing from there he appears in the heaven of the clearly\-visible *sudassa* gods, from there in the heaven of the clear\-visioned *sudassī* gods, from there in the heaven of the highest *akanittha* gods. There he attains the Noble path for the overcoming of the higher mental chains. Such a being is called one who passes up\-stream to the highest gods *uddhamsota* \- *akanittha* \- *gāmī*.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -2163,216 +2163,216 @@ also_written_as = []
 **Ariya\-puggala:** or simply **Ariya:** Noble Ones, noble persons:  
 The 8, **Ariya** = Noble Ones are those who have realized one of the 8 stages of Nobility, i.e. the 4 supra\-mundane paths *magga* and the 4 supra\-mundane fruitions *phala* of these paths. There are thus these 4 pairs:
 
->
->
->
->
-> A1. The one realizing the path of Stream\-winning *sotāpatti\-* *magga*.  
-> A2. The one realizing the fruition of Stream\-winning *sotāpatti\-* *phala*.
->
->
->
->
->
->
->
-> A3. The one realizing the path of Once\-return *sakadāgāmi\-* *magga*.  
-> A4. The one realizing the fruition of Once\-return *sakadāgāmi\-* *phala*.
->
->
->
->
->
->
->
-> A5. The one realizing the path of Non\-return *anāgāmi\-* *magga*.  
-> A6. The one realizing the fruition of Non\-return *anāgāmi\-* *phala*.
->
->
->
->
->
->
->
-> A7. The one realizing the path of Nobility *arahatta\-* *magga*.  
-> A8. The one realizing the fruition of Nobility *arahatta* \- *phala*.
->
->
->
->
->
->
->
-> Summed up, there are 4 noble individuals *ariya\-puggala*:  
-> 1: The Stream\-winner *Sotāpanna,*  
-> 2: The Once\-Returner *Sakadāgāmi,*  
-> 3: The Non\-Returner *Anāgāmī,*  
-> 4: The Worthy One *Arahat*.
->
->
->
->
+»
+»
+»
+»
+» A1. The one realizing the path of Stream\-winning *sotāpatti\-* *magga*.  
+» A2. The one realizing the fruition of Stream\-winning *sotāpatti\-* *phala*.
+»
+»
+»
+»
+»
+»
+»
+» A3. The one realizing the path of Once\-return *sakadāgāmi\-* *magga*.  
+» A4. The one realizing the fruition of Once\-return *sakadāgāmi\-* *phala*.
+»
+»
+»
+»
+»
+»
+»
+» A5. The one realizing the path of Non\-return *anāgāmi\-* *magga*.  
+» A6. The one realizing the fruition of Non\-return *anāgāmi\-* *phala*.
+»
+»
+»
+»
+»
+»
+»
+» A7. The one realizing the path of Nobility *arahatta\-* *magga*.  
+» A8. The one realizing the fruition of Nobility *arahatta* \- *phala*.
+»
+»
+»
+»
+»
+»
+»
+» Summed up, there are 4 noble individuals *ariya\-puggala*:  
+» 1: The Stream\-winner *Sotāpanna,*  
+» 2: The Once\-Returner *Sakadāgāmi,*  
+» 3: The Non\-Returner *Anāgāmī,*  
+» 4: The Worthy One *Arahat*.
+»
+»
+»
+»
 
 In A. VIII,10 and A. IX, 16 the *gotrabhū* is listed as the 9th noble individual.
 
 According to the Abhidhamma, the supra\-mundane path, or simply path *magga*, is a designation of the moment of entering into one of these 4 stages of Nobility with *Nibbāna* being the object, produced by intuitional insight *vipassanā* into the impermanence, misery and impersonality of existence, flashing forth and forever transforming one’s life and nature. By fruition *phala* is meant those moments of consciousness which follow immediately thereafter as the result of the path, and which in certain circumstances may repeat for innumerable times during the life\-time.
 
->
->
->
->
-> I: Through the path of Stream\-winning *sotāpatti* \- *magga* one becomes free whereas in realizing the fruition, one is freed from the first 3 mental chains *samyojana,* which bind beings to existence in the sense\-sphere, to wit:  
-> 1: Personality\-belief *sakkāya\-ditthi*, see. *ditthi*,  
-> 2: Skeptical doubt *vicikicchā,*  
-> 3: Clinging *upādāna* to mere rules and rituals *sīlabbata\-parāmāsa*.  
-> One has maximally 7 rebirth rounds before Awakening and cannot be reborn  
-> as animal, ghost, demon or hell\-being.
->
->
->
->
->
->
->
-> II: Through the path of Once\-return *sakadāgāmi* \- *magga* one becomes nearly freed from the 4th and 5th mental chains, to wit:  
-> 4: Sense\-desire *kāma\-cchanda* = *kāma\-rāga* *rāga*, and  
-> 5: Ill\-will *vyāpāda* = *dosa* see: *mūla*.
->
->
->
->
->
->
->
-> III: Through the path of Non\-return *anāgāmi* \- *magga* one becomes fully freed from the above\-mentioned 5 lower mental chains.
->
->
->
->
->
->
->
-> IV: Through the path of Nobility *arahatta* \- *magga* one furthermore becomes free from the 5 higher mental chains, to wit:  
-> 6: Craving for fine material existence *rūpa* \- *rāga*,  
-> 7: Craving for formless existence. *arūpa* \- *rāga*,  
-> 8: Conceit and pride *māna,*  
-> 9: Restlessness *uddhacca*, and  
-> 10: Ignorance *avijjā*.
->
->
->
->
+»
+»
+»
+»
+» I: Through the path of Stream\-winning *sotāpatti* \- *magga* one becomes free whereas in realizing the fruition, one is freed from the first 3 mental chains *samyojana,* which bind beings to existence in the sense\-sphere, to wit:  
+» 1: Personality\-belief *sakkāya\-ditthi*, see. *ditthi*,  
+» 2: Skeptical doubt *vicikicchā,*  
+» 3: Clinging *upādāna* to mere rules and rituals *sīlabbata\-parāmāsa*.  
+» One has maximally 7 rebirth rounds before Awakening and cannot be reborn  
+» as animal, ghost, demon or hell\-being.
+»
+»
+»
+»
+»
+»
+»
+» II: Through the path of Once\-return *sakadāgāmi* \- *magga* one becomes nearly freed from the 4th and 5th mental chains, to wit:  
+» 4: Sense\-desire *kāma\-cchanda* = *kāma\-rāga* *rāga*, and  
+» 5: Ill\-will *vyāpāda* = *dosa* see: *mūla*.
+»
+»
+»
+»
+»
+»
+»
+» III: Through the path of Non\-return *anāgāmi* \- *magga* one becomes fully freed from the above\-mentioned 5 lower mental chains.
+»
+»
+»
+»
+»
+»
+»
+» IV: Through the path of Nobility *arahatta* \- *magga* one furthermore becomes free from the 5 higher mental chains, to wit:  
+» 6: Craving for fine material existence *rūpa* \- *rāga*,  
+» 7: Craving for formless existence. *arūpa* \- *rāga*,  
+» 8: Conceit and pride *māna,*  
+» 9: Restlessness *uddhacca*, and  
+» 10: Ignorance *avijjā*.
+»
+»
+»
+»
 
 The stereotype Sutta text runs as follows:
 
->
->
->
->
-> Stream\-enterer:  
-> I: After the disappearance of the three mental chains, the Bhikkhu has won the stream to *Nibbāna* and is no more subject to rebirth in the lower worlds, is firmly established, bound for full enlightenment.
->
->
->
->
->
->
->
-> Once\-returner:  
-> II: After the disappearance of the three mental chains and the reduction of greed, hatred and confusion, he will return only once more; and having once more returned to this world, he will put an end to suffering.
->
->
->
->
->
->
->
-> Non\-returner:  
-> III: After the disappearance of the five mental chains he appears in a higher world, and there he reaches *Nibbāna* without ever returning from that world to the sense\-sphere worlds.
->
->
->
->
->
->
->
-> Arahat:  
-> IV: Through the ceasing of all mental fermentations *āsava* \- *kkhaya* he reaches already in this very life the deliverance of mind, the deliverance through understanding, which is free from fermentations, and which he himself has understood and directly realized.
->
->
->
->
+»
+»
+»
+»
+» Stream\-enterer:  
+» I: After the disappearance of the three mental chains, the Bhikkhu has won the stream to *Nibbāna* and is no more subject to rebirth in the lower worlds, is firmly established, bound for full enlightenment.
+»
+»
+»
+»
+»
+»
+»
+» Once\-returner:  
+» II: After the disappearance of the three mental chains and the reduction of greed, hatred and confusion, he will return only once more; and having once more returned to this world, he will put an end to suffering.
+»
+»
+»
+»
+»
+»
+»
+» Non\-returner:  
+» III: After the disappearance of the five mental chains he appears in a higher world, and there he reaches *Nibbāna* without ever returning from that world to the sense\-sphere worlds.
+»
+»
+»
+»
+»
+»
+»
+» Arahat:  
+» IV: Through the ceasing of all mental fermentations *āsava* \- *kkhaya* he reaches already in this very life the deliverance of mind, the deliverance through understanding, which is free from fermentations, and which he himself has understood and directly realized.
+»
+»
+»
+»
 
 For the various classes of Stream\-winners and Non\-Returners, see: *S* *otāpanna, Anāgāmī.*
 
 B: The sevenfold grouping of the Noble Disciples is as follows:
 
->
->
->
->
-> 1: The faith\-devotee *saddhānusārī,*  
-> 2: The faith\-liberated one *saddhā\-vimutta,*  
-> 3: The body\-witness *kāya* \- *sakkhī*,  
-> 4: The both\-ways\-liberated one *ubhato\-bhāga\-vimutta*,  
-> 5: The Dhamma\-devotee *dhammānusārī,*  
-> 6: The vision\-attainer *ditthippatta,*  
-> 7: The one liberated by understanding *paññā\-vimutta.*  
-> This group of seven Noble Disciples is thus explained in Vis.M XXI, 73:
->
->
->
->
->
->
->
-> 1\-2: He who is filled with determination *adhimokkha* and, in considering the constructions as impermanent *anicca*, gains the ability of faith, he, at the moment of the path to Stream\-winning A1 is called a faith\-devotee *saddhānusārī;* 2: at the seven higher stages A2\-A8 he is called a faith\-liberated one *saddhā\-vimutta.*
->
->
->
->
->
->
->
-> 3: He who is filled with tranquillity and, in considering the constructions as miserable *dukkha*, gains the ability of concentration, he in every respect is considered as a body\-witness *kāya* \- *sakkhī*.
->
->
->
->
->
->
->
-> 4: He who after reaching the absorptions of the formless sphere has attained the highest fruition of Nobility, he is a both\-ways\-liberated one *ubhato\-bhāga\-vimutta*.
->
->
->
->
->
->
->
-> 5: He who is filled with understanding and, in considering the constructions as no\-self *anattā*, gains the ability of understanding, he is at the moment of Stream\-winning A1 a Dhamma\-devotee *dhammānusārī,*
->
->
->
->
->
->
->
-> 6: At the later stages A2\-A7 a vision\-attainer *ditthippatta,*
->
->
->
->
->
->
->
-> 7: At the highest stage A8 a understanding\-liberated one *paññā\-vimutta.*  
->   
-> Further details about the body\-witness ⇒ *kāya* \- *sakkhī*, the both\-ways\-liberated one ⇒ *ubhato\-bhāga\-vimutta* and the understanding\-liberated one ⇒ *paññā\-vimutta* Cf. also M. 70; A. IX, 44; see: XII, 70; Pts.M. II, p. 33, PTS.
->
->
->
->
+»
+»
+»
+»
+» 1: The faith\-devotee *saddhānusārī,*  
+» 2: The faith\-liberated one *saddhā\-vimutta,*  
+» 3: The body\-witness *kāya* \- *sakkhī*,  
+» 4: The both\-ways\-liberated one *ubhato\-bhāga\-vimutta*,  
+» 5: The Dhamma\-devotee *dhammānusārī,*  
+» 6: The vision\-attainer *ditthippatta,*  
+» 7: The one liberated by understanding *paññā\-vimutta.*  
+» This group of seven Noble Disciples is thus explained in Vis.M XXI, 73:
+»
+»
+»
+»
+»
+»
+»
+» 1\-2: He who is filled with determination *adhimokkha* and, in considering the constructions as impermanent *anicca*, gains the ability of faith, he, at the moment of the path to Stream\-winning A1 is called a faith\-devotee *saddhānusārī;* 2: at the seven higher stages A2\-A8 he is called a faith\-liberated one *saddhā\-vimutta.*
+»
+»
+»
+»
+»
+»
+»
+» 3: He who is filled with tranquillity and, in considering the constructions as miserable *dukkha*, gains the ability of concentration, he in every respect is considered as a body\-witness *kāya* \- *sakkhī*.
+»
+»
+»
+»
+»
+»
+»
+» 4: He who after reaching the absorptions of the formless sphere has attained the highest fruition of Nobility, he is a both\-ways\-liberated one *ubhato\-bhāga\-vimutta*.
+»
+»
+»
+»
+»
+»
+»
+» 5: He who is filled with understanding and, in considering the constructions as no\-self *anattā*, gains the ability of understanding, he is at the moment of Stream\-winning A1 a Dhamma\-devotee *dhammānusārī,*
+»
+»
+»
+»
+»
+»
+»
+» 6: At the later stages A2\-A7 a vision\-attainer *ditthippatta,*
+»
+»
+»
+»
+»
+»
+»
+» 7: At the highest stage A8 a understanding\-liberated one *paññā\-vimutta.*  
+»   
+» Further details about the body\-witness ⇒ *kāya* \- *sakkhī*, the both\-ways\-liberated one ⇒ *ubhato\-bhāga\-vimutta* and the understanding\-liberated one ⇒ *paññā\-vimutta* Cf. also M. 70; A. IX, 44; see: XII, 70; Pts.M. II, p. 33, PTS.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -3396,23 +3396,23 @@ also_written_as = []
 
 The whole process of existence may be divided into two aspects:
 
->
->
->
->
-> 1: Kamma\-making *kamma\-bhava*, i.e. the kammically active side of existence, being the cause of rebirth and consisting in advantageous and disadvantageous intentional actions. See Kamma, *paticca\-samuppāda* IX.
->
->
->
->
->
->
->
-> 2: Kamma\-produced rebirth, or regenerating process *uppattibhava*, i.e. the kammically passive side of existence consisting in the arising and developing of the kamma\-produced and therefore morally neutral mental and bodily phenomena of existence. Cf. Tab. \- App..
->
->
->
->
+»
+»
+»
+»
+» 1: Kamma\-making *kamma\-bhava*, i.e. the kammically active side of existence, being the cause of rebirth and consisting in advantageous and disadvantageous intentional actions. See Kamma, *paticca\-samuppāda* IX.
+»
+»
+»
+»
+»
+»
+»
+» 2: Kamma\-produced rebirth, or regenerating process *uppattibhava*, i.e. the kammically passive side of existence consisting in the arising and developing of the kamma\-produced and therefore morally neutral mental and bodily phenomena of existence. Cf. Tab. \- App..
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -3588,63 +3588,63 @@ Tranquillity, or concentration of mind, according to Sankhepavannana Commentary 
 
 Vis.M III\-XI gives full directions how to attain full concentration and the absorptions *jhāna* by means of the following 40 meditation subjects *kammatthāna*:
 
->
->
->
->
-> 10 kasina\-exercises see: *kasina*. These produce the 4 absorptions
->
->
->
->
->
->
->
-> 10 loathsome subjects *asubha*. These produce the 1st absorption.
->
->
->
->
->
->
->
-> 10 recollections *anussati*: of the Buddha *buddhānussati*, the Doctrine *dhammānussati*, the Brotherhood of the Noble Ones *sanghānussati*, morality, generosity, the divine beings, death *maranasati*, the body *kāyagatāsati*,, in\-and\-outbreathing *ānāpāna\-sati* and peace *upasamānussati*,. Among these, the recollection or awareness or mindfulness of in\-and\-out breathing may produce all the 4 absorptions, that of the body the 1st absorption, the rest only neighbourhood\-concentration *upacāra\-samādhi*, see: *samādhi*.
->
->
->
->
->
->
->
-> 4 sublime abodes *brahma\-vihāra*: loving\-kindness, Pity, altruistic joy, equanimity *mettā,* *karunā*, *muditā,* *upekkhā.* Of these, the first 3 exercises may produce 3 absorptions, the last one the 4th absorption only.
->
->
->
->
->
->
->
-> 4 immaterial spheres *arūpāyatana* see. *jhāna*: of unbounded space, unbounded consciousness, nothingness, neither\-perception\-nor\-non\-perception. These are based upon the 4th absorption.
->
->
->
->
->
->
->
-> 1 perception of the loathsomeness of food *āhāre patikkūla\-saññā*, which may produce neighbourhood\-concentration
->
->
->
->
->
->
->
-> 1 analysis of the 4 elements *catudhātu* \- *vavatthāna* see. *dhātu\-vavatthāna*, which may produce neighbourhood\-concentration.
->
->
->
->
+»
+»
+»
+»
+» 10 kasina\-exercises see: *kasina*. These produce the 4 absorptions
+»
+»
+»
+»
+»
+»
+»
+» 10 loathsome subjects *asubha*. These produce the 1st absorption.
+»
+»
+»
+»
+»
+»
+»
+» 10 recollections *anussati*: of the Buddha *buddhānussati*, the Doctrine *dhammānussati*, the Brotherhood of the Noble Ones *sanghānussati*, morality, generosity, the divine beings, death *maranasati*, the body *kāyagatāsati*,, in\-and\-outbreathing *ānāpāna\-sati* and peace *upasamānussati*,. Among these, the recollection or awareness or mindfulness of in\-and\-out breathing may produce all the 4 absorptions, that of the body the 1st absorption, the rest only neighbourhood\-concentration *upacāra\-samādhi*, see: *samādhi*.
+»
+»
+»
+»
+»
+»
+»
+» 4 sublime abodes *brahma\-vihāra*: loving\-kindness, Pity, altruistic joy, equanimity *mettā,* *karunā*, *muditā,* *upekkhā.* Of these, the first 3 exercises may produce 3 absorptions, the last one the 4th absorption only.
+»
+»
+»
+»
+»
+»
+»
+» 4 immaterial spheres *arūpāyatana* see. *jhāna*: of unbounded space, unbounded consciousness, nothingness, neither\-perception\-nor\-non\-perception. These are based upon the 4th absorption.
+»
+»
+»
+»
+»
+»
+»
+» 1 perception of the loathsomeness of food *āhāre patikkūla\-saññā*, which may produce neighbourhood\-concentration
+»
+»
+»
+»
+»
+»
+»
+» 1 analysis of the 4 elements *catudhātu* \- *vavatthāna* see. *dhātu\-vavatthāna*, which may produce neighbourhood\-concentration.
+»
+»
+»
+»
 
 Mental development forms one of the 3 kinds of meritorious action *puñña\-kiriya\-vatthu*. 'Delight in meditation' *bhāvanā* \- *rāmatā* is one of the noble usages *ariya\-vamsa*.
 
@@ -3754,33 +3754,33 @@ also_written_as = []
 
 **Bodhipakkhiya\-dhammā:** The 37 'things pertaining to enlightenment', or 'requisites of enlightenment' comprise the entire doctrines of the Buddha. They are:
 
->
->
->
->
-> the 4 foundations of awareness or mindfulness *satipatthāna*,  
-> the 4 right efforts see: *padhāna*,  
-> the 4 roads to power *iddhi\-pāda*,  
-> the 5 spiritual abilities *indriya*, see: *bala*,  
-> the 5 spiritual powers *bala*,  
-> the 7 factors of enlightenment *bojjhanga*,  
-> the Noble 8\-fold path see: *magga*.
->
->
->
->
+»
+»
+»
+»
+» the 4 foundations of awareness or mindfulness *satipatthāna*,  
+» the 4 right efforts see: *padhāna*,  
+» the 4 roads to power *iddhi\-pāda*,  
+» the 5 spiritual abilities *indriya*, see: *bala*,  
+» the 5 spiritual powers *bala*,  
+» the 7 factors of enlightenment *bojjhanga*,  
+» the Noble 8\-fold path see: *magga*.
+»
+»
+»
+»
 
 In M. 77 all the 37 *bodhipakkhiya\-dhammā* are enumerated and explained though not called by that name. A detailed explanation of them is given in Vis.M XXII. In S. XLVII, 51, 67, only the five spiritual abilities *indriya* are called *bodhipakkhiya* \- *dhammā* and in the Jhāna Vibhanga, only the 7 factors of enlightenment *bojjhanga*.
 
->
->
->
->
-> See The Requisites of Enlightenment, by Ledi Sayadaw WHEEL 169/172.
->
->
->
->
+»
+»
+»
+»
+» See The Requisites of Enlightenment, by Ledi Sayadaw WHEEL 169/172.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -3886,73 +3886,73 @@ In A. X. 102, the 7 factors are said to be the means of attaining the threefold 
 
 They may be attained by means of the 4 foundations of awareness or mindfulness *satipatthāna*,, as it is said in see: XLVI, 1 and explained in M. 118:
 
->
->
->
->
-> 1: Whenever, o Bhikkhus, the Bhikkhu dwells contemplating the body *kāya* feeling *vedanā* mind *citta* and mental\-objects *dhammā* strenuous, clearly\-conscious, mindful, after subduing worldly greed and grief, at such a time his awareness or mindfulness is present and undisturbed; and whenever his awareness or mindfulness is present and undisturbed, at such a time he has gained and is developing the link to Awakening 'awareness or mindfulness' *sati\-sambojjhanga* and thus this link to Awakening reaches fullest perfection.
->
->
->
->
->
->
->
-> 2: Whenever, while dwelling with awareness or mindfulness, he wisely investigates, examines and thinks over the law… at such a time he has gained and is developing the link to Awakening 'investigation of the law' *dhamma* \- *vicaya* °…
->
->
->
->
->
->
->
-> 3: Whenever, while wisely investigating his energy is firm and unshaken… at such a time he has gained and is developing the link to Awakening 'energy' *viriya*…
->
->
->
->
->
->
->
-> 4: Whenever in him, while firm in energy, arises supersense\-rapture… at such a time he has gained and is developing the link to Awakening 'rapture' *pīti* °.
->
->
->
->
->
->
->
-> 5: Whenever, while enraptured in mind, his body and his mind become composed… at such a time he has gained and is developing the link to Awakening 'tranquillity' *passaddhi* °
->
->
->
->
->
->
->
-> 6: Whenever, while being composed in his body and happy, his mind becomes concentrated… at such a time he has gained and is developing the link to Awakening 'concentration' *samādhi* °
->
->
->
->
->
->
->
-> 7: Whenever he looks with complete indifference on his mind thus concentrated… at such a time he has gained and is developing the link to Awakening 'equanimity' *upekkhā.*
->
->
->
->
+»
+»
+»
+»
+» 1: Whenever, o Bhikkhus, the Bhikkhu dwells contemplating the body *kāya* feeling *vedanā* mind *citta* and mental\-objects *dhammā* strenuous, clearly\-conscious, mindful, after subduing worldly greed and grief, at such a time his awareness or mindfulness is present and undisturbed; and whenever his awareness or mindfulness is present and undisturbed, at such a time he has gained and is developing the link to Awakening 'awareness or mindfulness' *sati\-sambojjhanga* and thus this link to Awakening reaches fullest perfection.
+»
+»
+»
+»
+»
+»
+»
+» 2: Whenever, while dwelling with awareness or mindfulness, he wisely investigates, examines and thinks over the law… at such a time he has gained and is developing the link to Awakening 'investigation of the law' *dhamma* \- *vicaya* °…
+»
+»
+»
+»
+»
+»
+»
+» 3: Whenever, while wisely investigating his energy is firm and unshaken… at such a time he has gained and is developing the link to Awakening 'energy' *viriya*…
+»
+»
+»
+»
+»
+»
+»
+» 4: Whenever in him, while firm in energy, arises supersense\-rapture… at such a time he has gained and is developing the link to Awakening 'rapture' *pīti* °.
+»
+»
+»
+»
+»
+»
+»
+» 5: Whenever, while enraptured in mind, his body and his mind become composed… at such a time he has gained and is developing the link to Awakening 'tranquillity' *passaddhi* °
+»
+»
+»
+»
+»
+»
+»
+» 6: Whenever, while being composed in his body and happy, his mind becomes concentrated… at such a time he has gained and is developing the link to Awakening 'concentration' *samādhi* °
+»
+»
+»
+»
+»
+»
+»
+» 7: Whenever he looks with complete indifference on his mind thus concentrated… at such a time he has gained and is developing the link to Awakening 'equanimity' *upekkhā.*
+»
+»
+»
+»
 
->
->
->
->
-> Literature: Bojjhanga Samyutta see: XLVI; Bojjhanga Vibh. \- For the conditions leading to the arising of each of the factors, see the Com. to Satipatthāna Sutta Way of Mindfulness, by Soma Thera; 3rd ed., 1967, BPS. Further, The 'Seven Factors of Enlightenment, by Piyadassi Thera WHEEL 1.
->
->
->
->
+»
+»
+»
+»
+» Literature: Bojjhanga Samyutta see: XLVI; Bojjhanga Vibh. \- For the conditions leading to the arising of each of the factors, see the Com. to Satipatthāna Sutta Way of Mindfulness, by Soma Thera; 3rd ed., 1967, BPS. Further, The 'Seven Factors of Enlightenment, by Piyadassi Thera WHEEL 1.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -4154,15 +4154,15 @@ Another figurative meaning of C. is 'blessing'. There are 4 such 'auspicious whe
 
 *bhāva* \- *cakka* 'wheel of existence', or of life, is a name for 'dependent origination' see: *paticca\-samuppāda.*
 
->
->
->
->
-> See The Buddhist Wheel Symbol, by T. B. Karunaratne WHEEL 137/138; The Wheel of Birth and Death, by Bhikkhu Khantipalo WHEEL 147/149
->
->
->
->
+»
+»
+»
+»
+» See The Buddhist Wheel Symbol, by T. B. Karunaratne WHEEL 137/138; The Wheel of Birth and Death, by Bhikkhu Khantipalo WHEEL 147/149
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -4538,31 +4538,31 @@ also_written_as = []
 
 **Chanda:** intention, desire, will.
 
->
->
->
->
-> 1. As an ethically neutral psychological term, in the sense of 'intention', it is one of those general mental properties *cetasika* Tab. II taught in the Abhidhamma, the moral quality of which is determined by the character of the intention *cetanā* associated therewith. The Com. explains it as 'a wish to do' *kattu* \- *kamyatā* \- *chanda* If intensified, it acts also as a 'predominance condition' see: *paccaya* 3.
->
->
->
->
->
->
->
-> 2. As an evil quality it has the meaning of 'desire', and is frequently coupled with terms for 'sensuality', 'greed', etc., for instance: *kāma\-cchanda*, sense\-desire', one of the 5 hindrances see: *nīvarana* *chanda* \- *rāga* 'lustful desire' see: *kāma* It is one of the 4 wrong paths see: *agati*.
->
->
->
->
->
->
->
-> 3. As a good quality it is a righteous will or alertness *dhamma* \- *chanda* and occurs, e.g. in the formula of the 4 right efforts see: *padhāna* The Bhikkhu rouses his will *chandam* *janeti.* ..; If intensified, it is one of the 4 roads to power see: *iddhipāda*
->
->
->
->
+»
+»
+»
+»
+» 1. As an ethically neutral psychological term, in the sense of 'intention', it is one of those general mental properties *cetasika* Tab. II taught in the Abhidhamma, the moral quality of which is determined by the character of the intention *cetanā* associated therewith. The Com. explains it as 'a wish to do' *kattu* \- *kamyatā* \- *chanda* If intensified, it acts also as a 'predominance condition' see: *paccaya* 3.
+»
+»
+»
+»
+»
+»
+»
+» 2. As an evil quality it has the meaning of 'desire', and is frequently coupled with terms for 'sensuality', 'greed', etc., for instance: *kāma\-cchanda*, sense\-desire', one of the 5 hindrances see: *nīvarana* *chanda* \- *rāga* 'lustful desire' see: *kāma* It is one of the 4 wrong paths see: *agati*.
+»
+»
+»
+»
+»
+»
+»
+» 3. As a good quality it is a righteous will or alertness *dhamma* \- *chanda* and occurs, e.g. in the formula of the 4 right efforts see: *padhāna* The Bhikkhu rouses his will *chandam* *janeti.* ..; If intensified, it is one of the 4 roads to power see: *iddhipāda*
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -7314,15 +7314,15 @@ Once the Bhikkhu has thus developed and often practised the 4 roads to power, he
 
 Whosoever, o Bhikkhus, has missed the 4 roads to power, he has missed the right path leading to the ceasing of suffering; but whosoever, o Bhikkhus, has reached the 4 roads to power, he has reached the right path leading to the ceasing of suffering; see: LI, 2.
 
->
->
->
->
-> See the chapter on Iddhipāda in The Requisites of Enlightenment by Ledi Sayadaw WHEEL 169/172.
->
->
->
->
+»
+»
+»
+»
+» See the chapter on Iddhipāda in The Requisites of Enlightenment by Ledi Sayadaw WHEEL 169/172.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -7692,15 +7692,15 @@ also_written_as = []
 
 **Indriya:** 'abilities', is a name for 22, partly physical, partly mental, phenomena often treated in the Suttas as well as in the Abhidhamma. They are:
 
->
->
->
->
-> 6 Bases *āyatana*:
->
->
->
->
+»
+»
+»
+»
+» 6 Bases *āyatana*:
+»
+»
+»
+»
 
 1. eye: *cakkhu*  
 2. ear: *sota*  
@@ -7709,29 +7709,29 @@ also_written_as = []
 5. body: *kāya*  
 6. mind: *mano*
 
->
->
->
->
-> Gender *bhava*:
->
->
->
->
+»
+»
+»
+»
+» Gender *bhava*:
+»
+»
+»
+»
 
 7. femininity: *itthi*  
 8. masculinity: *purisa*  
 9. vitality: *jīvita*
 
->
->
->
->
-> 5 Feelings *vedanā* q. v.
->
->
->
->
+»
+»
+»
+»
+» 5 Feelings *vedanā* q. v.
+»
+»
+»
+»
 
 10. bodily pleasant feeling: *sukha*  
 11. bodily pain: *dukkha*  
@@ -7739,15 +7739,15 @@ also_written_as = []
 13. sadness: *domanassa*  
 14. indifference: *upekkhā*
 
->
->
->
->
-> 5 Spiritual Abilities see: *bala*
->
->
->
->
+»
+»
+»
+»
+» 5 Spiritual Abilities see: *bala*
+»
+»
+»
+»
 
 15. faith: *saddhā*  
 16. energy: *viriya*  
@@ -7755,25 +7755,25 @@ also_written_as = []
 18. concentration: *samādhi*  
 19. understanding: *paññā*
 
->
->
->
->
-> 3 supra\-mundane Abilities
->
->
->
->
->
->
->
-> 20. the assurance: 'I shall know what I did not yet know!': *aññātañ\-ñassāmīt' indriya*  
-> 21. the ability of highest knowledge: *aññindriya*  
-> 22. the ability of him who knows: *aññātāvindriya*
->
->
->
->
+»
+»
+»
+»
+» 3 supra\-mundane Abilities
+»
+»
+»
+»
+»
+»
+»
+» 20. the assurance: 'I shall know what I did not yet know!': *aññātañ\-ñassāmīt' indriya*  
+» 21. the ability of highest knowledge: *aññindriya*  
+» 22. the ability of him who knows: *aññātāvindriya*
+»
+»
+»
+»
 
 1\-5, 7\-8 are physical; 9 is either physical or mental. All the rest are mental. \- 14 see: *upekkhā* is here merely indifferent feeling = *adukkha* \- *m* \- *asukhā* *vedanā* i.e. 'neither pleasant nor unpleasant feeling' and not identical with that highly ethical state of equanimity = *tatramajjhattatā* i.e. 'keeping everywhere the middle', the equipoise of mind, also called *upekkhā* which belongs to the group of mental constructions *sankhāra* \- *khandha* see: Tab II. \- 20 arises at the moment of entering the Sotāpatti\- path *sotāpatti* \- *magga* 21 on reaching the Sotāpatti\-Fruition *sotāpatti* \- *phala* 22 at attaining the Arahat\-Fruition *arahatta* \- *phala* For the three last, see: *ariya\-puggala*
 
@@ -8281,95 +8281,95 @@ also_written_as = []
 
 **Jhāna:** 'absorption' meditation refers chiefly to the four meditative absorptions of the fine\-material sphere *rūpa\-jjhāna* or *rūpāvacara* \- *jjhāna* *avacara* They are achieved through the attainment of full or attainment \-, or ecstatic concentration *appanā* see: *samādhi* during which there is a complete, though temporary, suspension of fivefold sense\-activity and of the 5 hindrances see: *nīvarana* The state of consciousness, however, is one of full alertness and lucidity. This high degree of concentration is generally developed by the practice of one of the 40 subjects of tranquillity meditation *samatha* \- *kammatthāna* see. *bhāvanā* Often also the 4 immaterial spheres *arūpāyatana* are called absorptions of the immaterial sphere *arūpa\-jjhāna* or *arūpāvacara* \- *jjhāna* The stereotype text, often met with in the Suttas, runs as follows:
 
->
->
->
->
-> 1;Detached from sensual objects, o Bhikkhus, detached from disadvantageous consciousness, attached with thought\-conception vitakka and discursive thinking *vicāra*, born of detachment *vivekaja* and filled with rapture *pīti* and joy *sukha* he enters the first absorption.
->
->
->
->
->
->
->
-> 2;After the subsiding of thought\-conception and discursive thinking, and by gaining inner tranquillity and oneness of mind, he enters into a state free from thought\-conception and discursive thinking, the second absorption, which is born of concentration *samādhi* and filled with rapture *pīti* and joy *sukha*.
->
->
->
->
->
->
->
-> 3;After the fading away of rapture he dwells in equanimity, mindful, clearly conscious; and he experiences in his person that feeling of which the Noble Ones say, 'Happy lives the man of equanimity and attentive mind'; thus he enters the 3rd absorption.
->
->
->
->
->
->
->
-> 4;After having given up pleasure and pain, and through the disappearance of previous joy and grief, he enters into a state beyond pleasure and pain, into the 4th absorption, which is purified by equanimity *upekkhā* and awareness or mindfulness.
->
->
->
->
->
->
->
-> 5;Through the total overcoming of the perceptions of matter, however, and through the vanishing of sense\-reactions and the non\-attention to the perceptions of variety, with the idea, 'Infinite is space', he reaches the sphere of Infinite space *ākāsānañcāyatana* and abides therein.
->
->
->
->
->
->
->
-> (By 'perceptions of matter' *rūpa* \- *saññā* are meant the absorptions of the fine\-material sphere, as well as those objects themselves… Vis.M X, 1.
->
->
->
->
->
->
->
-> By 'perceptions of sense\-reactions' *patigha* \- *saññā* are meant those perceptions that have arisen due to the impact of sense\-organs eye, etc. and the sense\-objects visible objects, etc.. They are a name for the perception of visible objects, as it is said Jhāna\-Vibh.: 'What are here the perceptions of sense\-reactions? They are the perceptions of visible objects, sounds, etc.' \- Surely, they do no longer exist even for one who has entered the 1st absorption, etc., for at such a time the five\-sense consciousness is no longer functioning. Nevertheless, this is to be understood as having been said in praise of this immaterial absorption, in order to incite the striving for it; Vis.M X, 16.
->
->
->
->
->
->
->
-> Perceptions of variety *ñānatta* \- *saññā* are the perceptions that arise in various fields, or the various perceptions; ib.. Hereby, according to Vis.M X, 20, are meant the multiform perceptions outside the absorptions.)
->
->
->
->
->
->
->
-> 6;Through the total overcoming of the sphere of Infinite space, and with the idea 'Infinite is consciousness', he reaches the sphere of Infinite consciousness *viññānañcāyatana* and abides therein.
->
->
->
->
->
->
->
-> 7;Through the total overcoming of the sphere of Infinite consciousness, and with the idea 'Nothing is there', he reaches the sphere of nothingness *ākiñcaññāyatana* and abides therein.
->
->
->
->
->
->
->
-> 8;Through the total overcoming of the sphere of nothingness he reaches the sphere of neither\-perception\-nor\-non\-perception *nevasaññā* \- *n’asaññāyatana* and abides therein
->
->
->
->
+»
+»
+»
+»
+» 1;Detached from sensual objects, o Bhikkhus, detached from disadvantageous consciousness, attached with thought\-conception vitakka and discursive thinking *vicāra*, born of detachment *vivekaja* and filled with rapture *pīti* and joy *sukha* he enters the first absorption.
+»
+»
+»
+»
+»
+»
+»
+» 2;After the subsiding of thought\-conception and discursive thinking, and by gaining inner tranquillity and oneness of mind, he enters into a state free from thought\-conception and discursive thinking, the second absorption, which is born of concentration *samādhi* and filled with rapture *pīti* and joy *sukha*.
+»
+»
+»
+»
+»
+»
+»
+» 3;After the fading away of rapture he dwells in equanimity, mindful, clearly conscious; and he experiences in his person that feeling of which the Noble Ones say, 'Happy lives the man of equanimity and attentive mind'; thus he enters the 3rd absorption.
+»
+»
+»
+»
+»
+»
+»
+» 4;After having given up pleasure and pain, and through the disappearance of previous joy and grief, he enters into a state beyond pleasure and pain, into the 4th absorption, which is purified by equanimity *upekkhā* and awareness or mindfulness.
+»
+»
+»
+»
+»
+»
+»
+» 5;Through the total overcoming of the perceptions of matter, however, and through the vanishing of sense\-reactions and the non\-attention to the perceptions of variety, with the idea, 'Infinite is space', he reaches the sphere of Infinite space *ākāsānañcāyatana* and abides therein.
+»
+»
+»
+»
+»
+»
+»
+» (By 'perceptions of matter' *rūpa* \- *saññā* are meant the absorptions of the fine\-material sphere, as well as those objects themselves… Vis.M X, 1.
+»
+»
+»
+»
+»
+»
+»
+» By 'perceptions of sense\-reactions' *patigha* \- *saññā* are meant those perceptions that have arisen due to the impact of sense\-organs eye, etc. and the sense\-objects visible objects, etc.. They are a name for the perception of visible objects, as it is said Jhāna\-Vibh.: 'What are here the perceptions of sense\-reactions? They are the perceptions of visible objects, sounds, etc.' \- Surely, they do no longer exist even for one who has entered the 1st absorption, etc., for at such a time the five\-sense consciousness is no longer functioning. Nevertheless, this is to be understood as having been said in praise of this immaterial absorption, in order to incite the striving for it; Vis.M X, 16.
+»
+»
+»
+»
+»
+»
+»
+» Perceptions of variety *ñānatta* \- *saññā* are the perceptions that arise in various fields, or the various perceptions; ib.. Hereby, according to Vis.M X, 20, are meant the multiform perceptions outside the absorptions.)
+»
+»
+»
+»
+»
+»
+»
+» 6;Through the total overcoming of the sphere of Infinite space, and with the idea 'Infinite is consciousness', he reaches the sphere of Infinite consciousness *viññānañcāyatana* and abides therein.
+»
+»
+»
+»
+»
+»
+»
+» 7;Through the total overcoming of the sphere of Infinite consciousness, and with the idea 'Nothing is there', he reaches the sphere of nothingness *ākiñcaññāyatana* and abides therein.
+»
+»
+»
+»
+»
+»
+»
+» 8;Through the total overcoming of the sphere of nothingness he reaches the sphere of neither\-perception\-nor\-non\-perception *nevasaññā* \- *n’asaññāyatana* and abides therein
+»
+»
+»
+»
 
 Thus the 1st absorption is free from 5 things i.e. the hindrances, *nīvarana*, and 5 things are present i.e. the factors of absorption; *jhānanga* Whenever the Bhikkhu enters the 1st absorption, there have vanished sense\-desire, ill\-will, lethargy and Laziness, restlessness and regrets, doubts; and there are present: thought\-conception *vitakka* discursive thinking *vicāra* rapture *pīti*, joy *sukha* and concentration *samādhi* In the 2nd absorption there are present: rapture, joy and concentration; in the 3rd: joy and concentration; in the 4th: equanimity *upekkhā* and concentration; Vis.M IV.
 
@@ -8577,16 +8577,16 @@ also_written_as = []
 
 **Pabbajjā:** lit. 'the going forth', or more fully stated, 'the going forth from home to the homeless life' of a Bhikkhu *agārasmā,* *anagāriyam* consists in severing all family and social ties to live the pure life of a monk, in order to realize the goal of final deliverance pointed out by the Enlightened One. Thus, **p.** has become the name for admission as a *sāmanera* or novice, i.e. as a candidate for the Order of Bhikkhus, or Bhikkhus.
 
->
->
->
->
-> See Going Forth, by Sumana Samanera WHEEL 27/28 and  
-> Ordination in Theravāda Buddhism WHEEL 56.
->
->
->
->
+»
+»
+»
+»
+» See Going Forth, by Sumana Samanera WHEEL 27/28 and  
+» Ordination in Theravāda Buddhism WHEEL 56.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -8640,38 +8640,38 @@ The first two volumes of the Patthāna have been translated into English by the 
 
 The 24 modes of conditionality are:
 
->
->
->
->
-> 1. Root condition: *hetu* *paccaya*  
-> 2. Object: *ārammana*  
-> 3. Predominance: *adhipati*  
-> 4. Proximity: *anantara*  
-> 5. Contiguity: *samanantara*  
-> 6. Co\-nascence: *sahajāta*  
-> 7. Mutuality: *aññamañña*  
-> 8. Support: *nissaya*  
-> 9. Decisive Support: *upanissaya*  
-> 10. Pre\-nascene: *purejāta*  
-> 11. Post\-nascene: *pacchājāta*  
-> 12. Repitition: *āsevana*  
-> 13. Kamma: *kamma*  
-> 14. Kamma\-result: *vipāka*  
-> 15. Nutriment: *āhāra*  
-> 16. Ability: *indriya*  
-> 17. Jhāna: *jhāna*  
-> 18. path: *magga*  
-> 19. Associaton: *sampayutta*  
-> 20. Dissociation: *vippayutta*  
-> 21. Presence: *atthi*  
-> 22. Absence: *natthi*  
-> 23. Disappearance: *vigata*  
-> 24. Non\-disappearance: *avigata*
->
->
->
->
+»
+»
+»
+»
+» 1. Root condition: *hetu* *paccaya*  
+» 2. Object: *ārammana*  
+» 3. Predominance: *adhipati*  
+» 4. Proximity: *anantara*  
+» 5. Contiguity: *samanantara*  
+» 6. Co\-nascence: *sahajāta*  
+» 7. Mutuality: *aññamañña*  
+» 8. Support: *nissaya*  
+» 9. Decisive Support: *upanissaya*  
+» 10. Pre\-nascene: *purejāta*  
+» 11. Post\-nascene: *pacchājāta*  
+» 12. Repitition: *āsevana*  
+» 13. Kamma: *kamma*  
+» 14. Kamma\-result: *vipāka*  
+» 15. Nutriment: *āhāra*  
+» 16. Ability: *indriya*  
+» 17. Jhāna: *jhāna*  
+» 18. path: *magga*  
+» 19. Associaton: *sampayutta*  
+» 20. Dissociation: *vippayutta*  
+» 21. Presence: *atthi*  
+» 22. Absence: *natthi*  
+» 23. Disappearance: *vigata*  
+» 24. Non\-disappearance: *avigata*
+»
+»
+»
+»
 
 1: Root\-condition *hetu* \- *paccaya* is that condition that resembles the root of a tree. Just as a tree rests on its root, and remains alive only as long as its root is not destroyed, similarly all kammically advantageous and disadvantageous mental states are entirely dependent on the simultaneity and presence of their respective roots, i.e, of greed *lobha*, hate *dosa* confusion *moha* or greedlessness *alobha* hatelessness *adosa* unconfusedness *amoha* For the definition of these 6 roots, see: *mūla*
 
@@ -8691,31 +8691,31 @@ The roots are a condition by way of root for the mental phenomena associated wit
 
 9: Decisive\-support or inducement condition *upanissaya\-paccaya* is threefold, namely a by way of object *ārammanūpanissaya* \- *paccaya* b by way of proximity *anantarūpanissaya* c natural decisive support *pakatupanissaya* These conditions act as strong inducement or cogent reason.
 
->
->
->
->
-> a Anything past, present or future, material or mental, real or imaginary, may, as object of our thinking, become a decisive support, or strong inducement, to moral, immoral or kammically neutral states of mind. Evil things, by wrong thinking about them, become an inducement to immoral life; by right thinking, an inducement to moral life. But good things may be an inducement not only to similarly good things, but also to bad things, such as self\-conceit, vanity, envy, etc.
->
->
->
->
->
->
->
-> b; is identical with proximity condition No. 4.
->
->
->
->
->
->
->
-> c Faith, virtue, etc., produced in one’s own mind, or the influence of climate, food, etc., on one’s body and mind, may act as natural and decisive support\-conditions. Faith may be a direct and natural inducement to charity, virtue to mental training, etc.; greed to theft, hate to murder; unsuitable food and climate to ill\-health; friends to spiritual progress or deterioration.
->
->
->
->
+»
+»
+»
+»
+» a Anything past, present or future, material or mental, real or imaginary, may, as object of our thinking, become a decisive support, or strong inducement, to moral, immoral or kammically neutral states of mind. Evil things, by wrong thinking about them, become an inducement to immoral life; by right thinking, an inducement to moral life. But good things may be an inducement not only to similarly good things, but also to bad things, such as self\-conceit, vanity, envy, etc.
+»
+»
+»
+»
+»
+»
+»
+» b; is identical with proximity condition No. 4.
+»
+»
+»
+»
+»
+»
+»
+» c Faith, virtue, etc., produced in one’s own mind, or the influence of climate, food, etc., on one’s body and mind, may act as natural and decisive support\-conditions. Faith may be a direct and natural inducement to charity, virtue to mental training, etc.; greed to theft, hate to murder; unsuitable food and climate to ill\-health; friends to spiritual progress or deterioration.
+»
+»
+»
+»
 
 10: Pre\-nascence\-condition *purejāta\-paccaya* refers to something previously arisen, which forms a base for something arising later on. For example, the 5 physical sense\-organs and the physical base of mind, having already arisen at the time of birth, form the condition for the consciousness arising later, and for the mental phenomena associated therewith.
 
@@ -8753,15 +8753,15 @@ This condition does not only apply to *jhāna* alone, but also to the general in
 
 These 24 conditions should be known thoroughly for a detailed understanding of that famous formula of the dependent origination *paticcasamuppāda*. Cf. Fund. III, Guide p. 117 ff. App..
 
->
->
->
->
-> See The Significance of Dependent Origination, by Nyanatiloka WHEEL 140.
->
->
->
->
+»
+»
+»
+»
+» See The Significance of Dependent Origination, by Nyanatiloka WHEEL 140.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -8813,15 +8813,15 @@ also_written_as = []
 
 Canonical references are few; Pug. 29 defin.; A. II, 56; in M. 116, names of many Paccekabuddhas are given; in D. 16 they are said to be worthy of a *thūpa* *dagoba;* the Treasure\-Store Sutta Nidhikhandha Sutta, Khp. mentions *pacceka\-bodhi* the C. Nidd. ascribes to individual Paccekabuddhas the verses of the Rhinoceros Sutta Khaggavisāna Sutta, Sn. \- See *bodhi.*
 
->
->
->
->
-> See The Paccekabuddha, by Ria Kloppenborg WHEEL 305/307.
->
->
->
->
+»
+»
+»
+»
+» See The Paccekabuddha, by Ria Kloppenborg WHEEL 305/307.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -8873,39 +8873,39 @@ also_written_as = []
 
 The Bhikkhu rouses his will to avoid the arising of evil, disadvantageous things not yet arisen… to overcome them… to develop advantageous things not yet arisen… to maintain them, and not to let them disappear, but to bring them to growth, to maturity and to the full perfection of development. And he makes effort, stirs up his energy, exerts his mind and strives; A. IV, 13.
 
->
->
->
->
-> 1;What now, o Bhikkhus, is the effort to avoid? Perceiving a form, or a sound, or an odour, or a taste, or a bodily or mental contact, the Bhikkhu neither adheres to the whole nor to its parts. And he strives to ward off that through which evil and disadvantageous things might arise, such as greed and sorrow, if he remained with unguarded senses; and he watches over his senses, restrains his senses. This is called the effort to avoid.
->
->
->
->
->
->
->
-> 2;What now is the effort to overcome? The Bhikkhu does not retain any thought of sensual lust, or any other evil, disadvantageous states that may have arisen; he abandons them, dispels them, destroys them, causes them to disappear. This is called the effort to overcome.
->
->
->
->
->
->
->
-> 3;What now is the effort to develop? The Bhikkhu develops the factors of enlightenment, bent on solitude, on detachment, on ceasing, and ending in deliverance, namely: awareness or mindfulness *sati* investigation of the law *dhamma* \- *vicaya* energy *viriya* rapture *pīti* tranquillity *passaddhi* concentraton *samādhi* equanimity *upekkhā* This is called the effort to develop.
->
->
->
->
->
->
->
-> 4;What now is the effort to maintain? The Bhikkhu keeps firmly in his mind a favourable object of concentration, such as the mental image of a skeleton, a corpse infested by worms, a corpse blueblack in colour, a festering corpse, a corpse riddled with holes, a corpse swollen up. This is called the effort to maintain; A. IV, 14.
->
->
->
->
+»
+»
+»
+»
+» 1;What now, o Bhikkhus, is the effort to avoid? Perceiving a form, or a sound, or an odour, or a taste, or a bodily or mental contact, the Bhikkhu neither adheres to the whole nor to its parts. And he strives to ward off that through which evil and disadvantageous things might arise, such as greed and sorrow, if he remained with unguarded senses; and he watches over his senses, restrains his senses. This is called the effort to avoid.
+»
+»
+»
+»
+»
+»
+»
+» 2;What now is the effort to overcome? The Bhikkhu does not retain any thought of sensual lust, or any other evil, disadvantageous states that may have arisen; he abandons them, dispels them, destroys them, causes them to disappear. This is called the effort to overcome.
+»
+»
+»
+»
+»
+»
+»
+» 3;What now is the effort to develop? The Bhikkhu develops the factors of enlightenment, bent on solitude, on detachment, on ceasing, and ending in deliverance, namely: awareness or mindfulness *sati* investigation of the law *dhamma* \- *vicaya* energy *viriya* rapture *pīti* tranquillity *passaddhi* concentraton *samādhi* equanimity *upekkhā* This is called the effort to develop.
+»
+»
+»
+»
+»
+»
+»
+» 4;What now is the effort to maintain? The Bhikkhu keeps firmly in his mind a favourable object of concentration, such as the mental image of a skeleton, a corpse infested by worms, a corpse blueblack in colour, a festering corpse, a corpse riddled with holes, a corpse swollen up. This is called the effort to maintain; A. IV, 14.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -8939,47 +8939,47 @@ also_written_as = []
 
 **Pahāna:** 'overcoming', abandoning. There are 5 kinds of overcoming: 1 overcoming by repression *vikkhambhana\-pahāna* i.e. the temporary suspension of the 5 hindrances *nīvarana* during the absorptions, 2 overcoming by the opposite *tadanga\-pahāna* 3 overcoming by destruction *samuccheda\-pahāna* 4 overcoming by tranquillization *patipassaddhi\-pahāna* 5 overcoming by escape *nissarana\-pahāna*
 
->
->
->
->
-> 1: Among these, 'overcoming by repression' is the pushing back of adverse things, such as the 5 mental hindrances *nīvarana* q.v, etc., through this or that mental concentration *samādhi*, just as a pot thrown into moss\-clad water pushes the moss aside.
->
->
->
->
->
->
->
-> 2: Overcoming by the opposite' is the overcoming by opposing this or that thing that is to be overcome, by this or that factor of knowledge belonging to insight *vipassanā,* just as a lighted lamp dispels the darkness of the night. In this way, the personality\-belief *sakkāyaditthi* see: *ditthi* is overcome by determining the mental and material phenomena… the view of uncausedness of existence by investigation into the conditions… the idea of eternity by contemplation of impermanency… the idea of happiness by experience of Danger dic3\_d.htm#dukkha.
->
->
->
->
->
->
->
-> 3: If through the knowledge of the noble path see: *ariya\-puggala* the mental chains and other evil things cannot continue any longer, just like a tree destroyed by lightning, then such an overcoming is called 'overcoming by destruction' Vis.M XXII, 110f..
->
->
->
->
->
->
->
-> 4: When, after the disappearing of the mental chains at the entrance into the paths, the mental chains, from the moment of fruition *phala* onwards, are forever extinct and stilled, such overcoming is called the 'overcoming by tranquillization'.
->
->
->
->
->
->
->
-> 5;The 'overcoming by escape' is identical with the ceasing and Nibbāna; Pts.M. I. 27. App..
->
->
->
->
+»
+»
+»
+»
+» 1: Among these, 'overcoming by repression' is the pushing back of adverse things, such as the 5 mental hindrances *nīvarana* q.v, etc., through this or that mental concentration *samādhi*, just as a pot thrown into moss\-clad water pushes the moss aside.
+»
+»
+»
+»
+»
+»
+»
+» 2: Overcoming by the opposite' is the overcoming by opposing this or that thing that is to be overcome, by this or that factor of knowledge belonging to insight *vipassanā,* just as a lighted lamp dispels the darkness of the night. In this way, the personality\-belief *sakkāyaditthi* see: *ditthi* is overcome by determining the mental and material phenomena… the view of uncausedness of existence by investigation into the conditions… the idea of eternity by contemplation of impermanency… the idea of happiness by experience of Danger dic3\_d.htm#dukkha.
+»
+»
+»
+»
+»
+»
+»
+» 3: If through the knowledge of the noble path see: *ariya\-puggala* the mental chains and other evil things cannot continue any longer, just like a tree destroyed by lightning, then such an overcoming is called 'overcoming by destruction' Vis.M XXII, 110f..
+»
+»
+»
+»
+»
+»
+»
+» 4: When, after the disappearing of the mental chains at the entrance into the paths, the mental chains, from the moment of fruition *phala* onwards, are forever extinct and stilled, such overcoming is called the 'overcoming by tranquillization'.
+»
+»
+»
+»
+»
+»
+»
+» 5;The 'overcoming by escape' is identical with the ceasing and Nibbāna; Pts.M. I. 27. App..
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -9095,15 +9095,15 @@ also_written_as = []
 
 In the commentaries, we often find a threefold classification *tanhā\-, ditthi\-, māna\-papañca* which probably means the world’s diffuseness created hy craving, false views and conceit. \- See M. 123; A. IV, 173; A. VI, 14, Sn. 530, 874, 916.
 
->
->
->
->
-> ñānananda Bhikkhu, in Concept and Reality: An Essay on Papañca and Papañca\-saññā\-sankhā Kandy 1971, Buddhist Publication Society, suggests that the term refers to man’s;tendency towards proliferation in the realm of concepts; and proposes a rendering by;conceptual proliferation,; which appears convincing in psychological context, e.g. in two of the texts quoted above, A. IV, 173 and M. 18. \- The threefold classification of *papañca* by way of craving, false views and conceit, is explained by the author as three aspects, or instances, of the foremost of delusive conceptualisations, the ego\-concept.
->
->
->
->
+»
+»
+»
+»
+» ñānananda Bhikkhu, in Concept and Reality: An Essay on Papañca and Papañca\-saññā\-sankhā Kandy 1971, Buddhist Publication Society, suggests that the term refers to man’s;tendency towards proliferation in the realm of concepts; and proposes a rendering by;conceptual proliferation,; which appears convincing in psychological context, e.g. in two of the texts quoted above, A. IV, 173 and M. 18. \- The threefold classification of *papañca* by way of craving, false views and conceit, is explained by the author as three aspects, or instances, of the foremost of delusive conceptualisations, the ego\-concept.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -9157,15 +9157,15 @@ As the Great Beings *mahā* \- *satta* a synonym often found in the Mahāyana sc
 
 In the Mahāyana scriptures, where the *pāramī* occupy a much more prominent place, a partly differing list of six is given: generosity, morality, patience, energy, meditation. and understanding.
 
->
->
->
->
-> Literature: Ten Jātaka Stories illustrating the 10 *pāramī* by I. B. Horner London 1957, Luzac & Co.; Buddhavamsa & Cariyapitaka. tr. by I. B. Horner Minor Anthologies III, Sacred Books of the Buddhists. PTS. \- Narada Thera, The Buddha & His Teachings, Ch. 41; Parami BPS \- The treatise on the perfections from the Com. to Cariyapitaka has been translated in The Discourse on the All\-Embracing Net of Views Brahmajala Sutta, with Com.. tr. by Bhikkhu Bodhi BPS.
->
->
->
->
+»
+»
+»
+»
+» Literature: Ten Jātaka Stories illustrating the 10 *pāramī* by I. B. Horner London 1957, Luzac & Co.; Buddhavamsa & Cariyapitaka. tr. by I. B. Horner Minor Anthologies III, Sacred Books of the Buddhists. PTS. \- Narada Thera, The Buddha & His Teachings, Ch. 41; Parami BPS \- The treatise on the perfections from the Com. to Cariyapitaka has been translated in The Discourse on the All\-Embracing Net of Views Brahmajala Sutta, with Com.. tr. by Bhikkhu Bodhi BPS.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -9563,107 +9563,107 @@ Though this subject has been very frequently treated by Western authors, by far 
 
 The formula of dependent origination runs as follows:
 
->
->
->
->
-> 1. *avijiā* \- *paccayā* *sankhārā* Through ignorance are conditioned the sankhāras,; i.e. the rebirth\-producing intentions *cetanā* or 'kammic\-constructions'.
->
->
->
->
->
->
->
-> 2. *sankhāra* \- *paccayā* *viññānam* Through the kammic\-constructions in the past life is conditioned consciousness in the present life
->
->
->
->
->
->
->
-> 3. *viññāna* \- *paccayā* *nāma* \- *rūpam* Through consciousness are conditioned the mental and physical phenomena dic3\_n.htm#nāma\-rūpa *nāma\-rūpa* i.e. that which makes up our so\-called individual existence.
->
->
->
->
->
->
->
-> 4. *nāma* \- *rūpa* \- *paccayā* *salāyatanam* Through the mental and physical phenomena are conditioned the 6 bases,; i.e. the 5 physical sense\-organs, and consciousness as the sixth.
->
->
->
->
->
->
->
-> 5. *salāyatana* \- *paccayā* *phasso* Through the six sense sources is conditioned the sensorial mental contact
->
->
->
->
->
->
->
-> 6. *phassa* \- *paccayā* *vedanā* Through the contact is conditioned feeling
->
->
->
->
->
->
->
-> 7. *vedanā* \- *paccayā* *tanhā* Through feeling is conditioned craving
->
->
->
->
->
->
->
-> 8. *tanhā* \- *paccayā* *upādānam* Through craving is conditioned clinging
->
->
->
->
->
->
->
-> 9. *upādāna* \- *paccayā* *bhavo* Through clinging is conditioned the process of becoming,; consisting in the active and the passive life process, i.e. the rebirth\-producing kamma\-making *kamma\-bhava* and, as its result, the rebirth\-process *upapatti\-bhava.*
->
->
->
->
->
->
->
-> *10. Bhava\-paccayā jāti* Through the rebirth\-producing kamma\-process of becoming is conditioned rebirth
->
->
->
->
->
->
->
-> 11. *jāti* \- *paccayā* *jarāmaranam* etc.:;Through rebirth are conditioned old age and death sorrow, lamentation, pain, grief and despair. Thus arises this whole mass of suffering again in the future
->
->
->
->
+»
+»
+»
+»
+» 1. *avijiā* \- *paccayā* *sankhārā* Through ignorance are conditioned the sankhāras,; i.e. the rebirth\-producing intentions *cetanā* or 'kammic\-constructions'.
+»
+»
+»
+»
+»
+»
+»
+» 2. *sankhāra* \- *paccayā* *viññānam* Through the kammic\-constructions in the past life is conditioned consciousness in the present life
+»
+»
+»
+»
+»
+»
+»
+» 3. *viññāna* \- *paccayā* *nāma* \- *rūpam* Through consciousness are conditioned the mental and physical phenomena dic3\_n.htm#nāma\-rūpa *nāma\-rūpa* i.e. that which makes up our so\-called individual existence.
+»
+»
+»
+»
+»
+»
+»
+» 4. *nāma* \- *rūpa* \- *paccayā* *salāyatanam* Through the mental and physical phenomena are conditioned the 6 bases,; i.e. the 5 physical sense\-organs, and consciousness as the sixth.
+»
+»
+»
+»
+»
+»
+»
+» 5. *salāyatana* \- *paccayā* *phasso* Through the six sense sources is conditioned the sensorial mental contact
+»
+»
+»
+»
+»
+»
+»
+» 6. *phassa* \- *paccayā* *vedanā* Through the contact is conditioned feeling
+»
+»
+»
+»
+»
+»
+»
+» 7. *vedanā* \- *paccayā* *tanhā* Through feeling is conditioned craving
+»
+»
+»
+»
+»
+»
+»
+» 8. *tanhā* \- *paccayā* *upādānam* Through craving is conditioned clinging
+»
+»
+»
+»
+»
+»
+»
+» 9. *upādāna* \- *paccayā* *bhavo* Through clinging is conditioned the process of becoming,; consisting in the active and the passive life process, i.e. the rebirth\-producing kamma\-making *kamma\-bhava* and, as its result, the rebirth\-process *upapatti\-bhava.*
+»
+»
+»
+»
+»
+»
+»
+» *10. Bhava\-paccayā jāti* Through the rebirth\-producing kamma\-process of becoming is conditioned rebirth
+»
+»
+»
+»
+»
+»
+»
+» 11. *jāti* \- *paccayā* *jarāmaranam* etc.:;Through rebirth are conditioned old age and death sorrow, lamentation, pain, grief and despair. Thus arises this whole mass of suffering again in the future
+»
+»
+»
+»
 
 The following diagram shows the relationship of dependence between three successive lives:
 
->
->
->
->
-> **PAST**
->
->
->
->
+»
+»
+»
+»
+» **PAST**
+»
+»
+»
+»
 
 1. Ignorance *avijjā*
 
@@ -9765,18 +9765,18 @@ Clinging *upādāna* may be an inducement of decisive support *upanissaya* to ma
 
 Hence, the 5 kammical causes ignorance, etc. of the past birth are the condition for the kamma\-results of the present birth; and the 5 kammical causes of the present birth are the condition for the 5 kamma\-results of the next birth see: diagram. As it is said in Vis.M XVII:
 
->
->
->
->
-> Five causes were there in the past,  
-> Five fruits we find in present life;  
-> Five causes do we now produce,  
-> Five fruits we reap in future life
->
->
->
->
+»
+»
+»
+»
+» Five causes were there in the past,  
+» Five fruits we find in present life;  
+» Five causes do we now produce,  
+» Five fruits we reap in future life
+»
+»
+»
+»
 
 Now, just as in this process of continually changing mental and bodily phenomena, nothing can be found that would pass from one moment to the next moment, so also there is no enduring entity, ego, or personality, within this process of existence that would transmigrate from one life to the next see: dic3\_n.htm#nāma\-rūpa *nāma\-rūpa,* *anattā*, *patisandhi*, *khandha* No being and no living soul passed from the former life to this life, and yet this present embryo could not have entered into existence without the preceding causes; Vis.M XVII.;Many things may serve to illustrate this fact, as for example the echo, the light of a lamp, the contact of a seal, or the image produced by a mirror; ib..
 
@@ -9826,31 +9826,31 @@ also_written_as = []
 
 2. 'Sense\-reaction'. Applied to five\-sense cognition, **p.:** occurs in the following contexts:
 
->
->
->
->
-> a as *patigha* \- *saññā* 'perception of sense\-reaction', said to be absent in the immaterial absorptions see: *jhāna* 5. Alternative renderings: resistance\-perception, reflex\-perception
->
->
->
->
->
->
->
-> b as *patigha* \- *samphassa* 'mental contact caused by 5fold sensorial reaction' D. 15; see: *phassa*
->
->
->
->
->
->
->
-> c as *sappatigha\-rūpa* 'reacting materiality', and *appatigha* 'not reacting', which is an Abhidhammic classification of materiality, occurring in Dhs. 659, 1050. *sappatigha* are called the physical sense\-organs as reacting or responding to sense stimuli; and also the physical sense\-objects as impinging or making an impact on the sense\-organs. All other materiality is *appatigha* non\-reacting and non\-impinging. These 2 terms have been variously rendered as resistant and not, responding and not, with and without impact.
->
->
->
->
+»
+»
+»
+»
+» a as *patigha* \- *saññā* 'perception of sense\-reaction', said to be absent in the immaterial absorptions see: *jhāna* 5. Alternative renderings: resistance\-perception, reflex\-perception
+»
+»
+»
+»
+»
+»
+»
+» b as *patigha* \- *samphassa* 'mental contact caused by 5fold sensorial reaction' D. 15; see: *phassa*
+»
+»
+»
+»
+»
+»
+»
+» c as *sappatigha\-rūpa* 'reacting materiality', and *appatigha* 'not reacting', which is an Abhidhammic classification of materiality, occurring in Dhs. 659, 1050. *sappatigha* are called the physical sense\-organs as reacting or responding to sense stimuli; and also the physical sense\-objects as impinging or making an impact on the sense\-organs. All other materiality is *appatigha* non\-reacting and non\-impinging. These 2 terms have been variously rendered as resistant and not, responding and not, with and without impact.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -9902,49 +9902,49 @@ also_written_as = []
 
 2. 'Progress' see also the foll. article. There are 4 modes of progress to deliverance: 1 painful progress with slow comprehension *dukkhā patipadā dandhābhiññā* 2 painful progress with quick comprehension, 3 pleasant progress with slow comprehension, 4 pleasant progress with quick comprehension. In A. IV, 162 it is said:
 
->
->
->
->
-> 1: Some person possesses by nature excessive greed, excessive hate, excessive confusion, and thereby he often feels pain and sorrow; and also the 5 mental abilities, as faith, energy, awareness or mindfulness, concentration and understanding see: *indriya* 15\-19 are dull in him; and by reason thereof he reaches only slowly the immediacy *ānantariya* q.v to the cessation of all fermentations.
->
->
->
->
->
->
->
-> 2: Some person possesses by nature excessive greed, etc., but the 5 mental abilities are sharp in him and by reason thereof he reaches quickly the immediacy to the cessation of all fermentations.
->
->
->
->
->
->
->
-> 3;Some person possesses by nature no excessive greed, etc., but the 5 mental abilities are dull in him, and by reason thereof he reaches slowly the immediacy to the cessation of all fermentations.
->
->
->
->
->
->
->
-> 4 'Some person possessess by nature no excessive greed, etc., and the mental abilities are sharp in him, and by reason thereof he reaches quickly the immediacy to the cessation of all fermentations.
->
->
->
->
+»
+»
+»
+»
+» 1: Some person possesses by nature excessive greed, excessive hate, excessive confusion, and thereby he often feels pain and sorrow; and also the 5 mental abilities, as faith, energy, awareness or mindfulness, concentration and understanding see: *indriya* 15\-19 are dull in him; and by reason thereof he reaches only slowly the immediacy *ānantariya* q.v to the cessation of all fermentations.
+»
+»
+»
+»
+»
+»
+»
+» 2: Some person possesses by nature excessive greed, etc., but the 5 mental abilities are sharp in him and by reason thereof he reaches quickly the immediacy to the cessation of all fermentations.
+»
+»
+»
+»
+»
+»
+»
+» 3;Some person possesses by nature no excessive greed, etc., but the 5 mental abilities are dull in him, and by reason thereof he reaches slowly the immediacy to the cessation of all fermentations.
+»
+»
+»
+»
+»
+»
+»
+» 4 'Some person possessess by nature no excessive greed, etc., and the mental abilities are sharp in him, and by reason thereof he reaches quickly the immediacy to the cessation of all fermentations.
+»
+»
+»
+»
 
->
->
->
->
-> See A. IV, 162, 163, 166\-169; Dhs. 176ff; Atthasālini Tr. I, 243; 11, 291, 317.
->
->
->
->
+»
+»
+»
+»
+» See A. IV, 162, 163, 166\-169; Dhs. 176ff; Atthasālini Tr. I, 243; 11, 291, 317.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -10028,39 +10028,39 @@ also_written_as = []
 
 As an alternative rendering of the fourth term *patibhāna* Bhikkhu ñānamoli proposes: perspicuity in expression and knowledge.
 
->
->
->
->
-> 1. The analytical knowledge of the meaning *attha* \- *p* is the knowledge with regard to the sense.
->
->
->
->
->
->
->
-> 2. The analytical knowledge of the law *dhamma* \- *p* is the knowledge with regard to the law.
->
->
->
->
->
->
->
-> 3. The analytical knowledge of language *nirutti* \- *p* is the knowledge of the language with regard to those former 2 things.
->
->
->
->
->
->
->
-> 4. The analytical knowledge of ready\-wit *patibhāna* \- *p* is the knowledge about the former 3 kinds of knowledge; Vibh. XV.
->
->
->
->
+»
+»
+»
+»
+» 1. The analytical knowledge of the meaning *attha* \- *p* is the knowledge with regard to the sense.
+»
+»
+»
+»
+»
+»
+»
+» 2. The analytical knowledge of the law *dhamma* \- *p* is the knowledge with regard to the law.
+»
+»
+»
+»
+»
+»
+»
+» 3. The analytical knowledge of language *nirutti* \- *p* is the knowledge of the language with regard to those former 2 things.
+»
+»
+»
+»
+»
+»
+»
+» 4. The analytical knowledge of ready\-wit *patibhāna* \- *p* is the knowledge about the former 3 kinds of knowledge; Vibh. XV.
+»
+»
+»
+»
 
 1 *attha* Sanskrit *artha,* to reach; result, meaning, purpose, essence: designates, in short, the fruit *phala* of a cause *hetu* for since the fruit of a cause results from adhering to the cause, and is reached and effected thereby, therefore it is called result *attha* In particular, however, 5 things are considered as *attha* namely: everything dependent on conditions, Nibbāna, the meaning of words, kamma\-result, and functional consciousness. When anyone reflects on that meaning any knowledge of his, falling within the category concerned with meaning or result, is the 'analytical knowledge' of meaning.
 
@@ -10112,53 +10112,53 @@ Just so, o King, is the chain of phenomena linked together. One phenomenon arise
 
 According to the nature of their rebirth consciousness, beings divide into the following 3 groups:
 
->
->
->
->
-> 1. *ahetu\-patisandhika* a 'being reborn without rootconditions', is a being whose consciousness at the moment of rebirth was not accompanied by any of the 3 noble rootconditions, viz. greedlessness, hatelessness, unconfusedness see: *mūla* i.e. selflessness, kindness, intelligence. Such beings are found in the 4 lower worlds *apāya*,, in which case the function of rebirth is exercised by the class of consciousness listed in Tab. I as No. 56. But if such beings are born in the sense\-sphere as humans, they will be crippled, blind, deaf, mentally deficient, etc. Rebirth\-consciousness = Tab. I, No. 41
->
->
->
->
->
->
->
-> 2. *dvihetu* or *duhetu* \- *patisandhika* a 'being reborn with only 2 noble root\-conditions', i.e. greedlessness and hatelessness. Rebirth\-consciousness = Tab. I, Nos. 44, 45, 48 or 49.
->
->
->
->
->
->
->
-> 3. *tihetu* \- *patisandhika* a 'being reborn with 3 noble rootconditions'. Such a being can be found only among men. Rebirth\-consciousness = Tab. 1, Nos. 42, 43, 46, or 47 and higher divine beings.
->
->
->
->
+»
+»
+»
+»
+» 1. *ahetu\-patisandhika* a 'being reborn without rootconditions', is a being whose consciousness at the moment of rebirth was not accompanied by any of the 3 noble rootconditions, viz. greedlessness, hatelessness, unconfusedness see: *mūla* i.e. selflessness, kindness, intelligence. Such beings are found in the 4 lower worlds *apāya*,, in which case the function of rebirth is exercised by the class of consciousness listed in Tab. I as No. 56. But if such beings are born in the sense\-sphere as humans, they will be crippled, blind, deaf, mentally deficient, etc. Rebirth\-consciousness = Tab. I, No. 41
+»
+»
+»
+»
+»
+»
+»
+» 2. *dvihetu* or *duhetu* \- *patisandhika* a 'being reborn with only 2 noble root\-conditions', i.e. greedlessness and hatelessness. Rebirth\-consciousness = Tab. I, Nos. 44, 45, 48 or 49.
+»
+»
+»
+»
+»
+»
+»
+» 3. *tihetu* \- *patisandhika* a 'being reborn with 3 noble rootconditions'. Such a being can be found only among men. Rebirth\-consciousness = Tab. 1, Nos. 42, 43, 46, or 47 and higher divine beings.
+»
+»
+»
+»
 
->
->
->
->
-> On these 3 types of rebirth, See Atthasālini Tr. 11, 354 \- 379. App.: *patisandhika*
->
->
->
->
+»
+»
+»
+»
+» On these 3 types of rebirth, See Atthasālini Tr. 11, 354 \- 379. App.: *patisandhika*
+»
+»
+»
+»
 
 In the suttas, the terms for rebirth are chiefly *punabbhava*, 'renewed existence', and *abhinibbatti* 'arising'; or both combined as *punabbhavābhinibbatti* \- App.: *patisandhi.*
 
->
->
->
->
-> Literature Vis.M XVII, 133f, 164f, 189f, 289f; Vis.M XIX, 22f. \- Kamma and Rebirth, by Nyanatiloka Thera WHEEL 9. \- The Case for Rebirth, by Francis Story WHEEL 12/13. \- Survival and Kamma in Buddhist Perspective, by K. N. Jayatilleke WHEEL 141/143. \- Rebirth Explained, by V. F. Gunaratna WHEEL 167/169.
->
->
->
->
+»
+»
+»
+»
+» Literature Vis.M XVII, 133f, 164f, 189f, 289f; Vis.M XIX, 22f. \- Kamma and Rebirth, by Nyanatiloka Thera WHEEL 9. \- The Case for Rebirth, by Francis Story WHEEL 12/13. \- Survival and Kamma in Buddhist Perspective, by K. N. Jayatilleke WHEEL 141/143. \- Rebirth Explained, by V. F. Gunaratna WHEEL 167/169.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -10246,15 +10246,15 @@ also_written_as = []
 
 **Patti\-dāna:** lit. 'giving of the acquired', i.e. 'transference of merit.' Though in the older texts very seldom mentioned e.g. A VII, 50, it is, however, a widespread custom in all Buddhist countries. It is presumed that moral merit, especially that acquired through giving food, can be transferred to others, apparently for the reason that one’s own good actions may become to others, especially to departed relatives and friends reborn in the ghost realm, an inducement to a happy and morally advantageous state of mind. Transference of merit is advocated though without mentioning the term *patti\-dāna* in the Tirokudda Sutta Khp. and Petavatthu and its Com. Khp. Tr.. It is one of the ten 'bases of meritorious action' *puññakiriyavatthu,* called there *pattānuppadāna* App..
 
->
->
->
->
-> See 'The Doctrine of Reversible Merit by F. L. Woodward. Buddhist Review London, Vol. I 1914, p. 38.
->
->
->
->
+»
+»
+»
+»
+» See 'The Doctrine of Reversible Merit by F. L. Woodward. Buddhist Review London, Vol. I 1914, p. 38.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -10826,27 +10826,27 @@ By fulfilling this noble domain of morality *sīla* he feels in his heart an irr
 
 In what follows thereafter it is shown how the disciple watches over his 5 senses and his mind, and by this noble restraint of the senses *indriya* \- *samvara* feels in his heart an unblemished happiness; how in all his actions he is ever mindful and clearly conscious; and how, being equipped with this lofty morality *sīla* and with this noble restraint of the senses *indriya* \- *samvara* and with awareness or mindfulness and clear consciousness *sati\-sampajañña* he choses a secluded dwelling, and freeing his mind from the 5 hindrances *nīvarana* he reaches full concentration *samādhi*,, and how thereafter, by developing insight *vipassanā* with regard to the impermanency *anicca* misery *dukkha* and impersonality *anattā*, of all phenomena of existence, he finally realizes deliverance from all fermentations and defilements, and thus the assurance arises in him:
 
->
->
->
->
-> For ever am I liberated,  
-> This is the last time I am born,  
-> No new existence waits for me.
->
->
->
->
+»
+»
+»
+»
+» For ever am I liberated,  
+» This is the last time I am born,  
+» No new existence waits for me.
+»
+»
+»
+»
 
->
->
->
->
-> Cf. D. 1, 2f; M. 27, 38, 51, 60, 76; A. IV, 198; X, 99: Pug. 239, etc.
->
->
->
->
+»
+»
+»
+»
+» Cf. D. 1, 2f; M. 27, 38, 51, 60, 76; A. IV, 198; X, 99: Pug. 239, etc.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -11072,15 +11072,15 @@ also_written_as = []
 
 Commentaries have a list of ten *dasa* *p* which is very popular in Buddhist countries: 1\-3 as above, 4 reverence *apaciti* 5 service *veyyāvacca* 6 transference of merit *pattānuppadāna* 7 rejoicing in others' merit *abbhānumodana* 8 expounding the Doctrine *desanā* 9 listening to the Doctrine *savana* 10 straightening one’s right views rectification of views; *ditthujukamma* \- Expl. in Atthasālini Tr. 209ff.
 
->
->
->
->
-> See 'The Advantages of Merit', by Bhikkhu Khantipalo BODHI LEAVES B. 38.
->
->
->
->
+»
+»
+»
+»
+» See 'The Advantages of Merit', by Bhikkhu Khantipalo BODHI LEAVES B. 38.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -11226,15 +11226,15 @@ also_written_as = []
 
 **Pātimokkha:** 'Disciplinary Code', is the name of the code of monk’s rules, which on all full\-moon and new moon days is recited before the assembled community of fully ordained Bhikkhus *Bhikkhu*.
 
->
->
->
->
-> See The Patimokkha, Romanized Pāli text and transl. by ñānamoli Thera Bangkok 1966, Mahāmakut Buddhist Bookshop.
->
->
->
->
+»
+»
+»
+»
+» See The Patimokkha, Romanized Pāli text and transl. by ñānamoli Thera Bangkok 1966, Mahāmakut Buddhist Bookshop.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -11468,15 +11468,15 @@ When the commentaries in this connection explain Tathāgata by 'living being' *s
 
 Cf. *anattā, paramattha, puggala, jīva, satta.*
 
->
->
->
->
-> A commentarial treatise on;The Meaning of the Word 'Tathāgata’is included in The All\-Embracing Net of Views Brahmajāla Sutta, tr. Bhikkhu Bodhi BPS.
->
->
->
->
+»
+»
+»
+»
+» A commentarial treatise on;The Meaning of the Word 'Tathāgata’is included in The All\-Embracing Net of Views Brahmajāla Sutta, tr. Bhikkhu Bodhi BPS.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -11754,15 +11754,15 @@ It is the full comprehension of the 3 characteristics by direct meditative exper
 
 For further details, see: *anicca, dukkha, anattā, vipassanā.*
 
->
->
->
->
-> Literature: The Three Signata, by Prof. O. H. de A. Wijesekera WHEEL 20. \- The Three Basic Facts of Existence: I\-III WHEEL BPS, Vis.M XX, 13ff. 18ff; XXI, 47f, 67f.
->
->
->
->
+»
+»
+»
+»
+» Literature: The Three Signata, by Prof. O. H. de A. Wijesekera WHEEL 20. \- The Three Basic Facts of Existence: I\-III WHEEL BPS, Vis.M XX, 13ff. 18ff; XXI, 47f, 67f.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -11816,27 +11816,27 @@ The Buddha, or Enlightened One, is the teacher who by himself has discovered, re
 
 The 3\-fold Refuge in Pāli, by the uttering of which one may also outwardly profess one’s faith, is still the same as in the Buddha’s time, namely:
 
->
->
->
->
-> Buddham saranam gacchāmi  
-> Dhammam saranam gacchāmi  
-> Sangham saranam gacchāmi
->
->
->
->
->
->
->
-> I take refuge in the Buddha!  
-> I take refuge in the Dhamma!  
-> I take refuge in the Sangha!
->
->
->
->
+»
+»
+»
+»
+» Buddham saranam gacchāmi  
+» Dhammam saranam gacchāmi  
+» Sangham saranam gacchāmi
+»
+»
+»
+»
+»
+»
+»
+» I take refuge in the Buddha!  
+» I take refuge in the Dhamma!  
+» I take refuge in the Sangha!
+»
+»
+»
+»
 
 Literature: The Threefold Refuge by Nyanaponika Thera WHEEL 76. \- Devotion in Buddhism WHEEL 18. Going for Refuge, by Bhikkhu Bodhi WHEEL 282/284 \- Khp. Tr. pp. 4ff.
 
@@ -12250,15 +12250,15 @@ also_written_as = []
 
 1: Material food feeds the 8\-fold materiality having nutrient essence as its 8th factor i.e. the solid, liquid, heat, motion, color, odour, the tastable and nutrient essence; see: *rūpa\-kalāpa*. 2: Sensorial and mental contact is a condition for the 3 kinds of feeling pleasant, painful and indifferent; see: *paticcasamuppāda* 6. 3: Mental intention = kamma feeds rebirth; see: *paticca* \- *samuppāda* 2. 4: Consciousness feeds mind and materiality, *nāma\-rūpa* at the moment of conception Vis.M XI.
 
->
->
->
->
-> Literature on the 4 Nutriments: M. 9 & Com. tr. in ' R. Und. ', M. 38; see: S. XII, 11, 63, 64 \- The Four Nutriments of Life, Selected texts & Com. WHEEL 105
->
->
->
->
+»
+»
+»
+»
+» Literature on the 4 Nutriments: M. 9 & Com. tr. in ' R. Und. ', M. 38; see: S. XII, 11, 63, 64 \- The Four Nutriments of Life, Selected texts & Com. WHEEL 105
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -12388,23 +12388,23 @@ also_written_as = []
 
 **Ākāsa:** 'space', is, according to Com., of two kinds: 1. limited space *paricchinnākāsa* or *paricchedākāsa,* 2. endless space *anantākāsa,* i.e. cosmic space.
 
->
->
->
->
-> 1. Limited space, under the name of *ākāsa* \- *dhātu* space element, belongs to derived materiality see: *khandha* Summary I; Dhs. 638 and to a sixfold classification of elements see: *dhātu* M. 112, 115, 140. It is also an object of kasina meditation. It is defined as follows: The space element has the characteristic of delimiting matter or form. Its function is to indicate the boundaries of matter. It is manifested as the confines and container of matter or form; or its manifestation consists in being untouched by the 4 great elements, and in holes and openings. Its proximate cause is the matter delimited. It is on account of the space element that one can say of material things delimited that 'this is above. below, around that' Vis.M XIV, 63.
->
->
->
->
->
->
->
-> 2. Endless space is in Atthasālini called *ajatākāsa* unentangled', i.e. unobstructed or empty space. It is the object of the first formless absorption see: *jhāna*, the sphere of Infinite space *ākāsānañcāyatana*. According to Abhidhamma philosophy, endless space has no objective reality being purely conceptual, which is indicated by the fact that it is not included in the triad of the advantageous *kusalatika,* which comprises the entire reality. Later Buddhist schools have regarded it as one of several unconditioned or uncreated states *asankhata* *dharma* \- a view that is rejected in Kath. see: Guide. p. 70. Theravāda Buddhism recognizes only *Nibbāna* as an unconditioned element *asankhata* *dhātu* see: Dhs. 1084.
->
->
->
->
+»
+»
+»
+»
+» 1. Limited space, under the name of *ākāsa* \- *dhātu* space element, belongs to derived materiality see: *khandha* Summary I; Dhs. 638 and to a sixfold classification of elements see: *dhātu* M. 112, 115, 140. It is also an object of kasina meditation. It is defined as follows: The space element has the characteristic of delimiting matter or form. Its function is to indicate the boundaries of matter. It is manifested as the confines and container of matter or form; or its manifestation consists in being untouched by the 4 great elements, and in holes and openings. Its proximate cause is the matter delimited. It is on account of the space element that one can say of material things delimited that 'this is above. below, around that' Vis.M XIV, 63.
+»
+»
+»
+»
+»
+»
+»
+» 2. Endless space is in Atthasālini called *ajatākāsa* unentangled', i.e. unobstructed or empty space. It is the object of the first formless absorption see: *jhāna*, the sphere of Infinite space *ākāsānañcāyatana*. According to Abhidhamma philosophy, endless space has no objective reality being purely conceptual, which is indicated by the fact that it is not included in the triad of the advantageous *kusalatika,* which comprises the entire reality. Later Buddhist schools have regarded it as one of several unconditioned or uncreated states *asankhata* *dharma* \- a view that is rejected in Kath. see: Guide. p. 70. Theravāda Buddhism recognizes only *Nibbāna* as an unconditioned element *asankhata* *dhātu* see: Dhs. 1084.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -12553,151 +12553,151 @@ also_written_as = []
 
 **Ānāpāna\-sati:** Awareness or mindfulness on & by in\-and\-out\-breathing, is one of the most important trainings for reaching mental concentration and the 4 absorptions *jhāna*. In the Satipatthāna Sutta M. 10, D. 22 and elsewhere, 4 methods of practice are given, which may also serve as basis for insight meditation. The speech on Awareness by Breathing' Ānāpānasati Sutta, M. 118 and other texts have 16 methods of practice, which divide into 4 groups of four. The first three apply to both calm *samatha* and insight\-meditation, while the fourth refers to pure insight praxis only. With attentive mind he breathes in, with attentive mind he breathes out.
 
->
->
->
->
-> I. First Tetrad:  
-> 1: When making a long inhalation he understands: I make a long inhalation; when making a long exhalation he understands: I make a long exhalation.
->
->
->
->
->
->
->
-> 2: When making a short inhalation he understands: I make a short inhalation; when making a short exhalation he understands: I make a short exhalation.
->
->
->
->
->
->
->
-> 3: Clearly perceiving the entire body I will breathe in, thus he trains himself; clearly perceiving the entire breath\-body I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 4: Calming all bodily activity I will breathe in, thus he trains himself; calming all bodily activity I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> II. Second Tetrad:  
-> 5: Experiencing joy *pīti* I will breathe in, thus he trains himself; Experiencing joy I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 6: Experiencing a pleasurable happiness I will breathe in, thus he trains himself; Experiencing a pleasurable happiness I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 7: Experiencing the mental construction *citta\-sankhāra* I will breathe in, thus he trains himself, Experiencing the mental construction I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 8: Calming the mental construction I will breathe in, thus he trains himself; calming the mental construction I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> III. Third Tetrad:  
-> 9: Experiencing the mind & mood *citta* I will breathe in, thus he trains himself; clearly perceiving the mind & mood I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 10: Gladdening the mind I will breathe in, thus he trains himself; gladdening the mind I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 11: Concentrating the mind I will breathe in, thus he trains himself; concentrating the mind I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 12: Releasing the mind I will breathe in, thus he trains himself; releasing the mind I will breathe out, thus he trains himself
->
->
->
->
->
->
->
-> IV. Fourth Tetrad:  
-> 13: Reflecting on impermanence *anicca* I will breathe in, thus he trains himself; reflecting on impermanence I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 14: Reflecting on disillusion *virāga* I will breathe in, thus he trains himself; reflecting on disillusion I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 15: Reflecting on ceasing *nirodha* I will breathe in, thus he trains himself; reflecting on ceasing I will breathe out, thus he trains himself.
->
->
->
->
->
->
->
-> 16: Reflecting on relinquishment *patinissagga* I will breathe in, thus he trains himself; reflecting on relinquishment I will breathe out, thus he trains himself.
->
->
->
->
+»
+»
+»
+»
+» I. First Tetrad:  
+» 1: When making a long inhalation he understands: I make a long inhalation; when making a long exhalation he understands: I make a long exhalation.
+»
+»
+»
+»
+»
+»
+»
+» 2: When making a short inhalation he understands: I make a short inhalation; when making a short exhalation he understands: I make a short exhalation.
+»
+»
+»
+»
+»
+»
+»
+» 3: Clearly perceiving the entire body I will breathe in, thus he trains himself; clearly perceiving the entire breath\-body I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 4: Calming all bodily activity I will breathe in, thus he trains himself; calming all bodily activity I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» II. Second Tetrad:  
+» 5: Experiencing joy *pīti* I will breathe in, thus he trains himself; Experiencing joy I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 6: Experiencing a pleasurable happiness I will breathe in, thus he trains himself; Experiencing a pleasurable happiness I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 7: Experiencing the mental construction *citta\-sankhāra* I will breathe in, thus he trains himself, Experiencing the mental construction I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 8: Calming the mental construction I will breathe in, thus he trains himself; calming the mental construction I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» III. Third Tetrad:  
+» 9: Experiencing the mind & mood *citta* I will breathe in, thus he trains himself; clearly perceiving the mind & mood I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 10: Gladdening the mind I will breathe in, thus he trains himself; gladdening the mind I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 11: Concentrating the mind I will breathe in, thus he trains himself; concentrating the mind I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 12: Releasing the mind I will breathe in, thus he trains himself; releasing the mind I will breathe out, thus he trains himself
+»
+»
+»
+»
+»
+»
+»
+» IV. Fourth Tetrad:  
+» 13: Reflecting on impermanence *anicca* I will breathe in, thus he trains himself; reflecting on impermanence I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 14: Reflecting on disillusion *virāga* I will breathe in, thus he trains himself; reflecting on disillusion I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 15: Reflecting on ceasing *nirodha* I will breathe in, thus he trains himself; reflecting on ceasing I will breathe out, thus he trains himself.
+»
+»
+»
+»
+»
+»
+»
+» 16: Reflecting on relinquishment *patinissagga* I will breathe in, thus he trains himself; reflecting on relinquishment I will breathe out, thus he trains himself.
+»
+»
+»
+»
 
 In M 118 it is further shown how these 16 exercises bring about the 4 foundations of awareness *satipatthāna*, namely: 1\-4 contemplation of the body, 5\-8 contemplation of feeling, 9\-12 contemplation of mind, 13\-16 contemplation of mental states. Then it is shown how these 4 foundations of awareness or mindfulness bring about the 7 factors of enlightenment *bojjhanga*, and then how these again produce release of mind *ceto\-vimutti* and release through understanding *paññā\-vimutti*.
 
->
->
->
->
-> Literature: Ānāpānasati Samyutta see: LIV. \- Pts.M. *Ānāpānakathā* \- Full explanation of practice in Vis.M VIII, 145ff. \- For a comprehensive anthology of canonical and commentarial texts, see: *Mindfulness of Breathing,* by Nānamoli Thera Kandy: BPS, 1964\-98.
->
->
->
->
+»
+»
+»
+»
+» Literature: Ānāpānasati Samyutta see: LIV. \- Pts.M. *Ānāpānakathā* \- Full explanation of practice in Vis.M VIII, 145ff. \- For a comprehensive anthology of canonical and commentarial texts, see: *Mindfulness of Breathing,* by Nānamoli Thera Kandy: BPS, 1964\-98.
+»
+»
+»
+»
 
 ``` toml
 dict_label = "Nyana"
@@ -12889,37 +12889,37 @@ also_written_as = []
 \* 1: Spheres, is a name for the four formless absorptions; see: *jhāna* 5\-8.  
 2: The 12 sources or bases on which depend the mental processes, consist of five physical sense\-organs and consciousness, being the six internal *ajjhattika* sources; and the six objects, the so\-called external *bāhira* sources \- namely:
 
->
->
->
-> * eye, or visual organ and visible object  
->   
->   
->   
-> * ear, or auditory organ and sound, or audible object  
->   
->   
->   
-> * nose, or olfactory organ and odour, or olfactive object  
->   
->   
->   
-> * tongue, or gustatory organ and taste, or gustative object  
->   
->   
->   
-> * body, or tactile organ and body\-contact, or tactile object  
->   
->   
->   
-> * mind\-base, or consciousness and idea or mental\-object  
->   *manāyatana dhammāyatana*
->   
->   
->
->
->
->
+»
+»
+»
+» * eye, or visual organ and visible object  
+»   
+»   
+»   
+» * ear, or auditory organ and sound, or audible object  
+»   
+»   
+»   
+» * nose, or olfactory organ and odour, or olfactive object  
+»   
+»   
+»   
+» * tongue, or gustatory organ and taste, or gustative object  
+»   
+»   
+»   
+» * body, or tactile organ and body\-contact, or tactile object  
+»   
+»   
+»   
+» * mind\-base, or consciousness and idea or mental\-object  
+»   *manāyatana dhammāyatana*
+»   
+»   
+»
+»
+»
+»
 
 By the visual organ *cakkhāyatana* is meant the sensitive part of the eye *cakkhu* \- *pasāda* (retina) built up of the four elements… responding to sense\-stimuli *sa* \- *ppatigha.* Vibh. II. Similar is the explanation of the four remaining physical sense\-organs.
 

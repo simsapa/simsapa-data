@@ -114689,7 +114689,7 @@ also_written_as = []
 
 (from *kambala*) woolen; of woolen cloth; woolen cloth
 
-\>
+\»
 
 ``` toml
 dict_label = "NCPED"

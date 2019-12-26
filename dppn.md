@@ -15739,7 +15739,7 @@ see_also = []
 also_written_as = []
 ```
 
-A wanderer. A discussion between him and the Buddha on *samādhi* and on the soul, which took place in Mallikārāma in Sāvatthī, is reported in the Poṭṭhapāda Sutta. Poṭṭhapāda, accepting the Buddha’s views, was jeered at by his companions for doing so. Two or three days later he again visited the Buddha with Citta Hatthisāriputta\>, when the Buddha continued the earlier discussion on personality and the soul. At the end of the discourse Poṭṭhapāda became the Buddha’s follower. DN.i.178*ff.*
+A wanderer. A discussion between him and the Buddha on *samādhi* and on the soul, which took place in Mallikārāma in Sāvatthī, is reported in the Poṭṭhapāda Sutta. Poṭṭhapāda, accepting the Buddha’s views, was jeered at by his companions for doing so. Two or three days later he again visited the Buddha with Citta Hatthisāriputta\», when the Buddha continued the earlier discussion on personality and the soul. At the end of the discourse Poṭṭhapāda became the Buddha’s follower. DN.i.178*ff.*
 
 ``` toml
 dict_label = "DPPN"
@@ -22165,7 +22165,7 @@ see_also = []
 also_written_as = []
 ```
 
-Ubbirī\>
+Ubbirī\»
 
 A bhikkhunī whose verses in the Therīgāthā tell of her lamenting the death of her daughter, Jīva, and reflecting that thousands of her daughters must likewise have died in previous lives. Thus she became enlightened. Thig.51–53
 
@@ -22841,7 +22841,7 @@ see_also = []
 also_written_as = []
 ```
 
-Upasamā\>
+Upasamā\»
 
 A bhikkhunī whose verse is found in the Therīgāthā. Thig.10
 
@@ -24115,7 +24115,7 @@ see_also = []
 also_written_as = []
 ```
 
-Vaḍḍhamātā\>
+Vaḍḍhamātā\»
 
 An arahant, mother of Vaḍḍha. Her conversation with Vaḍḍha and his declaration to her after becoming an arahant are included in the Therīgāthā. Thig.204–212
 
