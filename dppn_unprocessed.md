@@ -2,6 +2,7 @@
 
 ``` toml
 title = "Dictionary of Pali Proper Names (DPPN)"
+dict_label = "DPPN"
 description = "Pali - English"
 creator = "Simsapa Dhamma Reader"
 email = ""
@@ -18,7 +19,6 @@ add_velthuis = true
 --- DICTIONARY WORD ENTRIES ---
 
 ``` toml
-dict_label = "DPPN"
 word = "ababa"
 summary = ""
 grammar_comment = ""
@@ -40,7 +40,6 @@ One term of Ababa is equal to four hundred of Abbuda; an Abbuda being reckoned a
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "abbhavalāhakā"
 summary = ""
 grammar_comment = ""
@@ -58,7 +57,6 @@ Abbhavalāhakā
 One of the Cloud\-group of devas. They are embodied in the thunder clouds (cumulus clouds), and when they wish to revel and delight themselves, thunder clouds make their appearance in the sky. SN.iii.256
 
 ``` toml
-dict_label = "DPPN"
 word = "abbuda"
 summary = ""
 grammar_comment = ""
@@ -78,7 +76,6 @@ A period of suffering in Avīci, the time taken to remove twenty cartloads of ti
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "abhaya "
 summary = ""
 grammar_comment = ""
@@ -108,7 +105,6 @@ Abhaya<sup>3</sup>
 A Licchavi of Vesāli. On one occasion he comes with another Licchavi, Paṇḍita Kumāraka, to Ānanda in the Kūṭāgārasālā in Vesāli, and discusses with him certain views held by Nigaṇṭha Nāṭaputta. Ānanda teaches him the Buddha’s three Ways of purification. AN.i.220–222 On another occasion he visits the Buddha, again at Vesāli, with the Licchavi Sāḷha; the latter asks the Buddha’s views on purity of morals and self\-mortification. The Buddha tells him of the Ariyan Way and explains its implications by various similes. AN.ii.202–204 We are not told that either of them became converts on this occasion.
 
 ``` toml
-dict_label = "DPPN"
 word = "abhayamātā"
 summary = ""
 grammar_comment = ""
@@ -126,7 +122,6 @@ Abhayamātā
 A Therī. Two verses attributed to her are found in the Therigatha. Thig.33–34
 
 ``` toml
-dict_label = "DPPN"
 word = "abhayā"
 summary = ""
 grammar_comment = ""
@@ -144,7 +139,6 @@ Abhayā
 A Therī. Two verses are attributed to her in the Therīgāthā. Thig.35 Thig.46
 
 ``` toml
-dict_label = "DPPN"
 word = "abhibhū"
 summary = ""
 grammar_comment = ""
@@ -168,7 +162,6 @@ Abhibhū<sup>2</sup>
 A class of devas belonging to the formless plane. MN.i.1 They live in the same plane as the Vehapphalā. In the Brahmanimantanika Sutta MN.i.329 the Buddha claims to be Abhibhū (=the conqueror).
 
 ``` toml
-dict_label = "DPPN"
 word = "abhibhūta"
 summary = ""
 grammar_comment = ""
@@ -186,7 +179,6 @@ Abhibhūta
 Three verses ascribed to Abhibhūta occur in the Theragāthā, addressd to his kinsmen and retainers. Thag.255–257 The second of these verses is elsewhere SN.i.156 attributed to Abhibhū, chief disciple of Sikhī Buddha. In the Mahāparinibbāna Sutta DN.ii.121 the second and third verses are ascribed to the Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "abhirūpanandā"
 summary = ""
 grammar_comment = ""
@@ -204,7 +196,6 @@ AbhirūpanandāAbhirūpaNandā
 The two verses preached to her by the Buddha are given in the Therīgāthā. Thig.19–20
 
 ``` toml
-dict_label = "DPPN"
 word = "abhiñjika"
 summary = ""
 grammar_comment = ""
@@ -224,7 +215,6 @@ A student of Anuruddha. On one occasion when the Buddha asks Mahā Kassapa to pr
 The Buddha sends for them and admonishes them. Having heard his discourse, they express regret for their behaviour and promise to cultivate self\-restraint in the future. SN.ii.204–205
 
 ``` toml
-dict_label = "DPPN"
 word = "accuta"
 summary = ""
 grammar_comment = ""
@@ -242,7 +232,6 @@ Accuta
 A Pacceka Buddha, mentioned in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "accutadevā"
 summary = ""
 grammar_comment = ""
@@ -260,7 +249,6 @@ Accutadevā
 A class of devas mentioned among those assembled on the occasion of the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "accutagāmabyāmaka"
 summary = ""
 grammar_comment = ""
@@ -278,7 +266,6 @@ Accutagāmabyāmaka
 One of the Pacceka Buddhas in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "acelakassapa"
 summary = ""
 grammar_comment = ""
@@ -304,7 +291,6 @@ Acelakassapa<sup>2</sup>AcelaKassapa
 An old family friend of Cittagapahati. Having been for thirty years a *paribbājaka*, he admits to Citta that he had thereby obtained no particular excellence of knowledge. Citta tells him of his own attainments and Kassapa expresses a desire to enter the Order. He is duly ordained, and shortly afterwards becomes an arahant. SN.iv.300*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "aciravata"
 summary = ""
 grammar_comment = ""
@@ -324,7 +310,6 @@ A novice who had a conversation with Prince Jayasena on the life of the bhikkhu.
 The novice is throughout addressed as Aggivessana.
 
 ``` toml
-dict_label = "DPPN"
 word = "aciravatī"
 summary = ""
 grammar_comment = ""
@@ -354,7 +339,6 @@ Near the river was Dandakappa, a Kosalan village, and while staying there Ānand
 27.931327,81.7575071river
 
 ``` toml
-dict_label = "DPPN"
 word = "addhakāsī"
 summary = ""
 grammar_comment = ""
@@ -372,7 +356,6 @@ Addhakāsī
 A prostitute in Rājagaha who entered the Order of the bhikkhunis. Wishing to obtain the higher ordination from the Buddha, she set out for Sāvatthī, but was waylaid and stopped by libertines. So she sent a man to ask the Buddha’s advice and he permitted her to be ordained by a messenger. Thig.25–26 Vin.ii.277 Later she attained arahantship.
 
 ``` toml
-dict_label = "DPPN"
 word = "addhariyā"
 summary = ""
 grammar_comment = ""
@@ -390,7 +373,6 @@ Addhariyā
 The word occurs in a list of brahmin teachers in the Tevijja Sutta. DN.i.237 They teach a state of union with Brahmā. These are evidently Adhvaryu brahmins.
 
 ``` toml
-dict_label = "DPPN"
 word = "adhikakkā"
 summary = ""
 grammar_comment = ""
@@ -410,7 +392,6 @@ A ford, evidently a well\-known bathing\-ghat, where pilgrims used to bathe in o
 4ford
 
 ``` toml
-dict_label = "DPPN"
 word = "adhimutta"
 summary = ""
 grammar_comment = ""
@@ -428,7 +409,6 @@ Adhimutta
 A Brahmin of Sāvatthī. A verse addressed by him to some corpulent monks is found in the Theragāthā. Thag.114
 
 ``` toml
-dict_label = "DPPN"
 word = "aggaḷapura"
 summary = ""
 grammar_comment = ""
@@ -448,7 +428,6 @@ A city where Revata went on his way from Soreyya to Sahajāti, prior to the Coun
 ???2town
 
 ``` toml
-dict_label = "DPPN"
 word = "aggidatta"
 summary = ""
 grammar_comment = ""
@@ -466,7 +445,6 @@ Aggidatta
 A brahmin of Khemavatī, father of the Buddha Kakusandha. His wife was named Visākhā. DN.ii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "aggikabhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -488,7 +466,6 @@ Aggikabhāradvāja<sup>2</sup>AggikaBhāradvāja
 A brahmin of Rājagaha, a fire\-tender. He prepares a meal for sacrifice, and when the Buddha, out of compassion for him, appears before his house for alms, he says the meal is meant only for one who has the “threefold lore” (the three Vedas). The Buddha gives the brahmin another interpretation of the “threefold lore”; (see Aggika Sutta). The brahmin, thereupon, becomes a convert, enters the Order, and, in due course, attains arahantship. SN.i.166*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "aggivessana"
 summary = ""
 grammar_comment = ""
@@ -510,7 +487,6 @@ The name is used by the Buddha in addressing Saccaka Nigaṇṭhaputta, MN.i.229
 In the Dantabhūmi Sutta MN.iii.128*f.* the novice Aciravata is thus addressed by Prince Jayasena, who visits him, and also by the Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "aggāḷave cetiye"
 summary = ""
 grammar_comment = ""
@@ -532,7 +508,6 @@ The Chabbaggiyā are censured here for a *nissaggiya* offence. Vin.iii.224 The V
 26.06173,83.3807343shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "ahaha"
 summary = ""
 grammar_comment = ""
@@ -552,7 +527,6 @@ One of the purgatories mentioned in the Sutta\-Nipāta list. Snp.p.126 It is the
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "ahiṃsakabhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -570,7 +544,6 @@ AhiṃsakabhāradvājaAhiṃsakaBhāradvāja
 One of the Bhāradvāja brothers. He came to the Buddha at Sāvatthī and the Buddha suggested to him the desirability of living up to his name by practising ahiṃsā. It is said that later he became an arahant. SN.i.164
 
 ``` toml
-dict_label = "DPPN"
 word = "ahogaṅgā"
 summary = ""
 grammar_comment = ""
@@ -590,7 +563,6 @@ A mountain in North India, on the Upper Ganges. There, for some time, lived the 
 ???2hill
 
 ``` toml
-dict_label = "DPPN"
 word = "ajakalāpaka"
 summary = ""
 grammar_comment = ""
@@ -608,7 +580,6 @@ Ajakalāpaka
 A Yakkha who tried to frighten the Buddha, but who, later, became his disciple. Ud.4–5
 
 ``` toml
-dict_label = "DPPN"
 word = "ajakalāpakacetiya"
 summary = ""
 grammar_comment = ""
@@ -628,7 +599,6 @@ A shrine at Pāvā at which sacrifices were offered to Ajakalāpaka. Ud.4
 26.683878,84.0551931shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "ajakaraṇī"
 summary = ""
 grammar_comment = ""
@@ -652,7 +622,6 @@ This river was probably a branch of the Aciravatī.
 Gandak2river
 
 ``` toml
-dict_label = "DPPN"
 word = "ajapālanigrodha"
 summary = ""
 grammar_comment = ""
@@ -678,7 +647,6 @@ The Brahmā Sutta SN.v.167 and the Magga Sutta, SN.v.185 both on the four satipa
 24.695102, 84.9912751shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "ajita"
 summary = ""
 grammar_comment = ""
@@ -708,7 +676,6 @@ Ajita<sup>5</sup>Ajina
 A monk whose Theragāthā verses speak of how sometimes the wise are unknown, while the fool is honored. Thag.129–130
 
 ``` toml
-dict_label = "DPPN"
 word = "ajitakesakambala"
 summary = ""
 grammar_comment = ""
@@ -732,7 +699,6 @@ Ajita was evidently much older in years than the Buddha, for we find Pasenadi, i
 References to ascetics wearing hair garments are found in several passages of the Pali canon. DN.i.167 MN.i.77 MN.i.238 AN.i.240
 
 ``` toml
-dict_label = "DPPN"
 word = "ajitamāṇava"
 summary = ""
 grammar_comment = ""
@@ -756,7 +722,6 @@ A verse attributed to Ajita\-māṇava is found in the Theragāthā. Thag.20
 The Ajita\-pucchā are referred to in the Saṃyutta, SN.ii.47*f.* where they are expounded by the Buddha to Sāriputta.
 
 ``` toml
-dict_label = "DPPN"
 word = "ajjuka"
 summary = ""
 grammar_comment = ""
@@ -774,7 +739,6 @@ Ajjuka
 A monk of Vesālī. In settling a dispute regarding the estate of his lay\-supporter, he was accused of partisanship by one of the parties concerned and was reported to Ānanda. The case went up before Upāli, who decided in favour of Ajjuka. Vin.iii.66–67
 
 ``` toml
-dict_label = "DPPN"
 word = "ajjuna"
 summary = ""
 grammar_comment = ""
@@ -792,7 +756,6 @@ Ajjuna
 A monk whose Theragāthā verse describes understanding the Dhamma as like drawing oneself from water to dry land. Thag.88
 
 ``` toml
-dict_label = "DPPN"
 word = "ajātasattu"
 summary = ""
 grammar_comment = ""
@@ -836,7 +799,6 @@ Rumours are mentioned of King Candappajjota making preparations for a war on Aj�
 It was he who built the fortress of Pāṭāliputta, which later became the capital of Māgadha.
 
 ``` toml
-dict_label = "DPPN"
 word = "akaniṭṭhā"
 summary = ""
 grammar_comment = ""
@@ -858,7 +820,6 @@ In the Mahāpadāna Sutta DN.ii.52*f.* the Buddha mentions that he visited their
 In the Sakkapañha Sutta. DN.ii.286 Sakka speaks of them as the highest devas, and expresses his satisfaction that he, too, will be born among them in his last life.
 
 ``` toml
-dict_label = "DPPN"
 word = "allakappa"
 summary = ""
 grammar_comment = ""
@@ -878,7 +839,6 @@ A country near Māgadha, perhaps near Vethadīpaka. When the Bulis of Allakappa 
 near Māgadha, perhaps near Vethadīpaka3region
 
 ``` toml
-dict_label = "DPPN"
 word = "amalakīvana"
 summary = ""
 grammar_comment = ""
@@ -898,7 +858,6 @@ A grove in Cātumā where the Buddha preached the Kūṭadanta Sutta.
 27.576667,83.0547223park
 
 ``` toml
-dict_label = "DPPN"
 word = "ambagāma"
 summary = ""
 grammar_comment = ""
@@ -918,7 +877,6 @@ One of the villages near Vesāli visited by the Buddha on his last tour D.ii.123
 26.40171,84.6112045town
 
 ``` toml
-dict_label = "DPPN"
 word = "ambalaṭṭhikā"
 summary = ""
 grammar_comment = ""
@@ -946,7 +904,6 @@ A park in the brahmin village Khāṇumata. The Buddha went there during one of 
 Magadha3park
 
 ``` toml
-dict_label = "DPPN"
 word = "ambapālivana"
 summary = ""
 grammar_comment = ""
@@ -970,7 +927,6 @@ The Saṃyutta also records a conversation that took place between Anuruddha and
 26.013904,85.1091673park
 
 ``` toml
-dict_label = "DPPN"
 word = "ambapālī"
 summary = ""
 grammar_comment = ""
@@ -996,7 +952,6 @@ Nineteen verses ascribed to her are found in the Therīgāthā. Thig.252–270
 It is said that she charged fifty *kahāpanas* a night from her patrons and that Vesāli became very prosperous through her. It was this that prompted Bimbisāra to get a courtesan for his own city of Rājagaha. Vin.i.268
 
 ``` toml
-dict_label = "DPPN"
 word = "ambaraambaravatī"
 summary = ""
 grammar_comment = ""
@@ -1016,7 +971,6 @@ The double name of a city in Uttarakuru. DN.iii.201
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "ambasaṇḍā"
 summary = ""
 grammar_comment = ""
@@ -1038,7 +992,6 @@ To the north of the village was the Vediyaka mountain, in which was the Indasāl
 25.00441,85.504182town
 
 ``` toml
-dict_label = "DPPN"
 word = "ambatittha"
 summary = ""
 grammar_comment = ""
@@ -1058,7 +1011,6 @@ A village in the Cetiya country near Bhaddavatikā. When the Buddha was on tour 
 25.39861,80.27162town
 
 ``` toml
-dict_label = "DPPN"
 word = "ambaṭṭha"
 summary = ""
 grammar_comment = ""
@@ -1082,7 +1034,6 @@ Ambaṭṭha makes no remonstrance against this genealogy and, under pressure, a
 At the end of the discourse the Buddha walked up and down outside his chamber so that Ambaṭṭha might see on his body the thirty\-two signs of a great man. Ambaṭṭha goes back to Pokkharasadi and reports the whole interview. Pokkharasādi is greatly incensed, abuses Ambaṭṭha and kicks him. Later Pokkharasādi goes himself to the Buddha and invites him for a meal. At the end of the meal the Buddha instructs him in his Doctrine and is accepted as the Teacher both of Pokkharasādi himself and of his followers and dependants at Ukkaṭṭha. Pokkharasādi himself becomes a Sotāpanna.
 
 ``` toml
-dict_label = "DPPN"
 word = "ambāṭakavana"
 summary = ""
 grammar_comment = ""
@@ -1110,7 +1061,6 @@ Among eminent Elders who visited the place wer.
 ???3town
 
 ``` toml
-dict_label = "DPPN"
 word = "anantajina"
 summary = ""
 grammar_comment = ""
@@ -1128,7 +1078,6 @@ Anantajina
 An epithet of the Buddha. When Upaka, the *ājīvika*, saw the Buddha, and heard of his attainments, Anantajina was one of the names he used in uttering the Buddha’s praises.
 
 ``` toml
-dict_label = "DPPN"
 word = "andhakavinda"
 summary = ""
 grammar_comment = ""
@@ -1152,7 +1101,6 @@ Once when the Buddha was staying at Andhakavinda the Brahmā Sahampati came and 
 ???2town
 
 ``` toml
-dict_label = "DPPN"
 word = "andhavana"
 summary = ""
 grammar_comment = ""
@@ -1182,7 +1130,6 @@ The rule forbidding monks to enter a village clad only in their waist cloth and 
 27.432728,82.0555122park
 
 ``` toml
-dict_label = "DPPN"
 word = "anejakā"
 summary = ""
 grammar_comment = ""
@@ -1200,7 +1147,6 @@ Anejakā
 A class of devas mentioned as having been present on the occasion of the preaching of the Mahāsamaya Sutta. DN.ii.160
 
 ``` toml
-dict_label = "DPPN"
 word = "annabhāra"
 summary = ""
 grammar_comment = ""
@@ -1220,7 +1166,6 @@ A well\-known *paribbājaka* who lived in the Paribbājakārāma on the banks of
 On another occasion they discuss the “brahmin truth.” The Buddha visits them and tells them what he considers to be the brahmin truths (*brāhmaṇasaccāni*): that no creatures are to be harmed; all sense\-delights are impermanent, painful and changing; all becomings are impermanent, etc.; a brahmin is one who has no part in or attachment to anything any more. AN.ii.176–177
 
 ``` toml
-dict_label = "DPPN"
 word = "anopamā"
 summary = ""
 grammar_comment = ""
@@ -1238,7 +1183,6 @@ Anopamā
 Daughter of the Treasurer Majjha of Sāketa. She was so called ('Peerless”) because of her beauty. When she grew up, all sorts of eminent men sought her hand with rich gifts, but she was unwilling to marry. She heard the Buddha preach and, meditating on his sermon, attained the Third Fruit of the Path. Later she entered the Order, and on the seventh day thereafter became an arahant. Thig.151–156
 
 ``` toml
-dict_label = "DPPN"
 word = "anotatta"
 summary = ""
 grammar_comment = ""
@@ -1258,7 +1202,6 @@ A semi\-mythical lake, said to be in the Himalayas. Thag.430
 Himalaya5lake
 
 ``` toml
-dict_label = "DPPN"
 word = "anugāra"
 summary = ""
 grammar_comment = ""
@@ -1276,7 +1219,6 @@ Anugāra
 An eminent wandering ascetic. He is mentioned as living in the Paribbājakārāma in the Moranivāpa in Veḷuvana near Rājagaha. He was probably one of the company who was with Sakuludāyi when the Buddha came to visit the latter. MN.ii.1
 
 ``` toml
-dict_label = "DPPN"
 word = "anupiya"
 summary = ""
 grammar_comment = ""
@@ -1298,7 +1240,6 @@ From Anupiya the Buddha went to Kosambi. Vin.ii.184 Near Anupiya was the park wh
 ???2town
 
 ``` toml
-dict_label = "DPPN"
 word = "anuruddha"
 summary = ""
 grammar_comment = ""
@@ -1334,7 +1275,6 @@ Mention is often made of Anuruddha’s *iddhi*\-powers. Thus, he was one of thos
 His *iddhi*, however, does not seem to have enabled him to prevent his fellow\-dweller Abhiñjika from talking too much, SN.ii.203–204 nor his other fellow\-dweller Bāhiya from attempting to create dissension in the Order. AN.ii.239 Among the Vajjians he seems to have been held particularly in esteem, together with Nandiya and Kimbila. A *yakkha* named Dīgha tells the Buddha how the Vajjians are envied by the inhabitants of the deva and brahma worlds on account of the presence of these distinguished monks in their country. MN.i.210
 
 ``` toml
-dict_label = "DPPN"
 word = "anurādha"
 summary = ""
 grammar_comment = ""
@@ -1352,7 +1292,6 @@ Anurādha
 An Elder. Once when he was staying in a forest hut in the Mahāvana in Vesāli, near to where the Buddha was, certain wandering ascetics came to him and asked him whether or not a Tathāgata exists after death; dissatisfied with his answer they called him “fool” and went away. Thereupon Anurādha sought advice from the Buddha, who asked him “How, inasmuch as it cannot be said of a Tathāgata even in this very life that he really exists, can anything be said regarding him after death?” SN.iii.116–119 SN.iv.380–386
 
 ``` toml
-dict_label = "DPPN"
 word = "anāthapiṇḍika"
 summary = ""
 grammar_comment = ""
@@ -1380,7 +1319,6 @@ Understanding the request implied in the Buddha’s words when he accepted the i
 Anāthapiṇḍika’s personal name was Sudatta, but he was always called Anāthapiṇḍika (feeder of the destitute) because of his munificence; he was, however, very pleased when the Buddha addressed him by his own name. Vin.ii.156 He spent eighteen crores on the purchase of Jetavana and a like sum on the construction of the *vihāra*; another eighteen crores were spent in the festival of dedication. He fed one hundred monks in his house daily in addition to meals provided for guests, people of the village, invalids, etc.
 
 ``` toml
-dict_label = "DPPN"
 word = "anīgha"
 summary = ""
 grammar_comment = ""
@@ -1398,7 +1336,6 @@ Anīgha
 A Pacceka Buddha; occurs in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "anūpama"
 summary = ""
 grammar_comment = ""
@@ -1416,7 +1353,6 @@ Anūpama
 A monk whose verses are recorded in the Theragāthā. Thag.213–214
 
 ``` toml
-dict_label = "DPPN"
 word = "aparagoyāna"
 summary = ""
 grammar_comment = ""
@@ -1436,7 +1372,6 @@ One of the four great continents into which the earth is divided. According to t
 5continent
 
 ``` toml
-dict_label = "DPPN"
 word = "aparājita"
 summary = ""
 grammar_comment = ""
@@ -1454,7 +1389,6 @@ Aparājita
 One of the Pacceka Buddhas mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "appamāṇasubhā"
 summary = ""
 grammar_comment = ""
@@ -1474,7 +1408,6 @@ A class of devas of the Rupaloka belonging to the plane of third *jhāna*.
 Beings are born there who are possessed of faith, virtue, learning, munificence and wisdom. MN.iii.102
 
 ``` toml
-dict_label = "DPPN"
 word = "appamāṇābhā"
 summary = ""
 grammar_comment = ""
@@ -1494,7 +1427,6 @@ A class of devas of the Rūpaloka, belonging to the plane of second *jhāna*.
 Beings are born there who have absorbed the idea of boundless brilliancy, MN.iii.147 or who are possessed of faith, virtue, learning, munificence and wisdom. MN.iii.102
 
 ``` toml
-dict_label = "DPPN"
 word = "aputtaka"
 summary = ""
 grammar_comment = ""
@@ -1514,7 +1446,6 @@ A wealthy burgess of Sāvatthī who died intestate. In the Saṃyutta Nikāya SN
 In the next Sutta of the same Nikāya SN.i.91–93 the Buddha is reported as revealing the banker’s past. In a former birth he had given alms to a Pacceka Buddha, Tagarasikhī, but later he repented and wished that he had given the food to slaves and workmen.
 
 ``` toml
-dict_label = "DPPN"
 word = "araka"
 summary = ""
 grammar_comment = ""
@@ -1532,7 +1463,6 @@ Araka
 The Bodhisatta, born as a brahmin teacher. In the Aṅguttara Nikāya AN.iv.136–138 we are told that among Araka’s pupils those who followed his teachings were born in the Brahma\-world, while the others were born in various purgatories.
 
 ``` toml
-dict_label = "DPPN"
 word = "aranemi"
 summary = ""
 grammar_comment = ""
@@ -1552,7 +1482,6 @@ A brahmin teacher of a past age, given in a list of six teachers, who were puroh
 They practised harmlessness and, abstaining from flesh, got rid of their lusts. As a result, they were born in the Brahmaloka. They had many disciples.
 
 ``` toml
-dict_label = "DPPN"
 word = "arati"
 summary = ""
 grammar_comment = ""
@@ -1570,7 +1499,6 @@ Arati
 One of the three daughters of Māra, the others being Taṇhā and Ragā. Seeing their father disconsolate after his repeated attempts to foil Gotama’s quest for Enlightenment, they offered to tempt the Buddha with their wiles. This was in the fifth week after the Enlightenment. With Māra’s approval, they came to the Buddha in various forms and in various guises, as he sat at the foot of the Ajapala banyan tree, and danced and sang before him. In the end the Buddha told them that he was beyond temptation by the pleasures of the senses and they went back to their father SN.i.124–127 Snp.835
 
 ``` toml
-dict_label = "DPPN"
 word = "arañña"
 summary = ""
 grammar_comment = ""
@@ -1590,7 +1518,6 @@ Four great Araññas (Wildernesses) are often mentioned: Dandaka°, Kāliṅga°
 4forest
 
 ``` toml
-dict_label = "DPPN"
 word = "araññakuṭikā"
 summary = ""
 grammar_comment = ""
@@ -1610,7 +1537,6 @@ A forest hermitage near Rājagaha, where the novice Aciravata sometimes stayed. 
 25.038327,85.4379273building
 
 ``` toml
-dict_label = "DPPN"
 word = "ariṭṭha"
 summary = ""
 grammar_comment = ""
@@ -1648,7 +1574,6 @@ Ariṭṭha<sup>3</sup>
 A messenger of Vessavaṇa, employed by him to take his proclamations and publish them. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "ariṭṭhakā"
 summary = ""
 grammar_comment = ""
@@ -1668,7 +1593,6 @@ A class of devas who were present at the preaching of the Mahāsamaya Sutta.
 They were like azure flowers in hue (*ummāpupphanibhāsino*). DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "asama"
 summary = ""
 grammar_comment = ""
@@ -1688,7 +1612,6 @@ A *devaputta* who once visited the Buddha at Veḷuvana, in the company of Sahal
 They were disciples of different teachers and, standing before the Buddha, each uttered the praises of his own teacher. Asama eulogised Pūraṇa\-Kassapa. SN.i.65
 
 ``` toml
-dict_label = "DPPN"
 word = "asamā"
 summary = ""
 grammar_comment = ""
@@ -1706,7 +1629,6 @@ Asamā
 A class of devas, present at the preaching of the Mahāsamaya Sutta. They are mentioned together with the Yama twins. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "asaññasattā"
 summary = ""
 grammar_comment = ""
@@ -1724,7 +1646,6 @@ Asaññasattā
 Inhabitants of the fifth of the nine abodes of beings (*sattāvāsā*). These beings are unconscious and experience nothing. AN.iv.401 As soon as an idea occurs to them they fall from their state. DN.i.28
 
 ``` toml
-dict_label = "DPPN"
 word = "asibandhakaputta"
 summary = ""
 grammar_comment = ""
@@ -1748,7 +1669,6 @@ It is recorded SN.iv.322*ff.* that once, when Nāḷandā was stricken with fami
 Is it true that the Buddha extols compassion to clansmen? Why, then, does the Buddha ask for alms in a place stricken with famine? The Buddha’s answer is that there are eight ways of injuring clansmen, and that begging for alms is not one of them. And Asibandhakaputta, pleased with the answer, declares himself to be a follower of the Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "asipattavana"
 summary = ""
 grammar_comment = ""
@@ -1768,7 +1688,6 @@ One of the tortures of purgatory. In the distance the grove appears as a mango g
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "asita"
 summary = ""
 grammar_comment = ""
@@ -1790,7 +1709,6 @@ Asita<sup>2</sup>Devala
 A sage (*isi*). His story is given in the Assalāyana Sutta. MN.ii.154*ff.* Once there were seven brahmin sages living in thatched cabins in the wilds. They conceived the view that the brahmins are the highest class of men and that they alone are the legitimate sons of Brahma. Hearing of this, Asita Devala appeared before their hermitage in orange attire, with stout sandals and staff, and shouted for them. The brahmins cursed him with the intention of shrivelling him into a cinder, but the more they cursed the more comely and handsome grew Asita. Feeling that their austerities were evidently fruitless, they questioned Asita who urged them to discard their delusion. Having learnt his identity, they saluted him and wished to be instructed; Asita examined and cross\-questioned them about their pretensions regarding their lineage and they could find no answer. They thereupon followed his advice and renounced their claims to superiority.
 
 ``` toml
-dict_label = "DPPN"
 word = "asoka"
 summary = ""
 grammar_comment = ""
@@ -1808,7 +1726,6 @@ Asoka
 A monk of Ñātikā. Once when the Buddha was staying at Ñātikā in the Giñjakāvasatha, Ānanda mentions to the Buddha that Asoka Thera had died, and asks where he had gone. The Buddha tells him that Asoka was an arahant and had realised Nibbana. SN.i.358
 
 ``` toml
-dict_label = "DPPN"
 word = "asokā"
 summary = ""
 grammar_comment = ""
@@ -1826,7 +1743,6 @@ Asokā
 A nun of Ñātikā. When Ānanda announces her death to the Buddha at Ñātikā in the Giñjakāvasatha, and inquires where she had been born, the Buddha says that she had been reborn spontaneously in the Suddhāvāsā, there to pass away, destined never to return. SN.v.358
 
 ``` toml
-dict_label = "DPPN"
 word = "assaji"
 summary = ""
 grammar_comment = ""
@@ -1858,7 +1774,6 @@ Assaji<sup>2</sup>
 One of the leaders of the Assaji\-Punabbasukā, the other being Punabbasu. He was one of the Chabbaggiyā, the others being Mettiya, Bhummajaka, Panduka and Lohitaka.
 
 ``` toml
-dict_label = "DPPN"
 word = "assajipunabbasukā"
 summary = ""
 grammar_comment = ""
@@ -1882,7 +1797,6 @@ The Assaji\-Punabbasukas seem to have had a special dislike for Sāriputta and M
 But elsewhere MN.i.473*ff.* even the Buddha is represented as having been lightly regarded by them. When it was reported to them that the Buddha lived on only one meal a day and found that it made him well and healthy, their reply was that they themselves ate in the evening and the early morning and at noon and outside prescribed hours, and that they found this quite agreeable and saw no reason for changing their mode of life. It is true, however, that even on this occasion when the Buddha sent for them, they came dutifully and listened patiently to his admonition on the necessity of implicit obedience to a teacher in whom they had faith, and we are told that they were “even gladdened in their hearts” after hearing the Buddha. There is, however, no evidence that they reformed after hearing him.
 
 ``` toml
-dict_label = "DPPN"
 word = "assaka"
 summary = ""
 grammar_comment = ""
@@ -1904,7 +1818,6 @@ In the time of King Reṇu, the Assaka king of Potana was Brahmadatta. DN.ii.236
 19.2904, 76.486811janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "assalāyana"
 summary = ""
 grammar_comment = ""
@@ -1926,7 +1839,6 @@ He visits the Buddha and asks what he has to say concerning the claims of the br
 The Buddha points out to him that such pretensions are baseless, and that virtue, which alone leads to purity, can be cultivated by any of the four classes. Assalāyana sits silent and upset at the end of the discourse, but when the Buddha relates to him a story of the past where Asita Devala had defeated brahmins who held these same views, Assalāyana feels relieved and expresses his admiration of the Buddha’s exposition. He declares himself a follower of the Buddha. MN.ii.147*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "assapura"
 summary = ""
 grammar_comment = ""
@@ -1946,7 +1858,6 @@ A city in the kingdom of Aṅga. It was here that the Mahā Assapura and Cūḷa
 Aṅga3town
 
 ``` toml
-dict_label = "DPPN"
 word = "assatara"
 summary = ""
 grammar_comment = ""
@@ -1964,7 +1875,6 @@ Assatara
 A tribe of Nāgas present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "assāroha"
 summary = ""
 grammar_comment = ""
@@ -1982,7 +1892,6 @@ Assāroha
 Probably a nickname for the horse\-trainer whose visit to the Buddha is recorded in the Assa Sutta. He is described as a *gāmani* (head man of a village). SN.iv.310
 
 ``` toml
-dict_label = "DPPN"
 word = "asura"
 summary = ""
 grammar_comment = ""
@@ -2008,7 +1917,6 @@ There were evidently several classes of Asuras, and two are mentioned in the Pit
 A story is told by the Buddha SN.v.446 of a man who once saw a whole army with its four divisions enter a lotus stalk and the man thought he was mad. But the Buddha says that it was an Asura army in flight. Here the Asuras would seem to be fairies or nature spirits.
 
 ``` toml
-dict_label = "DPPN"
 word = "asurindakabhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -2026,7 +1934,6 @@ AsurindakabhāradvājaAsurindakaBhāradvāja
 A brahmin, one of three brothers who had conversations with the Buddha and were converted. SN.i.163*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "atappādevā"
 summary = ""
 grammar_comment = ""
@@ -2044,7 +1951,6 @@ Atappādevā
 A class of devas whose company mortals long for.MN.i.289 MN.iii.103 They belong to the Suddhāvāsā. DN.ii.52 DN.iii.237
 
 ``` toml
-dict_label = "DPPN"
 word = "avakaṇṇaka"
 summary = ""
 grammar_comment = ""
@@ -2062,7 +1968,6 @@ Avakaṇṇaka
 Given in the Pācittiya rules’ as an example of a low name (*hīnanāma*). Vin.iv.6*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "avanti"
 summary = ""
 grammar_comment = ""
@@ -2109,7 +2014,6 @@ Avanti is now identified with the country north of the Vindhaya Mountains and no
 22.67484, 75.624381janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "avantiputta"
 summary = ""
 grammar_comment = ""
@@ -2131,7 +2035,6 @@ Their discussion is recorded in the Madhura Sutta. MN.ii.83–90
 It is said that after the interview Avantiputta became a follower of the Buddha’s teaching.
 
 ``` toml
-dict_label = "DPPN"
 word = "avihā"
 summary = ""
 grammar_comment = ""
@@ -2149,7 +2052,6 @@ Avihā
 A class of devas. Their world ranks among the five foremost of the rupa\-worlds, the Suddhāvāsā.DN.ii.52 DN.iii.237 DN.iii.237 Anāgāmīs are born in Avihā and there attain arahantship. The Buddha once visited Avihā. DN.ii.50–51
 
 ``` toml
-dict_label = "DPPN"
 word = "avīci"
 summary = ""
 grammar_comment = ""
@@ -2173,7 +2075,6 @@ In the Dīgha passage mentioned above, the reference to Avīci is in connection 
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "ayujjhā"
 summary = ""
 grammar_comment = ""
@@ -2193,7 +2094,6 @@ Two visits of the Buddha to this city are recorded in the Canon; on one occasion
 25.614286,83.6718751town
 
 ``` toml
-dict_label = "DPPN"
 word = "añjanavana"
 summary = ""
 grammar_comment = ""
@@ -2217,7 +2117,6 @@ There Sujātā met the Buddha, and having listened to his discourse became an ar
 26.8, 82.21park
 
 ``` toml
-dict_label = "DPPN"
 word = "añjanāvaniya"
 summary = ""
 grammar_comment = ""
@@ -2235,7 +2134,6 @@ Añjanāvaniya
 He dwelt in the Añjanavana in a small hut, and there he became Awakened. Thag.55
 
 ``` toml
-dict_label = "DPPN"
 word = "aññātakoṇḍañña"
 summary = ""
 grammar_comment = ""
@@ -2259,7 +2157,6 @@ Several verses attributed to Koṇḍañña are given in the Theragāthā, admon
 Vaṅgīsa once extolled his virtues in the presence of the Buddha. Thag.673
 
 ``` toml
-dict_label = "DPPN"
 word = "aḷaka"
 summary = ""
 grammar_comment = ""
@@ -2279,7 +2176,6 @@ A country on the banks of the Godhāvarī River. It was at a spot between the te
 19.61154, 74.498292region
 
 ``` toml
-dict_label = "DPPN"
 word = "aṅga"
 summary = ""
 grammar_comment = ""
@@ -2307,7 +2203,6 @@ Several discourses were preached in the Aṅga country, among them being the So�
 25.25, 871janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "aṅgaka"
 summary = ""
 grammar_comment = ""
@@ -2325,7 +2220,6 @@ Aṅgaka
 Nephew (sister’s son) of Soṇadaṇḍa. DN.i.123
 
 ``` toml
-dict_label = "DPPN"
 word = "aṅgaṇikabhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -2343,7 +2237,6 @@ AṅgaṇikabhāradvājaAṅgaṇikaBhāradvāja
 A brahmin fire\-worshipper who practiced asceticism to gain immortality. Later he practiced Buddhism and in due course acquired the three knowledges. Thag.219–221
 
 ``` toml
-dict_label = "DPPN"
 word = "aṅgulimāla"
 summary = ""
 grammar_comment = ""
@@ -2371,7 +2264,6 @@ In the Aṅgulimāla Sutta he is addressed by Pasenadi as Gagga Mantānīputta, 
 It was on his account that the rule not to ordain a captured robber was enacted. Vin.i.74
 
 ``` toml
-dict_label = "DPPN"
 word = "aṅguttarāpa"
 summary = ""
 grammar_comment = ""
@@ -2399,7 +2291,6 @@ Other suttas preached here are the Potaliya MN.i.359 and the Laṭukikopama. MN.
 25.465594,87.1325681region
 
 ``` toml
-dict_label = "DPPN"
 word = "aṅgīrasi"
 summary = ""
 grammar_comment = ""
@@ -2423,7 +2314,6 @@ One of the ten ancient seers who conducted great sacrifices and were versed in V
 The same ten are also mentioned as being composers and reciters of the Vedas. DN.i.238
 
 ``` toml
-dict_label = "DPPN"
 word = "aṭaṭa"
 summary = ""
 grammar_comment = ""
@@ -2443,7 +2333,6 @@ One of the Avīci hells. SN.i.150 Snp.126
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "aṭṭhaka"
 summary = ""
 grammar_comment = ""
@@ -2469,7 +2358,6 @@ Aṭṭhaka<sup>1</sup>
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "aṭṭhakanāgara"
 summary = ""
 grammar_comment = ""
@@ -2489,7 +2377,6 @@ A city from which came the householder Dasama who, while on a visit to Pāṭali
 4town
 
 ``` toml
-dict_label = "DPPN"
 word = "aṭṭhama"
 summary = ""
 grammar_comment = ""
@@ -2507,7 +2394,6 @@ Aṭṭhama
 Pacceka Buddha, one of the names given in a list of such. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "badarikārāma"
 summary = ""
 grammar_comment = ""
@@ -2527,7 +2413,6 @@ A park about three miles from Kosambī SN.iii.126 where Khemaka stayed during hi
 25.389939,81.3963322park
 
 ``` toml
-dict_label = "DPPN"
 word = "bahudhīti"
 summary = ""
 grammar_comment = ""
@@ -2545,7 +2430,6 @@ Bahudhīti
 A brahmin of the Bhāradvājagotta who had seven widowed daughters and was much in debt. One day he lost fourteen oxen, and, after searching for them for six days, he came across the Buddha in a forest tract. He spoke the praises of the Buddha’s freedom, unperturbed by the anxieties to which he himself was a prey for the Buddha had no nagging wife, no creditors, no vermin disturbing his sleep. The Buddha agreed with him, and he was so pleased with the Buddha’s words that he asked to be ordained. The Buddha ordained him. SN.i.170*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bahukā"
 summary = ""
 grammar_comment = ""
@@ -2565,7 +2449,6 @@ A river to which sacrifices were offered. MN.i.39
 4river
 
 ``` toml
-dict_label = "DPPN"
 word = "bahuputta cetiya"
 summary = ""
 grammar_comment = ""
@@ -2585,7 +2468,6 @@ A shrine in the neighbourhood of Vesāli, to the north of that city. DN.iii.9 Th
 26.081807,85.1152042shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "bahuputtakanigrodha"
 summary = ""
 grammar_comment = ""
@@ -2605,7 +2487,6 @@ Mahā Kassapa says that while yet a “learner” he paid homage to the Buddha a
 25.08108, 85.426763shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "baka"
 summary = ""
 grammar_comment = ""
@@ -2625,7 +2506,6 @@ A Brahmā. When the Buddha was once staying at Ukkaṭṭha in the Subhagavana, 
 Baka welcomed the Buddha but, owing to the influence of Māra, refused to acknowledge his error, until the Buddha, by the exercise of his magical power, prevented Baka from disappearing from sight, while he himself dissolved into complete darkness. The Buddha then proceeded to tell him of four incidents connected with his previous birth as Kesava. MN.i.326*ff.* SN.i.142*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bakkula"
 summary = ""
 grammar_comment = ""
@@ -2645,7 +2525,6 @@ At the age of eighty, Bakkula heard the Buddha preach and left the world. For se
 He espoused the virtue of an ascetic and withdrawn life. MN.iii.125 His Theragāthā verses speak of living a good life and a happy death. Thag.225–227
 
 ``` toml
-dict_label = "DPPN"
 word = "baliharaṇa"
 summary = ""
 grammar_comment = ""
@@ -2665,7 +2544,6 @@ A forest tract near Kusinārā where the Buddha is said to have stayed. AN.i.274
 26.751742,83.8957213park
 
 ``` toml
-dict_label = "DPPN"
 word = "bandhumatī"
 summary = ""
 grammar_comment = ""
@@ -2687,7 +2565,6 @@ The city of birth of Vipassī Buddha. DN.i.7
 Wife of King Bandhumā and mother of Vipassī Buddha. DN.i.7
 
 ``` toml
-dict_label = "DPPN"
 word = "bandhumā"
 summary = ""
 grammar_comment = ""
@@ -2705,7 +2582,6 @@ Bandhumā
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "bandhura"
 summary = ""
 grammar_comment = ""
@@ -2723,7 +2599,6 @@ Bandhura
 A monk whose Theragāthā verse speaks of not wanting to drink poison after tasting the Dhamma. Thag.103
 
 ``` toml
-dict_label = "DPPN"
 word = "belaṭṭhakaccāna"
 summary = ""
 grammar_comment = ""
@@ -2741,7 +2616,6 @@ BelaṭṭhakaccānaKaccānaBelaṭṭha
 A sugar dealer. On his way from Andhakkavinda to Rājagaha he met the Buddha seated at the foot of a tree, and, with his permission, presented a pot of sugar to the monks. When the monks had shared as much of the sugar as they wished, much was left over, and the Buddha asked Kaccāna to throw it into the water. This he did, and the water crackled. The Buddha preached to Kaccāna who accepted his teaching. Vin.i.224*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "belaṭṭhasīsa"
 summary = ""
 grammar_comment = ""
@@ -2761,7 +2635,6 @@ An arahant, preceptor of Ānanda. He was once afflicted with scurvy and his robe
 At one time this Thera would lie in the forest where he kept a store of dried boiled rice. When he needed food, after samāpatti he would sprinkle water on the rice and eat it instead of going for alms. When this was reported to the Buddha, he blamed Belatthasīsa for storing up food and promulgated a rule forbidding this. Vin.iv.86 His Theragāthā verses speak of how the days pass happily. Thag.16
 
 ``` toml
-dict_label = "DPPN"
 word = "belaṭṭhānika"
 summary = ""
 grammar_comment = ""
@@ -2779,7 +2652,6 @@ BelaṭṭhānikaBelaṭṭhakāni
 A monk whose Theragāthā verse speaks of how the spiritual life is wasted in gluttony. Thag.101
 
 ``` toml
-dict_label = "DPPN"
 word = "beluva"
 summary = ""
 grammar_comment = ""
@@ -2807,7 +2679,6 @@ The Theragāthā Thag.919 states that Anuruddha died at Veluvagāma in the Vajj�
 25.867344,85.1704792town
 
 ``` toml
-dict_label = "DPPN"
 word = "bhadda"
 summary = ""
 grammar_comment = ""
@@ -2831,7 +2702,6 @@ A monk whose Theragāthā verses tell how his parents with pride and compassion 
 A monk of this name, possibly the same person, is mentioned as staying at the Kukkuṭārāma in Pāṭaliputta in the company of Ānanda, with whom he discussed the righteous and the unrighteous life SN.v.15*f.* and the cultivation of the satipaṭṭhānas. SN.v.171*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaddavatikā"
 summary = ""
 grammar_comment = ""
@@ -2853,7 +2723,6 @@ The town is probably identical with Bhaddavatī, and was in the Cetiya Country. 
 25.29933,80.238643town
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaddavāggiyā"
 summary = ""
 grammar_comment = ""
@@ -2873,7 +2742,6 @@ A group of thirty young men, converted by the Buddha.
 They had gone picnicking with their wives in a forest glade between Bārāṇasi and Uruvelā. One of them had no wife, and for him they found a courtesan; but she awaited the opportunity and ran away with their goods. While seeking for her, they saw the Buddha and enquired if he had seen a woman. But he answered, should they not rather seek the “self” than a woman. They all agreed thereto, and he preached to them. At the end of the sermon they realized the Truth and were ordained. Vin.i.23*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaddiya"
 summary = ""
 grammar_comment = ""
@@ -2907,7 +2775,6 @@ It was there that the precept was laid down forbidding monks to wear sandals, Vi
 A Licchavi who visited the Buddha at the Kūṭāgārasālā and asked if it were true that the Buddha was a magician who, by a glamorous trick, enticed away the followers of others. The Buddha advised Bhaddiya not to be led away by hearsay but to judge for himself.; and he then proceeded, by means of question and answer, to convince Bhaddiya that his teachings were truly founded on fact and, if accepted and practised, would benefit not only human beings but the very trees of the forest. AN.ii.190*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaddā"
 summary = ""
 grammar_comment = ""
@@ -2939,7 +2806,6 @@ Bhaddā<sup>4</sup>Suriyavaccasā
 Daughter of the Gandhabba Timbarū and beloved of Pañcasikha.
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaddāli"
 summary = ""
 grammar_comment = ""
@@ -2957,7 +2823,6 @@ Bhaddāli
 When the Buddha, at Jetavana, laid down the rule that monks should eat one meal a day and that in the morning, Bhaddāli protested and refused to keep this rule because he said that, in so eating, he would be a prey to scruples and misgivings. For three months he avoided the Buddha, until, just before the Buddha was starting on a journey, Bhaddāli, acting on the advice of his fellow monks, confessed his fault to the Buddha and begged for forgiveness. MN.i.437*ff.* The Buddha praised this action and preached to him the Bhaddāli Sutta.
 
 ``` toml
-dict_label = "DPPN"
 word = "bhadragaka"
 summary = ""
 grammar_comment = ""
@@ -2975,7 +2840,6 @@ Bhadragaka
 A headman of Uruvelakappa and father of Ciravāsi. SN.iv.327
 
 ``` toml
-dict_label = "DPPN"
 word = "bhadrā"
 summary = ""
 grammar_comment = ""
@@ -2993,7 +2857,6 @@ Bhadrā
 A bhikkhunī whose Therīgāthā verses speak of going forth out of faith and attaining the Dhamma. Thig.9
 
 ``` toml
-dict_label = "DPPN"
 word = "bhadrāvudha"
 summary = ""
 grammar_comment = ""
@@ -3015,7 +2878,6 @@ He questioned the Buddha as to how a man could get over attachment and cross the
 This question and answer are contained in the Bhadrāvudhamāṇavaa\-puccha. Snp.1101–1104
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaggava"
 summary = ""
 grammar_comment = ""
@@ -3035,7 +2897,6 @@ A potter in Rājagaha in whose dwelling the Buddha met and conversed with Pukkus
 Bhaggava seems to have been a generic name for all potters, perhaps a special form of address used towards members of the *kumbhakāra* “caste.” In the Saṃyutta Nikāya SN.i.36 SN.i.60 the Buddha addresses Ghaṭīkāra Brahmā as “Bhaggava”; he had been a potter of Vehaliṅga in his previous birth and the name “Ghaṭīkāra” itself means “jar maker.”
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaggavagotta"
 summary = ""
 grammar_comment = ""
@@ -3055,7 +2916,6 @@ A clothed Wanderer who lived in a pleasance near Anupiya.
 He was a friend of Sunakkhatta. The Buddha once visited him, and their conversation is recorded in the Pātika Sutta. DN.iii.1*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaggā"
 summary = ""
 grammar_comment = ""
@@ -3081,7 +2941,6 @@ It was while sojourning in the Bhagga country that Moggallāna was attacked by M
 between Vesāli and Sāvatthī.2region
 
 ``` toml
-dict_label = "DPPN"
 word = "bhagu"
 summary = ""
 grammar_comment = ""
@@ -3105,7 +2964,6 @@ He was born in a Sākiyan family, and having left the world with his clansmen An
 A monk named Bhagu is mentioned Vin.i.300 as staying with Jātipupphiya at the Kukkuṭārāma in Pāṭaliputta, but he is probably a different person.
 
 ``` toml
-dict_label = "DPPN"
 word = "bhallika"
 summary = ""
 grammar_comment = ""
@@ -3125,7 +2983,6 @@ Together with Tapussa they were the first lay disciples of the Buddha. They offe
 The Theragāthā Thag.7 contains a verse spoken by Bhallika when Māra tried to frighten him by assuming a hideous form.
 
 ``` toml
-dict_label = "DPPN"
 word = "bharata"
 summary = ""
 grammar_comment = ""
@@ -3147,7 +3004,6 @@ Bharata<sup>2</sup>
 King of the Sovīras in the time of Reṇu. His capital was in Roruva. DN.ii.235*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bharaṇḍukālāma"
 summary = ""
 grammar_comment = ""
@@ -3169,7 +3025,6 @@ When Mahānāma arrived the next morning, the Buddha talked to him about the thr
 Here Bharaṇḍu chimed in and asked Mahānāma to say they would be the same. But the Buddha contradicted him, whereupon Bharaṇḍu said they would be different; but the Buddha again contradicted him, and even, also, a third time. Grieved at being slighted by the Buddha in the presence of Mahānāma, an important Sākiyan, Bharaṇḍu left Kapilavatthu, never to return. AN.i.276*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bharukaccha"
 summary = ""
 grammar_comment = ""
@@ -3189,7 +3044,6 @@ A seaport in the country of Bharu. It is identical with Barygaza of Ptolemy and 
 21.724548,73.0024341town
 
 ``` toml
-dict_label = "DPPN"
 word = "bhayasīva"
 summary = ""
 grammar_comment = ""
@@ -3207,7 +3061,6 @@ Bhayasīva
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "bhañña"
 summary = ""
 grammar_comment = ""
@@ -3225,7 +3078,6 @@ Bhañña
 The word occurs in the compound Ukkalā\-Vassa\-Bhaññā, SN.iii.73 MN.iii.78 AN.ii.31 a group described as *ahetuvādā*, *akiriyavādā*, *natthikavāda*, but who, nevertheless, agreed that the *khandhas* might be divided into past, present and future and who accepted the teaching of the Great Forty. They also accepted non covetousness, non malice, right mindfulness and right concentration as worthy.
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaṇḍagāma"
 summary = ""
 grammar_comment = ""
@@ -3247,7 +3099,6 @@ The Buddha visited it during his last tour, and while there he talked to the mon
 26.114136,85.0046542town
 
 ``` toml
-dict_label = "DPPN"
 word = "bhaṇḍu"
 summary = ""
 grammar_comment = ""
@@ -3265,7 +3116,6 @@ BhaṇḍuBhaṇḍa
 A colleague of Ānanda whom Kassapa reported to the Buddha at Veḷuvana for disputing with Abhiñjaka, colleague of Anuruddha. The Buddha sent for the disputants and rebuked them for their contentiousness. They confessed their fault and were pardoned. SN.ii.204*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhesakalāvana"
 summary = ""
 grammar_comment = ""
@@ -3289,7 +3139,6 @@ The palace Kokanada, built for Prince Bodhi, was in the neighbourhood of the gro
 It was while staying in this grove that Mahā Moggallāna was molested by Māra and he preached the Māratajjanīya Sutta. MN.i.332
 
 ``` toml
-dict_label = "DPPN"
 word = "bhesikā"
 summary = ""
 grammar_comment = ""
@@ -3307,7 +3156,6 @@ Bhesikā
 The barber of Lohicca. DN.i.224
 
 ``` toml
-dict_label = "DPPN"
 word = "bhiyyasa"
 summary = ""
 grammar_comment = ""
@@ -3325,7 +3173,6 @@ BhiyyasaBhīya
 One of the two chief disciples of Koṇāgamana Buddha. DN.ii.5
 
 ``` toml
-dict_label = "DPPN"
 word = "bhoganagara"
 summary = ""
 grammar_comment = ""
@@ -3349,7 +3196,6 @@ Bhoga was one of the places passed by Bāvari’s pupils on their way to Rājaga
 26.573175,84.2987822town
 
 ``` toml
-dict_label = "DPPN"
 word = "bhojaputta"
 summary = ""
 grammar_comment = ""
@@ -3369,7 +3215,6 @@ Evidently the name for a resident of the Bhoja country, modern Vidarbha.
 In the Saṃyutta Nikāya SN.i.6*f.* the *devaputta* Rohitassa says that he was a Bhojaputta in his previous birth.
 
 ``` toml
-dict_label = "DPPN"
 word = "bhummaja"
 summary = ""
 grammar_comment = ""
@@ -3387,7 +3232,6 @@ Bhummaja
 One of the Chabbaggiyā. His followers were called Bhummajakā.
 
 ``` toml
-dict_label = "DPPN"
 word = "bhummā"
 summary = ""
 grammar_comment = ""
@@ -3405,7 +3249,6 @@ Bhummā
 A class of devas, earth bound deities. They belong to the lowest category of devas. AN.iv.119
 
 ``` toml
-dict_label = "DPPN"
 word = "bhusāgāra"
 summary = ""
 grammar_comment = ""
@@ -3427,7 +3270,6 @@ Once while he was meditating there, a thunderstorm broke out and two peasants an
 Atumā3building
 
 ``` toml
-dict_label = "DPPN"
 word = "bhuñjatī"
 summary = ""
 grammar_comment = ""
@@ -3445,7 +3287,6 @@ Bhuñjatī
 Wife of Vessavaṇa and a devout follower of the Buddha. Once, when Sakka went to see the Buddha at the Salaḷāgāra, he found the Buddha engaged in meditation, Bhuñjatī waiting on him and worshipping him with clasped hands. Sakka asked her to salute the Buddha in his name when he should awake from his meditation. DN.ii.270*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -3501,7 +3342,6 @@ A brahmin of Rājagaha who—incensed that his eldest brother, a member of the B
 Later he is himself converted and becomes an arahant. SN.i.161*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhāvitatta"
 summary = ""
 grammar_comment = ""
@@ -3519,7 +3359,6 @@ Bhāvitatta
 The name of two Pacceka Buddhas. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "bhūmija"
 summary = ""
 grammar_comment = ""
@@ -3537,7 +3376,6 @@ Bhūmija
 Uncle of Prince Jayasena. He was a friend of Sambhūta, and, when the latter left the household, he was accompanied by his friends Bhūmija, Jeyyasena and Abhirādhana, all of whom joined the Order. MN.iii.138*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bhūta "
 summary = ""
 grammar_comment = ""
@@ -3555,7 +3393,6 @@ Bhūta
 A monk whose Theragāthā verses speak of the greatest contentment while living among the harsh conditions of the forest. Thag.518–526
 
 ``` toml
-dict_label = "DPPN"
 word = "bilaṅgika"
 summary = ""
 grammar_comment = ""
@@ -3573,7 +3410,6 @@ BilaṅgikaBhāradvāja
 One of the Bhāradvāja brothers. On hearing that the eldest of the clan had entered the Order, he went to the Buddha, and, unable to speak for rage, sat on one side, sulking. The Buddha preached to him, and he was pleased and entered the Order, becoming an arahant in due course. SN.i.164
 
 ``` toml
-dict_label = "DPPN"
 word = "bimbisāra"
 summary = ""
 grammar_comment = ""
@@ -3599,7 +3435,6 @@ Bimbisāra’s chief queen was Kosaladevī, daughter of Mahākosala and sister o
 Bimbisāra’s death was a sad one: he was mirdered by his own son. Vin.ii.190*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bimbī"
 summary = ""
 grammar_comment = ""
@@ -3617,7 +3452,6 @@ Bimbī
 An eminent laywoman, follower of the Buddha. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "bodhi"
 summary = ""
 grammar_comment = ""
@@ -3637,7 +3471,6 @@ He lived at Suṃsumāragiri in the Bhagga country and built a palace called Kok
 Bodhi was the son of Udena, king of Kosambi, and his mother was the daughter of Candappajjota. Bodhi was skilled in the art of managing elephants, MN.ii.94 which art he learned from his father, a master in this direction. It is said MN.ii.97 that, while Bodhi was yet in his mother’s womb, she visited the Buddha at the Ghositārāma in Kosambī and declared that whatever child was born to her it would accept the Buddha, his teaching and the Order, as its abiding refuge. Later, after Bodhi’s birth, his nurse took him to the Buddha at Bhesakalāvana and made a similar declaration. When, therefore, Bodhi acknowledged the Buddha as his teacher, at the conclusion of the Bodhirājakumāra Sutta, he was seeking the Buddha’s refuge for the third time.
 
 ``` toml
-dict_label = "DPPN"
 word = "bodhisatta"
 summary = ""
 grammar_comment = ""
@@ -3655,7 +3488,6 @@ Bodhisatta
 The name given to a being who aspires to Bodhi or Awakening. Originally only in connection with the last life of a Buddha, especially after having left home, in such contexts as “in the days before my Awakening, when I was only a Bodhisatta”. MN.i.17 MN.i.114 MN.i.163 DN.ii.13 MN.iii.119
 
 ``` toml
-dict_label = "DPPN"
 word = "bojjhā"
 summary = ""
 grammar_comment = ""
@@ -3673,7 +3505,6 @@ BojjhāBocchā
 An eminent laywoman. The Aṅguttara Nikāya AN.iv.259 AN.iv.347 records a visit paid by her to the Buddha at Jetavana. The Buddha then preached to her on the *uposatha* and the advantages of keeping the fast.
 
 ``` toml
-dict_label = "DPPN"
 word = "brahmadatta"
 summary = ""
 grammar_comment = ""
@@ -3703,7 +3534,6 @@ Brahmadatta<sup>4</sup>
 Pupil of the wanderer Suppiya. A conversation between these two led to the preaching of the Brahmajāla Sutta. DN.i.1
 
 ``` toml
-dict_label = "DPPN"
 word = "brahmadeva"
 summary = ""
 grammar_comment = ""
@@ -3721,7 +3551,6 @@ Brahmadeva
 The son of a brahmin woman. Having joined the Order, he dwelt in solitude and became an arahant. One day he went to Sāvatthī for alms, and, in due course, arrived at his mother’s house. She was in the habit of making an oblation to Brahmā, but, on that day, Sahampati appeared before her and told her to bestow her gifts on her son. SN.i.140*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "brahmaloka"
 summary = ""
 grammar_comment = ""
@@ -3741,7 +3570,6 @@ The highest of the celestial worlds, the abode of the Brahmas.
 5heaven
 
 ``` toml
-dict_label = "DPPN"
 word = "brahmāli"
 summary = ""
 grammar_comment = ""
@@ -3759,7 +3587,6 @@ Brahmāli
 A monk whose Theragāthā verses speak of how even the gods envy one such as he, with senses tamed. Thag.205–206
 
 ``` toml
-dict_label = "DPPN"
 word = "brahmāyu"
 summary = ""
 grammar_comment = ""
@@ -3781,7 +3608,6 @@ On hearing of the Buddha at the age of one hundred and twenty, he sent his pupil
 He satisfied any remaining doubts he had as to the marks on the Buddha’s body and then proceeded to ask him questions on various topics. At the end of the discussion he fell at the Buddha’s feet, stroking them and proclaiming his name. The Buddha asked him to compose himself, and preached to him on “progressive” discourse. Brahmāyu invited the Buddha and his monks to his house, where he entertained them for a week. His death occurred not long after, and the Buddha, when told of it, said that Brahmāyu had become an Anāgāmī. MN.ii.133*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "buddha"
 summary = ""
 grammar_comment = ""
@@ -3801,7 +3627,6 @@ The Awakened one, the founder and teacher of the Buddha\-dhamma. His personal na
 A Buddha is not a deity, but a person who has reached the pinnacle of wisdom and freedom. From time to time Buddha’s appear in the world, but Sddhattha is the only historical Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "bulī "
 summary = ""
 grammar_comment = ""
@@ -3819,7 +3644,6 @@ Bulī
 The name of a gotta. They claimed one eighth share of the Buddha’s relics and raised a thūpa over them in their city of Allakappa. DN.ii.167
 
 ``` toml
-dict_label = "DPPN"
 word = "bāhiya"
 summary = ""
 grammar_comment = ""
@@ -3849,7 +3673,6 @@ Bāhiya<sup>3</sup>
 A monk, fellow dweller of Anuruddha at the Ghositārāma. He seems to have taken a prominent part in the disputes of the Kosambī monks, helping them, but Anuruddha let him take his own way, not protesting at all. AN.ii.239
 
 ``` toml
-dict_label = "DPPN"
 word = "bāhumati"
 summary = ""
 grammar_comment = ""
@@ -3869,7 +3692,6 @@ A holy river where men bathe in order to expiate their sins. MN.i.39
 4river
 
 ``` toml
-dict_label = "DPPN"
 word = "bāhuna"
 summary = ""
 grammar_comment = ""
@@ -3887,7 +3709,6 @@ Bāhuna
 A monk who is said to have asked the Buddha, while on the banks of the Gaggarā Lake in Campā, about the conditions from which the Tathāgata is released and emancipated. The Buddha enumerated ten such. AN.v.151*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "bāhuraggi"
 summary = ""
 grammar_comment = ""
@@ -3905,7 +3726,6 @@ BāhuraggiBahunandi
 One of seven beings born in the Avihā world, there to pass away entirely. SN.i.35 SN.i.60
 
 ``` toml
-dict_label = "DPPN"
 word = "bālakaloṇakāra"
 summary = ""
 grammar_comment = ""
@@ -3929,7 +3749,6 @@ The readings of the texts are uncertain, and it is impossible to say whether a v
 25.35217,81.477362town
 
 ``` toml
-dict_label = "DPPN"
 word = "bārānasī"
 summary = ""
 grammar_comment = ""
@@ -3959,7 +3778,6 @@ Later, when Ajātasattu succeeded in establishing his sway over Kos.
 25.2993376,83.00445561town
 
 ``` toml
-dict_label = "DPPN"
 word = "bāvarī"
 summary = ""
 grammar_comment = ""
@@ -3983,7 +3801,6 @@ When Bāvari told him of his poverty, the brahmin cursed him saying that his hea
  At that time he was one hundred and twenty years old. Bāvarī was the name of his gotta. He bore on his body three of the marks of a Great Being. Snp.1019
 
 ``` toml
-dict_label = "DPPN"
 word = "bījaka"
 summary = ""
 grammar_comment = ""
@@ -4001,7 +3818,6 @@ Bījaka
 The son of Sudinna Kalandakaputta by the wife of his lay days. He was conceived after Sudinna had already been ordained. His wife came to him during her period and begged him to give her an offspring. As the rule against unchastity had not then been promulgated, Sudinna yielded to her importunities, thus prompting the Buddha to lay down the first *Pārājika*. The son was called Bījaka, and so Sudinna came to be called Bījakapitā and the mother Bījakamātā. Both Bījaka and his mother later left the world and became arahants. Vin.iii.17–19
 
 ``` toml
-dict_label = "DPPN"
 word = "cakkaratana"
 summary = ""
 grammar_comment = ""
@@ -4021,7 +3837,6 @@ The Wheel Treasure that is one of the seven treasures of a Wheel Turning Monarch
 When a Cakkavatti dies or leaves the world, the Cakkaratana disappears from the sight of men for seven days; it gives warning of a Cakkavatti’s impending death by slipping from its place some time before the event. DN.iii.59*f.* When his successor has lived righteously for seven days, it reappears. DN.iii.64
 
 ``` toml
-dict_label = "DPPN"
 word = "cakkavatti"
 summary = ""
 grammar_comment = ""
@@ -4047,7 +3862,6 @@ Judging from the story of Mahāsudassana, who is the typical Cakkavatti, the Wor
 A Cakkavatti is as worthy of a thūpa as a Buddha. DN.ii.143
 
 ``` toml
-dict_label = "DPPN"
 word = "cakkavāla"
 summary = ""
 grammar_comment = ""
@@ -4067,7 +3881,6 @@ The name given to a whole world\-system, there being countless such systems.
 1solar system
 
 ``` toml
-dict_label = "DPPN"
 word = "cakkhupāla"
 summary = ""
 grammar_comment = ""
@@ -4085,7 +3898,6 @@ Cakkhupāla
 A monk whose Theragāthā verse says that though he is walking blind on a wilderness road he will not go on with an evil companion. Thag.95
 
 ``` toml
-dict_label = "DPPN"
 word = "campā"
 summary = ""
 grammar_comment = ""
@@ -4109,7 +3921,6 @@ The Soṇadaṇḍa, the Dasuttara, the Kandaraka and the Kāraṇḍava Suttas 
 25.25, 871town
 
 ``` toml
-dict_label = "DPPN"
 word = "candana"
 summary = ""
 grammar_comment = ""
@@ -4131,7 +3942,6 @@ Candana<sup>2</sup>
 A monk whose Theragāthā verses speak of how he was visited by his wife and child who hoped to win him back, but, seeing them from afar, he made a special effort and became an arahant. Thag.299–302
 
 ``` toml
-dict_label = "DPPN"
 word = "candanaṅgalika"
 summary = ""
 grammar_comment = ""
@@ -4151,7 +3961,6 @@ A lay\-disciple of the Buddha in Sāvatthī. He was present when five rājās, i
 The story is very similar to that of the brahmin Piṅgiyāni and the verse spoken is the same. AN.iii.239
 
 ``` toml
-dict_label = "DPPN"
 word = "candikāputta"
 summary = ""
 grammar_comment = ""
@@ -4169,7 +3978,6 @@ Candikāputta
 A discourse on the teaching of Devadatta, delivered by Candikāputta to the monks, is recorded in the Silāyūpa Sutta. AN.iv.402*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "candimā"
 summary = ""
 grammar_comment = ""
@@ -4189,7 +3997,6 @@ The name of the *devaputta* whose abode is the moon (*Canda*), sometimes also ca
 It is said that once, when Candimā was seized by Rāhu Asurinda, he invoked the Buddha in a verse and the Buddha asked Rāhu to set him at liberty, which request was granted. SN.i.50 The deva Candimasa who is mentioned SN.i.51 as visiting the Buddha is probably identical with Candimā.
 
 ``` toml
-dict_label = "DPPN"
 word = "cañcalikappa"
 summary = ""
 grammar_comment = ""
@@ -4209,7 +4016,6 @@ A locality in Kosala; it was the residence of Dhānañjāni and of Saṅgārava.
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "caṅkī"
 summary = ""
 grammar_comment = ""
@@ -4231,7 +4037,6 @@ He is mentioned together with such eminent and wealthy brahmins as Tārukkha, Po
 Caṅkī lived in the brahmin village of Opasāda, on a royal fief granted him by Pasenadi. When the Buddha came to Opasāda, Caṅkī visited him, in spite of the protests of his friends and colleagues, and on this occasion was preached the Caṅkī Sutta. MN.ii.164*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "caṇḍa"
 summary = ""
 grammar_comment = ""
@@ -4249,7 +4054,6 @@ Caṇḍa
 A headman of Sāvatthī. He came to see the Buddha at Jetavana and asked him why some people earned the reputation of being wrathful and others of being kindly. The Buddha explained that the one man gives way to passion, resentment and illusion; therefore, others harass him; he shows vexation and comes to be called wrathful. The other shows opposite qualities and is called kindly. SN.iv.305
 
 ``` toml
-dict_label = "DPPN"
 word = "caṇḍakālī"
 summary = ""
 grammar_comment = ""
@@ -4271,7 +4075,6 @@ She is several times mentioned as starting quarrels with other nuns, and when th
 She was charged with frequenting gatherings of laymen, Vin.iv.293 Vin.iv.309 and it is said Vin.iv.333 that she joined Thullanandā in various vicious practices. She once applied for permission to ordain nuns but was refused, and on discovering that other nuns had obtained this permission she became violently abusive. Vin.iv.331
 
 ``` toml
-dict_label = "DPPN"
 word = "caṇḍappajjota"
 summary = ""
 grammar_comment = ""
@@ -4293,7 +4096,6 @@ Once, when ill with jaundice, he asked Bimbisāra to lend him the services of J�
 Pajjota was the friend of Bimbisāra, and when the latter was put to death by Ajātasattu, Pajjota seems to have made preparations to wage war on Ajātasattu. The defences of Rājagaha were strengthened to meet the threatened attack, but nothing further happened. MN.iii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "caṇḍā"
 summary = ""
 grammar_comment = ""
@@ -4311,7 +4113,6 @@ Caṇḍā
 A bhikkhunī whose Therīgāthā verses speak of how, with no family or friends, she wandering begging food to survive. One day she met Paṭācārā who had just finished eating. Paṭācārā, seeing her pitiable condition, gave her some food and, when she had eaten, discoursed to her. Delighted by Paṭācārā’s sermon, Caṇḍā renounced the world and soon afterwards attained arahantship. Thig.122–126
 
 ``` toml
-dict_label = "DPPN"
 word = "cetiya"
 summary = ""
 grammar_comment = ""
@@ -4333,7 +4134,6 @@ The Aṅguttara Nikāya AN.iii.355*f.* AN.v.41*f.* AN.v.157*ff.* are discources 
 24.856534,78.3618161janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "chabbaggiyā"
 summary = ""
 grammar_comment = ""
@@ -4355,7 +4155,6 @@ The six leaders were Assaji, Punabbasu, Panduka, Lohitaka, Mettiya and Bhummaja 
 There were also nuns in their following, who likewise violated the Vinaya rules in various ways. Vin.ii.262 Vin.ii.266 Vin.ii.269 Vin.ii.271 Vin.ii.276
 
 ``` toml
-dict_label = "DPPN"
 word = "chabbyāputtā"
 summary = ""
 grammar_comment = ""
@@ -4373,7 +4172,6 @@ Chabbyāputtā
 A royal clan of Nāgas. Vin.ii.110 AN.ii.72
 
 ``` toml
-dict_label = "DPPN"
 word = "chaddantā"
 summary = ""
 grammar_comment = ""
@@ -4393,7 +4191,6 @@ One of the seven great lakes of the Himālaya region. AN.iv.101
 Himalaya3lake
 
 ``` toml
-dict_label = "DPPN"
 word = "channa"
 summary = ""
 grammar_comment = ""
@@ -4423,7 +4220,6 @@ Once, when in the Ghositārāma in Kosambī, Channa committed a fault but was no
 Later the Buddha decreed on him the carrying out of the Brahmadaṇḍa whereby all monks were forbidden to have anything whatsoever to do with him. This was the last disciplinary act of the Buddha, and the carrying out thereof was entrusted to Ānanda. DN.ii.154 When Ānanda visited Channa at the Ghositārāma and pronounced on him the penalty, even his proud and independent spirit was tamed; he became humble, his eyes were opened, and dwelling apart, earnest and zealous, he became one of the arahants, upon which the penalty automatically lapsed. Vin.ii.292
 
 ``` toml
-dict_label = "DPPN"
 word = "ciravāsī"
 summary = ""
 grammar_comment = ""
@@ -4441,7 +4237,6 @@ Ciravāsī
 The son of Bhadragaka. Bhadragaka visited the Buddha and told him that he was always anxiously waiting for news of Ciravāsī, who was away at school. SN.iv.329
 
 ``` toml
-dict_label = "DPPN"
 word = "citrā"
 summary = ""
 grammar_comment = ""
@@ -4459,7 +4254,6 @@ Citrā
 The name of certain Supaṇṇas. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "citta"
 summary = ""
 grammar_comment = ""
@@ -4491,7 +4285,6 @@ A monk, son of an elephant trainer, who, having entered the Order, studied under
 He was a friend of Poṭṭhapāda, and when he had returned for the sixth time to a householder’s life, Poṭṭhapāda brought him to the Buddha. Citta listened to their conversation and asked questions regarding personality. At the end of the discourse Citta once more joined the Order, never again to leave it, for he soon after became an arahant. DN.i.199*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "cittaka"
 summary = ""
 grammar_comment = ""
@@ -4509,7 +4302,6 @@ Cittaka
 A monk whose Theragāthā verse speaks of how the cries of the beautiful peacocks wake the meditator to practice. Thag.22
 
 ``` toml
-dict_label = "DPPN"
 word = "cittapāṭali"
 summary = ""
 grammar_comment = ""
@@ -4527,7 +4319,6 @@ Cittapāṭali
 A tree in the Asurabhavana SN.v.238 which lives for a whole aeon.
 
 ``` toml
-dict_label = "DPPN"
 word = "cittasena"
 summary = ""
 grammar_comment = ""
@@ -4545,7 +4336,6 @@ Cittasena
 A Gandhabba present at the preaching of the Mahāsamaya Sutta. DN.ii.258 He is elsewhere DN.iii.204 mentioned as a Yakkha chieftain who should be invoked by the Buddha’s followers when troubled by evil spirits.
 
 ``` toml
-dict_label = "DPPN"
 word = "cittā"
 summary = ""
 grammar_comment = ""
@@ -4563,7 +4353,6 @@ Cittā
 A nun whose Therīgāthāspeak of how in her old age she went to Gijjhakūṭa and there, after meditation, she attained arahantship. Thig.27–28
 
 ``` toml
-dict_label = "DPPN"
 word = "codanāvatthu"
 summary = ""
 grammar_comment = ""
@@ -4583,7 +4372,6 @@ A valley (?) near Rājagaha, visited by the Buddha in the course of his wanderin
 near Rājagaha3feature
 
 ``` toml
-dict_label = "DPPN"
 word = "cullakokanadā"
 summary = ""
 grammar_comment = ""
@@ -4601,7 +4389,6 @@ CullakokanadāCūḷakokanadāCūlakokanadā
 The younger of the two daughters of Pajunna, both of whom were called Kokanadā. She visited the Buddha at the Kutāgārasālā in Vesāli and questioned him. SN.i.30
 
 ``` toml
-dict_label = "DPPN"
 word = "cunda"
 summary = ""
 grammar_comment = ""
@@ -4633,7 +4420,6 @@ The Pitakas contain several discourses AN.iii.355 AN.v.41 AN.v.157 given to the 
 Cunda is mentioned SN.iv.50*f.* MN.iii.263*f.* as having accompanied Sāriputta when he went to see Channa at the Kalandakanivāpa in Rājagaha, just before Channa’s suicide. Once, when the Buddha lay ill in the Kalandakanivāpa, Cunda visited him and they talked of the bojjhangas. There and then the Buddha’s sickness vanished. SN.v.81
 
 ``` toml
-dict_label = "DPPN"
 word = "cāla"
 summary = ""
 grammar_comment = ""
@@ -4653,7 +4439,6 @@ He was ordained by Khadiravaniya. Thag.42
 He is mentioned as living at the Kūṭāgārasālā, which place he left when the Licchavis caused disturbance by their visits to the Buddha. AN.v.133 In this context he is spoken of as a very eminent Elder and was, therefore, evidently an arahant.
 
 ``` toml
-dict_label = "DPPN"
 word = "cālikā"
 summary = ""
 grammar_comment = ""
@@ -4673,7 +4458,6 @@ A village near the Cālikapabbata visited by the Buddha. His attendant on one of
 25.690508,81.880762town
 
 ``` toml
-dict_label = "DPPN"
 word = "cālā "
 summary = ""
 grammar_comment = ""
@@ -4691,7 +4475,6 @@ Cālā
 It is said Thig.182–188 SN.i.132 that one day, when Cālā was meditating in the Andhavana, Māra visited her, asking her various questions and trying to tempt her.
 
 ``` toml
-dict_label = "DPPN"
 word = "cāpā"
 summary = ""
 grammar_comment = ""
@@ -4709,7 +4492,6 @@ CāpāCāvā
 Her Therīgāthā verses speak of who her husband had formerly been an ascetic who had renounced his vows to have a child with her, but now regretted his decision and wanted to return to the holy life under the Buddha. She gave him her blessing to do so. Thig.292–312
 
 ``` toml
-dict_label = "DPPN"
 word = "cāpāla cetiya"
 summary = ""
 grammar_comment = ""
@@ -4729,7 +4511,6 @@ A shrine near Vesāli. Here the Buddha, three months before his *parinibbāna*, 
 25.976565,85.1536563shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "cātuma"
 summary = ""
 grammar_comment = ""
@@ -4749,7 +4530,6 @@ A Sākiyan village containing a mote\-hall; near it was the Amalakīvana where t
 27.576667, 83.0547222town
 
 ``` toml
-dict_label = "DPPN"
 word = "cātumeyyakā"
 summary = ""
 grammar_comment = ""
@@ -4767,7 +4547,6 @@ Cātumeyyakā
 The inhabitants of Cātuma. MN.i.457
 
 ``` toml
-dict_label = "DPPN"
 word = "cātummahārājikā"
 summary = ""
 grammar_comment = ""
@@ -4791,7 +4570,6 @@ These four Gods surpass the other inhabitants of their worlds in ten ways—beau
 Beings are born there as a result of various acts of piety and faith which, however, are based on motives not very exalted. AN.iv.60
 
 ``` toml
-dict_label = "DPPN"
 word = "cātumāsini"
 summary = ""
 grammar_comment = ""
@@ -4809,7 +4587,6 @@ Cātumāsini
 Occurs in the phrase Komudi Cātumāsini, probably referring to the Cātumāsya festival which is performed in the month of Kattika, Komudi being the full\-moon day of Kattika. Vin.i.55 DN.i.47
 
 ``` toml
-dict_label = "DPPN"
 word = "cūladeva"
 summary = ""
 grammar_comment = ""
@@ -4827,7 +4604,6 @@ CūladevaCūḷadeva
 A Thera, an eminent teacher of the Vinaya. Vin.v.3
 
 ``` toml
-dict_label = "DPPN"
 word = "cūḷagavaccha"
 summary = ""
 grammar_comment = ""
@@ -4845,7 +4621,6 @@ CūḷagavacchaCūlagavaccha
 A monk whose Theragāthā verse speaks of how a joyful monk would realize the state of peace. Thag.11
 
 ``` toml
-dict_label = "DPPN"
 word = "cūḷajālī"
 summary = ""
 grammar_comment = ""
@@ -4863,7 +4638,6 @@ Cūḷajālī
 A Pacceka Buddha mentioned in a list of these. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "cūḷaka"
 summary = ""
 grammar_comment = ""
@@ -4881,7 +4655,6 @@ CūḷakaCūlaka
 A monk whose Theragāthā verses speak of his delight in the beautiful peacocks and good earth, and how happily he meditates. Thag.211–212
 
 ``` toml
-dict_label = "DPPN"
 word = "cūḷapanthaka"
 summary = ""
 grammar_comment = ""
@@ -4905,7 +4678,6 @@ It is said Vin.iv.54*f.* that when it was his turn to teach the nuns at Sāvatth
 The Udāna Ud.v.10 contains a verse sung by the Buddha in praise of Cūḷapanthaka.
 
 ``` toml
-dict_label = "DPPN"
 word = "dabbamallaputta"
 summary = ""
 grammar_comment = ""
@@ -4929,7 +4701,6 @@ Dabba was given the rank of chief of those who appointed lodgings. AN.i.24
 Dabba evidently died young. The Udāna Ud.viii.9 contains an account of his death. One day, returning from his alms rounds in Rājagaha, he saw that he had but a short while yet to live. He went, therefore, to the Buddha and, with his leave, showed various *iddhi*\-powers and passed away.
 
 ``` toml
-dict_label = "DPPN"
 word = "dabbila"
 summary = ""
 grammar_comment = ""
@@ -4947,7 +4718,6 @@ Dabbila
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "dadhimukha"
 summary = ""
 grammar_comment = ""
@@ -4965,7 +4735,6 @@ Dadhimukha
 A Yakkha chieftain who should be invoked by disciples of the Buddha in times of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "dakkhiṇāgiri"
 summary = ""
 grammar_comment = ""
@@ -4987,7 +4756,6 @@ Dakkhiṇāgiri was the residence of Nandamātā of Velukantaka and she was visi
 22.59879, 79.645381region
 
 ``` toml
-dict_label = "DPPN"
 word = "dakkhiṇāpatha"
 summary = ""
 grammar_comment = ""
@@ -5015,7 +4783,6 @@ The Dakkhinapatha is famous in literature as the birthplace of strong bullocks D
 19.482129,75.3808591region
 
 ``` toml
-dict_label = "DPPN"
 word = "dalhika"
 summary = ""
 grammar_comment = ""
@@ -5033,7 +4800,6 @@ DalhikaDaḷhika
 A monk of Sāgala. A pupil of his once stole a turban from a shopkeeper and confessed his fault to Dalhika, thinking that he would, on that account, become a *pārājika*. But the value of the turban was less than five māsakas and the pupil was saved from a *pārājika* offence. Vin.iii.67
 
 ``` toml
-dict_label = "DPPN"
 word = "dandakī"
 summary = ""
 grammar_comment = ""
@@ -5051,7 +4817,6 @@ Dandakī
 King of Kumbhavatī in Kaliṅga. MN.i.378
 
 ``` toml
-dict_label = "DPPN"
 word = "dantikā"
 summary = ""
 grammar_comment = ""
@@ -5069,7 +4834,6 @@ Dantikā
 One day, during her meditation on Gijjhakūṭa, she saw how a well tamed elephant obeyed its master’s commands, and developing insight on this theme, she became an arahant. Thig.48–50
 
 ``` toml
-dict_label = "DPPN"
 word = "dasama"
 summary = ""
 grammar_comment = ""
@@ -5087,7 +4851,6 @@ Dasama
 A householder of Aṭṭhakanāgara. One day, having finished some business which took him to Pāṭaliputta, he visited the Kukkuṭārāma to call upon Ānanda. Learning that Ānanda was at Beluvagāma near Vesāli, he visited him there and held a discussion with him, which is recorded in the Aṭṭhakanāgara Sutta. Later, assembling the monks from Pāṭaliputta and Vesāli, he entertained them and presented each with two lengths of cloth, while to Ānanda he gave a suit of three robes and built for him a cell costing five hundred pieces. MN.i.349*ff.* AN.v.342*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dasārahā"
 summary = ""
 grammar_comment = ""
@@ -5105,7 +4868,6 @@ Dasārahā
 A group of Khattiyas, owners of the Ānaka\-drum. SN.ii.266*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "daḷhanemi"
 summary = ""
 grammar_comment = ""
@@ -5123,7 +4885,6 @@ Daḷhanemi
 A Cakkavatti of long ago. When his *cakka* showed signs of disappearing, he handed the kingdom over to his eldest son and became a hermit. Later he taught his son how he, in turn, could become a Cakkavatti. DN.iii.59*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "daṇḍakappaka"
 summary = ""
 grammar_comment = ""
@@ -5143,7 +4904,6 @@ A township of the Kosalans near the Aciravatī; it was visited by the Buddha dur
 near the Aciravatī3town
 
 ``` toml
-dict_label = "DPPN"
 word = "daṇḍakīrañña"
 summary = ""
 grammar_comment = ""
@@ -5163,7 +4923,6 @@ The forest which overgrew Kaliṅga when it was laid waste through the wickednes
 Kaliṅga3forest
 
 ``` toml
-dict_label = "DPPN"
 word = "daṇḍapāṇi"
 summary = ""
 grammar_comment = ""
@@ -5181,7 +4940,6 @@ Daṇḍapāṇi
 A Sākiyan of Kapilavatthu. It is recorded MN.i.108 that Daṇḍapāṇi once met the Buddha in Kapilavatthu and questioned him on his teachings. The Buddha explained them to him, but he was not satisfied, and went away “shaking his head, wagging his tongue, with his brow puckered into three wrinkles.”
 
 ``` toml
-dict_label = "DPPN"
 word = "devadaha"
 summary = ""
 grammar_comment = ""
@@ -5201,7 +4959,6 @@ A township (nigama) of the Sākiyans. The Buddha stayed there during his tours a
 27.523572,83.5113725town
 
 ``` toml
-dict_label = "DPPN"
 word = "devadatta"
 summary = ""
 grammar_comment = ""
@@ -5247,7 +5004,6 @@ As his end drew near, he wished to see the Buddha, though the latter had declare
 Only once is mention made AN.iv.402*f.* of the text of a sermon by Devadatta. Candikāputta reports this to Sāriputta, who makes it an occasion for a talk to the monks.
 
 ``` toml
-dict_label = "DPPN"
 word = "devadhammika"
 summary = ""
 grammar_comment = ""
@@ -5265,7 +5021,6 @@ Devadhammika
 A class of ascetics mentioned in a nominal list. They are doomed to purgatory. AN.iii.277
 
 ``` toml
-dict_label = "DPPN"
 word = "devahita"
 summary = ""
 grammar_comment = ""
@@ -5283,7 +5038,6 @@ Devahita
 A brahmin of Sāvatthī. Once when the Buddha was ill with cramp and desired hot water Upavāna obtained from Devahita hot water and molasses, which he sent on a pingo by a serving man. Hot fomentations and the administering of molasses cured the Buddha’s complaint. Devahita came later to the Buddha, and after some conversation he was converted. SN.i.174*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "devakatasobbha"
 summary = ""
 grammar_comment = ""
@@ -5303,7 +5057,6 @@ A pool near Kosambī. Close by was the Pilakkhaguhā and the Paribbājakārāma,
 25.321684,81.3180543lake
 
 ``` toml
-dict_label = "DPPN"
 word = "devasabha"
 summary = ""
 grammar_comment = ""
@@ -5321,7 +5074,6 @@ Devasabha
 A monk whose Theragāthā verse speaks of how one with right effort will overcome defilements. Thag.100
 
 ``` toml
-dict_label = "DPPN"
 word = "devasūta"
 summary = ""
 grammar_comment = ""
@@ -5339,7 +5091,6 @@ Devasūta
 One of the Yakkha chiefs mentioned in the Āṭānāṭiya Sutta. DN.iii.204
 
 ``` toml
-dict_label = "DPPN"
 word = "dhamma"
 summary = ""
 grammar_comment = ""
@@ -5363,7 +5114,6 @@ The lake in front of the palace mentioned above. DN.ii.184.
 5lake
 
 ``` toml
-dict_label = "DPPN"
 word = "dhammadinnā"
 summary = ""
 grammar_comment = ""
@@ -5381,7 +5131,6 @@ Dhammadinnā
 An eminent Therī, ranked foremost among nuns who possessed the gift of preaching. AN.i.25 Her Therīgāthā verse says that one without attachment is bound upstream. Thig.12 In Rājagaha her former husband Visakha asked her a series of profound questions on the Dhamma. The questions and answers are given in the Cūḷavedalla Sutta. MN.i.299*ff.* Visākha reported this interview to the Buddha, who praised her great wisdom and commended her eloquence.
 
 ``` toml
-dict_label = "DPPN"
 word = "dhammapāla "
 summary = ""
 grammar_comment = ""
@@ -5399,7 +5148,6 @@ Dhammapāla
 A monk whose Theragāthā verses praise the young monk who by virtue of his practice is awake while the world sleeps. Thag.203–204
 
 ``` toml
-dict_label = "DPPN"
 word = "dhammasava"
 summary = ""
 grammar_comment = ""
@@ -5417,7 +5165,6 @@ Dhammasava
 A monk whose Theragāthā verse speaks of going forth and attaining the three knowledges. Thag.107
 
 ``` toml
-dict_label = "DPPN"
 word = "dhammasava-pitā"
 summary = ""
 grammar_comment = ""
@@ -5435,7 +5182,6 @@ Dhammasava\-pitā
 Father of Dhammasava. He was one hundred and twenty years old when he went forth. Thag.108
 
 ``` toml
-dict_label = "DPPN"
 word = "dhammika "
 summary = ""
 grammar_comment = ""
@@ -5453,7 +5199,6 @@ Dhammika
 A monk whose Theragāthā verses speak of the good state that awaits one who practices righteousness. Thag.303–306 According to the Aṅguttara. AN.iii.366*ff.* Dhammika had to leave seven lodgings, one after the other, because the lay supporters of the lodgings could not tolerate his insulting ways. He therefore sought the Buddha and complained to him. The Buddha is said to have related to him stories of several past teachers, showing the evil effects of reviling others.
 
 ``` toml
-dict_label = "DPPN"
 word = "dhammā "
 summary = ""
 grammar_comment = ""
@@ -5471,7 +5216,6 @@ Dhammā
 A bhikkhunī whose Therīgāthā verse tells of how one day, while returning from her alms round, she slipped and fell. Meditating on this, she became an arahant. Thig.17
 
 ``` toml
-dict_label = "DPPN"
 word = "dhanavatī"
 summary = ""
 grammar_comment = ""
@@ -5489,7 +5233,6 @@ Dhanavatī
 A brahmin lady, mother of Kassapa Buddha. Her husband was Brahmadatta. DN.ii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "dhanitthaka"
 summary = ""
 grammar_comment = ""
@@ -5507,7 +5250,6 @@ Dhanitthaka
 An example of a low family name. Vin.iv.6 Vin.iv.13
 
 ``` toml
-dict_label = "DPPN"
 word = "dhaniya"
 summary = ""
 grammar_comment = ""
@@ -5529,7 +5271,6 @@ Dhaniya<sup>2</sup>
 A monk whose Theragāthā verses urge one who wants to live happily as a monk to be content. Thag.228–30 He once made a grass but on the slopes of Isigili and lived there with several others during the rains. He continued to live there after the others had left. While he was away begging for alms, his hut was pulled down by women searching for straw and firewood, but he rebuilt it. Three times this happened, until, in exasperation, Dhaniya very skilfully made bricks and tiles and built a hut both strong and splendid, with tiles of shining crimson which gave out a bell\-like sound when tapped. The Buddha, seeing this, chided Dhaniya and ordered the hut to be pulled down. Dhaniya then built a hut of wood which he obtained from a guild of timber merchants, suppliers of wood to the king, giving them to understand that he had the king’s permission. Vassakāra, hearing of this, reported the matter to Bimbisāra, who sent for Dhaniya. Dhaniya maintained that the king, by royal proclamation, had permitted the monks to use the royal supplies of wood and other materials. Bimbisāra admitted the proclamation, but said it referred only to supplies straight from the forest, and he sent Dhaniya away with a warning. The matter created a great uproar and the Buddha blamed Dhaniya. Vin.iii.41–5
 
 ``` toml
-dict_label = "DPPN"
 word = "dharaṇī"
 summary = ""
 grammar_comment = ""
@@ -5549,7 +5290,6 @@ A lake in Kuvera’s city. DN.iii.201
 5lake
 
 ``` toml
-dict_label = "DPPN"
 word = "dhataraṭṭha"
 summary = ""
 grammar_comment = ""
@@ -5575,7 +5315,6 @@ Dhataraṭṭha<sup>3</sup>
 A class of Nāgas. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "dhotaka"
 summary = ""
 grammar_comment = ""
@@ -5593,7 +5332,6 @@ Dhotaka
 One of Bāvarī’s disciples; he was among those who visited the Buddha at Bāvarī’s request. Snp.p.194 The questions he asked of the Buddha on this occasion, and the answers given, are found in the Dhotakamāṇavapucchā. Snp.p.204*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dhīrā"
 summary = ""
 grammar_comment = ""
@@ -5615,7 +5353,6 @@ Dhīrā<sup>2</sup>Vīrā
 A bhikkhunī whose Therīgāthā verse speaks of how the heroic one overcomes Māra. Thig.7
 
 ``` toml
-dict_label = "DPPN"
 word = "disampati"
 summary = ""
 grammar_comment = ""
@@ -5633,7 +5370,6 @@ Disampati
 A king of long ago. His son was Reṇu and his chief stewards were firstly Govinda and later Jotipāla. DN.ii.230*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "disā"
 summary = ""
 grammar_comment = ""
@@ -5651,7 +5387,6 @@ Disā
 A slave\-woman of Okkāka. She was the mother of Kaṇha, ancestor of the Kaṇhāyanā\-gotta. DN.i.93
 
 ``` toml
-dict_label = "DPPN"
 word = "doṇa"
 summary = ""
 grammar_comment = ""
@@ -5671,7 +5406,6 @@ A brahmin. He was at Kusinārā at the time of the Buddha’s death, and it was 
 Doṇa first met the Buddha on the road between Ukkaṭṭha and Setavyā. He saw the Buddha’s footprints and, following them, he came upon the Buddha seated at the foot of a\-tree. Doṇa asked him various questions as to his identity and the Buddha explained to him his Buddha\-hood. AN.ii.37*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dukkhamūla"
 summary = ""
 grammar_comment = ""
@@ -5689,7 +5423,6 @@ Dukkhamūla
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "dummukha"
 summary = ""
 grammar_comment = ""
@@ -5707,7 +5440,6 @@ Dummukha
 A Licchavi chieftain. He was present at the discussion of the Nigaṇṭha Saccaka with the Buddha, and seeing Saccaka discomfited in the debate, Dummukha compared him to a crab pulled out of a pond and ill\-treated by village boys. MN.i.234
 
 ``` toml
-dict_label = "DPPN"
 word = "dāmali"
 summary = ""
 grammar_comment = ""
@@ -5725,7 +5457,6 @@ Dāmali
 A *devaputta* who visits the Buddha at Jetavana and tells him that an arahant has to work hard for nothing. The Buddha points out to him that there is nothing left for an arahant to do. SN.i.47
 
 ``` toml
-dict_label = "DPPN"
 word = "dānaveghasā"
 summary = ""
 grammar_comment = ""
@@ -5743,7 +5474,6 @@ Dānaveghasā
 A class of Asuras, present at the Mahāsamaya. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "dāsaka"
 summary = ""
 grammar_comment = ""
@@ -5763,7 +5493,6 @@ A monk whose Theragāthā verse says that one who eats much and is lazy will kee
 Perhaps it is this same Dāsaka who is mentioned in the Saṃyutta Nikāya SN.iii.127*ff.* as having been sent by the monks of Kosambī to Khemaka, carrying messages to and fro till he had walked up and down over two yojanas.
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghajāṇu"
 summary = ""
 grammar_comment = ""
@@ -5781,7 +5510,6 @@ Dīghajāṇu
 A Koliyan, inhabitant of Kakkarapatta. There he visited the Buddha and asked for a teaching which would bring happiness both in this world and the next. The Buddha explained to him the four conditions of temporal welfare and the four conditions of spiritual welfare. In this discourse the Buddha addresses him as Byagghapajja. AN.iv.281*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghakārāyana"
 summary = ""
 grammar_comment = ""
@@ -5799,7 +5527,6 @@ Dīghakārāyana
 Nephew of Bandhula, commander\-in\-chief of Pasenadi. After Bandhula’s death, Dīgha was appointed in his place and accompanied the king. Once, during their travels, they came to Nangaraka and, hearing that the Buddha was at Medatalumpa, went to see him, but Dīgha stayed outside while the Buddha talked to Pasenadi. MN.ii.118*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghalaṭṭhi"
 summary = ""
 grammar_comment = ""
@@ -5817,7 +5544,6 @@ Dīghalaṭṭhi
 A *devaputta* who once visited the Buddha at the Kalandakanivāpa in Veḷuvana and spoke a verse. SN.i.52
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghanakha"
 summary = ""
 grammar_comment = ""
@@ -5835,7 +5561,6 @@ Dīghanakha
 A wanderer. He visited the Buddha at Sūkarakhatalena and the Buddha preached to him the Dīghanakha Sutta, at the end of which he became a sotāpanna. In the sutta he is addressed as Aggivessana. MN.i.497*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghatapassī"
 summary = ""
 grammar_comment = ""
@@ -5853,7 +5578,6 @@ Dīghatapassī
 A Nigaṇṭha, follower of Nāṭaputta. He once visited the Buddha at Nāḷandā, and there followed a discussion on actions and their efficiency. Dīghatapassī reported this discussion to Nāṭaputta and Upāli, who was listening, went, against the advice of Dīghatapassī, to the Buddha and challenged him to a discussion, at the end of which Upāli was converted. MN.i.371*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghāyu"
 summary = ""
 grammar_comment = ""
@@ -5871,7 +5595,6 @@ DīghāyuDīghāvu
 Son of Dīghīti, king of Kosala. After his parents had been cruelly murdered by Brahmadatta, king of Kāsi, he became the attendant of this kind; in order to avenge their death, but when the occasion arose he made peace with Brahmadatta. His father’s kingdom was restored to him, and he married Brahmadatta’s daughter. Vin.i.343*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dīghīti"
 summary = ""
 grammar_comment = ""
@@ -5889,7 +5612,6 @@ DīghītiDīghati
 A king of Kosala. His kingdom was captured by Brahmadatta, king of Kāsi, and he and his wife fled to Benares, where they lived in disguise in the house of a potter. His wife bore a son named Dīghāyu. Before his birth, his mother had a craving to see the army drawn up in battle array, its swords tempered. Dīghīti appeased her craving with the help of his friend, the chaplain of Brahmadatta. Dīghāyu was sent away from the city lest harm should befall him, Later, Dīghīti’s place of refuge was discovered and he and his wife were being led to the place of execution when Dīghāyu, who was on a visit to the city, saw them. Dīghīti, recognising his son, called to him his dying advice “look not too far nor too near”. Dīghāyu heard and understood; he entered the service of Brahmadatta, first as an elephant\-trainer, then as a musician, and finally as his personal servant. He wished to avenge the death of his parents, but when the occasion arose, he remembered his father’s instructions and desisted. Vin.i.342*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "dūsī"
 summary = ""
 grammar_comment = ""
@@ -5907,7 +5629,6 @@ Dūsī
 Name of Māra in the time of Kakusandha Buddha. He was, in that birth, son of Kāḷī, sister of Moggallāna. He first incited the brahmin householders to revile Kakusandha’s monks, chief of whom were Vidhura and Sañjīva; when that effort failed owing to the thoughts of goodwill, pity, sympathy and equanimity, developed by the monks, he next incited the brahmins to show great honour to the monks, hoping, in that way, to tempt them. But, owing to the intervention of Kakusandha, Dūsī’s attempts failed and he was born in the Mahā Niraya. The story is given in the Māratajjanīya Sutta MN.i.333*ff.* Thag.1187–1191
 
 ``` toml
-dict_label = "DPPN"
 word = "ekadhammasavanīya"
 summary = ""
 grammar_comment = ""
@@ -5925,7 +5646,6 @@ EkadhammasavanīyaEkadhammasavaniyaEkadhammika
 A monk whose verse is found in the Theragāthā. Thag.67
 
 ``` toml
-dict_label = "DPPN"
 word = "ekanāḷā"
 summary = ""
 grammar_comment = ""
@@ -5945,7 +5665,6 @@ A brahmin village near Dakkhiṇāgiri, to the south of Rājagaha. Once, during 
 23.4834, 84.429932town
 
 ``` toml
-dict_label = "DPPN"
 word = "ekapuṇḍarīka"
 summary = ""
 grammar_comment = ""
@@ -5967,7 +5686,6 @@ A monastery of the wanderers, the residence of Vacchagotta. MN.i.481*f.* It was 
 An elephant belonging to Pasenadi. It was while riding on this elephant that the king met Ānanda. The king followed the Elder to the monastery, and their conversation is recorded in the Bāhitika Sutta. MN.ii.112*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "ekasālā"
 summary = ""
 grammar_comment = ""
@@ -5987,7 +5705,6 @@ A Brahmin village in the Kosala kingdom. The Buddha once stayed there, and when 
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "ekuddāniya"
 summary = ""
 grammar_comment = ""
@@ -6007,7 +5724,6 @@ A monk whose verse in the Theragāthā says that one of higher mind will not sor
 The verse attributed above to Ekuddāniya, occurs in the Vinaya Vin.iv.54 as having been constantly used by Cūḷapanthaka.
 
 ``` toml
-dict_label = "DPPN"
 word = "eraka"
 summary = ""
 grammar_comment = ""
@@ -6025,7 +5741,6 @@ Eraka
 A verse admonishing this monk is found in the Theragāthā. Thag.93
 
 ``` toml
-dict_label = "DPPN"
 word = "erāpatha"
 summary = ""
 grammar_comment = ""
@@ -6043,7 +5758,6 @@ Erāpatha
 A royal family of Nāgas, mentioned together with Virūpakkhas, Chabbyāputtas, and Kaṇhāgotamakas. For their own protection, monks are advised to fill their hearts with amity for these four classes of Nāgas. AN.ii.72 Vin.ii.109*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "erāvaṇa"
 summary = ""
 grammar_comment = ""
@@ -6061,7 +5775,6 @@ Erāvaṇa
 In the Dhammika Sutta. Snp.379 Erāvaṇa is mentioned among the devas who visited the Buddha to pay him homage. He is also mentioned among the Nāgas present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "esukārī"
 summary = ""
 grammar_comment = ""
@@ -6079,7 +5792,6 @@ Esukārī
 A brahmin who visits the Buddha at Jetavana and asks him various questions on castes and their distinctions, from the point of view of their functions. The Buddha replies that birth’s invidious bar has been laid down by the brahmins, without consulting anybody else; all four castes alike can live the good life, which is the true service, and follow the Dhamma, which is the true wealth. At the end of the discourse Esukārī declares himself to be a follower of the Buddha. MN.ii.177*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "eḷeyya"
 summary = ""
 grammar_comment = ""
@@ -6097,7 +5809,6 @@ Eḷeyya
 A rājā, probably of Māgadha. He was a devout follower of Uddaka\-Rāmaputta. In his retinue were Yamaka, Moggalla, Ugga, Nāvindakī, Gandhabba, and Aggivessa, all of whom were also followers of the same teacher. AN.ii.180*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "eṇikūla"
 summary = ""
 grammar_comment = ""
@@ -6117,7 +5828,6 @@ A town on the river Eṇi. One of Baka’s good deeds which brought him rebirth 
 4town
 
 ``` toml
-dict_label = "DPPN"
 word = "gagga"
 summary = ""
 grammar_comment = ""
@@ -6139,7 +5849,6 @@ Gagga<sup>2</sup>
 A brahmin, father of Aṅgulimāla. MN.ii.102 Gagga may have been a gotta\-name. Thus when, after his ordination, Aṅgulimāla is introduced to Pasenadi, the latter addresses him as Gagga Mantāniputta. MN.ii.102
 
 ``` toml
-dict_label = "DPPN"
 word = "gahvaratīriya"
 summary = ""
 grammar_comment = ""
@@ -6157,7 +5866,6 @@ Gahvaratīriya
 A monk whose Theragāthā verse speaks of enduring the discomforts of the forest life. Thag.31
 
 ``` toml
-dict_label = "DPPN"
 word = "gajaṅgala"
 summary = ""
 grammar_comment = ""
@@ -6177,7 +5885,6 @@ A township which formed the eastern boundary of the Middle Country. Beyond it wa
 25.0489, 87.838031town
 
 ``` toml
-dict_label = "DPPN"
 word = "gandhabba"
 summary = ""
 grammar_comment = ""
@@ -6195,7 +5902,6 @@ Gandhabba
 An attendant of King Eḷeyya and a follower of Uddaka Rāmaputta. AN.ii.180
 
 ``` toml
-dict_label = "DPPN"
 word = "gandhabbā"
 summary = ""
 grammar_comment = ""
@@ -6221,7 +5927,6 @@ The Gandhabbas are sometimes described as going through the air. AN.ii.39 In the
 It is often stated that the Gandhabbas preside over conception; this is due to an erroneous translation of the word gandhabba in passages MN.i.157 MN.i.265*f.* dealing with the circumstances necessary for conception. Here *gandhabba* means a being fit and ready to be born to the parents concerned.
 
 ``` toml
-dict_label = "DPPN"
 word = "gandhāra"
 summary = ""
 grammar_comment = ""
@@ -6245,7 +5950,6 @@ One of the sixteen Great Nations.AN.i.213 AN.iv.252 One of the teeth of the Budd
 33.745833, 72.78751janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "gandhāravijjā"
 summary = ""
 grammar_comment = ""
@@ -6263,7 +5967,6 @@ GandhāravijjāGandhārīvijjā
 A charm whereby one could become invisible and multiform, pass through all obstacles, through earth and water, and touch the sun and moon. DN.i.213
 
 ``` toml
-dict_label = "DPPN"
 word = "garuḷā"
 summary = ""
 grammar_comment = ""
@@ -6281,7 +5984,6 @@ GaruḷāGaruḍāSupannaSuvaṇṇa
 A class of mythical birds generally mentioned in company with Nāgas.
 
 ``` toml
-dict_label = "DPPN"
 word = "gavesī"
 summary = ""
 grammar_comment = ""
@@ -6301,7 +6003,6 @@ A follower of Kassapa Buddha. Five hundred others were associated with him, and 
 The Buddha related this story to Ānanda during a tour in Kosala. They came to a sāla\-grove and there the Buddha smiled; when asked the reason for his smile, he replied that the grove was the scene of Gavesī’s practice of the religious life. AN.iii.214*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "gayā"
 summary = ""
 grammar_comment = ""
@@ -6325,7 +6026,6 @@ It was at a spring festival in Gayā that Senaka Thera was converted by the Budd
 24.75, 85.011town
 
 ``` toml
-dict_label = "DPPN"
 word = "gayākassapa"
 summary = ""
 grammar_comment = ""
@@ -6343,7 +6043,6 @@ Gayākassapa
 One of the three Kassapa brothers. They all lived at Gayāsīsa. When Uruvelā\-Kassapa was converted, Gayā\-Kassapa, with his followers, joined the Order, and at the conclusion of the Ādittapariyāya Sutta they all became arahants. Vin.i.33*f.* Gayā\-Kassapa is reported Thag.345*f.* to have said that he used to bathe three times a day at Gayātittha, in order to wash away his sins during the festival of Gayāphaggu.
 
 ``` toml
-dict_label = "DPPN"
 word = "gayāsīsa"
 summary = ""
 grammar_comment = ""
@@ -6369,7 +6068,6 @@ The hill stands about one mile to the south\-west of Gayā and is now called Bra
 24.77266, 84.989842hill
 
 ``` toml
-dict_label = "DPPN"
 word = "gaṅgātīriya"
 summary = ""
 grammar_comment = ""
@@ -6387,7 +6085,6 @@ Gaṅgātīriya
 A monk whose Theragāthā verses speak of his austere life by the Ganges river. Thag.127–128
 
 ``` toml
-dict_label = "DPPN"
 word = "gaṇaka-moggallāna"
 summary = ""
 grammar_comment = ""
@@ -6405,7 +6102,6 @@ Gaṇaka\-Moggallāna
 A brahmin teacher of Sāvatthī. He visited the Buddha at the Pubbārāma, and the Buddha preached to him the Gaṇaka\-Moggallāna Sutta, after which, it is said, he became the Buddha’s follower. MN.iii.1*ff.* His name and his teaching seem to indicate that he was a mathematician.
 
 ``` toml
-dict_label = "DPPN"
 word = "geyya"
 summary = ""
 grammar_comment = ""
@@ -6423,7 +6119,6 @@ Geyya
 The second of the nine portions (*aṅgas*) into which the Buddhist scriptures were arranged before the development of the Tipiṭaka. It includes all the suttas composed in verse, especially the whole Sagāthakavagga of the Saṃyutta Nikāya.
 
 ``` toml
-dict_label = "DPPN"
 word = "ghaṭāya"
 summary = ""
 grammar_comment = ""
@@ -6441,7 +6136,6 @@ Ghaṭāya
 A Sākiyan of Kapilavatthu, who built a monastery attached to the Nigrodhārāma. There the Mahā Suññatā Sutta was preached. MN.iii.110
 
 ``` toml
-dict_label = "DPPN"
 word = "ghaṭīkāra"
 summary = ""
 grammar_comment = ""
@@ -6463,7 +6157,6 @@ The Bodhisatta, who at the time of Ghaṭīkāra was a young brahmin named Jotip
 According to the Saṃyutta Nikāya, SN.i.35*f.* Ghaṭīkāra visited the Buddha some time after the Enlightenment and the Buddha reminded him of their former friendship. Ghaṭīkāra, on that occasion, speaks of several others who had been his friends in Vehaliṅga—Upaka, Phalaganda, Pukkusāti, Bhaddiya, Khaṇḍadeva, Bāhuraggi and Piṅgiya. They had listened to the Buddha’s teaching and, after death, were born in the Avihā\-world, where he himself was. In this context the Buddha addresses him as Bhaggava.
 
 ``` toml
-dict_label = "DPPN"
 word = "ghoṭamukha"
 summary = ""
 grammar_comment = ""
@@ -6481,7 +6174,6 @@ Ghoṭamukha
 A brahmin, probably of Pāṭaliputta. On coming to visit Benares, he saw Udena there in Khemiyambavana and had a conversation with him, recorded in the Ghoṭamukha Sutta. At the conclusion of the talk he declared himself converted and wished to offer to Udena the daily allowance of five hundred **kahāpanas** which he regularly received from the king of Aṅga. Udena suggested that the money might be utilised to build an assembly\-hall for the Order at Pāṭaliputta. The suggestion was agreed to and the assembly\-hall, when built, was called Ghotamukhī. MN.ii.157*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "gijjhakūṭa"
 summary = ""
 grammar_comment = ""
@@ -6523,7 +6215,6 @@ The Sūkara\-khatalena was on the slope of Gijjhakūṭa, and there the Buddha w
 25.001967,85.4467071hill
 
 ``` toml
-dict_label = "DPPN"
 word = "giraggasamajjā"
 summary = ""
 grammar_comment = ""
@@ -6541,7 +6232,6 @@ Giraggasamajjā
 A festival held from time to time in Rājagaha. According to the Vinaya accounts Vin.ii.107*f.* Vin.ii.150 Vin.iv.85 Vin.iv.267 there were dancing, singing and music.
 
 ``` toml
-dict_label = "DPPN"
 word = "girimānanda"
 summary = ""
 grammar_comment = ""
@@ -6561,7 +6251,6 @@ A monk whose Theragāthā verses speak of his delight in meditating in his small
 The Giri Sutta was preached in reference to Girimānanda, when he lay grievously ill. AN.v.108*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "giñjakāvasatha"
 summary = ""
 grammar_comment = ""
@@ -6587,7 +6276,6 @@ The “Brick Hall” was, however, not designed for the Buddha and his monks alo
 25.721974,85.2841192building
 
 ``` toml
-dict_label = "DPPN"
 word = "godatta"
 summary = ""
 grammar_comment = ""
@@ -6605,7 +6293,6 @@ Godatta
 The Theragāthā Thag.659–672 contains several stanzas attributed to him, which speak of remaining even among the challenges of life, and the importance of holding to wisdom and righteousness.
 
 ``` toml
-dict_label = "DPPN"
 word = "godha"
 summary = ""
 grammar_comment = ""
@@ -6623,7 +6310,6 @@ Godha
 A Sākiyan. A conversation between him and Mahānāma the Sākiyan is recorded in the Godha Sutta. SN.v.371
 
 ``` toml
-dict_label = "DPPN"
 word = "godhi"
 summary = ""
 grammar_comment = ""
@@ -6641,7 +6327,6 @@ Godhi
 Probably the mother of Devadatta, who is sometimes called Godhiputta. Vin.ii.189
 
 ``` toml
-dict_label = "DPPN"
 word = "godhika"
 summary = ""
 grammar_comment = ""
@@ -6661,7 +6346,6 @@ A monk whose Theragāthā verse speaks of his delight in meditating while the ra
 According to the Saṃyutta SN.i.120*f.* account, Godhika lived on the Kāḷasilā in Isigilipassa. There he made various vain attempts to win arahantship, achieving only temporary emancipation of mind, from which he then fell away. Six times this happened and then he decided to commit suicide by cutting his throat. Māra saw this and reported it to the Buddha, but when the Buddha arrived it was too late and Godhika lay “supine on his couch with his shoulders twisted around.” The Buddha, however, declared that Godhika had attained Nibbāna.
 
 ``` toml
-dict_label = "DPPN"
 word = "godhāvarī"
 summary = ""
 grammar_comment = ""
@@ -6681,7 +6365,6 @@ A river in Dakkhiṇāpatha, of which it forms the southern boundary, rising in 
 18.91278, 77.64451river
 
 ``` toml
-dict_label = "DPPN"
 word = "gomagga"
 summary = ""
 grammar_comment = ""
@@ -6701,7 +6384,6 @@ A spot in Siṃsapāvana near Āḷavī. The Buddha once stayed there during the
 26.02841, 83.529053park
 
 ``` toml
-dict_label = "DPPN"
 word = "gomatakakandarā"
 summary = ""
 grammar_comment = ""
@@ -6721,7 +6403,6 @@ A grotto some distance from Veḷuvana in Rājagaha. Monks coming to Rājagaha f
 24.98761,85.366342monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "gonaddha"
 summary = ""
 grammar_comment = ""
@@ -6743,7 +6424,6 @@ Between Gonaddha and their starting place lay Patitthāna, Māhissati and Ujjeni
 23.415453,77.072485town
 
 ``` toml
-dict_label = "DPPN"
 word = "gopaka"
 summary = ""
 grammar_comment = ""
@@ -6765,7 +6445,6 @@ Gopaka<sup>3</sup>
 A deva. A series of verses attributed to Gopaka are given in the Sakkapañha Sutta. DN.ii.271–275
 
 ``` toml
-dict_label = "DPPN"
 word = "gopāla"
 summary = ""
 grammar_comment = ""
@@ -6783,7 +6462,6 @@ Gopāla
 One of the Yakkha chieftains, to be invoked by the Buddha’s followers in time of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "gosiṅgasālavanadāya"
 summary = ""
 grammar_comment = ""
@@ -6807,7 +6485,6 @@ A forest tract near Vesāli. When the Buddha was living in the Kūṭāgārasāl
 25.9815,85.190733park
 
 ``` toml
-dict_label = "DPPN"
 word = "gosāla "
 summary = ""
 grammar_comment = ""
@@ -6825,7 +6502,6 @@ Gosāla
 A monk whose Theragāthā verse speaks of how after eating honey and rice he returns to his hillside to meditate. Thag.23
 
 ``` toml
-dict_label = "DPPN"
 word = "gotama"
 summary = ""
 grammar_comment = ""
@@ -6843,7 +6519,6 @@ Gotama<sup>1</sup>BuddhaSiddhatthaSakyamunīTathāgataAṅgīrasa
 He was a Sākiyan, son of Suddhodana and of Mahā Māyā, Suddhodana’s chief consort, and he belonged to the Gotama\-gotta. At age 29 he departed from his home to seek Awakening. Six years later he realized this goal. He spent the remaining 45 years of his life teaching, and died at the age of eighty in Kusināra.
 
 ``` toml
-dict_label = "DPPN"
 word = "gotamadvāra"
 summary = ""
 grammar_comment = ""
@@ -6863,7 +6538,6 @@ The gate by which the Buddha left Pāṭaligāma, after having eaten there at th
 Pāṭaliputta2building
 
 ``` toml
-dict_label = "DPPN"
 word = "gotamaka"
 summary = ""
 grammar_comment = ""
@@ -6881,7 +6555,6 @@ Gotamaka
 A class of ascetics, enumerated in a list of such classes. AN.iii.276
 
 ``` toml
-dict_label = "DPPN"
 word = "gotamakacetiya"
 summary = ""
 grammar_comment = ""
@@ -6901,7 +6574,6 @@ A shrine near and to the south of Vesāli. DN.iii.9 It was considered one of the
 25.920467,85.1206972shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "gotamatittha"
 summary = ""
 grammar_comment = ""
@@ -6921,7 +6593,6 @@ The ford by which the Buddha crossed the Ganges, after leaving Pāṭaligāma. V
 25.62171,85.186612ford
 
 ``` toml
-dict_label = "DPPN"
 word = "govinda"
 summary = ""
 grammar_comment = ""
@@ -6941,7 +6612,6 @@ The steward or treasurer of King Disampati. He had a son, Jotipāla, who succeed
 “Govinda” was evidently a title and not a name.
 
 ``` toml
-dict_label = "DPPN"
 word = "govindiya"
 summary = ""
 grammar_comment = ""
@@ -6959,7 +6629,6 @@ Govindiya
 Evidently the title given to the High Treasurer. DN.ii.232
 
 ``` toml
-dict_label = "DPPN"
 word = "goyogapilakkha"
 summary = ""
 grammar_comment = ""
@@ -6979,7 +6648,6 @@ A spot near Benares, visited by the Buddha on his begging rounds. AN.i.280
 25.21736,83.106072town
 
 ``` toml
-dict_label = "DPPN"
 word = "gulissāni"
 summary = ""
 grammar_comment = ""
@@ -6997,7 +6665,6 @@ Gulissāni
 A monk living in the wilds, who once came on some business to see the monks at the Kalandakanivāpa. It was on his account that the Gulissāni Sutta was preached. MN.i.469
 
 ``` toml
-dict_label = "DPPN"
 word = "gundāvana"
 summary = ""
 grammar_comment = ""
@@ -7017,7 +6684,6 @@ A forest in Madhurā. Mahā Kaccāna stayed there and was visited by Avantiputta
 27.45466, 77.656863park
 
 ``` toml
-dict_label = "DPPN"
 word = "gutijjita"
 summary = ""
 grammar_comment = ""
@@ -7035,7 +6701,6 @@ Gutijjita
 A Pacceka Buddha, whose name occurs in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "guttā "
 summary = ""
 grammar_comment = ""
@@ -7053,7 +6718,6 @@ Guttā
 A bhikkhunī to whom several Therīgāthā verses are addressed, encourageing her to overcome the defliments that have long kept her trapped in suffering. Thig.163–168
 
 ``` toml
-dict_label = "DPPN"
 word = "guḷa"
 summary = ""
 grammar_comment = ""
@@ -7071,7 +6735,6 @@ Guḷa
 A Yakkha chief who should be invoked when unbelieving Yakkhas molest any follower of the Buddha. DN.iii.204
 
 ``` toml
-dict_label = "DPPN"
 word = "gāthā"
 summary = ""
 grammar_comment = ""
@@ -7089,7 +6752,6 @@ Gāthā
 One of the nine portions (*aṅga*) into which the Buddhist scriptures were organized before the Tipiṭaka. It includes the Theragāthā and Therīgāthā, and other verses. Vin.iii.8
 
 ``` toml
-dict_label = "DPPN"
 word = "gūtha"
 summary = ""
 grammar_comment = ""
@@ -7109,7 +6771,6 @@ One of the hells. It is next to the Mahā Niraya, and is the habitation of needl
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "haliddavasana"
 summary = ""
 grammar_comment = ""
@@ -7129,7 +6790,6 @@ A township of the Koliyans. The Buddha, when staying there, preached the Kukkura
 Koliya3town
 
 ``` toml
-dict_label = "DPPN"
 word = "harayodevā"
 summary = ""
 grammar_comment = ""
@@ -7147,7 +6807,6 @@ Harayodevā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "hatthaka"
 summary = ""
 grammar_comment = ""
@@ -7173,7 +6832,6 @@ Together with Cittagahapati, Hatthaka is often held up as an example to be copie
 After death, Hatthaka was born in Avihā, there to pass away entirely. From there he once visited the Buddha and tried to stand in his presence, but collapsed and could not remain upright. The Buddha then asked him to create a gross body form, and when he did this he was able to stand. He told the Buddha that he was constantly surrounded by devas wishing to learn the Dhamma from him, and confessed that he had died regretting three things: of not having seen enough of the Buddha, of not heard enough of the Dhamma, of not served enough the Saṅgha. AN.i.278*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "hatthigāmaka"
 summary = ""
 grammar_comment = ""
@@ -7197,7 +6855,6 @@ On his last journey he again rested in the village. DN.ii.123
 26.373416,84.7952272town
 
 ``` toml
-dict_label = "DPPN"
 word = "hatthipāla"
 summary = ""
 grammar_comment = ""
@@ -7215,7 +6872,6 @@ Hatthipāla
 A teacher of old, with a following of many hundred disciples to whom he taught the way to union with Brahmā. AN.iii.371 AN.ii.373 AN.iv.135
 
 ``` toml
-dict_label = "DPPN"
 word = "hatthāroha"
 summary = ""
 grammar_comment = ""
@@ -7233,7 +6889,6 @@ Hatthāroha
 A headman of Rājagaha who visited the Buddha and asked him what destiny awaited him after death. The Buddha reluctantly replied that he would be born in the Sārañjita hell. SN.iv.310
 
 ``` toml
-dict_label = "DPPN"
 word = "hatthārohaputta"
 summary = ""
 grammar_comment = ""
@@ -7251,7 +6906,6 @@ Hatthārohaputta
 A monk whose Theragāthā verse speaks of taming this mind like an elephant. Thag.77
 
 ``` toml
-dict_label = "DPPN"
 word = "hemaka"
 summary = ""
 grammar_comment = ""
@@ -7269,7 +6923,6 @@ Hemaka
 One of Bāvarī’s disciples. He went to the Buddha, asked questions, and became an arahant Snp.1006 Snp.1084–1087
 
 ``` toml
-dict_label = "DPPN"
 word = "hemavata"
 summary = ""
 grammar_comment = ""
@@ -7291,7 +6944,6 @@ He was present at the preaching of the Mahāsamaya Sutta. DN.ii.256
 He was the friend of Sātāgira.
 
 ``` toml
-dict_label = "DPPN"
 word = "heraññakāni"
 summary = ""
 grammar_comment = ""
@@ -7309,7 +6961,6 @@ Heraññakāni
 A monk whose Theragāthā verses speak of the impermanence of life, and the bitter fruit of evil deeds. Thag.145–146
 
 ``` toml
-dict_label = "DPPN"
 word = "himavā"
 summary = ""
 grammar_comment = ""
@@ -7329,7 +6980,6 @@ The Himālaya mountains. In Himavā, are seven great lakes, each fifty leagues i
 Himalaya1region
 
 ``` toml
-dict_label = "DPPN"
 word = "hiraññavatī"
 summary = ""
 grammar_comment = ""
@@ -7349,7 +6999,6 @@ A river, on the bank of which was the Upavattana Sālavana of the Mallas of Kusi
 Hirakinari1river
 
 ``` toml
-dict_label = "DPPN"
 word = "hiri"
 summary = ""
 grammar_comment = ""
@@ -7367,7 +7016,6 @@ Hiri
 A Yakkha chieftain to be invoked in time of need by followers of the Buddha. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "hiṅga"
 summary = ""
 grammar_comment = ""
@@ -7385,7 +7033,6 @@ Hiṅga
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "hiṅgū"
 summary = ""
 grammar_comment = ""
@@ -7403,7 +7050,6 @@ Hiṅgū
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "huhuṅka"
 summary = ""
 grammar_comment = ""
@@ -7421,7 +7067,6 @@ Huhuṅka
 The descriptive name of a brahmin who visited the Buddha at the Ajapālanigrodha seven days after his Enlightenment and asked him questions regarding the true brahmin. The Buddha explained the matter, but made no impression on him. Vin.i.2 Ud.i.4
 
 ``` toml
-dict_label = "DPPN"
 word = "hāliddakāni"
 summary = ""
 grammar_comment = ""
@@ -7441,7 +7086,6 @@ An eminent lay disciple of Avanti. Once when Mahā Kaccāna was staying in the K
 On another occasion SN.iv.115*f.* he questioned the Elder regarding the diversity of sensations.
 
 ``` toml
-dict_label = "DPPN"
 word = "hāragajā"
 summary = ""
 grammar_comment = ""
@@ -7459,7 +7103,6 @@ Hāragajā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "hārika"
 summary = ""
 grammar_comment = ""
@@ -7477,7 +7120,6 @@ HārikaHārita
 A bandit of Rājagaha. After death he was born as a ghost with a headless trunk, and was seen by Moggallāna. His mouth and his eyes were on his chest. SN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "hārita"
 summary = ""
 grammar_comment = ""
@@ -7503,7 +7145,6 @@ Hārita<sup>3</sup>
 A monk whose Theragāthā verses speak of doing what is good, and the peace of Nibbana. Thag.261–263
 
 ``` toml
-dict_label = "DPPN"
 word = "icchānaṅgalaka"
 summary = ""
 grammar_comment = ""
@@ -7521,7 +7162,6 @@ Icchānaṅgalaka
 An *upāsaka* of Icchānaṅgala. Once he visited the Buddha at Jetavana after a long interval, and on being asked why he had been absent so long, he replied that he had been kept busy by various duties. Thereupon the Buddha sang the joy of the life free from ties. Ud.p.13
 
 ``` toml
-dict_label = "DPPN"
 word = "iccānaṅgala"
 summary = ""
 grammar_comment = ""
@@ -7545,7 +7185,6 @@ According to the Saṃyutta Nikāya, SN.v.325 the Buddha once stayed for three m
 27.630007,82.7064512town
 
 ``` toml
-dict_label = "DPPN"
 word = "inda"
 summary = ""
 grammar_comment = ""
@@ -7573,7 +7212,6 @@ The Pāḷi equivalent of the Vedic Indra. He is referred to only very seldom in
 Inda was a special protector of cows, and when men began to kill these creatures he visited his wrath on them. Snp.310
 
 ``` toml
-dict_label = "DPPN"
 word = "indakūṭa"
 summary = ""
 grammar_comment = ""
@@ -7593,7 +7231,6 @@ A peak near Rājagaha, the abode of the *yakkha* Indaka. The Buddha once lived t
 25.0209, 85.462643hill
 
 ``` toml
-dict_label = "DPPN"
 word = "indapatta"
 summary = ""
 grammar_comment = ""
@@ -7621,7 +7258,6 @@ The modern Delhi stands on the site of Indapatta.
 28.7038384,77.10411071town
 
 ``` toml
-dict_label = "DPPN"
 word = "indasālaguhā"
 summary = ""
 grammar_comment = ""
@@ -7641,7 +7277,6 @@ A cave on the Vediya mountain, to the north of Ambasaṇḍā, which was a brahm
 25.024766,85.5177681cave
 
 ``` toml
-dict_label = "DPPN"
 word = "isidatta"
 summary = ""
 grammar_comment = ""
@@ -7675,7 +7310,6 @@ Isidatta was the uncle of the woman\-disciple Migasālā, whose father was Purā
 Isidatta is mentioned by the Buddha among those who had the six qualities that brought realisation of immortality—unwavering loyalty to the Buddha, the Dhamma and the Saṅgha, Ariyan virtue, wisdom and liberation. AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "isidāsa"
 summary = ""
 grammar_comment = ""
@@ -7693,7 +7327,6 @@ Isidāsa
 A thera. He had a brother, also a monk, named Isibhatta. Having spent the rainy season in Sāvatthī, they went to take up their abode in a certain village. The people there gave them food and robes, but they refused to accept their share of these, because, according to the rule, the robes are the property of the Saṅgha until the Kaṭhina\-ceremony has been performed. The story is mentioned in connection with accepting robes elsewhere than in the spot where the rainy season has been spent. Vin.i.299
 
 ``` toml
-dict_label = "DPPN"
 word = "isidāsī"
 summary = ""
 grammar_comment = ""
@@ -7715,7 +7348,6 @@ For one month she lived with him as a devoted wife; then because of her past kam
 The Therīgāthā, Thig.400–447 which contains forty\-seven verses ascribed to her, describes not only her present life, but also her past lives. She had been a worker in gold in Erakaccha and had committed adultery in that life. As a result she was born in hell for a long time, and, in subsequent births became an ape, a goat, an ox, a hermaphrodite slave and a carter’s daughter. In this last birth she was sold to a merchant in payment of her father’s debts. When she was sixteen, the merchant’s son, Giridāsa, fell in love with her and married her. He had already one wife, and the new one caused dissension between her and her husband. Therefore it was that in this life she was hated by her husbands.
 
 ``` toml
-dict_label = "DPPN"
 word = "isigili"
 summary = ""
 grammar_comment = ""
@@ -7747,7 +7379,6 @@ Five hundred Pacceka Buddhas once resided in Isigili for a long time; they could
 24.985047,85.4188591hill
 
 ``` toml
-dict_label = "DPPN"
 word = "isipatana"
 summary = ""
 grammar_comment = ""
@@ -7785,7 +7416,6 @@ Mention is made, too, of a discourse in which several monks staying at Isipatana
 25.38263,83.0232521park
 
 ``` toml
-dict_label = "DPPN"
 word = "itivuttaka"
 summary = ""
 grammar_comment = ""
@@ -7803,7 +7433,6 @@ Itivuttaka
 One of the nine divisions (*aṅga*) into which the Buddha’s preaching was classified in the early texts.
 
 ``` toml
-dict_label = "DPPN"
 word = "jambudīpa"
 summary = ""
 grammar_comment = ""
@@ -7827,7 +7456,6 @@ The Buddha once declared that the people of Jambudīpa excel those of both Uttar
 India1continent
 
 ``` toml
-dict_label = "DPPN"
 word = "jambugāma"
 summary = ""
 grammar_comment = ""
@@ -7847,7 +7475,6 @@ A village which the Buddha visited during his last tour. It lay between Ambagām
 26.461967,84.4498442town
 
 ``` toml
-dict_label = "DPPN"
 word = "jambugāmika"
 summary = ""
 grammar_comment = ""
@@ -7865,7 +7492,6 @@ JambugāmikaJambugāmiya
 A monk whose Theragāthā verse asks whether he is intent on adornments or virtue. Thag.28
 
 ``` toml
-dict_label = "DPPN"
 word = "jambuka "
 summary = ""
 grammar_comment = ""
@@ -7883,7 +7509,6 @@ Jambuka
 A monk whose Theragāthā verses speak of how he practiced severe austerities for 55 year before going for refuge in the Buddha and attaining Awakening. Thag.283–286
 
 ``` toml
-dict_label = "DPPN"
 word = "jambukhādaka"
 summary = ""
 grammar_comment = ""
@@ -7901,7 +7526,6 @@ Jambukhādaka
 A wanderer. The Saṃyutta Nikāya records visits paid by him to Sāriputta at Nālakagāma and discussions between them on various topics, such as nibbāna, arahantship, the *āsavas*, sakkāya, ignorance, the Noble Eightfold Path, etc. SN.iv.251–260
 
 ``` toml
-dict_label = "DPPN"
 word = "janapadakalyāṇī"
 summary = ""
 grammar_comment = ""
@@ -7919,7 +7543,6 @@ Janapadakalyāṇī
 An epithet meaning the most beautiful woman in the land. It was used for the former wife of Nanda, the memory of whose beauty tormented him while he was a monk. Ud.iii.2
 
 ``` toml
-dict_label = "DPPN"
 word = "janesabha"
 summary = ""
 grammar_comment = ""
@@ -7941,7 +7564,6 @@ In the Āṭānāṭiya Sutta DN.iii.204 he is mentioned as a Yakkha chieftain t
 He is probably identical with Janavasabha.
 
 ``` toml
-dict_label = "DPPN"
 word = "janogha"
 summary = ""
 grammar_comment = ""
@@ -7961,7 +7583,6 @@ A city in Uttarakuru, Kuvera’s kingdom. DN.iii.20
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "jantu"
 summary = ""
 grammar_comment = ""
@@ -7979,7 +7600,6 @@ Jantu
 A *devaputta*. He saw a number of monks in a forest\-lodge on the slopes of the Himālaya, muddled in mind, loose of speech and heedless. He appeared before them on an uposatha day and reminded them of their duties. SN.i.61*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "jantugāma"
 summary = ""
 grammar_comment = ""
@@ -7999,7 +7619,6 @@ A village near Cālikā; close by was the river Kimikālā with the mango\-grove
 25.733814,81.9442752town
 
 ``` toml
-dict_label = "DPPN"
 word = "jatilagāhī"
 summary = ""
 grammar_comment = ""
@@ -8017,7 +7636,6 @@ Jatilagāhī
 The name given to a bhikkhunī, who, so Ānanda tells Udāyī, came to see him at the Añjanavana in Sāketā. The nun asked him for what purpose the Buddha requested that samādhi should be practised and Ānanda answered that it was for the purpose of obtaining insight. AN.iv.427*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "jatukaṇṇī"
 summary = ""
 grammar_comment = ""
@@ -8035,7 +7653,6 @@ JatukaṇṇīJatukannika
 One of Bāvarī’s disciples. His question and the Buddha’s answer are found in the Jatukaṇṇi Sutta Snp.1007 Snp.1096–1100
 
 ``` toml
-dict_label = "DPPN"
 word = "javakannaka"
 summary = ""
 grammar_comment = ""
@@ -8053,7 +7670,6 @@ Javakannaka
 A family name, not considered of high social standing. Vin.iv.8 Vin.iv.13
 
 ``` toml
-dict_label = "DPPN"
 word = "jayanta"
 summary = ""
 grammar_comment = ""
@@ -8071,7 +7687,6 @@ Jayanta
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "jayasena"
 summary = ""
 grammar_comment = ""
@@ -8093,7 +7708,6 @@ When this was reported to the Buddha he said that Jayasena, being given up to lu
 A discussion which Jayasena had with his uncle Bhūmiya Thera is recorded in the Bhūmiya Sutta. In this case we are told that Jayasena was pleased with the discourse and entertained Bhūmiya to his own dish of rice. MN.iii.138
 
 ``` toml
-dict_label = "DPPN"
 word = "jaṭila"
 summary = ""
 grammar_comment = ""
@@ -8111,7 +7725,6 @@ Jaṭila
 A class of brahmanical ascetics, so called on account of their matted hair.
 
 ``` toml
-dict_label = "DPPN"
 word = "jaṭābhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -8129,7 +7742,6 @@ Jaṭābhāradvāja
 A brahmin of the Bhāradvājagotta. He goes to the Buddha and asks him the questions given in the Jaṭā Sutta. The Buddha gives the same answer. SN.i.165
 
 ``` toml
-dict_label = "DPPN"
 word = "jenta"
 summary = ""
 grammar_comment = ""
@@ -8151,7 +7763,6 @@ Jenta<sup>2</sup>Purohitaputta
 A monk whose Theragāthā verses speak of his former pride and arrogance and how these have been left behind due to following the Buddha. Thag.423–428 Perhaps he is to be identified with Mānatthaddha of the Saṃyutta Nikāya. SN.i.177
 
 ``` toml
-dict_label = "DPPN"
 word = "jentā"
 summary = ""
 grammar_comment = ""
@@ -8169,7 +7780,6 @@ JentāJentī
 A bhikkhunī whose Therīgāthā verses speak of developing the path and becoming Awakened. Thig.21
 
 ``` toml
-dict_label = "DPPN"
 word = "jeta"
 summary = ""
 grammar_comment = ""
@@ -8191,7 +7801,6 @@ Jeta<sup>2</sup>
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "jetavana"
 summary = ""
 grammar_comment = ""
@@ -8213,7 +7822,6 @@ The monastery became the Buddha’s favorite residence, and the bulk of all disc
 27.509466, 82.0400731monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "jinadattā"
 summary = ""
 grammar_comment = ""
@@ -8231,7 +7839,6 @@ Jinadattā
 A bhikkhunī mentioned in the Therīgāthā verses of Isidāsi, who describes Jinadattā as a learned and virtuous expert in the Vinaya. Thig.427
 
 ``` toml
-dict_label = "DPPN"
 word = "jita"
 summary = ""
 grammar_comment = ""
@@ -8249,7 +7856,6 @@ Jita
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "joti"
 summary = ""
 grammar_comment = ""
@@ -8267,7 +7873,6 @@ Joti
 A class of gods, present at the Mahāsamaya. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "jotidāsa"
 summary = ""
 grammar_comment = ""
@@ -8285,7 +7890,6 @@ Jotidāsa
 A monk whose Theragāthā verses speak of kamma. Thag.143–144
 
 ``` toml
-dict_label = "DPPN"
 word = "jotika"
 summary = ""
 grammar_comment = ""
@@ -8303,7 +7907,6 @@ Jotika
 A householder of Rājagaha and father of Dīghāvu. When Dīghāvu fell ill he sent Jotika to tell the Buddha. SN.v.344*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "jotipāla"
 summary = ""
 grammar_comment = ""
@@ -8329,7 +7932,6 @@ After some time, Jotipāla took leave of the seven kings, his disciples and his 
 Jotipāla was the Buddha in a previous life. DN.ii.232–251 He is twice mentioned in the Aṅguttara Nikāya AN.iii.372 AN.iv.135 in a list of ancient teachers with very large followings.
 
 ``` toml
-dict_label = "DPPN"
 word = "jāli"
 summary = ""
 grammar_comment = ""
@@ -8347,7 +7949,6 @@ JāliJāḷi
 The name of two Pacceka Buddhas, occurring in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "jālina"
 summary = ""
 grammar_comment = ""
@@ -8365,7 +7966,6 @@ Jālina
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "jālinī"
 summary = ""
 grammar_comment = ""
@@ -8383,7 +7983,6 @@ Jālinī
 A goddess of Tāvatiṃsā, a former wife of Anuruddha. Once seeing him old and feeble, she appeared before him in Kosala and bade him aspire to rebirth among the gods. Anuruddha told her there would be no rebirth for him. SN.i.200 Thag.908
 
 ``` toml
-dict_label = "DPPN"
 word = "jāliya"
 summary = ""
 grammar_comment = ""
@@ -8401,7 +8000,6 @@ Jāliya
 A wanderer who, with his friend Mandissa, visited the Buddha at the Ghositārāma. DN.i.159 The Buddha preached to them the Jāliya Sutta. According to the Pātika Sutta, when Jāliya heard that Pātika could not come to hold a discussion with the Buddha at Vesāli, he went to the Tindukkhāna\-paribbājakārāma and tried to get Pātikaputta to come. But the latter was unable to come, being fixed in his seat. Jāliya thereupon spoke insultingly to him, calling him boaster, etc. DN.iii.22*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "jātiyāvana"
 summary = ""
 grammar_comment = ""
@@ -8423,7 +8021,6 @@ The Sutta Vibhaṅga Vin.iii.37*f.* contains the story of an arahant on whom a w
 25.89752, 86.793363park
 
 ``` toml
-dict_label = "DPPN"
 word = "jāṇussoṇi"
 summary = ""
 grammar_comment = ""
@@ -8441,7 +8038,6 @@ Jāṇussoṇi
 A great brahmin, ranking with eminent brahmins such as Caṅkī, Tārukkha, Pokkharasāti and Todeyya. Snp.p.115 He is mentioned as staying in Icchānaṅgala, MN.ii.196 where he evidently took part in the periodical gatherings of brahmin leaders—and also at Manasākaṭa. DN.i.235 He was a follower of the Buddha, of whom he was a great admirer. He appears to have been in the habit of talking to well known teachers of other schools and hearing their opinion of the Buddha, either for the purpose of comparing his own faith in him or of discovering their views. Two such conversations are recorded—one with Subha Todeyyaputta, MN.ii.209 the other with Pilotika. MN.i.175*ff.* His discussion with Pilotika he reported to the Buddha, who expanded it to form the Cūḷahatthipadopama Sutta. The Buddha also preached to Jāṇussoṇi the Bhayabherava Sutta. MN.i.16*ff.* Jāṇussoṇi’s permanent residence was Sāvatthī, and he often visited the Buddha at Jetavana, consulting him on many topics, such as: results of actions, AN.i.56 Nibbana here and now, AN.i.157 brahmins and the threefold knowledge, AN.i.166 fearlessness of death, AN.ii.173 the ideals of various classes of persons, AN.iii.362 true celibacy, AN.iv.54 the Paccārohani ceremony, AN.v.233*ff.* AN.v.249*ff.* the efficacy of gifts, AN.v.269*ff.* and eternalism and annihilation. SN.ii.76 He had a white chariot with silver fittings and white trappings drawn by four pure white mares. He would drive about in this, wearing white garments, turban\-cloths and sandals and fanned by a white fan. The reins, the goads and the canopy were also of white. His chariot was considered the finest in all Sāvatthī. SN.v.4*f.* MN.i.175 MN.ii.208
 
 ``` toml
-dict_label = "DPPN"
 word = "jīvaka"
 summary = ""
 grammar_comment = ""
@@ -8465,7 +8061,6 @@ One discussion he had with the Buddha regarding the qualities of a pious lay dis
 At Jīvaka’s request, the Buddha enjoined upon monks to take exercise; Jīvaka had gone to Vesāli on business and had noticed their pale, unhealthy look. Vin.ii.119
 
 ``` toml
-dict_label = "DPPN"
 word = "jīvakambavana"
 summary = ""
 grammar_comment = ""
@@ -8485,7 +8080,6 @@ A mango\-grove in Rājagaha, belonging to Jīvaka, which he made over to the Bud
 24.995316,85.435411monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "jīvā"
 summary = ""
 grammar_comment = ""
@@ -8503,7 +8097,6 @@ JīvāJīvanti
 Daughter of Ubbirī, whose tragic death spurred Ubbirī overcome her attachment. Thig.51
 
 ``` toml
-dict_label = "DPPN"
 word = "kaccāna"
 summary = ""
 grammar_comment = ""
@@ -8527,7 +8120,6 @@ A monk named Kaccānagotta is mentioned in the Saṃyutta Nikāya SN.ii.18*ff.* 
 The Kaccānagotta is mentioned among the higher castes, together with Moggallāna and Vāsittha. Vin.iv.6
 
 ``` toml
-dict_label = "DPPN"
 word = "kaddamadaha"
 summary = ""
 grammar_comment = ""
@@ -8547,7 +8139,6 @@ A river where Mahākaccāyana sometimes stayed.
 Avanti3river
 
 ``` toml
-dict_label = "DPPN"
 word = "kajangala"
 summary = ""
 grammar_comment = ""
@@ -8567,7 +8158,6 @@ A township which formed the eastern boundary of the Middle Country. Beyond it wa
 25.0489,87.838032town
 
 ``` toml
-dict_label = "DPPN"
 word = "kajaṅgalā"
 summary = ""
 grammar_comment = ""
@@ -8585,7 +8175,6 @@ Kajaṅgalā
 A nun who lived in Kajangala. Once when the Buddha was residing in the Veḷuvana there, the inhabitants of the village went to her and asked her to explain in detail what the Buddha had taught them in brief. This she did, and when the matter was reported to the Buddha, he praised her very highly. AN.v.54*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kakkarapatta"
 summary = ""
 grammar_comment = ""
@@ -8605,7 +8194,6 @@ A township of the Koliyans. It was while the Buddha was staying there that the K
 27.51557,83.773493town
 
 ``` toml
-dict_label = "DPPN"
 word = "kakkaṭa"
 summary = ""
 grammar_comment = ""
@@ -8623,7 +8211,6 @@ Kakkaṭa<sup>2</sup>
 An eminent monk mentioned, with Cāla, Upacāla, Kaḷimbha, Nikata and Kaṭissaha, as staying with the Buddha at the Kūṭāgārasālā in Vesāli. When the Licchavis started coming there to pay their respects to the Buddha, the monks, desiring solitude, went into the woodlands near by, such as the Gosiṅgasālavana. AN.v.133*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kakudha"
 summary = ""
 grammar_comment = ""
@@ -8647,7 +8234,6 @@ A deva who visited the Buddha at the Añjanavana in Sāketa, and asked him wheth
 This is probably the same as the Kakudha who was an inhabitant of Koḷiyā and was an attendant of Moggallāna. Having died, he was reborn among the mind\-born devas with a body so large that it was as extensive as “two of three common rice\-fields in a Māgadha village, and yet so constituted that he was in the way neither of himself nor of others.” Becoming aware of Devadatta’s plans for obtaining possession of the leadership of the Saṅgha, Kakudha reported the news to Moggallāna, who passed it on to the Buddha. The Buddha asked Moggallāna to keep the matter secret. Moggallāna informed the Buddha that he knew from experience that Kakudha’s predictions proved true. Vin.ii.185*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kakudhā"
 summary = ""
 grammar_comment = ""
@@ -8667,7 +8253,6 @@ A river near Kusinārā in which the Buddha bathed and from which he drank water
 near Kusinārā2river
 
 ``` toml
-dict_label = "DPPN"
 word = "kakusandha"
 summary = ""
 grammar_comment = ""
@@ -8685,7 +8270,6 @@ Kakusandha
 A Buddha of a past era. His chief disciples were Vidhura and Sañjīva among monks, and Sama and Campā among nuns. His personal attendant was Buddhija. Accuta and Samaṇa, Nandā and Sunandā were his most eminent lay\-supporters. DN.ii.7 In Kakusandha’s time a Māra, named Dūsī (a previous birth of Moggallāna), gave a great deal of trouble to the Buddha and his followers, trying greatly the Buddha’s patience.MN.i.333*ff.* Thag.1187 The Saṃyutta Nikāya SN.ii.190*f.* mentions that during the time of Kakusandha, the Mount Vepulla of Rājagaha was named Pacina\-vaṃsa and the inhabitants were called Tivarā.
 
 ``` toml
-dict_label = "DPPN"
 word = "kalandagāma"
 summary = ""
 grammar_comment = ""
@@ -8705,7 +8289,6 @@ A village near Vesāli; it was the birthplace of Sudinna. Vin.iii.11
 26.008658,85.2676393town
 
 ``` toml
-dict_label = "DPPN"
 word = "kallavāḷaputta"
 summary = ""
 grammar_comment = ""
@@ -8725,7 +8308,6 @@ A village in Māgadha. Mahā\-Moggallāna lived there immediately after his ordi
 Māgadha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "kambala"
 summary = ""
 grammar_comment = ""
@@ -8743,7 +8325,6 @@ Kambala
 A tribe of Nāgas. They were present at the Mahāsamaya. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "kamboja"
 summary = ""
 grammar_comment = ""
@@ -8765,7 +8346,6 @@ In the Assalāyana Sutta MN.ii.149 it is stated that in Yona and in Kamboja, and
 35.3219, 46.98621janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "kammāsadhamma"
 summary = ""
 grammar_comment = ""
@@ -8787,7 +8367,6 @@ Several important discourses were preached at Kammāsadamma, among them being th
 29.17, 78.023town
 
 ``` toml
-dict_label = "DPPN"
 word = "kandaraka"
 summary = ""
 grammar_comment = ""
@@ -8805,7 +8384,6 @@ Kandaraka
 A wandering ascetic who visited the Buddha at Campā, on the banks of Lake Gaggarā together with Pessa the elephant trainer’s son. Pessa saluted the Buddha and sat down, while Kandaraka, after his salutation, remained standing. Surveying the assembly of monks gathered round the Buddha and observing their great silence, Kandaraka expressed his admiration of the Buddha’s training. The Buddha explained that all Buddhas school their disciples in the four satipaṭṭhānas. Pessa stated that it was far more difficult to train men than animals. The Buddha agreed and enumerated the four kinds of people in the world: those who torment themselves, torment others, torment both themselves and others, and, lastly, those who torment neither, dwelling beyond appetites, in bliss and holiness. Pessa stated that he respected only the fourth class, and having given his reasons went away. The Buddha expressed his regret that Pessa could not wait to hear the differences between these four kinds of people; and at the request of the monks the Buddha proceeded to describe them. MN.i.339*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kandarāyana"
 summary = ""
 grammar_comment = ""
@@ -8823,7 +8401,6 @@ KandarāyanaKundarāyana
 A brahmin. He visited Mahā Kaccāna at the Gundavana near Madhurā and accused him of not paying due respect to elderly brahmins, but when Mahā Kaccāna preached to him he expressed delight and offered himself as the Thera’s disciple. AN.i.67*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kannakujja"
 summary = ""
 grammar_comment = ""
@@ -8847,7 +8424,6 @@ According to Hiouen Thsang, the distance from Sankassa to Kannakujja was two hun
 25.11544,82.36037715town
 
 ``` toml
-dict_label = "DPPN"
 word = "kapilavatthu"
 summary = ""
 grammar_comment = ""
@@ -8889,7 +8465,6 @@ It was not mentioned by Ānanda among the great cities, in one of which, in his 
 27.576667, 83.0547221town
 
 ``` toml
-dict_label = "DPPN"
 word = "kapinaccanā"
 summary = ""
 grammar_comment = ""
@@ -8909,7 +8484,6 @@ Kapinaccanā may have been a name for the cemetery near Vesāli where Kappitaka 
 near Vesāli3park
 
 ``` toml
-dict_label = "DPPN"
 word = "kaplia"
 summary = ""
 grammar_comment = ""
@@ -8927,7 +8501,6 @@ Kaplia
 A sinful monk who lived in a village near Kosambī. He was the friend of Paṇḍaka. Vin.iii.67
 
 ``` toml
-dict_label = "DPPN"
 word = "kapotakandara"
 summary = ""
 grammar_comment = ""
@@ -8947,7 +8520,6 @@ A grotto, probably near Rājagaha. On one occasion Sāriputta, having recently s
 25.0265,85.485993park
 
 ``` toml
-dict_label = "DPPN"
 word = "kappa"
 summary = ""
 grammar_comment = ""
@@ -8973,7 +8545,6 @@ Kappa<sup>3</sup>Kappaka
 In the Saṃyutta Nikāya. SN.i.144 Bakabrahma is identified with Kappa’s teacher, Kesava.
 
 ``` toml
-dict_label = "DPPN"
 word = "kappatakura"
 summary = ""
 grammar_comment = ""
@@ -8991,7 +8562,6 @@ Kappatakura
 A monk whose verses are found in the Theragāthā. Thag.199–200
 
 ``` toml
-dict_label = "DPPN"
 word = "kappitaka"
 summary = ""
 grammar_comment = ""
@@ -9009,7 +8579,6 @@ Kappitaka
 He was *upajjhāya* to Upāli, and once lived in a cemetery near Vesāli. In the cemetery the group of six nuns buried the ashes of one of their leaders and erected a shrine near Kappitaka’s cell. The Elder, disturbed by the sound of their lamentations, broke the shrine and scattered the materials. The nuns, greatly angered, plotted to kill him, but he was warned by Upāli, and lay hidden elsewhere until the nuns had destroyed his cell and gone away under the impression that he was dead. The nuns blamed Upāli for upsetting their arrangements. Vin.iv.308
 
 ``` toml
-dict_label = "DPPN"
 word = "kappāsika vanasaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -9029,7 +8598,6 @@ A grove near Uruvelā. There the a group of men came across the Buddha while see
 24.69318, 84.938043park
 
 ``` toml
-dict_label = "DPPN"
 word = "karatiya"
 summary = ""
 grammar_comment = ""
@@ -9047,7 +8615,6 @@ Karatiya
 A Yakkha, mentioned in the Āṭānāṭiya Sutta as being one of the chief Yakkhas who should be invoked by followers of the Buddha when they need protection. DN.iii.204
 
 ``` toml
-dict_label = "DPPN"
 word = "karerikuṭikā"
 summary = ""
 grammar_comment = ""
@@ -9067,7 +8634,6 @@ A building in the Jetavana where the Mahāpadāna Sutta was taught. DN.ii.1*ff.*
 Jetavana3building
 
 ``` toml
-dict_label = "DPPN"
 word = "karerimaṇḍalamāḷa"
 summary = ""
 grammar_comment = ""
@@ -9087,7 +8653,6 @@ A pavilion near the Karerikutikā, evidently a hall with a thatched roof support
 Jetavana3building
 
 ``` toml
-dict_label = "DPPN"
 word = "karumhā"
 summary = ""
 grammar_comment = ""
@@ -9105,7 +8670,6 @@ Karumhā
 A class of spirits, present at the Mahāsamaya. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "kasivantā"
 summary = ""
 grammar_comment = ""
@@ -9125,7 +8689,6 @@ A city to the north of Uttarakuru. DN.iii.201
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "kassapa"
 summary = ""
 grammar_comment = ""
@@ -9167,7 +8730,6 @@ See also Acela Kassapa, Uruvelā Kassapa, Kumāra°, Gayā°, Dasabala°, Nadī�
 Kassapa was evidently a well\-known gotta name and people born in a family bearing that name were often addressed as Kassapa—e.g., Uruvelā\-Kassapa or Nāgita Thera. DN.i.151
 
 ``` toml
-dict_label = "DPPN"
 word = "kassapagotta"
 summary = ""
 grammar_comment = ""
@@ -9193,7 +8755,6 @@ Kassapagotta<sup>3</sup>
 A monk, perhaps to be identified with one of the others of the same name. He was once staying in a forest tract in Kosala and, seeing a trapper pursuing deer, intervened and protested against the man’s earning his living by such cruel means. The trapper was too preoccupied with his quarry to pay much attention to what was said. A deva of the forest drew near the monk and instructed him not to waste his time in preaching to a man who heard but did not understand what was being said. Kassapa was agitated and, according to the Commentary, gave himself up to much striving and became an arahant. SN.i.198*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kassapakārāma"
 summary = ""
 grammar_comment = ""
@@ -9213,7 +8774,6 @@ A monastery in Rājagaha, probably near Veḷuvana. It was here that Assaji stay
 25.01281,85.39143monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "kasībhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -9231,7 +8791,6 @@ Kasībhāradvāja
 A brahmin of the Bhāradvāja clan, living at Ekanālā, in Dakkhiṇāgiri, and so called on account of his profession of agriculture. On the day of his festive sowing, the Buddha visited him alone, and stood near the place where food was being distributed to a very large number of people engaged in the festival. The brahmin, seeing the Buddha begging for alms, suggests that the Buddha should work for his living—plough and sow just as he does. The Buddha answers that he, too, is a farmer, and explains his meaning to the bewildered brahmin, who, greatly pleased, offers him a large bowl filled with milk\-rice. The Buddha refuses the gift on the plea that Buddhas never accept wages for their sermons. At the Buddha’s own suggestion the food is cast into the river because no one is capable of digesting food once offered to a Tathāgata. When the rice touches the water it crackles and smokes and the brahmin, greatly marvelling, falls at the Buddha’s feet and professes himself henceforth the Buddha’s follower. Snp.12*ff.* SN.i.171*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "katamorakatissa"
 summary = ""
 grammar_comment = ""
@@ -9253,7 +8812,6 @@ On another occasion, wishing to ordain a nun who was going through a probationar
 Katamorakatissaka was one of the monks about whom dissatisfaction was expressed to the Buddha, by the two Pacceka\-brahma, Subrahmā and Suddhāvāsa. S.i.148.
 
 ``` toml
-dict_label = "DPPN"
 word = "katissabha"
 summary = ""
 grammar_comment = ""
@@ -9271,7 +8829,6 @@ KatissabhaKaṭissaha
 A lay disciple of the Buddha at Nādikā, one of those, who, after their death, were declared by the Buddha, in answer to a question by Ānanda, to have destroyed the five orambhāgiya fetters and to have become inheritors of the highest heaven, thence never to return. DN.ii.92 SN.v.358*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kattikā"
 summary = ""
 grammar_comment = ""
@@ -9289,7 +8846,6 @@ Kattikā
 Name of a constellation and also of a month (October to November), during which the full moon is near the constellation of Pleiades. It is the last month of the rainy season.
 
 ``` toml
-dict_label = "DPPN"
 word = "kaḷimbha"
 summary = ""
 grammar_comment = ""
@@ -9307,7 +8863,6 @@ KaḷimbhaKalimma
 One of the monks who lived in the Kūṭāgārasālā in Vesālī. Finding that the peace of the Mahāvana was being disturbed by the Licchavis who came to see the Buddha, he, with the other monks, went to Gosiṅgasālavana. AN.v.133*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kaḷārajanaka"
 summary = ""
 grammar_comment = ""
@@ -9325,7 +8880,6 @@ Kaḷārajanaka
 King of Mithilā. He was the son of Nimi and belonged to the Makhādeva dynasty. Whereas other kings of his race left the household at the approach of old age, he broke the tradition by not doing so. He was the last king of this dynasty. His son was called Samankara. MN.ii.82
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇha"
 summary = ""
 grammar_comment = ""
@@ -9347,7 +8901,6 @@ Kaṇha<sup>2</sup>
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.71
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇhadinna"
 summary = ""
 grammar_comment = ""
@@ -9365,7 +8918,6 @@ Kaṇhadinna
 A monk whose Theragāthā verses describe how he heard the Dhamma, practiced, and overcame all defileents. Thag.179–180
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇhāgotamikā"
 summary = ""
 grammar_comment = ""
@@ -9383,7 +8935,6 @@ KaṇhāgotamikāKaṇhāgotamaka
 A royal family of Nāgas. AN.ii.72
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇhāyanā"
 summary = ""
 grammar_comment = ""
@@ -9401,7 +8952,6 @@ Kaṇhāyanā
 The name of the family to which belonged Ambaṭṭha. DN.i.93 The family was descended from a sage named Kaṇha.
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇḍakīvana"
 summary = ""
 grammar_comment = ""
@@ -9421,7 +8971,6 @@ A grove near Sāketa. The conversation which took place there between Sāriputta
 26.79741, 82.214812park
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇṇakatthala"
 summary = ""
 grammar_comment = ""
@@ -9441,7 +8990,6 @@ A deer\-park in Ujuññā. There the Buddha sometimes stayed; he was once visite
 Ujuññā3park
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇṇakujja"
 summary = ""
 grammar_comment = ""
@@ -9461,7 +9009,6 @@ A district in India. it is mentioned in a list of places passed by the Buddha on
 Verañja to Bārāṇasī, across the Ganges, the route passing through Verañja, Soreyya, Saṅkassa, Kaṇṇakujja, Payāgatiṭṭha2region
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇṇamuṇḍā"
 summary = ""
 grammar_comment = ""
@@ -9481,7 +9028,6 @@ One of the seven great lakes of the Himalaya. AN.iv.101
 Himalaya3lake
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇṭaka"
 summary = ""
 grammar_comment = ""
@@ -9499,7 +9045,6 @@ Kaṇṭaka Kaṇḍaka
 A novice ordained by Upananda. Kaṇṭaka committed an offence with another novice, Mahaka. When this became known, a rule was passed that no monk should ordain two novices Vin.i.79 ; this rule was, however, later rescinded. Vin.i.83 Elsewhere, Vin.i.85 Kaṇṭaka is mentioned as being expelled from the Order for having had sexual intercourse with a nun, Kaṇṭakā by name. According to the Pācittiya, Vin.iv.138*f.* Kaṇṭaka held the same false views as Ariṭṭha, and for that reason he was expelled from the Saṅgha. The Chabbaggiyā monks, however, received him into their ranks and gave him every encouragement.
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṇṭakā"
 summary = ""
 grammar_comment = ""
@@ -9517,7 +9062,6 @@ KaṇṭakāKaṇḍakā
 A nun who was guilty of unchastity with the novice Kaṇṭaka. Vin.i.85
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṭissaha"
 summary = ""
 grammar_comment = ""
@@ -9535,7 +9079,6 @@ Kaṭissaha
 He was one of those who were staying with the Buddha at the Kūṭāgārasālā in Vesāli. When the Licchavis began to visit the Buddha in large numbers, they left the monastery and retired to places of solitude, such as Gosiṅgasālavana. AN.v.133
 
 ``` toml
-dict_label = "DPPN"
 word = "kaṭṭhakā"
 summary = ""
 grammar_comment = ""
@@ -9553,7 +9096,6 @@ KaṭṭhakāKathakā
 A class of devas present at the Mahāsamaya. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "kesamutta"
 summary = ""
 grammar_comment = ""
@@ -9573,7 +9115,6 @@ A township of the Kosalans and the residence of the Kālāmas. The Buddha once s
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "kesava"
 summary = ""
 grammar_comment = ""
@@ -9591,7 +9132,6 @@ Kesava
 An ascetic in Himavā. He is identified with Baka Brahmā. SN.i.144
 
 ``` toml
-dict_label = "DPPN"
 word = "ketumbarāga"
 summary = ""
 grammar_comment = ""
@@ -9609,7 +9149,6 @@ Ketumbarāga
 The name of a Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "ketumā"
 summary = ""
 grammar_comment = ""
@@ -9627,7 +9166,6 @@ Ketumā
 A Pacceka Buddha, mentioned in a list of their names. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "kevaṭṭa "
 summary = ""
 grammar_comment = ""
@@ -9645,7 +9183,6 @@ Kevaṭṭa KevaḍḍhaKevaddha
 A householder of Nāḷandā. Once when the Buddha was staying in the Pāvārika\-ambavana at Nāḷandā, Kevaṭṭa visited him. The interview is recorded in the Kevaṭṭa Sutta. DN.i.211*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "keṇiya "
 summary = ""
 grammar_comment = ""
@@ -9665,7 +9202,6 @@ A brahmanical matted hair ascetic. He lived in Āpaṇa, and when the Buddha onc
 According to the Sutta Nipāta Snp.p.104 MN.ii.146*f.* it was owing to the elaborate preparations made by Keṇiya for the meal to the Buddha and the Saṅgha that the brahmin Sela, friend and counsellor of Keṇiya, came to discover the Buddha’s presence in Āpaṇa. The result was the conversion and ordination of Sela and his three hundred pupils.
 
 ``` toml
-dict_label = "DPPN"
 word = "khara"
 summary = ""
 grammar_comment = ""
@@ -9683,7 +9219,6 @@ Khara
 A *yakkha*, friend of Sūciloma. He was passing through Gayā with Sūciloma when the latter questioned the Buddha on his doctrine, as recorded in the Sūciloma Sutta. SN.i.207*f.* Snp.p.47*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "khattiyānī"
 summary = ""
 grammar_comment = ""
@@ -9701,7 +9236,6 @@ KhattiyānīVelāmikā
 Chief of the eighty\-four thousand women who waited on the Bodhisatta when he was once a mighty king Mahāsudassana of Kusāvatī. SN.iii.146 DN.ii.188
 
 ``` toml
-dict_label = "DPPN"
 word = "khaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -9719,7 +9253,6 @@ Khaṇḍa
 The chief disciple of Vipassī Buddha. DN.ii.11 DN.ii.40
 
 ``` toml
-dict_label = "DPPN"
 word = "khaṇḍadeva"
 summary = ""
 grammar_comment = ""
@@ -9737,7 +9270,6 @@ Khaṇḍadeva
 A monk. He had been a disciple of the Buddha and was born in the Aviha Brahma\-world, where he attained to arahantship at the moment of his birth. He is mentioned with six others, all in like circumstances, by Ghaṭīkāra, on the occasion of a visit he paid to the Buddha. SN.i.35 SN.i.60
 
 ``` toml
-dict_label = "DPPN"
 word = "khaṇḍadeviyāputta"
 summary = ""
 grammar_comment = ""
@@ -9755,7 +9287,6 @@ Khaṇḍadeviyāputta
 A monk, one of the associates of Devadatta, mentioned with Kokālika, Katamoraka Tissa and Samuddadatta. They helped Devadatta in his attempt to cause a rift in the Saṅgha.Vin.ii.196 Vin.iii.171 Khaṇḍadeviyāputta defended Devadatta when others blamed him Vin.iii.174 and was held in great esteem by Thullanandā. Vin.iii.66 Vin.iv.335
 
 ``` toml
-dict_label = "DPPN"
 word = "khaṇḍasumana"
 summary = ""
 grammar_comment = ""
@@ -9773,7 +9304,6 @@ Khaṇḍasumana
 A monk whose Theragāthā verse says that he made an offering of one flower, dwelt in heaven a long period, then became enlightened. Thag.96
 
 ``` toml
-dict_label = "DPPN"
 word = "khema"
 summary = ""
 grammar_comment = ""
@@ -9799,7 +9329,6 @@ Khema<sup>3</sup>
 An arahant. AN.iii.358
 
 ``` toml
-dict_label = "DPPN"
 word = "khemaka"
 summary = ""
 grammar_comment = ""
@@ -9817,7 +9346,6 @@ Khemaka
 An arahant. Once, when he lay very ill at the Badarikārāmā, near Kosambī, some monks, staying at the Ghositārāma, sent one of their number, Dāsaka, with a message to Khemaka, inquiring whether he managed to bear his pains. Dāsaka returned with the reply that he did not; he was sent again to ask if Khemaka had seen the self in the five *khandhas*; when Dāsaka returned with the answer that he had not, be was sent a third time to ask whether Khemaka was an arahant. “No,” came the answer, and Dāsaka had to visit him a fourth time with the inquiry, What did Khemaka mean by self? In exasperation Khemaka came himself to Ghositārāma and explained how, even when the Noble Disciple has put away the five lower fetters, there still clings to him a subtle remnant of the “I” conceit. It is said that as a result of the sermon Khemaka himself and sixty others became arahants. SN.iii.126*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "khemavatī"
 summary = ""
 grammar_comment = ""
@@ -9837,7 +9365,6 @@ The capital of King Khemaṅkara and the birthplace of Kakusandha. DN.ii.7
 4town
 
 ``` toml
-dict_label = "DPPN"
 word = "khemaṅkara"
 summary = ""
 grammar_comment = ""
@@ -9859,7 +9386,6 @@ Khemaṅkara<sup>2</sup>KhemaKhemākara
 The king of Khema or Khemavatī, where the Buddha Kakusandha was born. DN.ii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "khemiyambavana"
 summary = ""
 grammar_comment = ""
@@ -9879,7 +9405,6 @@ A mango grove near Benares. Udena once stayed there and preached the Ghoṭamukh
 25.26829, 82.941283park
 
 ``` toml
-dict_label = "DPPN"
 word = "khemiyā"
 summary = ""
 grammar_comment = ""
@@ -9897,7 +9422,6 @@ Khemiyā
 A class of gods, present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "khemā "
 summary = ""
 grammar_comment = ""
@@ -9917,7 +9441,6 @@ An arahant, chief of the Buddha’s women disciples for her great wisdom. AN.i.2
 Once when Khemā was at Toraṇavatthu, between Sāvatthī and Sāketa, Pasenadi, who happened to spend one night there, heard of her presence and went to see her. He questioned her as to whether or not the Buddha existed after death. She explained the matter to him in various ways, and Pasenadi, delighted with her exposition, related it to the Buddha. SN.iv.374*ff.* She is mentioned in several places AN.i.88 AN.ii.164 AN.iv.347 SN.ii.236 as the highest ideal of womanhood worthy of imitation, and is described as the nun par excellence.
 
 ``` toml
-dict_label = "DPPN"
 word = "khemābhirata"
 summary = ""
 grammar_comment = ""
@@ -9935,7 +9458,6 @@ Khemābhirata
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "khitaka"
 summary = ""
 grammar_comment = ""
@@ -9957,7 +9479,6 @@ Khitaka<sup>2</sup>
 A monk whose Theragāthā verse speaks of one who stands firm like a rock among painful experiences. Thag.191–192
 
 ``` toml
-dict_label = "DPPN"
 word = "khiḍḍāpadosikā"
 summary = ""
 grammar_comment = ""
@@ -9975,7 +9496,6 @@ KhiḍḍāpadosikāKhiḍḍāpadūsikā
 A class of devas who live in the Cātummahārājika world. For ages they spend their time in laughter and in sport of sensual lusts. In consequence their self\-possession is corrupted and they fall from their state. DN.i.19 They were present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "khomadussa"
 summary = ""
 grammar_comment = ""
@@ -9995,7 +9515,6 @@ A township in the Sākyan country. The Buddha once stayed there and preached to 
 27.36688,83.215933town
 
 ``` toml
-dict_label = "DPPN"
 word = "khomadussakā"
 summary = ""
 grammar_comment = ""
@@ -10013,7 +9532,6 @@ Khomadussakā
 An inhabitant of Khomadussa. SN.i.184
 
 ``` toml
-dict_label = "DPPN"
 word = "khujjasobhita"
 summary = ""
 grammar_comment = ""
@@ -10031,7 +9549,6 @@ Khujjasobhita
 A monk whose Theragāthā verses speak of learned ascetics of Pāṭaliputta. Thag.234–236 He was evidently one of the Pācīnaka ('Eastern”) monks who proclaimed the ten indulgences at Vesāli. He was one of their representatives on the Committee of the Saṅgha appointed to settle the dispute between the monks of Vesāli and the orthodox monks. Vin.ii.305
 
 ``` toml
-dict_label = "DPPN"
 word = "khujjuttarā"
 summary = ""
 grammar_comment = ""
@@ -10051,7 +9568,6 @@ The Buddha declared her foremost among lay women by reason of her extensive know
 Khujjuttarā is several times mentioned as the paragon among lay\-women disciples. AN.i.88 AN.ii.164 AN.iv.368 SN.ii.236
 
 ``` toml
-dict_label = "DPPN"
 word = "khārodakā"
 summary = ""
 grammar_comment = ""
@@ -10071,7 +9587,6 @@ A river in Avīci, flowing alongside the Asipattavana. MN.iii.185
 5river
 
 ``` toml
-dict_label = "DPPN"
 word = "khāṇumata"
 summary = ""
 grammar_comment = ""
@@ -10091,7 +9606,6 @@ A brahmin village of Māgadha, presented to Kūṭadanta by Bimbisāra. The Budd
 Māgadha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "kikī"
 summary = ""
 grammar_comment = ""
@@ -10109,7 +9623,6 @@ Kikī
 King of Benares at the time of the Buddha Kassapa. When the Buddha arrived in Benares, the king, having listened to his sermon, entertained the Buddha and his monks at the palace. When the Buddha was asked to spend the rainy season there he refused, as he had already accepted the invitation of Ghaṭīkāra of Vehaliṅga. Kikī was at first hurt by the refusal, but when the Buddha described Ghaṭīkāra’s virtues, the king was pleased and sent five hundred cartloads of provisions to Ghaṭīkāra who, however, curtly refused the gift. DN.ii.7 MN.ii.49*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kimbila"
 summary = ""
 grammar_comment = ""
@@ -10131,7 +9644,6 @@ In three different places in the Aṅguttara Nikāya AN.iii.247 AN.iii.339 AN.iv
 Elsewhere SN.v.322*f.* the Buddha is reported as questioning Kimbila at the same spot on the question of breathing. Kimbila remains silent though the question is put three times. Ānanda intervenes and suggests that the Buddha should himself furnish the answer so that the monks may learn it and profit thereby.
 
 ``` toml
-dict_label = "DPPN"
 word = "kimilā"
 summary = ""
 grammar_comment = ""
@@ -10151,7 +9663,6 @@ A town on the banks of the Ganges. It was in a bamboo grove where the Buddha sta
 Ayojjhā3park
 
 ``` toml
-dict_label = "DPPN"
 word = "kinnughaṇḍu"
 summary = ""
 grammar_comment = ""
@@ -10169,7 +9680,6 @@ Kinnughaṇḍu
 One of the great Yakkhas, mentioned in the Āṭānāṭiya Sutta, to be invoked when disciples of the Buddha are worried by evil spirits. DN.iii.204 He is one of the vassals of the Four Regent Gods. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "kirapatika"
 summary = ""
 grammar_comment = ""
@@ -10187,7 +9697,6 @@ Kirapatika
 A household of Vesalī, a pious follower of the Buddha. Once when the Buddha was staying in Vesalī, a poor man, wishing to give alms to him and to the monks, asked Kirapatika for money to provide the alms; Kirapatika gladly gave him much money and the Buddha and the monks were invited. But the monks, having heard of the man’s poverty, had a full meal earlier, so that when the man served them with the food he had prepared they could eat but very little. The man was greatly offended and the Buddha, hearing of it, made an order to the monks prohibiting such conduct. Vin.iv.75*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kisasaṅkicca"
 summary = ""
 grammar_comment = ""
@@ -10207,7 +9716,6 @@ A naked ascetic, contemporary with the Buddha and evidently a well\-known head o
 Kisasankicca is spoken of as one of the three shining lights of the Ajivakas MN.i.524 and is classified among the “pure white class” in the six classes of the Ajīvakas. AN.iii.384
 
 ``` toml
-dict_label = "DPPN"
 word = "kisāgotamī "
 summary = ""
 grammar_comment = ""
@@ -10229,7 +9737,6 @@ In her Therīgāthā verses Thig.213–223 her story is like that of Paṭācār
 The Saṃyutta Nikāya SN.i.129*f.* records a visit paid to her by Māra as she sat resting in Andhavana. He was forced to retire discomfited.
 
 ``` toml
-dict_label = "DPPN"
 word = "kokanada"
 summary = ""
 grammar_comment = ""
@@ -10249,7 +9756,6 @@ The palace of Bodhirājakumāra, to which he invited the Buddha and the monks to
 Bhesakalāvana3building
 
 ``` toml
-dict_label = "DPPN"
 word = "kokanadā"
 summary = ""
 grammar_comment = ""
@@ -10267,7 +9773,6 @@ Kokanadā
 Two daughters of Pajjunna, both called Kokanadā, though the younger was sometimes called Cūḷa\-Kokanadā. They visited the Buddha at the Kūṭāgārasālā and spoke verses in praise of the Buddha, the Dhamma and the Saṅgha. SN.i.29*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kokanuda"
 summary = ""
 grammar_comment = ""
@@ -10285,7 +9790,6 @@ KokanudaKokanada
 A Paribbājaka. He meets Ānanda on the banks of the Tapodā, where they are both bathing, and enters into conversation with him. Kokanuda asks Ānanda a series of questions, such as whether the world is eternal, whether the Tathāgata lives after death, etc., all of which, Ānanda says, are impossible to answer, not because he himself does not know these things, but because he does know them. Finally, Kokanuda asks Ānanda who he is, and, on learning his identity, asks his pardon for his questions which he had asked in all ignorance. AN.v.196*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kokālika"
 summary = ""
 grammar_comment = ""
@@ -10303,7 +9807,6 @@ KokālikaKokāliya
 A monk, one of the chief partisans of Devadatta. Knowing the Buddha’s might, he was, at first, reluctant to join in Devadatta’s plot against him, but later allowed himself to be persuaded on hearing the scheme explained.Vin.ii.196 Vin.iii.171 When the monks blamed Devadatta for his misdeeds, Kokālika was always ready to defend him.Vin.iii.174 He was a great friend of Thullanandā. Vin.iv.335 Kokālika spoke ill of the Chief Disciples. Having three times accused the Elders of sinful desires, he left Jetavana, but boils immediately came out on his body, swelling and bursting. Groaning with pain, he fell down at the gate of Jetavana. Kokālika died and was born in Paduma\-niraya. SN.i.149*ff.* AN.v.171*f.* Snp.123*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "koliyaputta"
 summary = ""
 grammar_comment = ""
@@ -10321,7 +9824,6 @@ Koliyaputta
 An epithet of Kakudha, Moggallāna’s attendant. Vinii.185
 
 ``` toml
-dict_label = "DPPN"
 word = "komudi"
 summary = ""
 grammar_comment = ""
@@ -10339,7 +9841,6 @@ Komudi
 The full\-moon day of the fourth month, Kattika, usually found in the phrase Komudi Cātumāsini. Vin.i.155 Vin.i.176*f.* DN.i.47 MN.iii.79 MN.iii.80
 
 ``` toml
-dict_label = "DPPN"
 word = "korabya"
 summary = ""
 grammar_comment = ""
@@ -10357,7 +9858,6 @@ KorabyaKoravyaKorabba
 Perhaps the generic name given to the king of the Kurūs. The Aṅguttara Nikāya AN.iii.369*f.* mentions a king Koravya who owned a large banyan tree named Suppatiṭṭha. According to the Raṭṭhapāla Sutta, MN.ii.65 Thag.776.*ff.* in the Buddha’s day, too, the ruler of Kuru was called Koravyarājā, and he owned a park which seems to have been called Migacīra.
 
 ``` toml
-dict_label = "DPPN"
 word = "korakkhatta"
 summary = ""
 grammar_comment = ""
@@ -10375,7 +9875,6 @@ KorakkhattaKorakkhattiya
 A naked ascetic in Uttarakā. He bellowed like a dog, walked on all fours, and licked up food with his mouth only. Sunakkhatta saw him and greatly admired him, but the Buddha prophesied that Korakkhatta would, in seven days, die of epilepsy and be born among the Kālakañjakas. The prophecy proved true, and Sunakkhatta learnt the truth from Korakkhatta’s corpse. DN.iii.6*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "koratiya"
 summary = ""
 grammar_comment = ""
@@ -10393,7 +9892,6 @@ Koratiya
 One of the greater Yakkhas who should be invoked by a follower of the Buddha when assailed by evil spirits. DN.iii.204
 
 ``` toml
-dict_label = "DPPN"
 word = "kosala"
 summary = ""
 grammar_comment = ""
@@ -10425,7 +9923,6 @@ Kosala is often mentioned in combination with Kāsi in the compound Kāsi\-Kosal
 A Pacceka Buddha, mentioned in a list of names. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "kosalakā"
 summary = ""
 grammar_comment = ""
@@ -10443,7 +9940,6 @@ Kosalakā
 The inhabitants of Kosala. DN.i.150
 
 ``` toml
-dict_label = "DPPN"
 word = "kosalavihārī"
 summary = ""
 grammar_comment = ""
@@ -10461,7 +9957,6 @@ KosalavihārīKosallavihārī
 A monk whose Theragāthā verses say that he went forth in faith and dwells diligently in a forest hut. Thag.59
 
 ``` toml
-dict_label = "DPPN"
 word = "kosambakā"
 summary = ""
 grammar_comment = ""
@@ -10479,7 +9974,6 @@ Kosambakā
 The monks of Kosambī, who brought about schism in the Order.
 
 ``` toml
-dict_label = "DPPN"
 word = "kosambī"
 summary = ""
 grammar_comment = ""
@@ -10513,7 +10007,6 @@ Kosambī is mentioned in the Saṃyutta Nikāya SN.iv.179 as being on the Ganges
 25.338984,81.3928991town
 
 ``` toml
-dict_label = "DPPN"
 word = "kosinārakā"
 summary = ""
 grammar_comment = ""
@@ -10531,7 +10024,6 @@ Kosinārakā
 Inhabitants of Kusinārā. Vin.i.247
 
 ``` toml
-dict_label = "DPPN"
 word = "kosiya"
 summary = ""
 grammar_comment = ""
@@ -10555,7 +10047,6 @@ Kosiya<sup>2</sup>
 A monk whose Theragāthā verses emphasize the importance of listening to a teacher and being reflective and learned. Thag.370–374
 
 ``` toml
-dict_label = "DPPN"
 word = "koḷiyā"
 summary = ""
 grammar_comment = ""
@@ -10581,7 +10072,6 @@ After the Buddha’s death the Koliyans of Rāmagāma claimed and obtained one\-
 27.46319, 83.669121region
 
 ``` toml
-dict_label = "DPPN"
 word = "koṇāgamana"
 summary = ""
 grammar_comment = ""
@@ -10601,7 +10091,6 @@ The second Buddha to be born in the Bhaddakappa. He was a brahman of the Kassapa
 In Koṇāgamana’s time Mount Vepulla was known as Vaṅkaka, and the people living on the mountain were called Rohitassā, their term of life being thirty thousand years. SN.ii.191
 
 ``` toml
-dict_label = "DPPN"
 word = "koṇḍañña"
 summary = ""
 grammar_comment = ""
@@ -10619,7 +10108,6 @@ Koṇḍañña
 The name of a clan (*gotta*). It was evidently common to both brahmans and *khattiya*s, for we find the brahman Aññāta\-Koṇḍañña belonging to it, as well as the three Buddhas Vipassī, Sikhī and Vessabhū, all *khattiya*s. DN.ii.3*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "koṭigāma"
 summary = ""
 grammar_comment = ""
@@ -10641,7 +10129,6 @@ According to the Saṃyutta Nikāya, SN.v.431 Koṭigāma was a village of the V
 25.655498,85.2030942town
 
 ``` toml
-dict_label = "DPPN"
 word = "kuddāla"
 summary = ""
 grammar_comment = ""
@@ -10659,7 +10146,6 @@ KuddālaKuddālaka
 He is mentioned in a list of six famous teachers of the past, who were well known for their pious and holy lives. They had numerous followers and, after death, were born in the Brahma\-world. AN.iii.371 AN.iii.373 AN.iv.135
 
 ``` toml
-dict_label = "DPPN"
 word = "kukkuṭārāma"
 summary = ""
 grammar_comment = ""
@@ -10679,7 +10165,6 @@ A park in Pāṭaliputta. It was evidently the residence of monks from very earl
 25.535, 85.200343monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "kulavaddhaka"
 summary = ""
 grammar_comment = ""
@@ -10697,7 +10182,6 @@ Kulavaddhaka
 Given as a name used ironically to insult another. Vin.iv.8
 
 ``` toml
-dict_label = "DPPN"
 word = "kulla"
 summary = ""
 grammar_comment = ""
@@ -10715,7 +10199,6 @@ Kulla
 The Theragāthā verses Thag.393–398 ascribed to him speak of the contemplation of the foulness of the body.
 
 ``` toml
-dict_label = "DPPN"
 word = "kumbhaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -10733,7 +10216,6 @@ Kumbhaṇḍa
 A class of spirits mentioned with Yakkhas, Asuras and Nāgas. They live in the South and Virūḷha is their king. DN.ii.257 DN.iii.198
 
 ``` toml
-dict_label = "DPPN"
 word = "kumbhīra"
 summary = ""
 grammar_comment = ""
@@ -10751,7 +10233,6 @@ Kumbhīra
 A Yakkha who lived in the Vepulla mountain outside Rājagaha. He was present at the preaching of the Mahāsamaya Sutta with a train of over one hundred thousand. DN.ii.257
 
 ``` toml
-dict_label = "DPPN"
 word = "kumuda"
 summary = ""
 grammar_comment = ""
@@ -10771,7 +10252,6 @@ A hell, or a period of suffering. It is equal to twelve Padumas. The Kokālika m
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "kumārakassapa "
 summary = ""
 grammar_comment = ""
@@ -10793,7 +10273,6 @@ Two verses of deep significance ascribed to Kumāra\-Kassapa are found in the Th
 Kassapa’s upasampadā took place in his twentieth year. A doubt arose as to whether this was valid because, according to the rule, twenty years must be completed for upasampadā. The Buddha held that in reckoning the age the time spent in the mother’s womb could also be included. Vin.i.93
 
 ``` toml
-dict_label = "DPPN"
 word = "kuru"
 summary = ""
 grammar_comment = ""
@@ -10815,7 +10294,6 @@ The Kuru country is generally identified as the district around Thānesar, with 
 29.17, 78.021janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "kusinārā"
 summary = ""
 grammar_comment = ""
@@ -10843,7 +10321,6 @@ The people of Kusinārā are called Kosinārakā. DN.ii.167
 26.739416,83.8900411town
 
 ``` toml
-dict_label = "DPPN"
 word = "kusināṭā"
 summary = ""
 grammar_comment = ""
@@ -10863,7 +10340,6 @@ One of the cities of Uttarakuru. DN.iii.200
 town
 
 ``` toml
-dict_label = "DPPN"
 word = "kuvera"
 summary = ""
 grammar_comment = ""
@@ -10881,7 +10357,6 @@ KuveraKubera
 King of Uttarakuru. His royal residence is Āḷakamandā and his citadel Visāṇā. His messengers are Tatolā, Tattolā, Tatotalā, Ojasi, Tejasi, Tatojasī, Sūra, Rāja, Ariṭṭha and Nemi. His lotus\-lake is called Dharaṇī. His sons are all called Inda. DN.iii.201*f.* He rules over the northern clime and is lord of the Yakkhas, with a splendid retinue. DN.ii.257 He is a follower of the Buddha. Snp.379
 
 ``` toml
-dict_label = "DPPN"
 word = "kuveranālinī"
 summary = ""
 grammar_comment = ""
@@ -10899,7 +10374,6 @@ Kuveranālinī
 A name given to Dharaṇī. DN.iii.202
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṇālā"
 summary = ""
 grammar_comment = ""
@@ -10919,7 +10393,6 @@ The name of a river which flows out of the Kuṇāladaha. It dries up when, at t
 4river
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṇḍadhāna"
 summary = ""
 grammar_comment = ""
@@ -10939,7 +10412,6 @@ A monk whose Theragāthā verse speaks of cutting off or developing five things.
 Kuṇḍadhāna was among those to whom the Buddha preached the Naḷakapāna Sutta, and was therefore probably a friend of Anuruddha and the other Sākyan nobles present on that occasion. MN.i.462
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṇḍadhānavana"
 summary = ""
 grammar_comment = ""
@@ -10959,7 +10431,6 @@ It was while the Buddha was dwelling in this monastery that Suppavāsā gave bir
 near the Koliyan village of Kundiya3monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṇḍala"
 summary = ""
 grammar_comment = ""
@@ -10977,7 +10448,6 @@ KuṇḍalaKulakuṇḍalaKuḷakuṇḍalaKulaKuḷa
 The verse attributed to Kundala in the Theragāthā Thag.19 occurs twice in the Dhammapada
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṇḍaliya"
 summary = ""
 grammar_comment = ""
@@ -10997,7 +10467,6 @@ A Paribbājaka who visits the Buddha at the Añjanavana in Sāketa. He asks the 
 The conversation leads to a discussion of the bojjhangas, the satipaṭṭhāna, and virtuous ways of behaviour. At the end of the discussion Kuṇḍaliya becomes the Buddha’s follower. SN.v.73*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṭeṇḍu"
 summary = ""
 grammar_comment = ""
@@ -11015,7 +10484,6 @@ Kuṭeṇḍu
 A vassal of the Cātummahārājikas, present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "kuṭivihārī"
 summary = ""
 grammar_comment = ""
@@ -11037,7 +10505,6 @@ Kuṭivihārī<sup>2</sup>
 A monk whose Theragāthā verse is an encouragement to be content with his old hut. Thag.57
 
 ``` toml
-dict_label = "DPPN"
 word = "kāka"
 summary = ""
 grammar_comment = ""
@@ -11057,7 +10524,6 @@ Slave of King Caṇḍapajjota. His father was non\-human, and he himself could 
 Kāka came upon the physician at Kosambī having his breakfast. Jīvaka invited him to eat, but he refused. In the end, however, he consented to eat half a myrobalan, which he thought would be harmless, but into which Jīvaka had introduced some drug hidden in his finger nail. Kāka purged violently and was very alarmed. Jīvaka told him that all he desired was for him to be slightly delayed and left him, after having handed over to him the elephant Bhaddavatikā, which he had used in his flight. Vin.i.277*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kāla"
 summary = ""
 grammar_comment = ""
@@ -11075,7 +10541,6 @@ Kāla
 A Pacceka Buddha, mentioned in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "kālakañjakā"
 summary = ""
 grammar_comment = ""
@@ -11093,7 +10558,6 @@ Kālakañjakā
 A class of Asuras. They were present at the Mahāsamaya, and are spoken of as being of a fearsome shape. DN.ii.259 They are the very lowest of the Asura groups, and the Buddha warns Sunakkhatta that Korakkhattiya will, after his death from epilepsy, be born among them; and it did so happen. DN.iii.7*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kālakhemaka"
 summary = ""
 grammar_comment = ""
@@ -11111,7 +10575,6 @@ Kālakhemaka
 A Sākyan. His name was Khemaka, but as he was dark he was called Kālakhemaka. He built a monastery in Nigrodhārāma, near Kapilavatthu, and once, during robe\-making time, many monks lived there. On this occasion the Buddha preached the Mahā\-Suññatā Sutta. MN.iii.109
 
 ``` toml
-dict_label = "DPPN"
 word = "kāliṅga"
 summary = ""
 grammar_comment = ""
@@ -11137,7 +10600,6 @@ It is not, however, included in the list of sixteen Janapadas appearing in the A
 20.525,86.4751region
 
 ``` toml
-dict_label = "DPPN"
 word = "kālāma"
 summary = ""
 grammar_comment = ""
@@ -11155,7 +10617,6 @@ Kālāma<sup>1</sup>
 The name of a family. Mention is made of a town belonging to them in Kosala, which was called Kesaputta. The sermon preached by the Buddha on his visit to Kesaputta is justly famous. AN.i.188*ff.* Among members of this family specially mentioned by name are Bharaṇḍu\-Kālāma, who was once a co\-disciple of the Bodhisatta, and Āḷāra\-Kālāma, the teacher of Gotama before his Enlightenment.
 
 ``` toml
-dict_label = "DPPN"
 word = "kāmabhū"
 summary = ""
 grammar_comment = ""
@@ -11173,7 +10634,6 @@ Kāmabhū
 A monk, evidently held in high esteem by his colleagues. He is mentioned as staying in Kosambī, in Ghosita Park, and as asking Ānanda certain questions, recorded in the Kāmabhū Sutta. SN.iv.165 Two other suttas bearing the same name record visits paid to Kāmabhū by Cittagahapati at Ambāṭakavana in Macchikāsaṇḍa. SN.iv.291 SN.iv.293
 
 ``` toml
-dict_label = "DPPN"
 word = "kāmada"
 summary = ""
 grammar_comment = ""
@@ -11191,7 +10651,6 @@ Kāmada
 A *devaputta* who visited the Buddha and told him that the path of the Ariyan disciples was hard to follow and their goal hard to win. The Buddha pointed out to him that the difficult thing had been and was being accomplished. SN.i.48
 
 ``` toml
-dict_label = "DPPN"
 word = "kāmaseṭṭha"
 summary = ""
 grammar_comment = ""
@@ -11211,7 +10670,6 @@ One of the greater *yakkhas* who should be invoked if any follower of the Buddha
 In the Mahāsamaya Sutta DN.ii.258 he is mentioned among the vassals of the Four Great Kings\-versed in craft, hoodwinking wizards, clever in feigning.
 
 ``` toml
-dict_label = "DPPN"
 word = "kāmaṇḍā"
 summary = ""
 grammar_comment = ""
@@ -11231,7 +10689,6 @@ A village in which was the mango grove of Todeyya. Udāyī once stayed there and
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "kāpathika"
 summary = ""
 grammar_comment = ""
@@ -11249,7 +10706,6 @@ KāpathikaKāpaṭika
 A young brahmin, sixteen years old, well versed in the Vedas, and with his head shaven. He was “of good stock, well informed, a good speaker and a scholar of ability.” He visited the Buddha at Opasāda, where he interrupted a conversation which the Buddha was holding with some aged brahmins; they rebuked him for interrupting his elders, but Caṅkī, who happened to arrive at that moment, interceded on his behalf. The Buddha, knowing that Kāpathika had questions to ask of him, gave him an opportunity for so doing, and there followed a discussion on various points, detailed in the Caṅkī Sutta. At the end of the discussion the youth declared himself a disciple of the Buddha. MN.ii.168*ff.* In the Sutta the Buddha addresses Kāpathika as Bhāradvāja, perhaps because he belonged to that gotta.
 
 ``` toml
-dict_label = "DPPN"
 word = "kārambhī"
 summary = ""
 grammar_comment = ""
@@ -11269,7 +10725,6 @@ A wood in which the Elder Cittaka sojourned for some time. Thag.22
 4park
 
 ``` toml
-dict_label = "DPPN"
 word = "kāsi"
 summary = ""
 grammar_comment = ""
@@ -11297,7 +10752,6 @@ Besides those already referred to, other names of places mentioned in literature
 25.32913, 82.413941janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "kātiyāna"
 summary = ""
 grammar_comment = ""
@@ -11315,7 +10769,6 @@ Kātiyāna
 A monk to whom several Theragāthā verses on the need for energetic striving were addressed. Thag.411–416
 
 ``` toml
-dict_label = "DPPN"
 word = "kātiyānī "
 summary = ""
 grammar_comment = ""
@@ -11333,7 +10786,6 @@ Kātiyānī
 A lay devotee, declared by the Buddha to be most eminent among women for unwavering loyalty. AN.i.26
 
 ``` toml
-dict_label = "DPPN"
 word = "kāḷasilā"
 summary = ""
 grammar_comment = ""
@@ -11361,7 +10813,6 @@ In the Cūḷadukkhakkhandha Sutta, MN.i.92 it is said that Kāḷasilā was als
 24.995666,85.4167561feature
 
 ``` toml
-dict_label = "DPPN"
 word = "kāḷudāyī"
 summary = ""
 grammar_comment = ""
@@ -11381,7 +10832,6 @@ A monk whose verses in the Theragāthā tell depict him encouraging the Buddha t
 The Aṅguttara Nikāya AN.iv.449*f.* records a conversation between Udāyī and Ānanda. Udāyī asks Ānanda to explain in detail a question which is recorded in the Saṃyutta Nikāya SN.i.48 as having been asked of the Buddha by Pañcālacaṇḍa\-*devaputta*.
 
 ``` toml
-dict_label = "DPPN"
 word = "kāḷī"
 summary = ""
 grammar_comment = ""
@@ -11411,7 +10861,6 @@ Kāḷī<sup>4</sup>
 A crematrix of Sāvatthī. Seeing Mahākāla meditating in the cemetery, she cut off from a recently cremated body its thighs and arms, and making of them a sort of milk bowl, placed it near where the Thera sat. Thag.151
 
 ``` toml
-dict_label = "DPPN"
 word = "kīṭāgiri"
 summary = ""
 grammar_comment = ""
@@ -11431,7 +10880,6 @@ A village of the Kāsis, on the road from Kāsi to Sāvatthī. It was the headqu
 25.881474,81.956724000000012town
 
 ``` toml
-dict_label = "DPPN"
 word = "kūṭadanta"
 summary = ""
 grammar_comment = ""
@@ -11449,7 +10897,6 @@ Kūṭadanta
 A very learned brahmin of Khāṇumata, which village had been given to him by King Bimbisāra as a brahmadeyya. The Buddha arrived at Khāṇumata when Kūṭadanta was making preparations for a great sacrifice and, wishing this sacrifice to be successful, he consulted the Buddha on the holding of sacrifices. The Buddha preached to him the Kūṭadanta Sutta. At the end of the discourse he became a Sotāpanna. DN.i.127*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "kūṭāgārasālā"
 summary = ""
 grammar_comment = ""
@@ -11479,7 +10926,6 @@ The books also contain the names of others who stayed at the Kūṭāgārasālā
 25.98644, 85.111083building
 
 ``` toml
-dict_label = "DPPN"
 word = "lakkhaṇa"
 summary = ""
 grammar_comment = ""
@@ -11499,7 +10945,6 @@ Mentioned as having stayed with Mahā Moggallāna on Gijjhakūṭa. Once, when t
 When Moggallāna related his vision, some of the monks blamed him for claiming superhuman powers, but the Buddha declared him free from blame. Vin.iii.105
 
 ``` toml
-dict_label = "DPPN"
 word = "lakkhī"
 summary = ""
 grammar_comment = ""
@@ -11517,7 +10962,6 @@ LakkhīLacchī
 Normally Lakkhī is the Pali equivalent of the goddess of luck, Lakśmī. However in the early texts the name only appears in one obscure Therīgāthā verse. Thig.421
 
 ``` toml
-dict_label = "DPPN"
 word = "lakuṇṭaka"
 summary = ""
 grammar_comment = ""
@@ -11541,7 +10985,6 @@ The Buddha ranked him as foremost among sweet voiced monks. AN.i.25 It is said t
 Several stanzas uttered by Bhaddiya in the Ambāṭakavana, as he sat there enjoying the bliss of arahantship, are included in the Theragāthā. They speak of the fools who judge only by outward appearance. Thag.466–472
 
 ``` toml
-dict_label = "DPPN"
 word = "lambītakā"
 summary = ""
 grammar_comment = ""
@@ -11559,7 +11002,6 @@ Lambītakā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "laṭṭhivana"
 summary = ""
 grammar_comment = ""
@@ -11579,7 +11021,6 @@ A grove to the southwest of Rājagaha. In it was the Supatiṭṭha cetiya, wher
 southwest of Rājagaha3park
 
 ``` toml
-dict_label = "DPPN"
 word = "licchavī"
 summary = ""
 grammar_comment = ""
@@ -11615,7 +11056,6 @@ After the death of Bimbisāra, Ajātasattu, in his desire for the expansion of M
 26.06048, 85.21271region
 
 ``` toml
-dict_label = "DPPN"
 word = "lohicca"
 summary = ""
 grammar_comment = ""
@@ -11637,7 +11077,6 @@ Lohicca<sup>2</sup>
 A brahmin of Sālāvatikā. He once conceived the idea that a samaṇa or recluse who had reached a good state of mind should tell no one else of it, lest he should entangle himself in new bonds. When the Buddha went to Sālāvatikā Lohicca sent the barber, Bhesikā, to invite the Buddha and the monks in his name. The Buddha accepted the invitation, and, at the end of the meal, questioned Lohicca regarding his views. At the end of the discussion Lohicca became the Buddha’s follower. DN.i.224*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "lohitavāsī"
 summary = ""
 grammar_comment = ""
@@ -11655,7 +11094,6 @@ Lohitavāsī
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "lokāyata"
 summary = ""
 grammar_comment = ""
@@ -11673,7 +11111,6 @@ Lokāyata
 Name of a branch of brahmin learning. DN.i.11 The name either refers to cosmology, or to worldly philosophy.
 
 ``` toml
-dict_label = "DPPN"
 word = "lomahaṃsa"
 summary = ""
 grammar_comment = ""
@@ -11691,7 +11128,6 @@ Lomahaṃsa
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "lomasakaṅgiya"
 summary = ""
 grammar_comment = ""
@@ -11711,7 +11147,6 @@ A monk whose Theragāthā verse says that, thrusting aside grasses with his ches
 According to the Lomasakaṅgiya Bhaddekaratta Sutta, MN.iii.199*f.* Candana visited Lomasakaṅgiya in the Nigrodhārāma in Kapilavatthu, and questioned him on the Bhaddekaratta Sutta. When Lomasakaṅgiya again confessed his ignorance, Candana taught him the verses, and then the former packed his bedding and went to Sāvatthī, where the Buddha, at his request, taught him the Sutta.
 
 ``` toml
-dict_label = "DPPN"
 word = "lomasavaṅgīsa"
 summary = ""
 grammar_comment = ""
@@ -11731,7 +11166,6 @@ The Saṃyutta Nikāya mentions an interview between an Elder of this name and t
 The name Lomasavaṅgīsa is, probably, a wrong or variant reading for Lomasakaṅgiya. SN.v.327*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "lumbineyya"
 summary = ""
 grammar_comment = ""
@@ -11751,7 +11185,6 @@ A park situated between Kapilavatthu and Devadaha. It was there that the Buddha 
 27.46716, 83.274911park
 
 ``` toml
-dict_label = "DPPN"
 word = "lāmaseṭṭhā"
 summary = ""
 grammar_comment = ""
@@ -11769,7 +11202,6 @@ Lāmaseṭṭhā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "macchikāsaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -11797,7 +11229,6 @@ The books contain, besides these, the names of several monks who lived at Macchi
 Kāsī3town
 
 ``` toml
-dict_label = "DPPN"
 word = "macchikāsaṇḍika"
 summary = ""
 grammar_comment = ""
@@ -11815,7 +11246,6 @@ Macchikāsaṇḍika
 An epithet of Cittagahapati, because he lived in Macchikāslānda. AN.i.26
 
 ``` toml
-dict_label = "DPPN"
 word = "macchā"
 summary = ""
 grammar_comment = ""
@@ -11837,7 +11267,6 @@ The Macchā country lay to the south or south west of Indraprastha and to the so
 27.45, 76.181janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "maddakucchi"
 summary = ""
 grammar_comment = ""
@@ -11861,7 +11290,6 @@ Maddakucchi was difficult of access; monks who came from afar late at night, wis
 24.99947,85.4458242park
 
 ``` toml
-dict_label = "DPPN"
 word = "maddarūpi"
 summary = ""
 grammar_comment = ""
@@ -11879,7 +11307,6 @@ MaddarūpiKhuddarūpi
 Daughter of Okkāka and wife of Kaṇha, ancestor of Ambaṭṭha. DN.i.96*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "madhurā"
 summary = ""
 grammar_comment = ""
@@ -11899,7 +11326,6 @@ The capital of Surasena, situated on the Yamunā. Its king, soon after the death
 27.4925, 77.6736111town
 
 ``` toml
-dict_label = "DPPN"
 word = "magadhakhetta"
 summary = ""
 grammar_comment = ""
@@ -11919,7 +11345,6 @@ Mention is made in the books of the Māgadhakhetta, probably an extensive rice f
 Māgadha3region
 
 ``` toml
-dict_label = "DPPN"
 word = "magha"
 summary = ""
 grammar_comment = ""
@@ -11939,7 +11364,6 @@ The name Sakka bore in a previous birth when he was born as a man in Macalagāma
 Magha took upon himself seven vows, which brought him birth as Sakka: to maintain his parents, to revere his elders, to use gentle language, to utter no slander, to be free from avarice, to practise generosity and open handed liberality and kindness, to speak the truth, to be free from anger. SN.i.227*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "maghadevaambavana"
 summary = ""
 grammar_comment = ""
@@ -11961,7 +11385,6 @@ This grove existed even in the time of the Buddha, and during his stay there wit
 26.71985, 85.944673park
 
 ``` toml
-dict_label = "DPPN"
 word = "mahaka"
 summary = ""
 grammar_comment = ""
@@ -11979,7 +11402,6 @@ Mahaka
 A novice, pupil of Upananda, who is mentioned as having been guilty of a sexual offence with Kaṇḍakā, another novice. Vin.i.70
 
 ``` toml
-dict_label = "DPPN"
 word = "mahesā"
 summary = ""
 grammar_comment = ""
@@ -12001,7 +11423,6 @@ According to the Mahāgovinda Sutta DN.ii.220.*ff.* it was the capital of Avanti
 22.019453,75.3570562town
 
 ``` toml
-dict_label = "DPPN"
 word = "mahisavatthu"
 summary = ""
 grammar_comment = ""
@@ -12021,7 +11442,6 @@ A place on the Saṅkheyya Mountain where Uttara is said to have stayed, in Dhav
 on the Saṅkheyya Mountain in Dhavajālika *vihāra*.3monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāgavaccha"
 summary = ""
 grammar_comment = ""
@@ -12039,7 +11459,6 @@ Mahāgavaccha
 A monk whose Theragāthā verse speaks of practicing properly and awaiting ones’ time. Thag.12
 
 ``` toml
-dict_label = "DPPN"
 word = "mahājanapadā"
 summary = ""
 grammar_comment = ""
@@ -12061,7 +11480,6 @@ Twelve countries are mentioned in the Dīgha Nikāya, DN.ii.200 in which the las
 class
 
 ``` toml
-dict_label = "DPPN"
 word = "mahājāli"
 summary = ""
 grammar_comment = ""
@@ -12079,7 +11497,6 @@ Mahājāli
 A Pacceka Buddha mentioned in a list of names. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "mahākaccāyana"
 summary = ""
 grammar_comment = ""
@@ -12103,7 +11520,6 @@ He often stayed in Avantī, where King Caṇḍappajjota consulted him on variou
 Mention is also made of his staying at Vāraṇā on the bank of Kaddamadaha; AN.i.65 at the Gundāvana in Madhurā; AN.i.67 MN.ii.83 and at Tapodā in Rājagaha.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahākappina"
 summary = ""
 grammar_comment = ""
@@ -12127,7 +11543,6 @@ Kappina is described by the Buddha as pale, thin, and having a prominent nose. I
 Mahā Kappina was quite often in the company of Sāriputta, and it is said Thag.1086 that once, seeing the profound homage the gods payed to his colleague, he smiled by way of congratulation.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahākassapa"
 summary = ""
 grammar_comment = ""
@@ -12175,7 +11590,6 @@ Kassapa had special compassion for the poor and would sgo to the poorest familie
  Sāriputta seems to have held Kassapa in great esteem, and the Kassapa Saṃyutta contains two discussions between them: one on the necessity for zeal and ardour in the attainment of Nibbāna, SN.ii.195*f.* and the other on the existence of a Tathāgata after death. SN.ii.222*f.* This regard was mutual, for when Kassapa saw the great honour paid to Sāriputta by the devas he rejoiced greatly and broke forth into song. Thag.1082–1085
 
 ``` toml
-dict_label = "DPPN"
 word = "mahākoṭṭhita"
 summary = ""
 grammar_comment = ""
@@ -12201,7 +11615,6 @@ One sutta SN.iv.145–147 records a “lesson” given by the Buddha to Koṭṭ
 Sāriputta evidently had a great regard for Koṭṭhita; the Theragāthā Thag.1006–1008 contains three stanzas in which Sāriputta proclaims his excellence.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahākāla"
 summary = ""
 grammar_comment = ""
@@ -12219,7 +11632,6 @@ Mahākāla
 A monk whose Theragāthā verses describe a large swarthy woman sitting surrounded by bones in the charnel ground, evidently a practitioner of asceticism. He expresses the wish to never be reborn. Thag.141–152
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāli"
 summary = ""
 grammar_comment = ""
@@ -12237,7 +11649,6 @@ Mahāli
 A Licchavi chief, mentioned as having visited the Buddha at the Kūṭāgārasālā to ask if he had seen Sakka SN.i.230 and also to beg information as to the teachings of Pūraṇa Kassapa. SN.iii.68 This conversation resulted from Mahāli having heard the Sakkapañha Sutta.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāmoggallāna"
 summary = ""
 grammar_comment = ""
@@ -12275,7 +11686,6 @@ In the Mahāgosiṅga Sutta MN.i.212 we find them staying in the Gosiṅgasālav
 Sāriputta dies before Moggallāna. The Theragāthā contains several verses attributed to Moggallāna regarding Sāriputta’s death. Thag.1158–1161 Moggallāna evidently dies before the Buddha, as the Saṃyutta contains a reference to the Buddha speaking of them both as dead. However the early texts contain no record of the circumstances of Moggallāna’s death.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahānāga"
 summary = ""
 grammar_comment = ""
@@ -12293,7 +11703,6 @@ Mahānāga
 A monk whose Theragāthā verses warn of the dangers that face a monk who neglects the Dhamma. Thag.387–392
 
 ``` toml
-dict_label = "DPPN"
 word = "mahānāma"
 summary = ""
 grammar_comment = ""
@@ -12327,7 +11736,6 @@ Mahānāma<sup>3</sup>
 A monk whose Theragāthā verse speaks of the beauty of Mount Nesadaka. Thag.115
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāpajāpatī "
 summary = ""
 grammar_comment = ""
@@ -12353,7 +11761,6 @@ It is said that once Pajāpatī made a robe for the Buddha of wonderful material
 Her Therīgāthā verses speak of offering homage to the Buddha, and how she had been a relative of his in many past lives. She acknowledges Māyā, through whom the Buddha was born, and says that the correct way to worship the Buddha is but diligent practice. Thig.157–162
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāpanthaka"
 summary = ""
 grammar_comment = ""
@@ -12373,7 +11780,6 @@ The elder brother of Cūḷapanthaka. He was declared pre eminent among those sk
 A set of verses uttered by him in the joy of attainment is included in the Theragāthā. Thag.510–517
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāpurisa"
 summary = ""
 grammar_comment = ""
@@ -12430,7 +11836,6 @@ Apart from these legendary beliefs, the Buddha had his own theory of the attribu
  Bāvarī had three Mahāpurisalakkhaṇā; he could touch his forehead with his tongue, he had a mole between his eyebrows, and his privacies were contained within a sheath. SN.1022.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāpāragā"
 summary = ""
 grammar_comment = ""
@@ -12448,7 +11853,6 @@ Mahāpāragā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.26
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāroruva"
 summary = ""
 grammar_comment = ""
@@ -12468,7 +11872,6 @@ One of the hells. SN.i.92
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāsammata"
 summary = ""
 grammar_comment = ""
@@ -12486,7 +11889,6 @@ Mahāsammata
 A king who lived in the beginning of this present age. He was called Mahāsammata, because, on the arising of wickedness in the world, he was chosen by the people DN.iii.92*f.* to show indignation against and disapproval of those worthy of blame. In return for his services, he was given a portion of their harvest.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāsarā"
 summary = ""
 grammar_comment = ""
@@ -12506,7 +11908,6 @@ The books contain a list of seven great lakes, situated in the Himālaya. They f
 Himalaya3class
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāsubhaddā"
 summary = ""
 grammar_comment = ""
@@ -12524,7 +11925,6 @@ Mahāsubhaddā
 Chief queen of Mahāsudassana. DN.ii.169*ff.* Aii.189 SN.iii.145
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāsudassana"
 summary = ""
 grammar_comment = ""
@@ -12542,7 +11942,6 @@ Mahāsudassana
 The Bodhisatta born as king of Kusāvati. DN.ii.169*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāvana"
 summary = ""
 grammar_comment = ""
@@ -12570,7 +11969,6 @@ A forest on the outskirts of Uruvelakappa, where the Buddha retired for his noon
 27.07379,83.9853park
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāvijita"
 summary = ""
 grammar_comment = ""
@@ -12588,7 +11986,6 @@ Mahāvijita
 A king of long ago, whose exemplary sacrifice, held under the direction of his chaplain, is narrated in the Kūṭadanta Sutta.
 
 ``` toml
-dict_label = "DPPN"
 word = "mahāviyūha"
 summary = ""
 grammar_comment = ""
@@ -12608,7 +12005,6 @@ A gabled chamber erected by Mahāsudassana into which he could retire during the
 5building
 
 ``` toml
-dict_label = "DPPN"
 word = "mahī"
 summary = ""
 grammar_comment = ""
@@ -12628,7 +12024,6 @@ One of the five great rivers of India, all of which have a common origin Vin.ii.
 Koshi1river
 
 ``` toml
-dict_label = "DPPN"
 word = "makhādeva"
 summary = ""
 grammar_comment = ""
@@ -12646,7 +12041,6 @@ MakhādevaMaghadeva
 King of Mithilā. His legend is told in the Makhadeva Sutta. MN.ii.74*ff.* He was a righteous king who observed the *uposatha*, together with his people. When a grey hair appeared on his head he went forth to develop the divine abidings, handing over his kingdon to his son and enjoining him to continue his good practice. For 48,000 generations this practice continued, the last being King Nimi. But his son Kaḷārajanaka did not continue the good tradition.
 
 ``` toml
-dict_label = "DPPN"
 word = "makkarakata"
 summary = ""
 grammar_comment = ""
@@ -12666,7 +12060,6 @@ A locality in Avanti. Mahā Kaccāna once stayed there in a forest hut and was v
 Avanti3town
 
 ``` toml
-dict_label = "DPPN"
 word = "makkhali"
 summary = ""
 grammar_comment = ""
@@ -12688,7 +12081,6 @@ Makkhali’s followers are known as the Ājīvakas.
 The Buddha considered Makkhali as the most dangerous of the heretical teachers— “I know not of any other single person fraught with such loss to many folk, such discomfort, such sorrow to devas and men, as Makkhali, the infatuate. AN.i.33 The Buddha also considered his view the meanest—just as the hair blanket is reckoned the meanest of all woven garments, even so, of all the teachings of recluses, that of Makkhali is the meanest. AN.i.286
 
 ``` toml
-dict_label = "DPPN"
 word = "makuṭabandhana"
 summary = ""
 grammar_comment = ""
@@ -12708,7 +12100,6 @@ A shrine of the Mallas to the east of Kusināra, where the Buddha’s body was c
 26.73395, 83.930743shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "malitavambha"
 summary = ""
 grammar_comment = ""
@@ -12726,7 +12117,6 @@ Malitavambha
 A monk whose Theragāthā verse says that one should only stay in a dwelling that is conducive to the goal. Thag.105
 
 ``` toml
-dict_label = "DPPN"
 word = "mallikā"
 summary = ""
 grammar_comment = ""
@@ -12756,7 +12146,6 @@ Mallikā had a garden, called the Mallikārāma, in which was a Hall among the D
 Mallikā is included in a list of eminent *upāsikās*. AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "mallikāya ārāma"
 summary = ""
 grammar_comment = ""
@@ -12776,7 +12165,6 @@ A park in Sāvatthī belonging to Queen Mallikā. DN.i.178 MN.ii.22
 27.50735, 82.074733park
 
 ``` toml
-dict_label = "DPPN"
 word = "mallā"
 summary = ""
 grammar_comment = ""
@@ -12806,7 +12194,6 @@ Other places in the Malla country, besides Pāvā and Kusinārā, are mentioned 
 26.739416,83.8900411janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "mallī"
 summary = ""
 grammar_comment = ""
@@ -12824,7 +12211,6 @@ Mallī
 A Malla woman. Vin.ii.268
 
 ``` toml
-dict_label = "DPPN"
 word = "manasākaṭa"
 summary = ""
 grammar_comment = ""
@@ -12844,7 +12230,6 @@ A brahmin village in Kosala on the banks of the Aciravatī. The Buddha stayed in
 in Kosala on the banks of the Aciravatī3town
 
 ``` toml
-dict_label = "DPPN"
 word = "mandhātā"
 summary = ""
 grammar_comment = ""
@@ -12862,7 +12247,6 @@ Mandhātā
 A primeval king. He is considered as an example of one whose desires could never be satisfied. AN.ii.17 Thig.488
 
 ``` toml
-dict_label = "DPPN"
 word = "mandākinī"
 summary = ""
 grammar_comment = ""
@@ -12882,7 +12266,6 @@ One of the seven great lakes of the Himālaya. AN.iv.101
 Himalaya3lake
 
 ``` toml
-dict_label = "DPPN"
 word = "manomaya"
 summary = ""
 grammar_comment = ""
@@ -12900,7 +12283,6 @@ Manomaya
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "manopadosikā"
 summary = ""
 grammar_comment = ""
@@ -12918,7 +12300,6 @@ ManopadosikāManopadūsikā
 A class of devas. They burn continually with envy one against another and their hearts become ill disposed and debauched. Their bodies thus become feeble and their minds imbecile, and, as a consequence, they fall from their state. DN.i.20 DN.iii.32
 
 ``` toml
-dict_label = "DPPN"
 word = "manosattā"
 summary = ""
 grammar_comment = ""
@@ -12936,7 +12317,6 @@ Manosattā
 A class of devas. Beings who die devoted to some idea are born in their world—e.g., a Nigaṇṭha who will take only warm water and would rather die than take it cold. MN.i.376
 
 ``` toml
-dict_label = "DPPN"
 word = "mantāvatī"
 summary = ""
 grammar_comment = ""
@@ -12956,7 +12336,6 @@ The capital city where King Koñca lived, whose daughter was Sumedhā Therī. Th
 4town
 
 ``` toml
-dict_label = "DPPN"
 word = "mantāṇī"
 summary = ""
 grammar_comment = ""
@@ -12974,7 +12353,6 @@ Mantāṇī
 A brahminee, mother of Aṅgulimāla; her husband was Gagga. MN.ii.102
 
 ``` toml
-dict_label = "DPPN"
 word = "manujā"
 summary = ""
 grammar_comment = ""
@@ -12992,7 +12370,6 @@ Manujā
 An eminent *upāsikā* mentioned in a list. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "manāpakāyikā"
 summary = ""
 grammar_comment = ""
@@ -13012,7 +12389,6 @@ A class of devas possessing lovely forms. Once a large number of them visited An
 Some of them sang, some danced, some clapped, some played on various musical instruments, but finding that their entertainment was lost on Anuruddha, they left him. Anuruddha told the Buddha of their visit, and the Buddha explained to him the eight qualities, the possession of which enabled women to be born among the Manāpakāyikā. AN.iv.265*ff.* Elsewhere AN.iv.268 the Buddha speaks of them to Visākhā.
 
 ``` toml
-dict_label = "DPPN"
 word = "maṅgala"
 summary = ""
 grammar_comment = ""
@@ -13030,7 +12406,6 @@ Maṅgala
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "maṇi"
 summary = ""
 grammar_comment = ""
@@ -13048,7 +12423,6 @@ Maṇi
 A *yakkha* chief, to be invoked by Buddhists in time of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "maṇimālika"
 summary = ""
 grammar_comment = ""
@@ -13068,7 +12442,6 @@ A shrine where the Buddha stayed and where he was visited by the Yakkha Maṇibh
 4shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "medakathalikā"
 summary = ""
 grammar_comment = ""
@@ -13090,7 +12463,6 @@ The Buddha related this story at Desakā, in the Sumbha country, to the monks, a
 The name Medakathalikā, though feminine in inflection, is used for a male.
 
 ``` toml
-dict_label = "DPPN"
 word = "medāḷupa"
 summary = ""
 grammar_comment = ""
@@ -13110,7 +12482,6 @@ A Sākyan village three leagues from Nagaraka. MN.ii.119 Pasenadi when staying t
 27.626357,83.2337953town
 
 ``` toml
-dict_label = "DPPN"
 word = "meghiya "
 summary = ""
 grammar_comment = ""
@@ -13128,7 +12499,6 @@ Meghiya
 Having joined the Order, was for some time the personal attendant of the Buddha. Once, when the Buddha was staying with him at Cālikā, Meghiya went to Jantugāma for alms, and, on his return, was much attracted by a mango grove on the banks of the river Kimikālā. He asked the Buddha’s permission to dwell there in meditation. Twice the Buddha refused, but, on his third request, let him go. There, however, Meghiya was consumed by evil thoughts and returned to the Buddha. The Buddha preached to him on the five things which make the heart ripe for emancipation good friends, virtuous life, profitable talks, zealous exertion, insight and admonished him. AN.iv.354*ff.* Ud.iv.1 Thag.66
 
 ``` toml
-dict_label = "DPPN"
 word = "mejjha"
 summary = ""
 grammar_comment = ""
@@ -13146,7 +12516,6 @@ MejjhaMejjhārañña
 A wilderness, which legend says was formely a kingdom. MN.i.378
 
 ``` toml
-dict_label = "DPPN"
 word = "melajina"
 summary = ""
 grammar_comment = ""
@@ -13164,7 +12533,6 @@ Melajina
 A monk whose Theragāthā verses speak of his great faith in the Buddha. Thag.131–132
 
 ``` toml
-dict_label = "DPPN"
 word = "methula"
 summary = ""
 grammar_comment = ""
@@ -13182,7 +12550,6 @@ Methula
 A Pacceka Buddha whose name appears in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "mettagū"
 summary = ""
 grammar_comment = ""
@@ -13200,7 +12567,6 @@ Mettagū
 One of the sixteen disciples of Bāvarī who visited the Buddha. His question to the Buddha was as to how various ills originated in the world, and the Buddha’s answer, that it was through attachment. Snp.1006 Snp.1049–1060
 
 ``` toml
-dict_label = "DPPN"
 word = "mettaji"
 summary = ""
 grammar_comment = ""
@@ -13218,7 +12584,6 @@ MettajiMattaji
 A monk whose Theragāthā verse extols the Buddha. Thag.94
 
 ``` toml
-dict_label = "DPPN"
 word = "metteyya"
 summary = ""
 grammar_comment = ""
@@ -13236,7 +12601,6 @@ Metteyya
 An arahant, friend of Tissa of the Tissa Metteyya Sutta. His personal name, too, was Tissa, but he was better known by his clan name of Metteyya. In a verse in the Suttanipāta Snp.814 he is referred to as Tissa Metteyya.
 
 ``` toml
-dict_label = "DPPN"
 word = "mettikā"
 summary = ""
 grammar_comment = ""
@@ -13254,7 +12618,6 @@ Mettikā
 A bhikkhunī whose Therīgāthā verses speak of of how she strugged up a mountain, only to sit and become Awakened. Thig.29–30
 
 ``` toml
-dict_label = "DPPN"
 word = "mettiya"
 summary = ""
 grammar_comment = ""
@@ -13272,7 +12635,6 @@ Mettiya
 One of the six leaders of the Chabbaggiyā.
 
 ``` toml
-dict_label = "DPPN"
 word = "mettiyabhummajakā"
 summary = ""
 grammar_comment = ""
@@ -13294,7 +12656,6 @@ Twice they brought an unfounded charge of breach of morality against Dabba Malla
 On another occasion, these monks persuaded a Licchavi, named Vaḍḍha, who was their patron and friend, to go to the Buddha and charge Dabba with having had relations with his wife. This, too, was proved false, and other monks refused to accept alms from Vaḍḍha until he had confessed his guilt. Vin.ii.124*ff.* One day, while descending from Gijjhakūṭa, the Mettiyabhummajakā monks saw a heifer with a she goat and the idea occurred to them of calling the heifer Dabba and the she goat Mettiyā and then of spreading the story that they had seen Dabba mating with Mettiyā. Vin.iii.166*ff.* Vin.iv.37*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "mettiyā"
 summary = ""
 grammar_comment = ""
@@ -13312,7 +12673,6 @@ Mettiyā
 A nun who, at the instigation of the Mettiyabhummajakā, charged Dabba Mallaputta with having violated her chastity. She was expelled from the Order for this offence.
 
 ``` toml
-dict_label = "DPPN"
 word = "mettākāyikā"
 summary = ""
 grammar_comment = ""
@@ -13330,7 +12690,6 @@ Mettākāyikā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "meṇḍaka"
 summary = ""
 grammar_comment = ""
@@ -13350,7 +12709,6 @@ A very rich householder of Bhaddiyanagara in Aṅga. It is said Vin.i.240*f.* th
 When the Buddha left Bhaddiya for Aṅguttarāpa, Meṇḍaka gave orders to his servants and followed the Buddha with abundant provisions of all sorts, entertaining the Buddha and his monks with luxurious food and fresh milk. At the end of the meal, Meṇḍaka provided the monks with ghee and butter for their journey. At first the monks were unwilling to accept the gifts, but the Buddha, at Meṇḍaka’s request, allowed them to do so. Vin.i.243*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "meṇḍasira"
 summary = ""
 grammar_comment = ""
@@ -13368,7 +12726,6 @@ MeṇḍasiraMeṇḍasīsa
 A monk whose Theragāthā verse speaks of realizing release from suffering after many lifetimes. Thag.78
 
 ``` toml
-dict_label = "DPPN"
 word = "migacīra"
 summary = ""
 grammar_comment = ""
@@ -13388,7 +12745,6 @@ A park near Indapatta, where Raṭṭhapāla Thera stayed. MN.ii.65
 28.69299, 77.178953park
 
 ``` toml
-dict_label = "DPPN"
 word = "migajāla "
 summary = ""
 grammar_comment = ""
@@ -13408,7 +12764,6 @@ A monk whose Theragāthā verses speak in praise of the eightfold path. Thag.417
 The Saṃyutta Nikāya SN.iv.35*f.* contains two discussions which he had with the Buddha; the second was a teaching in brief which he learned before going to the forest to live in solitude prior to his attainment of arahantship.
 
 ``` toml
-dict_label = "DPPN"
 word = "migalandika"
 summary = ""
 grammar_comment = ""
@@ -13426,7 +12781,6 @@ MigalandikaMigaladdhika
 An undesirable monk. When the Buddha had once been preaching to the monks in Mahāvana in Vesāli regarding the defilement and filth of the body, and had retired into solitude, many of the monks, in disgust with their bodies, put an end to their lives. Some of them sought out Migalandika and asked him to cut off their heads. This he did with a sword, but on his way to the River Vaggamudā, to wash his sword, he was seized with remorse. A Mārakāyika *devatā*, however, appeared before him in the river and assured him he was doing a service to the monks by helping them to commit suicide. This encouraged him, and he put to death many more monks, until the Buddha, discovering the facts, intervened. Vin.iii.68*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "migasira"
 summary = ""
 grammar_comment = ""
@@ -13444,7 +12798,6 @@ Migasira
 A monk whose Theragāthā verses speak of becoming Awakened since he went forth. Thag.181*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "migasālā"
 summary = ""
 grammar_comment = ""
@@ -13462,7 +12815,6 @@ Migasālā
 A woman follower of the Buddha. She was the daughter of Pūraṇa, chamberlain of Pasenadi, and niece of Isidatta. AN.iii.347 AN.v.137
 
 ``` toml
-dict_label = "DPPN"
 word = "migāra"
 summary = ""
 grammar_comment = ""
@@ -13480,7 +12832,6 @@ Migāra
 A rich man of Sāvatthī. Ugga, Pasenadi’s minister, mentions him during a visit to the Buddha and remarks on his immense wealth. But the Buddha reminds him that Migāra’s treasure is not real treasure in that it is subject to various dangers fire, water, kings, robbers, enemies and heirs. AN.iv.7
 
 ``` toml
-dict_label = "DPPN"
 word = "migāramātupāsāda"
 summary = ""
 grammar_comment = ""
@@ -13502,7 +12853,6 @@ Numerous suttas were preached there; chief among these were the Aggañña, the U
 27.51679, 82.085383monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "milakkhā"
 summary = ""
 grammar_comment = ""
@@ -13520,7 +12870,6 @@ MilakkhāMilakkhukā
 The name given to the people of non\-Ariyan origin, the *Mlecchas*. DN.iii.264 AN.i.35 Their language is called *Milakkhabhāsā*.
 
 ``` toml
-dict_label = "DPPN"
 word = "missakā"
 summary = ""
 grammar_comment = ""
@@ -13538,7 +12887,6 @@ Missakā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "mithilā"
 summary = ""
 grammar_comment = ""
@@ -13566,7 +12914,6 @@ Mithilā is generally identified with Janakapura, a small town within the Nepal 
 26.712222, 85.9216671town
 
 ``` toml
-dict_label = "DPPN"
 word = "mittakālī"
 summary = ""
 grammar_comment = ""
@@ -13584,7 +12931,6 @@ MittakālīMittakālikāMittakāḷīMittakāḷikā
 A bhikkhunī whose Therīgāthā verses speak of how, having gone forth in faith, she missed out of the higher goals of the ascetic life, so lusted for gains and fame. But then she realized her folly and became Awakened. Thig.92–96
 
 ``` toml
-dict_label = "DPPN"
 word = "mittā "
 summary = ""
 grammar_comment = ""
@@ -13602,7 +12948,6 @@ Mittā
 A bhikkhunī whose Therīgāthā verses speak of how she was formerly attached to the idea of performing rites on the *uposatha* days aspiring for heavenly rebirth. Thig.31–32
 
 ``` toml
-dict_label = "DPPN"
 word = "moggalla"
 summary = ""
 grammar_comment = ""
@@ -13620,7 +12965,6 @@ Moggalla
 A man in the retinue of King Eḷeyya. He was a follower of Uddaka Rāmaputta. AN.ii.187
 
 ``` toml
-dict_label = "DPPN"
 word = "mogharāja"
 summary = ""
 grammar_comment = ""
@@ -13640,7 +12984,6 @@ He belonged to a brahmin family and studied under Bāvarī as an ascetic. He was
 The Saṃyutta Nikāya contains a stanza spoken by Mogharāja and the Buddha’s answer thereto. SN.i.23
 
 ``` toml
-dict_label = "DPPN"
 word = "moranivāpa"
 summary = ""
 grammar_comment = ""
@@ -13662,7 +13005,6 @@ The Moranivāpa was on the bank of the Sumāgadhā and the Buddha is mentioned D
 near Veḷuvana3non\-Buddhist monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "moriyā"
 summary = ""
 grammar_comment = ""
@@ -13680,7 +13022,6 @@ Moriyā
 A *khattiya* clan of India. Among those claiming a share of the Buddha’s relics were the Moriyas of Pipphalivana. They came rather late and had to be satisfied with a share of the ashes. DN.ii.166
 
 ``` toml
-dict_label = "DPPN"
 word = "moḷiya"
 summary = ""
 grammar_comment = ""
@@ -13700,7 +13041,6 @@ He was always friendly with the nuns and stood up for them in discussions with t
 In the Saṃyutta Nikāya SN.ii.12*f.* is recorded a discussion between Moliya Phagguna and the Buddha, regarding the consciousness sustenance (*viññāṇāhāra*) Moliya asks a question as to who feeds on consciousness. The Buddha rejects the question as being wrongly put and similar questions follow, which the Buddha puts in a different form and to which he provides the answers. In another context SN.ii.50 in the same collection Kaḷāra*khattiya* is reported as saying to Sāriputta that Moliya Phagguna had reverted to the lay life.
 
 ``` toml
-dict_label = "DPPN"
 word = "moḷiyasīvaka"
 summary = ""
 grammar_comment = ""
@@ -13718,7 +13058,6 @@ Moḷiyasīvaka
 A Paribbājaka. He once visited the Buddha at Veḷuvana and questioned him regarding predestination. The Buddha explains to him that suffering arises from various causes—bile, phlegm, wind, bodily humour, change of season, stress of untoward happenings, sudden attacks from without and also from one’s kamma—and to say that these are all predestined is to go too far. Sīvaka expresses his approval and declares himself the Buddha’s follower. SN.iv.230*f.* Another conversation he had with the Buddha is recorded in the Aṅguttara Nikāya. AN.iii.356 There he asks the Buddha if the claims made with regard to the Dhamma are justified. The Buddha proves to him, by illustration, that they are.
 
 ``` toml
-dict_label = "DPPN"
 word = "mucalinda"
 summary = ""
 grammar_comment = ""
@@ -13740,7 +13079,6 @@ Mucalinda<sup>2</sup>
 One of the chief Yakkhas to be invoked by the Buddha’s followers in time of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "mudita"
 summary = ""
 grammar_comment = ""
@@ -13758,7 +13096,6 @@ Mudita
 A monk whose Theragāthā verse speaks of unflagging striving, regardless of life or limb. Thag.311–314
 
 ``` toml
-dict_label = "DPPN"
 word = "mukheluvana"
 summary = ""
 grammar_comment = ""
@@ -13778,7 +13115,6 @@ A grove in Kajaṅgalā. It was there that the Buddha preached the Indriyabhāva
 25.041438,87.836182park
 
 ``` toml
-dict_label = "DPPN"
 word = "musila "
 summary = ""
 grammar_comment = ""
@@ -13796,7 +13132,6 @@ Musila
 A monk. A conversation is recorded in the Saṃyutta Nikāya SN.ii.115*f.* between him and Savittha, which is said to have taken place in Ghositārāma in Kosambī, regarding the *paṭiccasamuppāda*.
 
 ``` toml
-dict_label = "DPPN"
 word = "muttā "
 summary = ""
 grammar_comment = ""
@@ -13822,7 +13157,6 @@ Muttā <sup>3</sup>
 An eminent upāsikā, mentioned in a list of such. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "muṇḍa"
 summary = ""
 grammar_comment = ""
@@ -13840,7 +13174,6 @@ Muṇḍa
 A king of Māgadha, great grandson of Ajātasattu and son of Anuruddha. It is probably this same king who is referred to in the Aṅguttara Nikāya. AN.iii.57*ff.* His wife Bhaddā died, and Muṇḍa gave himself up to complete despair and mummified the queen’s body. The king’s Treasurer, Piyaka, consulted the Elder Nārada who lived at Kukkuṭārāma in Pāṭaliputta and persuaded him to visit the king. Nārada preached to him, and his sorrow vanished.
 
 ``` toml
-dict_label = "DPPN"
 word = "māgadha"
 summary = ""
 grammar_comment = ""
@@ -13872,7 +13205,6 @@ Māgadha is identified with the modern South Behar.
 24.72687, 84.913331janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "māgaṇḍiya"
 summary = ""
 grammar_comment = ""
@@ -13894,7 +13226,6 @@ Māgaṇḍiya<sup>2</sup>
 A Paribbājaka. The Buddha was once staying in the fire hut of the brahmin Bhāradvājaggotta at Kammāsadamma and Māgaṇḍiya came to the hut. Seeing the grass mat on which the Buddha slept at night, he inquired whose it was, and, on being told, he was very annoyed, calling the Buddha a rigid repressionist. Bhāradvāja protested, whereupon Māgaṇḍiya offered to repeat his charge to the Buddha’s face. The Buddha, aware of this conversation, entered the hut in the evening and had a discussion with Māgaṇḍiya, who ended by joining the Order, later becoming an arahant. MN.i.502*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "māluṅkyāputta"
 summary = ""
 grammar_comment = ""
@@ -13916,7 +13247,6 @@ In the Majjhima Nikāya are two suttas—the Cūḷamālunkyā MN.i.426*ff.* and
 In the Mālunkyāputta Sutta in the Aṅguttara, Māluṅkyāputta comes to the Buddha in his old age and asks for a teaching in brief. The Buddha first chides him for having wasted his opportunities, but then tells him of the four ways in which craving arises and the advantages of destroying it. AN.ii.248*f.* SN.iv.72*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "mānacchidda"
 summary = ""
 grammar_comment = ""
@@ -13934,7 +13264,6 @@ Mānacchidda
 A Pacceka Buddha. MN.i.70
 
 ``` toml
-dict_label = "DPPN"
 word = "mānadinna"
 summary = ""
 grammar_comment = ""
@@ -13952,7 +13281,6 @@ Mānadinna
 A householder of Rājagaha. When he lay ill he was visited by Ānanda, to whom he confessed that even in his illness he practiced the four *satipaṭṭhāna*. He was quite free from the five lower fetters. SN.v.178
 
 ``` toml
-dict_label = "DPPN"
 word = "mānatthaddha"
 summary = ""
 grammar_comment = ""
@@ -13974,7 +13302,6 @@ Mānatthaddha<sup>2</sup>
 A Pacceka Buddha mentioned in a nominal list. MN.iii.71
 
 ``` toml
-dict_label = "DPPN"
 word = "mānicara"
 summary = ""
 grammar_comment = ""
@@ -13992,7 +13319,6 @@ Mānicara
 A Yakkha chief to be invoked by followers of the Buddha in time of need. Aiii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "māra"
 summary = ""
 grammar_comment = ""
@@ -14034,7 +13360,6 @@ Mention is made, especially in the Mahā Parinibbāna Sutta, of several occasion
 With the accounts of Māra, as the personification of Evil, came to be mixed legends of an actual *devaputta*, named Māra, also called Vasavatti, because he was an inhabitant of the Paranimmitā Vasavatti deva world. In the Aṅguttara Nikāya, Māra is described as the head of those enjoying bliss in the Kāmāvacara worlds. AN.ii.17 In the Māratajjanīya Sutta MN.i.333 DN.iii.79 Moggallāna says that he too had once been a Māra, Dūsī by name; Kālā was his sister’s name, and the Māra of the present age was his nephew. In the sutta, Dūsī is spoken of as having been responsible for many acts of mischief, similar to those ascribed to the Māra of Gotama’s day. According to the sutta, Māradevaputta was evidently regarded as a being of great power, with a strong bent for mischief, especially directed against holy men.
 
 ``` toml
-dict_label = "DPPN"
 word = "mātali"
 summary = ""
 grammar_comment = ""
@@ -14054,7 +13379,6 @@ The name given to the chariot driver of Sakka. The Mātali of the present age ha
 In the Mahāsamaya Sutta, DN.ii.258 Mātali is described as a Gandhabba chief, while in the Āṭānāṭiya Sutta DN.iii.204 he is mentioned among the chief Yakkhas to be invoked by followers of the Buddha in time of need.
 
 ``` toml
-dict_label = "DPPN"
 word = "mātaṅga"
 summary = ""
 grammar_comment = ""
@@ -14072,7 +13396,6 @@ Mātaṅga
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "mātula"
 summary = ""
 grammar_comment = ""
@@ -14092,7 +13415,6 @@ A village in Māgadha, where the Buddha stayed and where he preached the Cakkava
 Māgadha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "māyā"
 summary = ""
 grammar_comment = ""
@@ -14110,7 +13432,6 @@ MāyāMahāmāyā
 The mother of the Buddha, and wife of Suddhodana of the Sakyan clan. DN.ii.52 Thag.534 Thig.162 She died seven days after giving birth to the Buddha in Lumbinī. An elaborate account of the birth is given in the Acchariya\-abbhuta Sutta. MN.iii.118*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "māṇava"
 summary = ""
 grammar_comment = ""
@@ -14128,7 +13449,6 @@ Māṇava
 A monk whose Theragāthā verse says that he went forth after seeing an old man, a sick man, and a dead man. Thag.73
 
 ``` toml
-dict_label = "DPPN"
 word = "māṇavagāmiya"
 summary = ""
 grammar_comment = ""
@@ -14146,7 +13466,6 @@ MāṇavagāmiyaMāṇavagāmika
 A *devaputta*. He visited the Buddha in the company of Asama, Sahali, Ninka, Ākoṭaka and Vetambarī, and while these all spoke in praise of their own teachers, Māṇavagāmiya sang the glories of the Buddha. SN.i.65 SN.i.67
 
 ``` toml
-dict_label = "DPPN"
 word = "nadīkassapa"
 summary = ""
 grammar_comment = ""
@@ -14164,7 +13483,6 @@ Nadīkassapa
 Brother of Uruvelā Kassapa. He received his name from living on the bank of the Nerañjara at the head of three hundred ascetics. His Thergāthā verses speak of how his former wrong views and practices were abandoned when he heard the Dhamma. Thag.340–344
 
 ``` toml
-dict_label = "DPPN"
 word = "nagaraka"
 summary = ""
 grammar_comment = ""
@@ -14186,7 +13504,6 @@ The Buddha evidently once stayed in Nagaraka, for in the Cūḷa\-Suññatā Sut
 27.606888,82.9344183town
 
 ``` toml
-dict_label = "DPPN"
 word = "nagaravinda"
 summary = ""
 grammar_comment = ""
@@ -14206,7 +13523,6 @@ A brahmin village in Kosala where the Buddha once stayed during a tour and where
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "nakulamātā"
 summary = ""
 grammar_comment = ""
@@ -14228,7 +13544,6 @@ Once, when Nakulapitā lay grievously ill, his wife noticed that he was fretful 
 Both husband and wife are mentioned in lists of eminent disciples. AN.iii.465 AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "nakulapitā"
 summary = ""
 grammar_comment = ""
@@ -14250,7 +13565,6 @@ Once, when Nakulapitā lay grievously ill, his wife noticed that he was fretful 
 The Saṃyutta Nikāya SN.iii.1 SN.iv.116 AN.iv.268 contains records of conversations between Nakulapitā and the Buddha. Both husband and wife are mentioned in lists of eminent disciples. AN.iii.465 AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "nanda"
 summary = ""
 grammar_comment = ""
@@ -14300,7 +13614,6 @@ Nanda<sup>7</sup>
 The Isigili Sutta mentions four Pacceka Buddhas of this name. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "nandaka"
 summary = ""
 grammar_comment = ""
@@ -14330,7 +13643,6 @@ Nandaka<sup>3</sup>
 A minister of the Licchavis who visited the Buddha at the Kūṭāgārasālā in Vesali. The Buddha tells him that the Ariyan disciple, possessed of unwavering loyalty to the Buddha, the Dhamma and the Saṅgha., and having Ariyan virtues, is assured of enlightenment and happiness. During the conversation, a man comes to tell Nandaka that his bath is ready. Nandaka sends him away, saying that the inner washing loyalty to the Buddha is far more important. SN.v.389
 
 ``` toml
-dict_label = "DPPN"
 word = "nandana"
 summary = ""
 grammar_comment = ""
@@ -14354,7 +13666,6 @@ The chief of the parks in Tāvatiṃsā, where the inhabitants of Tāvatiṃsā,
 5park
 
 ``` toml
-dict_label = "DPPN"
 word = "nandavatī"
 summary = ""
 grammar_comment = ""
@@ -14372,7 +13683,6 @@ Nandavatī
 A nun, sister of Thullanandā. Her other two sisters were Nandā and Sundarīnandā. Vin.iv.211 Vin.iv.259
 
 ``` toml
-dict_label = "DPPN"
 word = "nandivisāla"
 summary = ""
 grammar_comment = ""
@@ -14390,7 +13700,6 @@ Nandivisāla
 A deva who visits the Buddha and converses with him on the nature of the body and its riddance. SN.i.63 SN.i.15
 
 ``` toml
-dict_label = "DPPN"
 word = "nandiya"
 summary = ""
 grammar_comment = ""
@@ -14416,7 +13725,6 @@ Nandiya<sup>3</sup>
 A Paribbājaka who visits the Buddha at Jetavana and asks him the conditions for the attainment of nibbana. The Buddha teaches him the Noble Eightfold Path. SN.v.11
 
 ``` toml
-dict_label = "DPPN"
 word = "nanduttarā"
 summary = ""
 grammar_comment = ""
@@ -14434,7 +13742,6 @@ Nanduttarā
 A bhikkhunī whose Therīgāthā verses speak of her former useless practice of austerities and her current state of Awakening. Thig.87–91
 
 ``` toml
-dict_label = "DPPN"
 word = "nandā"
 summary = ""
 grammar_comment = ""
@@ -14460,7 +13767,6 @@ Nandā<sup>3</sup>
 A nun mentioned as having died at Nātika and having been reborn spontaneously in the Suddhāvāsā, there to pass away, never to return. DN.ii.91 SN.v.356*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "navakammika bhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -14478,7 +13784,6 @@ Navakammika Bhāradvāja
 One of the Bhāradvājas. Once, when the Buddha was staying in a forest in Kosala, Navakammika, who was there seeing about some timber work, saw the Buddha at the foot of a tree and asked him what pleasure he found in his contemplations. When the Buddha explained to him how he had found liberty, the Brahmin was pleased and accepted the Buddha as his teacher. SN.i.179
 
 ``` toml
-dict_label = "DPPN"
 word = "navanavutiyo"
 summary = ""
 grammar_comment = ""
@@ -14498,7 +13803,6 @@ A city in Uttarakuru. DN.iii.201
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "naḷa"
 summary = ""
 grammar_comment = ""
@@ -14516,7 +13820,6 @@ Naḷa
 A Gandhabba chieftain DN.ii.258 to be invoked by followers of the Buddha in time of need. DN.iii.204
 
 ``` toml
-dict_label = "DPPN"
 word = "naḷakapāna"
 summary = ""
 grammar_comment = ""
@@ -14536,7 +13839,6 @@ A village in Kosala, where the Buddha once stayed and preached the Naḷakapāna
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "naḷerupucimanda"
 summary = ""
 grammar_comment = ""
@@ -14556,7 +13858,6 @@ A grove near Verañja where the Buddha spent part of his time on his visit to Ne
 26.88294,78.813713park
 
 ``` toml
-dict_label = "DPPN"
 word = "nemi"
 summary = ""
 grammar_comment = ""
@@ -14578,7 +13879,6 @@ Nemi<sup>2</sup>
 A Pacceka Buddha, perhaps the same as Nimi. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "nerañjarāya"
 summary = ""
 grammar_comment = ""
@@ -14598,7 +13898,6 @@ A river. After the Enlightenment, the Buddha lived under the Ajapāla Nigrodha a
 24.72157, 85.005681river
 
 ``` toml
-dict_label = "DPPN"
 word = "netti"
 summary = ""
 grammar_comment = ""
@@ -14616,7 +13915,6 @@ Netti
 A Yakkha chieftain. DN.iii.204
 
 ``` toml
-dict_label = "DPPN"
 word = "nhātakamuni"
 summary = ""
 grammar_comment = ""
@@ -14634,7 +13932,6 @@ Nhātakamuni
 A monk whose Theragāthā verse speaks of practicing with joy in the forest, despite being ill. Thag.435–440
 
 ``` toml
-dict_label = "DPPN"
 word = "niceluvana"
 summary = ""
 grammar_comment = ""
@@ -14654,7 +13951,6 @@ A grove of *mucalinda* trees in Kimbilā. AN.iii.247
 Kimbilā3park
 
 ``` toml
-dict_label = "DPPN"
 word = "nigaṇṭha nāṭaputta"
 summary = ""
 grammar_comment = ""
@@ -14690,7 +13986,6 @@ But the greatest blow to Nāṭaputta was when Upāli\-gahapati MN.i.373*ff.* jo
 Nigaṇṭha Nāṭaputta is the name by which the Jaina teacher, Mahāvīra, was known to his contemporaries. He was also called Vardhamāna. Nāta was the name of his clan.
 
 ``` toml
-dict_label = "DPPN"
 word = "nighaṇḍu"
 summary = ""
 grammar_comment = ""
@@ -14708,7 +14003,6 @@ Nighaṇḍu
 A *yakkha* chieftain, to be invoked by followers of the Buddha when in distress. DN.iii.204 He was present at the Mahāsamaya. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "nigrodha"
 summary = ""
 grammar_comment = ""
@@ -14730,7 +14024,6 @@ Nigrodha<sup>2</sup>
 A monk whose Theragāthā verse speaks of overcoming fear. Thag.21
 
 ``` toml
-dict_label = "DPPN"
 word = "nigrodhakappa"
 summary = ""
 grammar_comment = ""
@@ -14748,7 +14041,6 @@ NigrodhakappaKappa
 He was the preceptor (*upajjhāya*) of Vaṅgīsa, and together they lived in Aggālava cetiya, SN.i.185 where Kappa died. When Vaṅgīsa questioned the Buddha as to the destiny of Kappa, the Buddha’s answer was that he had completely passed away.Thag.1263*ff.* Snp.343*ff.* Kappa elsewhere helped Vaṅgīsa with his teaching. SN.i.186
 
 ``` toml
-dict_label = "DPPN"
 word = "nigrodhārāma"
 summary = ""
 grammar_comment = ""
@@ -14774,7 +14066,6 @@ A grove in Rājagaha. The Buddha says that there he once gave Ānanda the chance
 Rājagaha3park
 
 ``` toml
-dict_label = "DPPN"
 word = "nikata"
 summary = ""
 grammar_comment = ""
@@ -14796,7 +14087,6 @@ Nikata<sup>2</sup>
 One of several eminent theras mentioned as staying in the Kūṭāgārasāla in Vesāli. When the Buddha came there, Licchavis crowded out the place with all their retinues, and Nikata and his coleagues, desiring solitude, retired to the Gosiṅgasālavana. AN.v.133*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "nilavāsi"
 summary = ""
 grammar_comment = ""
@@ -14814,7 +14104,6 @@ Nilavāsi
 A Thera mentioned as staying at the Kukkuṭārāma in Pāṭaliputta. Vin.i.300
 
 ``` toml
-dict_label = "DPPN"
 word = "nimmānaratī"
 summary = ""
 grammar_comment = ""
@@ -14832,7 +14121,6 @@ Nimmānaratī
 A class of devas, inhabiting the fifth of the six deva\-worlds. DN.i.218 MN.i.289 SN.i.133 AN.i.210
 
 ``` toml
-dict_label = "DPPN"
 word = "nirabbuda"
 summary = ""
 grammar_comment = ""
@@ -14852,7 +14140,6 @@ A hell, or a period of suffering. Equal to twenty Abbudas. Snp.p.126 SN.i.149
 40.25264,58.439415hell
 
 ``` toml
-dict_label = "DPPN"
 word = "niraggaḷa"
 summary = ""
 grammar_comment = ""
@@ -14870,7 +14157,6 @@ Niraggaḷa
 A sacrifice in which alms are given with wide open, boltless doors.
 
 ``` toml
-dict_label = "DPPN"
 word = "niraya"
 summary = ""
 grammar_comment = ""
@@ -14892,7 +14178,6 @@ The Devadūta Sutta MN.iii.185 of the Majjhima Nikāya contains another list: G�
 40.25264,58.439415hell
 
 ``` toml
-dict_label = "DPPN"
 word = "nisabha"
 summary = ""
 grammar_comment = ""
@@ -14910,7 +14195,6 @@ Nisabha
 A monk whose Theragāthā verses speak of giving up desire and patiently awaiting one’s time. Thag.195–196
 
 ``` toml
-dict_label = "DPPN"
 word = "niṅka"
 summary = ""
 grammar_comment = ""
@@ -14928,7 +14212,6 @@ NiṅkaNika
 A deva who visits the Buddha in the company of several other devas and utters a verse in praise of Nigaṇṭha Nāṭaputta. SN.i.65*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "nādikā"
 summary = ""
 grammar_comment = ""
@@ -14948,7 +14231,6 @@ The Mahā Parinibbāna Sutta DN.ii.72*ff.* gives a list of the places at which t
 25.743004,85.2566525town
 
 ``` toml
-dict_label = "DPPN"
 word = "nāga"
 summary = ""
 grammar_comment = ""
@@ -14970,7 +14252,6 @@ The word Nāga is often used as an epithet of the Buddha and the Arahants.
 In the accounts given of the Nāgas, there is undoubtedly great confusion between the Nāgas as supernatural beings, as snakes, elephants, and as the name of certain non Aryan tribes, but the confusion is too difficult to unravel.
 
 ``` toml
-dict_label = "DPPN"
 word = "nāgadatta"
 summary = ""
 grammar_comment = ""
@@ -14988,7 +14269,6 @@ Nāgadatta
 He once lived in a forest tract in Kosala and was inclined to be indolent. A deva, noticing this, admonished him, and it is said that Nāgadatta paid heed to the warning. SN.i.200
 
 ``` toml
-dict_label = "DPPN"
 word = "nāgasamāla"
 summary = ""
 grammar_comment = ""
@@ -15008,7 +14288,6 @@ He was a Sākiyan and entered the Order when the Buddha visited his kinsmen at K
 One day, when entering the city for alms, he saw a nautch girl gaily dressed, dancing to the accompaniment of music and contemplated her as the snare of Māra. Making this his topic of thought, he developed insight into the perishableness of life and became an arahant. Thag.267–270 Another day, while walking with the Buddha, they came to a cleft in the road, and the Buddha wished to go along one way, while Nāgasamāla wished to go along another, in spite of the Buddha’s warning that it was dangerous. In the end, he put the Buddha’s begging bowl and robe on the ground and left him. Brigands waylaid him and ill treated him, breaking his bowl and threatening to kill him. Thereupon he turned back to the Buddha and asked his forgiveness. Ud.viii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "nāgavana"
 summary = ""
 grammar_comment = ""
@@ -15028,7 +14307,6 @@ A park near Hatthigāma, belonging to Uggagahapati. It was there that he first m
 26.38202, 84.840543park
 
 ``` toml
-dict_label = "DPPN"
 word = "nāgita"
 summary = ""
 grammar_comment = ""
@@ -15050,7 +14328,6 @@ Nāgita<sup>2</sup>
 For some time the personal attendant of the Buddha. DN.i.151 AN.iii.31 AN.iii.341 AN.iv.341
 
 ``` toml
-dict_label = "DPPN"
 word = "nālaka"
 summary = ""
 grammar_comment = ""
@@ -15068,7 +14345,6 @@ Nālaka
 Nephew of Asita Kāladevala. When Asita realized that he would not live to see the Buddha, he sought out Nālaka and asked him to leave the world at once and become an ascetic and hold himself in readiness to profit by the Buddha’s Enlightenment. This Nālaka did. When the time came, he visited the Buddha to ask about the way of practice. Snp.838–862
 
 ``` toml
-dict_label = "DPPN"
 word = "nālā"
 summary = ""
 grammar_comment = ""
@@ -15088,7 +14364,6 @@ A village in Māgadha, near the Bodhi tree at Gayā. Thig.294
 near Gayā3town
 
 ``` toml
-dict_label = "DPPN"
 word = "nālāgiri"
 summary = ""
 grammar_comment = ""
@@ -15106,7 +14381,6 @@ NālāgiriNāḷāgiri
 An elephant of the royal stalls at Rājagaha. Devadatta, after several vain attempts to kill the Buddha, obtained Ajātasattu’s consent to use Nālagiri as a means of encompassing the Buddha’s death. Nālagiri was a fierce animal, and in order to increase his fierceness, Devadatta instructed his keeper to give him twice his usual amount of toddy. Proclamation was made, by the beating of drums, that the streets of the city should be cleared as Nālāgiri would be let loose upon them. When the Buddha was informed of this and warned against going into the city for alms, he ignored the warning, and went into Rājagaha with the monks of the eighteen monasteries of the city. At the sight of Nālāgiri all the people fled in terror. Ānanda, seeing the elephant advancing towards the Buddha, went, in spite of the Buddha’s orders to the contrary, and stood in front of the Buddha, who had to make use of his supernatural power to remove him from his place. The Buddha spoke to him, suffusing him with all the love at his command, and, stretching out his right hand, he stroked the animal’s forehead. Thrilling with joy at the touch, Nālāgiri sank on his knees before the Buddha. The Buddha returned to Veḷuvana. Vin.ii.194*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "nārada"
 summary = ""
 grammar_comment = ""
@@ -15124,7 +14398,6 @@ Nārada
 A monk, mentioned once as staying at the Ghositārāma in Kosambī, with Musila, Savittha, and Ānanda. In the course of discussion he declares that, though aware of the nature of nibbana, he is not an arahant. SN.ii.115*f.* Elsewhere AN.iii.57*f.* he is mentioned as staying in the Kukkuṭārāma in Pāṭaliputta. At that time King Muṇḍa was grieving over the death of his wife, Bhaddā, to the neglect of everything else, and his treasurer, Piyaka, suggested that he should visit Nārada. The king agreed, and Nārada preached to him on the inevitable ness of old age, disease, death, etc. Muṇḍa was consoled, and buried the body of his wife, which he had till then preserved.
 
 ``` toml
-dict_label = "DPPN"
 word = "nāthaputtiyā"
 summary = ""
 grammar_comment = ""
@@ -15142,7 +14415,6 @@ Nāthaputtiyā
 The followers of Nigaṇṭha Nāṭaputta. DN.iii.117
 
 ``` toml
-dict_label = "DPPN"
 word = "nāvindakī"
 summary = ""
 grammar_comment = ""
@@ -15160,7 +14432,6 @@ Nāvindakī
 One of King Eḷeyya’s guards. He was a follower of Rāmaputta. AN.ii.180
 
 ``` toml
-dict_label = "DPPN"
 word = "nāḷandā"
 summary = ""
 grammar_comment = ""
@@ -15186,7 +14457,6 @@ According to the Kevaṭṭa Sutta, DN.i.211 in the Buddha’s time Nāḷandā 
 25.136951,85.4435211town
 
 ``` toml
-dict_label = "DPPN"
 word = "nāḷijaṅgha"
 summary = ""
 grammar_comment = ""
@@ -15204,7 +14474,6 @@ Nāḷijaṅgha
 A brahmin, whom Mallikā sent to the Buddha to find out if it were true that the Buddha had said that loved ones brought morrow and tribulation. MN.ii.108
 
 ``` toml
-dict_label = "DPPN"
 word = "nāṭasuriyā"
 summary = ""
 grammar_comment = ""
@@ -15224,7 +14493,6 @@ A city in Uttarakuru. DN.iii.200
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "nīta"
 summary = ""
 grammar_comment = ""
@@ -15242,7 +14510,6 @@ Nīta
 A monk whose Theragāthā verse asks when the lazy fool will ever escape suffering. Thag.84
 
 ``` toml
-dict_label = "DPPN"
 word = "nītha"
 summary = ""
 grammar_comment = ""
@@ -15260,7 +14527,6 @@ Nītha
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "odātagayhā"
 summary = ""
 grammar_comment = ""
@@ -15278,7 +14544,6 @@ Odātagayhā
 A class of eminent devas among those present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "ojasi"
 summary = ""
 grammar_comment = ""
@@ -15296,7 +14561,6 @@ Ojasi
 Servant of Kuvera. He takes Kuvera’s messages and makes them known in Uttarakuru. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "okkāka"
 summary = ""
 grammar_comment = ""
@@ -15320,7 +14584,6 @@ Okkāka had a slave\-girl called Disā, who gave birth to a black baby named, ac
 According to the Brāhmaṇa\-Dhammika Sutta, Snp.p.52*ff.* it was during the time of Okkāka that the brahmins started their practice of slaughtering animals for sacrifice. Till then there had been only three diseases in the world—desire, hunger and old age; but from this time onwards the enraged devas afflicted humans with various kinds of suffering.
 
 ``` toml
-dict_label = "DPPN"
 word = "opamañña"
 summary = ""
 grammar_comment = ""
@@ -15342,7 +14605,6 @@ Opamañña<sup>2</sup>
 A Gandhabba chieftain, who was among those present at the preaching of the Mahāsamaya Sutta. DN.ii.258 He is mentioned in the Āṭānāṭiya Sutta, DN.iii.204 in a list of eminent *yakkha* generals.
 
 ``` toml
-dict_label = "DPPN"
 word = "osadhī"
 summary = ""
 grammar_comment = ""
@@ -15360,7 +14622,6 @@ Osadhī
 The morning star, used in describing typical whiteness, DN.ii.111 and also great brightness and purity. It.20
 
 ``` toml
-dict_label = "DPPN"
 word = "oṭṭhaddha"
 summary = ""
 grammar_comment = ""
@@ -15378,7 +14639,6 @@ Oṭṭhaddha
 One of the Licchavis. He went to visit the Buddha at the Kūṭāgārasālā in Vesalī, at a time when the Buddha had given orders that no one should be allowed to see him; but through the intervention of the novice Sīha, Oṭṭhaddha was admitted to the Buddha’s presence with a large retinue of followers, all splendidly adorned in various ways, though it is stated that earlier in the day they had taken the uposatha\-vows. The conversation that took place between Oṭṭhaddha and the Buddha is recorded in the Mahāli Sutta. DN.i.150*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pabbata"
 summary = ""
 grammar_comment = ""
@@ -15396,7 +14656,6 @@ Pabbata
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "paccantajanapadā"
 summary = ""
 grammar_comment = ""
@@ -15418,7 +14677,6 @@ The Vinaya rules were relaxed in the case of those who lived in the Paccantajana
 outside Middle Country3region
 
 ``` toml
-dict_label = "DPPN"
 word = "paccaya"
 summary = ""
 grammar_comment = ""
@@ -15436,7 +14694,6 @@ Paccaya
 A monk whose Theragāthā verses speak of his energetic resolve after going forth. Thag.222–224
 
 ``` toml
-dict_label = "DPPN"
 word = "paccekabrahmā"
 summary = ""
 grammar_comment = ""
@@ -15454,7 +14711,6 @@ Paccekabrahmā
 Mention is made in one or two places in the books of Brahmas who are described as Paccekabrahmā—e.g., Subrahmā, Suddhāvāsa and Tudu. I have not come across any explanation of this term. It may designate a Brahmā who does not live in any recognized Brahmā world, but in a world of his own.
 
 ``` toml
-dict_label = "DPPN"
 word = "paccekabuddha"
 summary = ""
 grammar_comment = ""
@@ -15472,7 +14728,6 @@ Paccekabuddha
 The name given to one who is enlightened without establishing a religion. In the Isigili Sutta MN.iii.68*ff.* appears a long list of Pacceka Buddhas who dwelt on the Isigili Mountain, and after whom the mountain was named.
 
 ``` toml
-dict_label = "DPPN"
 word = "pacchābhumma"
 summary = ""
 grammar_comment = ""
@@ -15490,7 +14745,6 @@ PacchābhummaPacchābhūma
 The name given to the district to the west of the Middle Country. SN.iii.5 SN.iii.6 Mention is also made of the Pacchābhūmakā brahmins, who are carriers of water pots, fire worshippers, and who claim to be able to send a man heavenward after death. AN.v.263 SN.iv.311
 
 ``` toml
-dict_label = "DPPN"
 word = "pacetana"
 summary = ""
 grammar_comment = ""
@@ -15508,7 +14762,6 @@ Pacetana
 A king of old, whose wheelwright was the Buddha in a past life. AN.i.110
 
 ``` toml
-dict_label = "DPPN"
 word = "paduma"
 summary = ""
 grammar_comment = ""
@@ -15528,7 +14781,6 @@ A Hell. The monk Kokālika was born there. Snp.p.126
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "padumā"
 summary = ""
 grammar_comment = ""
@@ -15546,7 +14798,6 @@ Padumā
 One of the most distinguished lay women, followers of the Buddha. AN.iv.347 She was the wife of Meṇḍaka and her full name was Candapadumā
 
 ``` toml
-dict_label = "DPPN"
 word = "pahārāda"
 summary = ""
 grammar_comment = ""
@@ -15564,7 +14815,6 @@ Pahārāda
 An Asura chief. DN.ii.259 At the Nalerupucimaṇḍa in Verañja he visited the Buddha. In answer to a question, Pahārāda tells the Buddha that there are eight wonderful characteristics of the ocean, on account of which Asuras delight in it. The Buddha tells him of eight similar qualities in his own teaching and discipline, wherefore monks find joy in them. AN.iv.197*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pahāsa"
 summary = ""
 grammar_comment = ""
@@ -15584,7 +14834,6 @@ A hell in which stage players are born after death. Tālapuṭa maintained that 
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "pajjanika"
 summary = ""
 grammar_comment = ""
@@ -15604,7 +14853,6 @@ A Koliyan village, the residence of Suppavāsā Koḷiyādhītā, mother of Sīv
 Koliya3town
 
 ``` toml
-dict_label = "DPPN"
 word = "pajjunna"
 summary = ""
 grammar_comment = ""
@@ -15624,7 +14872,6 @@ A devarāja, the god of rain. Kokanadā and Culla Kokanadā were his daughters. 
 Pajjunna is mentioned among the Mahāyakkhas to be invoked in time of need, DN.iii.205 and he was present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "pajāpati"
 summary = ""
 grammar_comment = ""
@@ -15646,7 +14893,6 @@ He is sometimes mentioned with Brahmā, as distinct from him. MN.i.140 MN.i.327 
 In the Āṭānāṭiya Sutta DN.iii.204 he is mentioned among the Mahāyakkhas, to be invoked by followers of the Buddha in times of danger.
 
 ``` toml
-dict_label = "DPPN"
 word = "pakkha"
 summary = ""
 grammar_comment = ""
@@ -15664,7 +14910,6 @@ Pakkha
 A monk whose Theragāthā verse speaks of attaining happiness. Thag.63
 
 ``` toml
-dict_label = "DPPN"
 word = "pakudha"
 summary = ""
 grammar_comment = ""
@@ -15686,7 +14931,6 @@ Pakudha’s teachings are also referred to in the Sandaka Sutta, MN.i.517 and th
 We are told MN.i.250 MN.ii.4 that Pakudha’s followers did not hold him in high esteem, in contrast to the devotion felt for the Buddha by his followers. Pakudha did not welcome questions, and displayed annoyance and resentment when cross examined. Elsewhere MN.i.198 SN.i.66 Snp.p.91 however, he is spoken of as having been highly honoured by the people, a teacher of large and well reputed schools, with numerous followers. But he did not lay claim to perfect enlightenment. SN.i.68
 
 ``` toml
-dict_label = "DPPN"
 word = "palāsavana"
 summary = ""
 grammar_comment = ""
@@ -15706,7 +14950,6 @@ A wood near Naḷakapāna in Kosala. The Buddha stayed there, AN.v.122 and it wa
 near Naḷakapāna in Kosala3park
 
 ``` toml
-dict_label = "DPPN"
 word = "panāda"
 summary = ""
 grammar_comment = ""
@@ -15724,7 +14967,6 @@ Panāda
 one of the chief Yakkhas to be invoked by the Buddha’s followers in time of need. DN.iii.204 He is also mentioned in the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "papāte pabbate"
 summary = ""
 grammar_comment = ""
@@ -15744,7 +14986,6 @@ A mountain in Avantī, near Kuraraghara. It was a favourite spot of Mahā Kaccā
 22.43387,75.791933hill
 
 ``` toml
-dict_label = "DPPN"
 word = "parakusināṭā"
 summary = ""
 grammar_comment = ""
@@ -15764,7 +15005,6 @@ One of the cities of Uttarakuru, described as having been built on an airy base.
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "paramatta"
 summary = ""
 grammar_comment = ""
@@ -15782,7 +15022,6 @@ Paramatta
 A Brahmā who was present at the Mahāsamaya. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "paranimmitavasavattī"
 summary = ""
 grammar_comment = ""
@@ -15802,7 +15041,6 @@ A class of devas, inhabitants of the highest stage of the sensuous universe.
 They are described AN.i.210 SN.v.410 SN.v.423 DN.ii.91 DN.iii.218 as “beings who desire the creation of others, in order to get them into their power.
 
 ``` toml
-dict_label = "DPPN"
 word = "paribbājakā"
 summary = ""
 grammar_comment = ""
@@ -15830,7 +15068,6 @@ It was in such places that the Paribbājakas met each other, and in the course o
 The inhabitants of the towns and villager, near which the Paribbājakas stopped, visited them, both to show their respect and to benefit by their teachings. The names of a considerable number of Paribbājakas, besides those already mentioned, who were well known in the time of the Buddha, are given in the texts e.g., Annabhāra, Varadhara, etc., AN.ii.175 also Sāmaṇḍaka, SN.iv.26 and the Paribbājikā Sucimukhī. SN.iii.238*f.* In most cases they are represented as having large followings, so that they were evidently regarded as distinguished teachers.
 
 ``` toml
-dict_label = "DPPN"
 word = "paripuṇṇaka"
 summary = ""
 grammar_comment = ""
@@ -15848,7 +15085,6 @@ Paripuṇṇaka
 A monk whose Theragāthā verse speaks of the superiority of the taste of Dhamma over all other flavors. Thag.91
 
 ``` toml
-dict_label = "DPPN"
 word = "parisuddhābhā"
 summary = ""
 grammar_comment = ""
@@ -15866,7 +15102,6 @@ Parisuddhābhā
 A class of devas included among the Ābhā gods. Beings are born among them as a result of absorbing the idea of untarnished brilliancy.MN.iii.102 MN.iii.147 They belong to the plane of the third *jhāna*.
 
 ``` toml
-dict_label = "DPPN"
 word = "parittasubhā"
 summary = ""
 grammar_comment = ""
@@ -15884,7 +15119,6 @@ Parittasubhā
 A class of devas belonging to the Subha Devas. MN.iii.102 Beings are born among them after attaining the third *jhāna*.
 
 ``` toml
-dict_label = "DPPN"
 word = "parittābhā"
 summary = ""
 grammar_comment = ""
@@ -15904,7 +15138,6 @@ A class of devas included among the Ābhā gods. MN.iii.102
 They belong to the plane of the second *jhāna*. Beings are born there by virtue of absorbing the idea of lesser brilliancy. MN.iii.147
 
 ``` toml
-dict_label = "DPPN"
 word = "pariḷāha"
 summary = ""
 grammar_comment = ""
@@ -15924,7 +15157,6 @@ A hell where all objects of the senses, even when really attractive, appear quit
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "parājitā"
 summary = ""
 grammar_comment = ""
@@ -15944,7 +15176,6 @@ A Niraya in which those who die in battle are born. SN.iv.311
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "pasenadi"
 summary = ""
 grammar_comment = ""
@@ -15962,7 +15193,6 @@ PasenadiSeniya
 King of Kosala and contemporary of the Buddha. Quite early in the Buddha’s ministry, Pasenadi became his follower and close friend, and his devotion to the Buddha lasted till his death. Pasendi’s chief wife was Mallikā. There are many discourses that feature King Pasenadi coming to the Buddha to ask about Dhamma. Pasenadi died shortly before the Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "passi"
 summary = ""
 grammar_comment = ""
@@ -15980,7 +15210,6 @@ Passi
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "passika"
 summary = ""
 grammar_comment = ""
@@ -15998,7 +15227,6 @@ Passika
 His Theragāthā verses speak of his helping his relatives to practice generosity, so they attained a favorable rebirth. Thag.240–242
 
 ``` toml
-dict_label = "DPPN"
 word = "patiṭṭhāna"
 summary = ""
 grammar_comment = ""
@@ -16018,7 +15246,6 @@ The capital of Aḷaka, the first place to be passed by Bāvarī’s disciples o
 19.482129,75.3808592town
 
 ``` toml
-dict_label = "DPPN"
 word = "patāyanti"
 summary = ""
 grammar_comment = ""
@@ -16038,7 +15265,6 @@ A place in Uttarakuru where the Yakkhas assemble. The Dīgha Nikāya DN.iii.201 
 5building
 
 ``` toml
-dict_label = "DPPN"
 word = "pavattā"
 summary = ""
 grammar_comment = ""
@@ -16056,7 +15282,6 @@ Pavattā
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "paviṭṭha"
 summary = ""
 grammar_comment = ""
@@ -16074,7 +15299,6 @@ Paviṭṭha
 A monk whose Theragāthā verse speaks of the end of rebirth. Thag.87
 
 ``` toml
-dict_label = "DPPN"
 word = "payāga"
 summary = ""
 grammar_comment = ""
@@ -16096,7 +15320,6 @@ It is identified with the modern Allahabad, at the confluence of the Gaṅgā an
 25.45, 81.851ford
 
 ``` toml
-dict_label = "DPPN"
 word = "pañcakaṅga"
 summary = ""
 grammar_comment = ""
@@ -16118,7 +15341,6 @@ The Bahuvedanīya Sutta MN.i.396*ff.* SN.iv.223*f.* is based on a discussion bet
 The Anuruddha Sutta MN.iii.144*ff.* contains a discussion between Anuruddha and Abhiya Kaccāna, which took place at Pañcakaṅga’s house, whither he had invited them. The discussion was started by a question asked by Pañcakaṅga.
 
 ``` toml
-dict_label = "DPPN"
 word = "pañcanadī"
 summary = ""
 grammar_comment = ""
@@ -16138,7 +15360,6 @@ In several places in the texts five rivers are mentioned as the five great river
 4river
 
 ``` toml
-dict_label = "DPPN"
 word = "pañcasāla"
 summary = ""
 grammar_comment = ""
@@ -16158,7 +15379,6 @@ A brahmin village of Māgadha. For an episode connected with it see Piṇḍa Su
 Māgadha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "pañcavaggiyā"
 summary = ""
 grammar_comment = ""
@@ -16178,7 +15398,6 @@ The name given to the five monks—Koṇḍañña (Aññā Koṇḍañña), Bhad
 All five joined in the austerities of Gotama at Uruvelā. When he abandoned his austerities and started to follow the Middle Way, they left him in disappointment. But after the Enlightenment, the Buddha visited them and preached to them. At first they refused to pay heed to him, but gradually his powers of persuasion won their hearts and they became his first disciples.
 
 ``` toml
-dict_label = "DPPN"
 word = "pañcāla"
 summary = ""
 grammar_comment = ""
@@ -16200,7 +15419,6 @@ Pañcāla was to the east of the Kuru country, the country to the north and west
 28.13012, 79.337761janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "pañcālacaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -16218,7 +15436,6 @@ Pañcālacaṇḍa
 A *devaputta* who visited the Buddha at Jetavana and uttered a verse to the effect that the man who understands *jhāna* finds room even among crowding obstacles. The Buddha corrects him, saying that those who are mindful and self possessed know the way to Nibbāna. SN.i.48 It is probably this same deva who is mentioned as a Mahāyakkha in the Āṭānāṭiya Sutta DN.iii.205 who is to be invoked by the Buddha’s followers in time of need.
 
 ``` toml
-dict_label = "DPPN"
 word = "paṅga"
 summary = ""
 grammar_comment = ""
@@ -16236,7 +15453,6 @@ Paṅga
 The name of a Pacceka Buddha, found in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "paṅkadhā"
 summary = ""
 grammar_comment = ""
@@ -16256,7 +15472,6 @@ A township in Kosala, the residence of a monk named Kassapa of the Kampagotta. T
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "paṇḍaka"
 summary = ""
 grammar_comment = ""
@@ -16274,7 +15489,6 @@ Paṇḍaka
 A monk, friend of Kapila, who lived in a village near Kosambī. He was found guilty of having taken what did not belong to him and also of unchastity. Vin.iii.67
 
 ``` toml
-dict_label = "DPPN"
 word = "paṇḍara"
 summary = ""
 grammar_comment = ""
@@ -16292,7 +15506,6 @@ PaṇḍaraPaṇdarasaPaṇḍarasagotta
 The name of a clan. An ascetic of this clan, hearing Phussa Thera preach, asked him a question which led to a long explanation by Phussa. Thag.949
 
 ``` toml
-dict_label = "DPPN"
 word = "paṇḍava"
 summary = ""
 grammar_comment = ""
@@ -16312,7 +15525,6 @@ A hill near Rājagaha. Thag.41 Thag.1167 It seems formerly to have borne another
 near Rājagaha3hill
 
 ``` toml
-dict_label = "DPPN"
 word = "paṇḍita"
 summary = ""
 grammar_comment = ""
@@ -16330,7 +15542,6 @@ Paṇḍita
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "paṇḍuputta"
 summary = ""
 grammar_comment = ""
@@ -16348,7 +15559,6 @@ Paṇḍuputta
 An Ājīvaka. He came of a wagon building stock of bygone days. In the Anaṅgaṇa Sutta, MN.i.31*f.* Moggallāna tells Sāriputta that, one day, when begging alms in Rājagaha, he came to the house of Samīti, the wagon builder who was shaping a felloe. Standing by was Paṇḍuputta, watching him and wishing that he should shape it without blemish. When Samīti did so, Paṇḍuputta expressed his joy, saying that Samīti had read his thoughts.
 
 ``` toml
-dict_label = "DPPN"
 word = "paṭiyāloka"
 summary = ""
 grammar_comment = ""
@@ -16368,7 +15578,6 @@ A place near Rājagaha. Vin.iv.79 Vin.iv.131
 near Rājagaha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "paṭācārā "
 summary = ""
 grammar_comment = ""
@@ -16386,7 +15595,6 @@ Paṭācārā
 A bhikkhunī whose Therīgāthā verses speak of her efforts to attain Awakening. Thig.112–116 She was declared by the Buddha to be the best among bhikkhunīs who knew the Vinaya. AN.i.25 She was several times referred to by other nuns as their teacher.
 
 ``` toml
-dict_label = "DPPN"
 word = "pessa"
 summary = ""
 grammar_comment = ""
@@ -16404,7 +15612,6 @@ Pessa
 An elephant trainer of Campā. He visited the Buddha at Gaggarāpokkharanī where Kandaraka was also present, and his conversation on that occasion is recorded in the Kandaraka Sutta. When Pessa had left, the Buddha is reported to have said that he was a man of great understanding, and that had he stayed longer he could have taken away with him something which would have proved precious to him. MN.i.339–342
 
 ``` toml
-dict_label = "DPPN"
 word = "phagguna"
 summary = ""
 grammar_comment = ""
@@ -16422,7 +15629,6 @@ Phagguna
 A monk. In the Saṃyutta Nikāya SN.iv.52 he is represented as asking the Buddha if it were possible, by means of any of the senses, to recognize and proclaim the past Buddhas. The Buddha replies in the negative. It is probably the same monk who is mentioned in the Aṅguttara Nikāya AN.iii.379*ff.* as having been visited during his illness by the Buddha on the suggestion of Ānanda. The Buddha found Phagguna in bed and grievously ill, and he talked to him and comforted him. Phagguna died soon after, having attained arahantship.
 
 ``` toml
-dict_label = "DPPN"
 word = "phalaganda"
 summary = ""
 grammar_comment = ""
@@ -16440,7 +15646,6 @@ Phalaganda
 One of the seven human beings born in the Avihā\-world, where they will pass completely away. SN.i.35 SN.i.60
 
 ``` toml
-dict_label = "DPPN"
 word = "phalikasandāna"
 summary = ""
 grammar_comment = ""
@@ -16458,7 +15663,6 @@ Phalikasandāna
 One of the Theras dwelling in the Kukkuṭārāma in Pāṭaliputta in the time of the Buddha. Vin.i.300
 
 ``` toml
-dict_label = "DPPN"
 word = "phussa"
 summary = ""
 grammar_comment = ""
@@ -16476,7 +15680,6 @@ Phussa
 A monk whose Theragāthā verses depict the ascetic Paṇḍarassagotta questioning him on the future decline of Bhikkhus. Thag.949–980
 
 ``` toml
-dict_label = "DPPN"
 word = "pilakkhaguhā"
 summary = ""
 grammar_comment = ""
@@ -16496,7 +15699,6 @@ A cave near Kosambī. The wanderer Sandaka is said to have stayed there. Nearby 
 25.29188, 81.366113cave
 
 ``` toml
-dict_label = "DPPN"
 word = "pilindavaccha"
 summary = ""
 grammar_comment = ""
@@ -16522,7 +15724,6 @@ Once Bimbisāra found Pilinda, clearing a cave in order to provide a cell for hi
 Another story is related of Pilinda’s *iddhi* powers. Vin.iii.67 Once a family of Benares, which was wont to minister to Pilinda, was attacked by robbers and two girls were kidnapped. Pilinda, by his *iddhi* power caused them to be brought back, and the monks complained of this to the Buddha, but the Buddha held that no wrong had been done.
 
 ``` toml
-dict_label = "DPPN"
 word = "pilotika"
 summary = ""
 grammar_comment = ""
@@ -16540,7 +15741,6 @@ Pilotika
 A wanderer. Jāṇussoṇi once met him returning from Jetavana, where he had gone early to wait on the Buddha. Pilotika, on being questioned, spoke very highly of the Buddha. It is this conversation which, on its being repeated by Jāṇussoṇi to the Buddha, led to the preaching of the Cullahatthipadopama Sutta. MN.i.175*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pippaliguhā"
 summary = ""
 grammar_comment = ""
@@ -16560,7 +15760,6 @@ A cave near Rājagaha, evidently a favourite haunt of Mahā Kassapa. Once when h
 25.01897,85.4302451cave
 
 ``` toml
-dict_label = "DPPN"
 word = "piyadassī"
 summary = ""
 grammar_comment = ""
@@ -16578,7 +15777,6 @@ Piyadassī
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "piyañjaha"
 summary = ""
 grammar_comment = ""
@@ -16596,7 +15794,6 @@ Piyañjaha
 A monk whose Theragāthā verse speaks of going against what everyone else does. Thag.76
 
 ``` toml
-dict_label = "DPPN"
 word = "piyaṅkara"
 summary = ""
 grammar_comment = ""
@@ -16614,7 +15811,6 @@ Piyaṅkara
 A little boy Yakkha. While his mother, with him on her hip, was seeking for food at night, she came unexpectedly to Jetavana where Anuruddha was reciting some verses. The sound pleased her and she stood “smitten to the marrow, like a post,” hushing to sleep her child who was whimpering for food. SN.i.209
 
 ``` toml
-dict_label = "DPPN"
 word = "piṅgalakoccha"
 summary = ""
 grammar_comment = ""
@@ -16632,7 +15828,6 @@ Piṅgalakoccha
 A brahmin of Sāvatthī. He visited the Buddha at Jetavana and the Buddha preached to him the Cūḷasāropama Sutta, at the end of which he declared himself the Buddha’s follower. MN.i.198*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "piṅgiya"
 summary = ""
 grammar_comment = ""
@@ -16650,7 +15845,6 @@ Piṅgiya
 Nephew and pupil of Bāvarī. At the time that he visited the Buddha with the other disciples he was 120 years old and very feeble. At the end of his discussion with the Buddha, as recorded in the Piṅgiya Sutta, Snp.1120–1123 because of his feebleness, he failed to reach any attainment. Thereupon he praised the Buddha and begged of him to go on. The Buddha preached to him further, and he became an anāgāmī, failing, however, to attain arahantship because his mind wandered to his maternal uncle, Bāvarī. Later, with the Buddha’s leave, he visited Bāvarī and told him the glad tidings, describing the Buddha’s glory. Snp.1131–1145 At the end of his statement, the Buddha, seeing that the minds of both of them were mature, sent forth a ray of light from Sāvatthī and, appearing before them, preached to them. He was probably one of the seven anāgamīns born in the Avihā world, in the company of Ghatīkārā. SN.i.35 SN.i.60
 
 ``` toml
-dict_label = "DPPN"
 word = "piṅgiyānī"
 summary = ""
 grammar_comment = ""
@@ -16668,7 +15862,6 @@ Piṅgiyānī
 A brahmin of Vesāli. The Aṅguttara Nikāya records a conversation between him and Kāraṇapālī. The latter meets Piṅgiyānī and, on learning that he was returning from a visit to the Buddha, asks him about the Buddha’s wisdom. Piṅgiyāni utters the Buddha’s praises with a wealth of simile and metaphor. Kāraṇapālī is impressed, and declares himself the Buddha’s follower. AN.iii.236*ff.* On another occasion, Piṅgiyāni is present when five hundred Licchavis come to pay honour to the Buddha at the Kūṭāgārasālā. The sight of the Buddha, sitting in their midst, outshining them all, inspires Piṅgiyāni and he bursts into song. The Licchavis give him five hundred upper garments, all of which he presents to the Buddha. AN.iii.239*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "piṇḍola"
 summary = ""
 grammar_comment = ""
@@ -16696,7 +15889,6 @@ In the Vinaya Vin.ii.110*f.* we find the Buddha rebuking Piṇḍola for perform
 The Theragāthā contains two verses Thag.123–124 of Piṇḍola, which say that peace comes neither from fasting nor from eating, and that one should give up honor.
 
 ``` toml
-dict_label = "DPPN"
 word = "pokkharasāti"
 summary = ""
 grammar_comment = ""
@@ -16714,7 +15906,6 @@ PokkharasātiPokkharasādi
 A brahmin of great wealth and learning who lived in Ukkaṭṭha, on a royal demesne given by Pasenadi. Ambaṭṭha was the pupil of Pokkharasāti, who sent him to the Buddha at Icchānaṅgala to discover if the report of the Buddha’s greatness were true. When Pokkharasāti heard later that Ambaṭṭha had been rude to the Buddha, he sought the Buddha by night and begged for his forgiveness. The next day he invited the Buddha to a meal, and having listened to his teaching, declared himself his follower and became a sotāpanna.DN.i.87*f.* DN.i.106*ff.* Owing to his eminence, he was present at the meetings of the brahmins held in Manasākaṭa DN.i.235 and Icchānaṅgala. Snp.p.115 Vasettha, of the Vāseṭṭha Sutta, was also his pupil. Snp.594 In the Subha Sutta, MN.ii.200*ff.* Subha Todeyyaputta, another disciple, is reported to have said that Pokkharasāti—here described as Opamañña (of the Upamañña clan) and lord of Subhagavana treated as empty boasts the claims of brahmins and recluses to transcend ordinary human bonds and rise to the height of Ariyan knowledge. This evidently refers to a time prior to his conversion. The same Sutta mentions a slave girl of Pokkharasāti, Puṇṇikā by name.
 
 ``` toml
-dict_label = "DPPN"
 word = "pokkharaṇiyā"
 summary = ""
 grammar_comment = ""
@@ -16734,7 +15925,6 @@ A monastery in Sāmagāma where the Buddha is said once to have stayed. AN.iii.3
 Sāmagāma3monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "posiya"
 summary = ""
 grammar_comment = ""
@@ -16752,7 +15942,6 @@ Posiya
 A monk whose Theragāthā verse speaks of caution when accepting food from women. Thag.34
 
 ``` toml
-dict_label = "DPPN"
 word = "posāla"
 summary = ""
 grammar_comment = ""
@@ -16770,7 +15959,6 @@ Posāla
 One of Bāvari’s pupils. His question to the Buddha and the answer thereto are given in the Posālamāṇavaa pucchā of the Pārāyana Vagga. Snp.1006 Snp.1112–1115.
 
 ``` toml
-dict_label = "DPPN"
 word = "potaliputta"
 summary = ""
 grammar_comment = ""
@@ -16790,7 +15978,6 @@ A wanderer who visited Samiddhi at the Vejuvana in Rājagaha and said that he ha
 For details see Mahākammavibhaṅga Sutta. MN.iii.207*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "potaliya"
 summary = ""
 grammar_comment = ""
@@ -16810,7 +15997,6 @@ A householder of Āpaṇa. Meeting the Buddha in a wood outside the town, he gre
 A conversation he had with the Buddha is recorded in the Aṅguttara Nikāya. At the end of the discussion he declared himself the Buddha’s follower. AN.ii.100*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "poṭṭhapāda"
 summary = ""
 grammar_comment = ""
@@ -16828,7 +16014,6 @@ Poṭṭhapāda
 A wanderer. A discussion between him and the Buddha on *samādhi* and on the soul, which took place in Mallikārāma in Sāvatthī, is reported in the Poṭṭhapāda Sutta. Poṭṭhapāda, accepting the Buddha’s views, was jeered at by his companions for doing so. Two or three days later he again visited the Buddha with Citta Hatthisāriputta\>, when the Buddha continued the earlier discussion on personality and the soul. At the end of the discourse Poṭṭhapāda became the Buddha’s follower. DN.i.178*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pubbakoṭṭhakā"
 summary = ""
 grammar_comment = ""
@@ -16848,7 +16033,6 @@ A bathing place in Sāvatthī, near the Migāramātupāsāda, and therefore to t
 27.51009, 82.091213building
 
 ``` toml
-dict_label = "DPPN"
 word = "pubbavideha"
 summary = ""
 grammar_comment = ""
@@ -16868,7 +16052,6 @@ The eastern of the four continents which compose a Cakkavāla. AN.i.227 AN.v.59
 5continent
 
 ``` toml
-dict_label = "DPPN"
 word = "pubbārāma"
 summary = ""
 grammar_comment = ""
@@ -16888,7 +16071,6 @@ A monastery outside the eastern gate of Sāvatthī.
 27.52532, 82.089843monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "pukkusa"
 summary = ""
 grammar_comment = ""
@@ -16910,7 +16092,6 @@ Pukkusa<sup>2</sup>
 The name of a caste, classified among the despised castes. AN.ii.85 MN.ii.152
 
 ``` toml
-dict_label = "DPPN"
 word = "pukkusāti"
 summary = ""
 grammar_comment = ""
@@ -16930,7 +16111,6 @@ A young monk whom the Buddha met at the house of Bhaggava, the potter, in Rājag
 After his untimely death Pukkusāti was born in the Avihā world, where, together with six others, he became an arahant at the moment of his birth. SN.i.35 SN.i.60
 
 ``` toml
-dict_label = "DPPN"
 word = "punabbasu"
 summary = ""
 grammar_comment = ""
@@ -16952,7 +16132,6 @@ Punabbasu<sup>2</sup>
 One of the Chabbaggiyā. His followers were called Panabbasukā, and, together with the followers of Assaji, they were called Assaji Punabbasukā
 
 ``` toml
-dict_label = "DPPN"
 word = "punabbasumātā"
 summary = ""
 grammar_comment = ""
@@ -16970,7 +16149,6 @@ Punabbasumātā
 A Yakkhinī, mother of Punabbasu. One evening towards sunset, when the Buddha was at Jetavana, she, with her daughter Uttarā on her hip and the boy’s hand in hers, came to the grove in search of food. She saw the silent monks seated round the Buddha while he preached, and having hushed her babe to silence she and Punabbasu listened to the Buddha. At the end of the sermon, both mother and son became sotāpannas, Uttarā being too young to understand. SN.i.210*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "punnaji"
 summary = ""
 grammar_comment = ""
@@ -16988,7 +16166,6 @@ Punnaji
 One of the four friends of Yasa who, on hearing of his ordination by the Buddha, visited him and were taken to the Buddha. The Buddha talked to them and they became arahants. They were among the first eleven arahants, and were ordained by the ”*ehi bhikkhu pabbajjā*.”. Vin.i.18*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "puppha "
 summary = ""
 grammar_comment = ""
@@ -17006,7 +16183,6 @@ Puppha
 An eminent teacher of the Vinaya. Vin.v.3
 
 ``` toml
-dict_label = "DPPN"
 word = "purindada"
 summary = ""
 grammar_comment = ""
@@ -17024,7 +16200,6 @@ Purindada
 A name for Sakka, because, as a human being, he bestowed gifts from town to town. SN.i.229
 
 ``` toml
-dict_label = "DPPN"
 word = "purāṇa"
 summary = ""
 grammar_comment = ""
@@ -17048,7 +16223,6 @@ A chamberlain of Pasenadi. He was the brother of Isidatta and the father of Miga
 A conversation he had with the Buddha, in the company of Isidatta, at Sādhuka, is recorded in the Saṃyutta Nikāya SN.v.349*ff.* In the Dhammacetiya Sutta. MN.ii.123 Pasenadi speaks of the great loyalty of these two men towards the Buddha. After discussing the Doctrine till late at night, they would sleep with their heads towards the spot where the Buddha was staying and their feet towards the king. Purāṇa is mentioned AN.iii.451 as an ideal layman.
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇḍarika"
 summary = ""
 grammar_comment = ""
@@ -17068,7 +16242,6 @@ A hell; it is a period of suffering in Avīci, equal to twenty Uppalakā. SN.i.1
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇṇa"
 summary = ""
 grammar_comment = ""
@@ -17102,7 +16275,6 @@ The Buddha declared Puṇṇa to be pre\-eminent among those who preached the Dh
 Besides the Rathavinīta Sutta mentioned above, which bears testimony to Puṇṇa’s skill as a preacher, another Sutta, of the Saṃyutta Nikāya, SN.iii.105*f.* represents Ānanda as saying to the assembled monks that Puṇṇa was of great help to himself and others when they were yet novices; Puṇṇa had preached to them on causation, and they were able to understand the Doctrine because of his skilful exposition.
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇṇaka"
 summary = ""
 grammar_comment = ""
@@ -17124,7 +16296,6 @@ Puṇṇaka<sup>2</sup>
 A Yakkha chief mentioned in the Āṭānāṭiya Sutta DN.iii.204 among those to be invoked by followers of the Buddha in times of tribulation.
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇṇamāsa"
 summary = ""
 grammar_comment = ""
@@ -17146,7 +16317,6 @@ Puṇṇamāsa<sup>2</sup>
 A monk whose Theragāthā verses speak of seeing oneself as empty. Thag.171–172
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇṇikā"
 summary = ""
 grammar_comment = ""
@@ -17164,7 +16334,6 @@ Puṇṇikā<sup>2</sup>
 A slave girl of Pokkharasāti. MN.ii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇṇiya"
 summary = ""
 grammar_comment = ""
@@ -17182,7 +16351,6 @@ Puṇṇiya
 A monk. He is mentioned as visiting the Buddha and asking him under what conditions a sermon presents itself to the mind of a Tathāgata. AN.iv.337*f.* AN.v.154*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "puṇṇā"
 summary = ""
 grammar_comment = ""
@@ -17204,7 +16372,6 @@ Puṇṇā<sup>2</sup>Puṇṇikā
 A bhikkhunī whose Therīgāthā verses argue that bathing cannot purify oneself. Thig.236–251
 
 ``` toml
-dict_label = "DPPN"
 word = "pācīnavaṃsa"
 summary = ""
 grammar_comment = ""
@@ -17226,7 +16393,6 @@ Anuruddha, Nandiya and Kimbila were living there during the time of the quarrel 
 Ceti3park
 
 ``` toml
-dict_label = "DPPN"
 word = "pālileyya"
 summary = ""
 grammar_comment = ""
@@ -17246,7 +16412,6 @@ A town near Kosambī. When the Buddha found that he could not persuade the Kosam
 25.413509,81.6229253town
 
 ``` toml
-dict_label = "DPPN"
 word = "pāragā"
 summary = ""
 grammar_comment = ""
@@ -17264,7 +16429,6 @@ Pāragā
 A class of devas. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "pāricchattaka"
 summary = ""
 grammar_comment = ""
@@ -17282,7 +16446,6 @@ Pāricchattaka
 A tree in Tāvatiṃsā, which grew in the Nandanavana. The devas eagerly watch each stage of development of leaf and flower, and each stage is marked by great rejoicings. AN.iv.117*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pārāpariya"
 summary = ""
 grammar_comment = ""
@@ -17300,7 +16463,6 @@ Pārāpariya
 A monk whose Theragāthā verses are collected in two sizable groups. The first depicts him meditating in solitude and pondering over the things that one should do to accompish one’s duty and do no harm. Thag.726–746 The second was spoken by Pārāpariya after the Buddha’s parinibbāna and laments the decline of the monks. Thag.920–949
 
 ``` toml
-dict_label = "DPPN"
 word = "pārāsariya"
 summary = ""
 grammar_comment = ""
@@ -17322,7 +16484,6 @@ Pārāsariya<sup>2</sup>
 A brahmin teacher mentioned in the Indriyabhāvanā Sutta. He is said, by his pupil Uttara, to have taught that those who have developed their indriyas could neither see forms with their eyes nor hear sounds with their ears. MN.iii.298
 
 ``` toml
-dict_label = "DPPN"
 word = "pārāyana "
 summary = ""
 grammar_comment = ""
@@ -17342,7 +16503,6 @@ The fifth and last division of the Sutta Nipāta. Snp.976*ff.* It consists of si
 The Pārāyana Vagga is mentioned in the Aṅguttara Nikāya AN.i.133 AN.i.134 AN.ii.45 AN.iv.63 and in the Saṃyutta Nikāya, SN.ii.49 which is evidence of its having been one of the oldest collections.
 
 ``` toml
-dict_label = "DPPN"
 word = "pāsāṇakacetiya"
 summary = ""
 grammar_comment = ""
@@ -17362,7 +16522,6 @@ A shrine near Rājagaha, where the disciples of Bāvarī met and questioned the 
 25.04641, 85.411143shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "pātaligāma"
 summary = ""
 grammar_comment = ""
@@ -17388,7 +16547,6 @@ Pātaligāma was so called because on the day of its foundation several pātali 
 25.576511,85.1591493town
 
 ``` toml
-dict_label = "DPPN"
 word = "pātikaputta"
 summary = ""
 grammar_comment = ""
@@ -17406,7 +16564,6 @@ Pātikaputta
 A naked ascetic of Vesāli who went about claiming to have greater mystic powers than the Buddha, and thereby much impressed Sunakkhatta. Pātikaputta had prophesied that, after death, the Licchavi general Ajita would be born in Mahā Niraya, but Ajita was born in Tāvatiṃsā and accused Pātikaputta of being a liar. Later, the Buddha visited the hermitage of Pātikaputta, with a large following, in order to refute his claims, but Pātikaputta avoided him and went to the Tindukhānuparibbājakārāma. A message was sent to him asking him to come as the Buddha was at his hermitage, but Pātikaputta was unable to arise from his seat. Thereupon, a Licchavi minister, and, after him, Jāliya Dārupattikantevāsī, went to fetch him, but on discovering that he could not rise, they reviled him for his boastfulness. AN.iii.13*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pātimokkha"
 summary = ""
 grammar_comment = ""
@@ -17432,7 +16589,6 @@ The rules were recited at the gatherings of members of the Order Vin.i.101–136
 The word *pātimokkha* is variously explained, the oldest explanation being that the observance of the rules is the face (*mukhaṃ*), the chief (*pamukhaṃ*) of good qualities.
 
 ``` toml
-dict_label = "DPPN"
 word = "pāveyyakā"
 summary = ""
 grammar_comment = ""
@@ -17454,7 +16610,6 @@ Pāvā was evidently a centre of Buddhist activity even during the lifetime of t
 The Burmese MSS. seem to spell Pāveyyakā as Pātheyyakā.
 
 ``` toml
-dict_label = "DPPN"
 word = "pāvā"
 summary = ""
 grammar_comment = ""
@@ -17486,7 +16641,6 @@ The inhabitants of Pāvā are called Pāveyyakā.
 26.683878,84.0551931town
 
 ``` toml
-dict_label = "DPPN"
 word = "pāvārikambavana"
 summary = ""
 grammar_comment = ""
@@ -17510,7 +16664,6 @@ A mango grove at Nāḷandā where the Buddha stayed when on a visit there. DN.i
 25.15771,85.459893park
 
 ``` toml
-dict_label = "DPPN"
 word = "pāyāgā"
 summary = ""
 grammar_comment = ""
@@ -17528,7 +16681,6 @@ Pāyāgā
 A class of Nāgas. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "pāyāsi"
 summary = ""
 grammar_comment = ""
@@ -17548,7 +16700,6 @@ A chieftain of Setavyā, who lived on a royal domain gifted by Pasenadi. He held
  Gavampati met Pāyāsi in the deva world, and Pāyāsi instructed him to teach men to give their gifts with thoroughness and with their own hands. DN.ii.316*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pāṭali"
 summary = ""
 grammar_comment = ""
@@ -17566,7 +16717,6 @@ Pāṭali
 A headsman of Uttara who visited the Buddha and questioned him regarding his power of magic. Several conversations he had with the Buddha, on various topics, are given in the Saṃyutta Nikāya. SN.iv.340*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "pūraṇa kassapa"
 summary = ""
 grammar_comment = ""
@@ -17588,7 +16738,6 @@ Elsewhere, SN.iii.69 SN.v.126 however, he is mentioned as denying condition and 
 His gotta name was Kassapa. He had a following of five hundred, among whom was the *devaputta* Asama. SN.i.65 He was consulted by the Licchavis Abhaya SN.v.126 and Mahāli SN.iii.68 and by the wanderer Vacchagotta. SN.iv.398 He claimed to be omniscient. AN.iv.428
 
 ``` toml
-dict_label = "DPPN"
 word = "ragā"
 summary = ""
 grammar_comment = ""
@@ -17606,7 +16755,6 @@ Ragā
 One of Māra’s three daughters, who sought to tempt the Buddha. Snp.835 SN.i.124*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "rakkhasā"
 summary = ""
 grammar_comment = ""
@@ -17624,7 +16772,6 @@ Rakkhasā
 A class of demons, chiefly nocturnal and harmful. They usually have their haunt in the water and devour men when bathing there. Some of them live in the sea. Thag.931 Snp.10
 
 ``` toml
-dict_label = "DPPN"
 word = "rakkhita "
 summary = ""
 grammar_comment = ""
@@ -17648,7 +16795,6 @@ A forest tract near the village of Pārileyya. There the Buddha retired and live
 25.40792, 81.627383park
 
 ``` toml
-dict_label = "DPPN"
 word = "rattapāṇi"
 summary = ""
 grammar_comment = ""
@@ -17666,7 +16812,6 @@ Rattapāṇi
 The name of a dyer; perhaps a class name. MN.i.385
 
 ``` toml
-dict_label = "DPPN"
 word = "ratī"
 summary = ""
 grammar_comment = ""
@@ -17684,7 +16829,6 @@ Ratī
 One of the daughters of Māra.
 
 ``` toml
-dict_label = "DPPN"
 word = "raṭṭhapāla"
 summary = ""
 grammar_comment = ""
@@ -17706,7 +16850,6 @@ There the Kuru king, who was feasting there, and had often heard of Raṭṭhap�
 The Vinaya Vin.iii.148 contains a stanza quoted by the Buddha, in which Raṭṭhapāla’s father enquires of his son why the latter never asked him for anything. “Because begging is a degrading thing,” says Raṭṭhapāla.
 
 ``` toml
-dict_label = "DPPN"
 word = "revata"
 summary = ""
 grammar_comment = ""
@@ -17742,7 +16885,6 @@ He enquired into these, and, after condemning them as wrong, decided to end the 
 Revata suggested that the dispute should be settled in Vesāli, and the monks having agreed, he visited Sabbakāmī—who was the oldest monk then living and a pupil of Ānanda—during the night, and talked to him on matters of doctrine. During the conversation, Sānavāsī arrived and questioned Sabbakāmī regarding the Ten Points, but the latter refused to express an opinion in private. On Revata’s suggestion a jury of eight, four from either side, was appointed to go into the question. Revata himself was a member of this jury, and he it was who questioned Sabbakāmī during the meeting, held in Vālikārāma, regarding the Ten Points. All the Ten Points were declared to be wrong, and, at the end of the questions, seven hundred monks—chosen from one hundred and twelve thousand, at the head of whom was Revata—held a recital of the Dhamma, which recital therefore came to be called Sattasatī. Vin.ii.299*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "reṇu"
 summary = ""
 grammar_comment = ""
@@ -17762,7 +16904,6 @@ Son and successor of King Disampati. On the death of his father Reṇu, with the
 The seven divisions of the kingdom were called Kalinga, Assaka, Avanti, Sovīra, Videha, Aṅga and Kāsi; their capitals were, respectively, Dantapura, Potana, Māhissatī, Roruka, Mithilā, Campā and Bārāṇasī. Reṇu himself occupied the central kingdom. A.ii.228–236
 
 ``` toml
-dict_label = "DPPN"
 word = "rohinī"
 summary = ""
 grammar_comment = ""
@@ -17780,7 +16921,6 @@ Rohinī<sup>1</sup>
 The Therīgāthā Thig.271–290 contains a set of verses spoken by her in exaltation, when, after becoming an arahant, she recalled to mind the discussion she had had with her father while she was yet a *sotāpanna*.
 
 ``` toml
-dict_label = "DPPN"
 word = "rohitassa"
 summary = ""
 grammar_comment = ""
@@ -17798,7 +16938,6 @@ Rohitassa
 A *devaputta*. He once visited the Buddha at Jetavana and asked if one could, by travelling, reach the end of the world where there would be no birth, old age, death, etc. The Buddha said that such was not possible. The *devaputta* then confessed that he had, in a previous life, been a sage called Rohitassa, of great psychic powers, able in one stride to cross from the western ocean to the eastern. With such a stride, he had travelled for one hundred years, and yet failed to reach the world’s end, where there was no birth, old age, death, etc. That was true, agreed the Buddha; in this fathom long body is the world, its origin, its making and end, likewise the practice which leads to such end. SN.i.61*f.* AN.ii.47*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "rohitassā"
 summary = ""
 grammar_comment = ""
@@ -17816,7 +16955,6 @@ Rohitassā
 The legendary inhabitants of Rājagaha, in the time of Koṇāgamana Buddha. At that time, Mount Vipula was called Vaṅkaka. The life of a Rohitassa was thirty thousand years. The people took three days to climb Vipula and three to descend it. SN.ii.191
 
 ``` toml
-dict_label = "DPPN"
 word = "rohīnī"
 summary = ""
 grammar_comment = ""
@@ -17836,7 +16974,6 @@ A small river dividing the Sākyan and Koliyan countries. A dam was constructed 
 27.64916, 83.541413river
 
 ``` toml
-dict_label = "DPPN"
 word = "rojā"
 summary = ""
 grammar_comment = ""
@@ -17860,7 +16997,6 @@ Rojā<sup>2</sup>
 A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "rucirā"
 summary = ""
 grammar_comment = ""
@@ -17878,7 +17014,6 @@ Rucirā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "rucī"
 summary = ""
 grammar_comment = ""
@@ -17896,7 +17031,6 @@ RucīRūpī
 An upāsikā, held up as an example to others. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "rādha"
 summary = ""
 grammar_comment = ""
@@ -17920,7 +17054,6 @@ The Rādha Saṃyutta SN.iii.188–201 contains a large number of suttas preache
 If the reference is to this same thera, Rādha was, for some time, the attendant of Sāriputta, and there is a verse in the Theragāthā Thag.993 spoken to him by Sāriputta, who was pleased with Rādha’s gentle manner.
 
 ``` toml
-dict_label = "DPPN"
 word = "rāhu"
 summary = ""
 grammar_comment = ""
@@ -17944,7 +17077,6 @@ The seizure of the Moon by Rāhu and the escape from him is often used as a simi
 Rāhu is mentioned DN.ii.259 as being among the Asuras who were present at the Mahāsmaya and as blessing that assembly. In this context he is called Rāhubhadda. The name Rāhumukha is given to a form of torture. MN.i.87 MN.iii.164
 
 ``` toml
-dict_label = "DPPN"
 word = "rāhula"
 summary = ""
 grammar_comment = ""
@@ -17972,7 +17104,6 @@ The Buddha declared Rāhula foremost among those of his disciples who were anxio
 Four verses uttered by Rāhula are included in the Theragāthā, where he says he s twice blessed to be an arahant and the Buddha’s son. Thag.295–298
 
 ``` toml
-dict_label = "DPPN"
 word = "rāhulamātā"
 summary = ""
 grammar_comment = ""
@@ -17994,7 +17125,6 @@ On the seventh day of the Buddha’s visit to Kapilavatthu Rāhulamātā sent R�
 Tradition identifies Rāhulamātā with Bhaddakaccānā who, in the Aṅguttara Nikāya, AN.i.25 is mentioned as chief among nuns in the possession of supernormal powers.
 
 ``` toml
-dict_label = "DPPN"
 word = "rājadatta"
 summary = ""
 grammar_comment = ""
@@ -18012,7 +17142,6 @@ Rājadatta
 A monk whose Theragāthā verses speak of how, when he saw a woman’s rotting corpse in the cemtery, at first lust arose, then he mindfully overcame his defilements. Thag.315–319
 
 ``` toml
-dict_label = "DPPN"
 word = "rājagaha"
 summary = ""
 grammar_comment = ""
@@ -18054,7 +17183,6 @@ Ajātasattu was afraid of invasion by the Licchavis, and Vassakāra is mentioned
 25.03,85.421town
 
 ``` toml
-dict_label = "DPPN"
 word = "rājā"
 summary = ""
 grammar_comment = ""
@@ -18072,7 +17200,6 @@ Rājā
 A Yakkha, one of the messengers of Kuvera. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "rājāyatana"
 summary = ""
 grammar_comment = ""
@@ -18092,7 +17219,6 @@ The name of a tree, at the foot of which the Buddha received a gift of wheat and
 Uruvelā3shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "rāmagāmaka"
 summary = ""
 grammar_comment = ""
@@ -18112,7 +17238,6 @@ A Koliyan village on the banks of the Ganges. Its inhabitants claimed and obtain
 26.146795,84.098271town
 
 ``` toml
-dict_label = "DPPN"
 word = "rāmaṇeyyaka"
 summary = ""
 grammar_comment = ""
@@ -18130,7 +17255,6 @@ Rāmaṇeyyaka
 A monk whose Theragāthā verse speaks of how his mind does not waver among the sounds of nature. Thag.49
 
 ``` toml
-dict_label = "DPPN"
 word = "sabbaka"
 summary = ""
 grammar_comment = ""
@@ -18148,7 +17272,6 @@ SabbakaSappaka
 A monk whose Theragāthā verses speak of his joy in living on the banks of the Ajakaraṇī, practising meditation. Thag.307–310.
 
 ``` toml
-dict_label = "DPPN"
 word = "sabbakāma"
 summary = ""
 grammar_comment = ""
@@ -18168,7 +17291,6 @@ A monk whose Theragāthā verses speak of getting rid of desire for this impure 
 Sabbakāma lived on to one hundred and twenty years of age, and was consulted by Yasa, Soreyya Revata, and others, in connection with the Vajjiputta heresy at the Second Council. He was, at that time, the oldest Thera in the world. He sat on the committee appointed to examine the points in dispute and decided against the Vajjaputtakas, giving his reasons point by point. Vin.ii.303*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sabbamitta "
 summary = ""
 grammar_comment = ""
@@ -18186,7 +17308,6 @@ Sabbamitta
 A monk whose Theragāthā verses speak of the suffering inherent in relationships. Thag.149–150
 
 ``` toml
-dict_label = "DPPN"
 word = "sacca"
 summary = ""
 grammar_comment = ""
@@ -18204,7 +17325,6 @@ Sacca
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "saddhā"
 summary = ""
 grammar_comment = ""
@@ -18222,7 +17342,6 @@ Saddhā
 An upāsikā of Sāvatthī. Thinking that to allow a monk to have intercourse with her would be the highest gift, she accosted a monk and offered herself. The offer was, however, refused. Vin.iii.39
 
 ``` toml
-dict_label = "DPPN"
 word = "sadāmattā"
 summary = ""
 grammar_comment = ""
@@ -18240,7 +17359,6 @@ Sadāmattā
 A class of Devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "sahabhū"
 summary = ""
 grammar_comment = ""
@@ -18258,7 +17376,6 @@ Sahabhū
 A class of Devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "sahadhammā"
 summary = ""
 grammar_comment = ""
@@ -18276,7 +17393,6 @@ Sahadhammā
 A class of Devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "sahajāti"
 summary = ""
 grammar_comment = ""
@@ -18300,7 +17416,6 @@ According to the Saṃyutta, Gavampati also lived there at one time. SN.v.436
 Ceti, on a river3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sahali"
 summary = ""
 grammar_comment = ""
@@ -18322,7 +17437,6 @@ Sahali<sup>2</sup>
 A *devaputta*, follower of Makkhali Gosāla. He visited the Buddha at Veḷuvana, in the company of several other Devas, and spoke a verse in praise of Makkhali. SN.i.65*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sahampati"
 summary = ""
 grammar_comment = ""
@@ -18344,7 +17458,6 @@ Sahampati once saw that the brahminee, mother of Brahmadeva Thera, habitually ma
 During the time of Kassapa Buddha, Sahampati was a monk, named Sahaka, who, having practised the five indriyas, was reborn in the Brahma world. Thereafter he was called Sahampati. SN.v.233
 
 ``` toml
-dict_label = "DPPN"
 word = "sajjha"
 summary = ""
 grammar_comment = ""
@@ -18362,7 +17475,6 @@ Sajjha
 A wanderer who visited the Buddha at Gijjhakūṭa. The Buddha told him of the nine standards which an arahant monk cannot possibly transgress. AN.iv.371
 
 ``` toml
-dict_label = "DPPN"
 word = "sakka"
 summary = ""
 grammar_comment = ""
@@ -18407,7 +17519,6 @@ An account of another interview which Sakka had with the Buddha is given in the 
 In a passage in the Saṃyutta. SN.i.201 Sakka is represented as descending from heaven to make an enquiry about Nibbāna, and in another SN.iv.269*f.* as listening, in heaven, to Moggallāna’s exposition of the simplest duties of a good layman. On another occasion, at Vessavaṇa’s suggestion, Sakka visited Uttara Thera on the Sankheyyaka Mountain and listened to a sermon by him. AN.iv.163*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sakkhara"
 summary = ""
 grammar_comment = ""
@@ -18427,7 +17538,6 @@ A township of the Sākyans where the Buddha once stayed with Ānanda. SN.v.2 It 
 Sākya, not far from Rājagaha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sakuladāyī"
 summary = ""
 grammar_comment = ""
@@ -18449,7 +17559,6 @@ He is also said to have been present when the Buddha visited the Paribbājakār�
 Sakuladāyī’s teacher was Vekhanassa.
 
 ``` toml
-dict_label = "DPPN"
 word = "sakulā"
 summary = ""
 grammar_comment = ""
@@ -18471,7 +17580,6 @@ Sakulā<sup>2</sup>
 Sister of Somā. They were both wives of Pasenadi and followers of the Buddha. Once, when Pasenadi was staying at Ujjuñña, he went to see the Buddha, and carried to him the greetings of the two queens. MN.ii.125*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sakyaputtiyā"
 summary = ""
 grammar_comment = ""
@@ -18489,7 +17597,6 @@ Sakyaputtiyā
 The name given to the monks of the Buddha’s Order, as followers of Sakyamunī. Ud.iv.8 DN.iii.84
 
 ``` toml
-dict_label = "DPPN"
 word = "salaḷāgāra"
 summary = ""
 grammar_comment = ""
@@ -18509,7 +17616,6 @@ A building in Jetavana. Once when Sakka went to visit the Buddha he found him in
 Jetavana3building
 
 ``` toml
-dict_label = "DPPN"
 word = "sallavatī"
 summary = ""
 grammar_comment = ""
@@ -18529,7 +17635,6 @@ A river, forming the boundary on the south east side of the Middle country. Vin.
 south east side of the Middle country.3river
 
 ``` toml
-dict_label = "DPPN"
 word = "sambhava"
 summary = ""
 grammar_comment = ""
@@ -18547,7 +17652,6 @@ Sambhava
 One of the two chief disciples of Sikhī Buddha. DN.ii.4 SN.i.155
 
 ``` toml
-dict_label = "DPPN"
 word = "sambhūta"
 summary = ""
 grammar_comment = ""
@@ -18575,7 +17679,6 @@ Sambhūta was one of the monks appointed to the committee to discuss the points 
 A series of verses uttered by Sambhūta, which speak of going about one’s affairs in the suitable manner, is included in the Theragāthā. Thag.291–294
 
 ``` toml
-dict_label = "DPPN"
 word = "sambula"
 summary = ""
 grammar_comment = ""
@@ -18593,7 +17696,6 @@ SambulaKaccāna
 A monk whose Theragāthā verse speaks of how he dwells happily though living in a fearful hole. Thag.189–190
 
 ``` toml
-dict_label = "DPPN"
 word = "samiddhi "
 summary = ""
 grammar_comment = ""
@@ -18613,7 +17715,6 @@ Once, while he was at Silāvati musing on his good fortune as a monk, Māra trie
 Once when Samiddhi was drying himself after bathing in the Tapodā, a Deva approached and questioned him on the Bhaddekaratta Sutta. Samiddhi confessed ignorance, and the Deva asked him to learn it from the Buddha. This he did from a brief sermon preached to him by the Buddha, which Mahā Kaccāna later enlarged into the Mahā Kaccāna\-Bhaddekaratta Sutta. MN.iii.192*f.* A conversation between Potaliputta and Samiddhi, three years after the latter had joined the Order, led to the preaching of the Mahākammavibhaṅga Sutta. MN.iii.207 In the sutta the Buddha speaks of Samiddhi as a foolish man, and Samiddhi is also teased by Potaliputta for pretending to expound the Dhamma after being only three years in the Order. The Aṅguttara AN.iv.385*f.* contains a record of a lesson given by Sāriputta to Samiddhi regarding thoghts and intentions.
 
 ``` toml
-dict_label = "DPPN"
 word = "samitigutta"
 summary = ""
 grammar_comment = ""
@@ -18631,7 +17732,6 @@ Samitigutta
 A monk whose Theragāthā verse speaks of experiencing the suffering caused by kamma in the past. Thag.81
 
 ``` toml
-dict_label = "DPPN"
 word = "samuddadatta"
 summary = ""
 grammar_comment = ""
@@ -18649,7 +17749,6 @@ Samuddadatta
 A monk whom Devadatta persuaded to join him in trying to bring about schism in the Order.Vin.ii.196 Vin.iii.171 He was a favourite of Thullanandā. Vin.iv.66
 
 ``` toml
-dict_label = "DPPN"
 word = "samānā"
 summary = ""
 grammar_comment = ""
@@ -18667,7 +17766,6 @@ Samānā
 A class of Devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "samīti"
 summary = ""
 grammar_comment = ""
@@ -18685,7 +17783,6 @@ Samīti
 A waggon builder of Sāvatthī. In the Aṅgaṇa Sutta, Moggallāna tells Sāriputta how he once saw Samīti shaping a felloe; by his side, Paṇḍuputta was watching, wishing that Samiti might shape the felloe without crook, twist, or blemish. When Samīti did this, Paṇḍuputta sang with joy, saying that Samīti had read his thoughts. MN.i.31*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sanaṅkumāra"
 summary = ""
 grammar_comment = ""
@@ -18707,7 +17804,6 @@ In a sutta of the Saṃyutta, SN.i.153 he is spoken of as visiting the Buddha on
 In the Janavasabha Sutta, Janavasabha describes to the Buddha an occasion on which Sanaṅkumāra attended an assembly of the Devas, presided over by Sakka and the Four Regent Gods. There was suddenly a vast radiance, and the devas knew of the approach of Sanaṅkumāra. As the usual appearance of the Brahmā is not sufficiently materialized for him to be perceived by the Devas of Tāvatiṃsā, he is forced to appear as a relatively gross personality which he specially creates. As he arrives, the Devas sit in their places with clasped hands waiting for him to choose his seat. Then Sanaṅkumāra takes on the form of Pañcasikha and sits, above the assembly, cross legged, in the air. So seated, he expresses his satisfaction that Sakka and all the Tāvatiṃsā Devas should honour and follow the Buddha. His voice has all the eight characteristics of a Brahmā’s voice. DN.ii.211 He then proceeds to create thirty three shaper, of himself, each sitting on the divan of a Tāvatiṃsā Deva, and addresses the Devas, speaking of the advantages of taking refuge in the Buddha, the Dhamma and the Saṅgha. Each deva fancies that only the shape sitting on his own divan has spoken and that the others are silent. Then Sanaṅkumāra goes to the end of the Hall, and, seated on Sakka’s throne, addresses the whole assembly on the four ways of *iddhi*; on the three avenues leading to Bliss, as manifested by the Buddha; on the four *satipaṭṭhānas*, and the seven *samādhiparikkhārā*. He declares that more than twenty four lakhs of Māgadha disciples, having followed the teachings of the Buddha, have been born in the deva worlds. When Sanaṅkumāra has finished his address, Vessavaṇa wonders if there have been Buddhas in the past and will be in the future. The Brahmā reads his thoughts and says there certainly were and will be.
 
 ``` toml
-dict_label = "DPPN"
 word = "sandaka"
 summary = ""
 grammar_comment = ""
@@ -18725,7 +17821,6 @@ Sandaka
 A Paribbājaka.
 
 ``` toml
-dict_label = "DPPN"
 word = "sandha"
 summary = ""
 grammar_comment = ""
@@ -18745,7 +17840,6 @@ A monk who visited the Buddha at Ñātikā in the Giñjakāvasatha, when the Bud
 It is, perhaps, the same monk who is mentioned as Saddho Kaccāyano. SN.ii.153 He asks the Buddha a question on elements, and the Buddha explains it to him.
 
 ``` toml
-dict_label = "DPPN"
 word = "sandhita"
 summary = ""
 grammar_comment = ""
@@ -18763,7 +17857,6 @@ Sandhita
 A monk whose Theragāthā verse speaks of attaining a perception of the Buddha under a fig tree. Thag.217–218
 
 ``` toml
-dict_label = "DPPN"
 word = "sandhāna"
 summary = ""
 grammar_comment = ""
@@ -18783,7 +17876,6 @@ A householder of Rājagaha. He was a follower of the Buddha, and it was his conv
 In the Aṅguttara he is mentioned in a list of eminent lay disciples. AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "sangharakkhita "
 summary = ""
 grammar_comment = ""
@@ -18801,7 +17893,6 @@ Sangharakkhita
 A monk whose Theragāthā verse speaks of one who, although in seclusion, still has uncontrolled faculties. Thag.109
 
 ``` toml
-dict_label = "DPPN"
 word = "sankassa"
 summary = ""
 grammar_comment = ""
@@ -18821,7 +17912,6 @@ During the Vajjiputta controversy, Revata Thera, on his way from Soreyya to Sah�
 26.21347,79.86595town
 
 ``` toml
-dict_label = "DPPN"
 word = "santacitta"
 summary = ""
 grammar_comment = ""
@@ -18839,7 +17929,6 @@ Santacitta
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "santusita"
 summary = ""
 grammar_comment = ""
@@ -18857,7 +17946,6 @@ Santusita
 Chief of the devas of the Tusita world. DN.i.218 AN.iv.243 SN.iv.280
 
 ``` toml
-dict_label = "DPPN"
 word = "santuṭṭha"
 summary = ""
 grammar_comment = ""
@@ -18875,7 +17963,6 @@ Santuṭṭha
 A disciple of the Buddha at Ñātikā. He was born after death in Akanitthābhavana, there to pass entirely away. DN.ii.92 SN.v.358*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sappadāsa"
 summary = ""
 grammar_comment = ""
@@ -18893,7 +17980,6 @@ Sappadāsa
 Overmastered by corrupt habits of mind and character, for twenty five years he was unable to develop concentration. This so distressed him that he was about to commit suicide, when, inward vision suddenly expanding, he attained arahantship. Thag.405–410
 
 ``` toml
-dict_label = "DPPN"
 word = "sappasoṇḍikapabbhāra"
 summary = ""
 grammar_comment = ""
@@ -18913,7 +17999,6 @@ A mountain cave in the Sītavana, near Rājagaha. DN.ii.116 A conversation which
 in the Sītavana, near Rājagaha3cave
 
 ``` toml
-dict_label = "DPPN"
 word = "sarabha"
 summary = ""
 grammar_comment = ""
@@ -18931,7 +18016,6 @@ Sarabha
 A Paribbājaka who joined the Order and soon after left it. He then went about proclaiming in Rājagaha that he knew the Dhamma and Vinaya of the Sakyaputta monks, and that was why he had left their Order. The Buddha, being told of this, visited the Paribbājakārāma, on the banks of the Sappinikā, and challenged Sarabha to repeat his statement. Three times the challenge was uttered, but Sarabha sat silent. The Buddha then declared to the Paribbājakas that no one could say that his claim to Enlightenment was unjustified, or that his dhamma, if practised, did not lead to the destruction of Ill. After the Buddha’s departure, the Paribbājakas taunted and abused Sarabha. AN.i.185*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sarabhaṅga"
 summary = ""
 grammar_comment = ""
@@ -18953,7 +18037,6 @@ Sarabhaṅga<sup>2</sup>
 A monk whose Theragāthā verses speak of living in a hut of reeds he built himself. By practicing the straight road of the seven Buddhas he realized the ending of rebirth. Thag.487–493
 
 ``` toml
-dict_label = "DPPN"
 word = "sarabhū"
 summary = ""
 grammar_comment = ""
@@ -18975,7 +18058,6 @@ It formed the boundary between the two divisions of Kosala, Uttara and Dakkhiṇ
 Saryu1river
 
 ``` toml
-dict_label = "DPPN"
 word = "sarakāni"
 summary = ""
 grammar_comment = ""
@@ -18993,7 +18075,6 @@ SarakāniSaraṇāni
 A Sākyan. When he died the Buddha declared that he was a *sotāpanna*, bound for enlightenment. But many of the Sākyans spoke scornfully of him, saying that he had failed in the training and had taken to drink. Mahānāma reported this to the Buddha, who said that Sarakāni had, for a long time, taken refuge in the Buddha, the Dhamma, and the Saṅgha, and possessed qualities which secured him from birth in hell among the lowest animals and the peta world. SN.v.375*f.* SN.v.378*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sarañjita"
 summary = ""
 grammar_comment = ""
@@ -19011,7 +18092,6 @@ Sarañjita
 A class of Devas, the gods of “Passionate Delight”. According to the belief of some, a man who dies fighting is born among them. SN.iv.308
 
 ``` toml
-dict_label = "DPPN"
 word = "sattabhū"
 summary = ""
 grammar_comment = ""
@@ -19029,7 +18109,6 @@ Sattabhū
 The king of the Kālingas in the time of Reṇu. His purohita was Jotipāla, and his capital, Dantapura. DN.ii.236
 
 ``` toml
-dict_label = "DPPN"
 word = "sattamba"
 summary = ""
 grammar_comment = ""
@@ -19049,7 +18128,6 @@ A shrine near Vesāli. DN.ii.102 Ud.vi.1 SN.v.259 AN.iv.309 It was to the west o
 25.99693, 85.135113shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "sattapaṇṇiguhā"
 summary = ""
 grammar_comment = ""
@@ -19071,7 +18149,6 @@ The cave was sometimes used as a residence for monks coming from afar. Vin.ii.76
 25.00705,85.4107881cave
 
 ``` toml
-dict_label = "DPPN"
 word = "sattarasavaggiyā"
 summary = ""
 grammar_comment = ""
@@ -19089,7 +18166,6 @@ Sattarasavaggiyā
 A group of monks in the Buddha’s time, who seem to have incurred the enmity of the Chabbaggīyas. The latter turned them out of a *vihāra* as soon as they had prepared it, and were violent towards them. Vin.ii.166
 
 ``` toml
-dict_label = "DPPN"
 word = "satthā"
 summary = ""
 grammar_comment = ""
@@ -19107,7 +18183,6 @@ Satthā
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "satullapakāyikā"
 summary = ""
 grammar_comment = ""
@@ -19125,7 +18200,6 @@ Satullapakāyikā
 A class of Devas. The Saṃyutta contains SN.i.16–22 a whole group of suttas in which these devas are stated to have visited the Buddha, asking him several questions on different topics.
 
 ``` toml
-dict_label = "DPPN"
 word = "savittha"
 summary = ""
 grammar_comment = ""
@@ -19145,7 +18219,6 @@ In the Aṅguttara AN.i.118*f.* he is represented as saying, in the course of a 
 The Saṃyutta SN.ii.115 contains two conversations of Savittha, both of which took place at the Ghositārāma in Kosambī. The first is with Musila and deals with the paṭiccasamuppāda. Musila, in answer to Savittha’s questions, says that he has realized the truth of the paṭiccasamuppāda as his very own. “Then you are an arahant,” says Savittha, and Musila remains silent. In the other conversation, Nārada, present at the discussion, in the company of Ānanda, requests that the same questions be put to him. This Savittha does, and he tells Savittha that he has realized the truth of the Paṭiccasamuppāda by right insight and that, yet, he is not an arahant. He is like a man who sees a well containing water, but who has neither rope nor vessel. “Now, what will you say of Nārada?” asks Ānanda. “Nothing that is not lovely and good,” answers Savittha.
 
 ``` toml
-dict_label = "DPPN"
 word = "savitthaka"
 summary = ""
 grammar_comment = ""
@@ -19163,7 +18236,6 @@ Savitthaka
 An example of a low family name. Vin.iv.8 Vin.iv.13
 
 ``` toml
-dict_label = "DPPN"
 word = "sayaṃpabhā"
 summary = ""
 grammar_comment = ""
@@ -19181,7 +18253,6 @@ Sayaṃpabhā
 A class of Devas, among whom virtuous men, such as those that maintain their parents and engage in harmless trades, are born. Snp.404
 
 ``` toml
-dict_label = "DPPN"
 word = "sayha"
 summary = ""
 grammar_comment = ""
@@ -19199,7 +18270,6 @@ Sayha
 A Pacceka Buddha, mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "sañjaya"
 summary = ""
 grammar_comment = ""
@@ -19229,7 +18299,6 @@ He is evidently identical with Sañjaya the Paribbājaka who was the original te
 Perhaps the Aviruddhakas mentioned in the Aṅguttara AN.iii.276 were also followers of Sañjaya— they were called Amarāvikkhepakā for their philosophical doctrines, and Aviruddhakā for their moral conduct.
 
 ``` toml
-dict_label = "DPPN"
 word = "sañjikāputta"
 summary = ""
 grammar_comment = ""
@@ -19247,7 +18316,6 @@ Sañjikāputta
 A young brahmin, friend of Bodhirājakumāra. He was sent to invite the Buddha to Bodhi’s palace, Kokanada. Vin.ii.127*f.* MN.ii.91
 
 ``` toml
-dict_label = "DPPN"
 word = "sañjīva"
 summary = ""
 grammar_comment = ""
@@ -19265,7 +18333,6 @@ Sañjīva
 One of the two chief disciples of Kakusandha Buddha. DN.ii.4 He was expert in samādhi, and lived in cells, caves, etc., sustaining himself on samādhi. One day, when in a state of trance in a forest, woodmen, thinking him dead, burnt his body, but he, emerging at the proper time from his trance, shook out his robes and entered the village for alms; hence his name, Sañjīva, the “Survivor”. MN.i.333
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅghā"
 summary = ""
 grammar_comment = ""
@@ -19283,7 +18350,6 @@ Saṅghā
 A bhikkhunī whose Therīgāthā verse speaks of having left behind family and possessions, as well as all defilements. Thig.18
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅgāmaji"
 summary = ""
 grammar_comment = ""
@@ -19301,7 +18367,6 @@ Saṅgāmaji
 A monk whose wife tempted him to return to lay life by placing their child on his lap and going away. When she discovered that Saṅgāmaji would not even talk to his son, she took him away, saying that her husband was a useless man. Ud.i.8
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅgārava"
 summary = ""
 grammar_comment = ""
@@ -19323,7 +18388,6 @@ The Saṃyutta SN.i.182*f.* mentions a Saṅgārava who is perhaps distinct from
 Another Saṃyutta passage SN.v.121*f.* contains a sutta in which the brahmin Saṅgārava visits the Buddha and asks him why he can remember certain mantras with great case and others not at all. It may be this same brahmin who is mentioned several times also in the Aṅguttara. AN.i.168*f.* AN.iii.230*f.* AN.v.232 AN.v.252
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅkassa"
 summary = ""
 grammar_comment = ""
@@ -19343,7 +18407,6 @@ A city, thirty leagues from Sāvatthī. During the Vajjiputta controversy, Revat
 ???2town
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅkha"
 summary = ""
 grammar_comment = ""
@@ -19361,7 +18424,6 @@ Saṅkha
 A future king, who will be the Cakkavatti of Ketumatī at the time of the appearance of Metteyya Buddha in the world. He will raise up again the palace of King Mahāpanāda and live there. But later he will give it to the Order and become an arahant. DN.iii.75*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅkicca "
 summary = ""
 grammar_comment = ""
@@ -19379,7 +18441,6 @@ Saṅkicca
 A monk whose Theragāthā verses speak of his delight in meditating in the forest, free of harmful intentions, and confident that his religious path is accomplished. Thag.597–607
 
 ``` toml
-dict_label = "DPPN"
 word = "saṅkiliṭṭhābhā"
 summary = ""
 grammar_comment = ""
@@ -19397,7 +18458,6 @@ Saṅkiliṭṭhābhā
 A class of devas. Beings are born in their world when they have practiced *jhāna* with tarnished brilliance. MN.iii.147
 
 ``` toml
-dict_label = "DPPN"
 word = "sela"
 summary = ""
 grammar_comment = ""
@@ -19415,7 +18475,6 @@ Sela
 A brahmin of Aṅguttarāpa. He was a great friend of Keṇiya, the Jaṭila, and visited him when Keṇiya was making preparations to entertain the Buddha. Having heard the word “Buddha” from Keṇiya, Sela was filled with joy and fortitude, and went with his two hundred and fifty pupils to visit the Buddha in the woodland near Apana. There he observed on the person of the Buddha the thirty two marks of a Great Being all except two—viz., hidden privates and the long tongue. The Buddha read his thoughts and contrived, by his *iddhi* power, that Sela should be satisfied on these two points as well. Sela then praised the Buddha in a series of verses and asked questions of him. At the end of his talk, Sela entered the Order with his pupils, and, at the end of a week, he attained arahantship. Snp.p.104*ff.* MN.ii.146*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "selā"
 summary = ""
 grammar_comment = ""
@@ -19433,7 +18492,6 @@ Selā
 A bhikkhunī who was enjoying her meditation in the Andhavana under a tree when Māra, in the guise of a stranger, approached her and tried to tempt her. But she refuted his statements regarding the attractions of lay life, and Māra had to retire discomfited. SN.i.134 Thig.57–59
 
 ``` toml
-dict_label = "DPPN"
 word = "senaka"
 summary = ""
 grammar_comment = ""
@@ -19451,7 +18509,6 @@ Senaka
 A monk whose Theragāthā verses speak of seeing the Buddha at the Gayā festival. Thag.287–290
 
 ``` toml
-dict_label = "DPPN"
 word = "seniya"
 summary = ""
 grammar_comment = ""
@@ -19469,7 +18526,6 @@ Seniya
 A naked ascetic who practised the “Canine vow,” behaving like a dog. After his visit to the Buddha, as recorded in the Kukkuravatika Sutta, he joined the Order and, in due course, became an arahant. MN.i.387*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "senānigama"
 summary = ""
 grammar_comment = ""
@@ -19489,7 +18545,6 @@ The village in which Senānī lived. It was near Uruvelā and on the banks of th
 near Uruvelā1town
 
 ``` toml
-dict_label = "DPPN"
 word = "serissaka"
 summary = ""
 grammar_comment = ""
@@ -19511,7 +18566,6 @@ Serissaka<sup>1</sup>Serīsaka
 A *vimāna* in the Cātummahārājika world, which was occupied by Pāyāsi during his life there. Gavampati, who used to go there for his siesta, met him and had a conversation with him, which he reported to the Buddha. DN.ii.356*f.* The deva of the *vimāna* was also called Serīsaka, and is evidently to be identified with the Yakkha Serissaka.
 
 ``` toml
-dict_label = "DPPN"
 word = "serī"
 summary = ""
 grammar_comment = ""
@@ -19529,7 +18583,6 @@ Serī
 A *devaputta* who visited the Buddha at Jetavana and held a conversation with him regarding the giving of food. He tells the Buddha that he was formerly a king, a great giver of gifts at the four gates of his capital. Then the women of the court wished also to give, and he allowed them to give at one gate; thus some of his own gifts came back to him. Then the nobles, the army, the brahmins and the householders wished to do the same, and he allowed them to distribute gifts, each class at one gate, and the result was that his gifts were not given at all. He then decreed that out of all his revenues one half should be given away from the source and only half sent to him. SN.i.57*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "seta"
 summary = ""
 grammar_comment = ""
@@ -19547,7 +18600,6 @@ Seta
 The state elephant of Pasenadi, on whose account the Buddha preached a special sermon. AN.iii.345
 
 ``` toml
-dict_label = "DPPN"
 word = "setabyā"
 summary = ""
 grammar_comment = ""
@@ -19571,7 +18623,6 @@ To the north of Setavyā was the Siṃsapāvana, where Kumāra Kassapa lived, an
 27.668934,82.5480652town
 
 ``` toml
-dict_label = "DPPN"
 word = "setakaṇṇika"
 summary = ""
 grammar_comment = ""
@@ -19591,7 +18642,6 @@ A village forming the southern boundary of the Middle Country. Vin.i.197
 the southern boundary of Majjhimadesa3town
 
 ``` toml
-dict_label = "DPPN"
 word = "setuccha"
 summary = ""
 grammar_comment = ""
@@ -19609,7 +18659,6 @@ Setuccha
 A monk whose Theragāthā verse describes how those how are defiled do not find stillness. Thag.102
 
 ``` toml
-dict_label = "DPPN"
 word = "seyyasaka"
 summary = ""
 grammar_comment = ""
@@ -19627,7 +18676,6 @@ Seyyasaka
 A monk of Sāvatthī who was found guilty of various Vinaya offences, and was therefore subjected to the *Nissayakamma*. Udāyī (Lāludāyi) was his friend and his evil genius. Vin.iii.110*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sigālakamātā"
 summary = ""
 grammar_comment = ""
@@ -19645,7 +18693,6 @@ SigālakamātāSiṅgālakamātāSigālamātāSiṅgālamātā
 She was declared chief of nuns who had attained release by faith. AN.i.25
 
 ``` toml
-dict_label = "DPPN"
 word = "sigālakapitā"
 summary = ""
 grammar_comment = ""
@@ -19663,7 +18710,6 @@ SigālakapitāSiṅgālakapitāSigālapitāSiṅgālapitā
 A monk whose Theragāthā verse speak of a monk who practices skeleton\-meditation in the Bhesakaḷā forest. Thag.18
 
 ``` toml
-dict_label = "DPPN"
 word = "sikhaḍḍī"
 summary = ""
 grammar_comment = ""
@@ -19681,7 +18727,6 @@ SikhaḍḍīSikhaṇḍī
 A Gandhabba, son of Mātali; Bhaddā Suriyavaccasā was at first in love with him, but she was won later by Pañcasikha. DN.ii.268
 
 ``` toml
-dict_label = "DPPN"
 word = "sikhāmoggallāna"
 summary = ""
 grammar_comment = ""
@@ -19699,7 +18744,6 @@ SikhāmoggallānaSikhāMoggallāna
 A brahmin who once visited the Buddha, saying that he had been told by Soṇakāyana that the Buddha preached the ineffectiveness of all deeds and asking if this were true. AN.ii.232
 
 ``` toml
-dict_label = "DPPN"
 word = "sikhī"
 summary = ""
 grammar_comment = ""
@@ -19728,7 +18772,6 @@ A Buddha of a past age.DN.ii.7 DN.iii.195*f.* SN.ii.9
 * and Cittā and Suguttā among women.
 
 ``` toml
-dict_label = "DPPN"
 word = "silāvatī"
 summary = ""
 grammar_comment = ""
@@ -19750,7 +18793,6 @@ A story is also told of the temptation by Māra of Samiddhi when he was with the
 Sakya3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sindhavā"
 summary = ""
 grammar_comment = ""
@@ -19768,7 +18810,6 @@ Sindhavā
 Horses from the Sindhu region.
 
 ``` toml
-dict_label = "DPPN"
 word = "sindhu"
 summary = ""
 grammar_comment = ""
@@ -19790,7 +18831,6 @@ Isidāsī was once born as a goat in Sindhavārañña, the “Forest of the Sind
 Indus1river
 
 ``` toml
-dict_label = "DPPN"
 word = "sineru"
 summary = ""
 grammar_comment = ""
@@ -19814,7 +18854,6 @@ Each Cakkavāla has its own Sineru, AN.i.227 AN.v.59 and a time comes when even 
 5hill
 
 ``` toml
-dict_label = "DPPN"
 word = "sippinikātīra"
 summary = ""
 grammar_comment = ""
@@ -19834,7 +18873,6 @@ A river that flowed through Rājagaha. On its bank was a Paribbājakārāma wher
 Rājagaha3river
 
 ``` toml
-dict_label = "DPPN"
 word = "sirimaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -19852,7 +18890,6 @@ Sirimaṇḍa
 A monk whose Theragāthā verses speak of openness, and how when confronted by Death, one should not waste one’s days. Thag.447–452
 
 ``` toml
-dict_label = "DPPN"
 word = "sirimitta"
 summary = ""
 grammar_comment = ""
@@ -19870,7 +18907,6 @@ Sirimitta
 A monk whose Theragāthā verses speak of how a monk without anger will not grieve when the time for Death approaches. Thag.502–509
 
 ``` toml
-dict_label = "DPPN"
 word = "sirimā"
 summary = ""
 grammar_comment = ""
@@ -19892,7 +18928,6 @@ Sirimā<sup>2</sup>
 Sirimā is mentioned in a list of eminent *upāsikās*. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "sirivaḍḍha"
 summary = ""
 grammar_comment = ""
@@ -19918,7 +18953,6 @@ Sirivaḍḍha<sup>3</sup>
 A householder of Rājagaha. When he was ill he sent word to Ānanda asking him to visit him. Ānanda, went and preached to him on the four *satipaṭṭhānas*. Sirivaḍḍha became an anāgāmī. SN.v.176*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "siva"
 summary = ""
 grammar_comment = ""
@@ -19936,7 +18970,6 @@ Siva
 The name of a god. A *devaputta*, named Siva, is mentioned in the Saṃyutta SN.i.56 as visiting the Buddha and speaking several verses on the benefit of consorting only with the good.
 
 ``` toml
-dict_label = "DPPN"
 word = "siviraṭṭha"
 summary = ""
 grammar_comment = ""
@@ -19956,7 +18989,6 @@ The country of the Sivi people, famous for its cloth, which was called Siveyyaka
 4region
 
 ``` toml
-dict_label = "DPPN"
 word = "siṃsapāvana"
 summary = ""
 grammar_comment = ""
@@ -19984,7 +19016,6 @@ A grove to the north of Setavyā, where Kumāra Kassapa once stayed. It was the 
 27.69953, 82.553193park
 
 ``` toml
-dict_label = "DPPN"
 word = "sobhita"
 summary = ""
 grammar_comment = ""
@@ -20008,7 +19039,6 @@ A monk who was foremost among those who could remember past births. AN.i.25 Thag
 He was once accused of claiming to possess superhuman qualities, but was exonerated by the Buddha. Vin.iii.109
 
 ``` toml
-dict_label = "DPPN"
 word = "sogandhika"
 summary = ""
 grammar_comment = ""
@@ -20028,7 +19058,6 @@ A hell, or a period of suffering in Avīci. SN.i.102 Snp.126
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "soma"
 summary = ""
 grammar_comment = ""
@@ -20048,7 +19077,6 @@ A deva to whom sacrifice is offered; he is generally mentioned with Varuṇa, Pa
 In the Āṭānāṭiya Sutta DN.iii.204 he is spoken of as a Yakkha chief.
 
 ``` toml
-dict_label = "DPPN"
 word = "somamitta"
 summary = ""
 grammar_comment = ""
@@ -20066,7 +19094,6 @@ Somamitta
 A monk whose Theragāthā verses say one should avoid a lzy man and associate with those who are energetic. Thag.147–148
 
 ``` toml
-dict_label = "DPPN"
 word = "somā"
 summary = ""
 grammar_comment = ""
@@ -20088,7 +19115,6 @@ Somā<sup>2</sup>
 Sister of Sakulā and queen of Pasenadi. She was a devout follower of the Buddha. MN.ii.125 She is probably the eminent lay woman referred to at. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "sonaka"
 summary = ""
 grammar_comment = ""
@@ -20106,7 +19132,6 @@ Sonaka
 A monk who was a leader of the Sangha some time after the Buddha. Vin.v.2
 
 ``` toml
-dict_label = "DPPN"
 word = "sonāyamātā"
 summary = ""
 grammar_comment = ""
@@ -20124,7 +19149,6 @@ Sonāyamātā
 An eminent laywoman, disciple of the Buddha. AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "sopāka"
 summary = ""
 grammar_comment = ""
@@ -20146,7 +19170,6 @@ Sopāka<sup>2</sup>
 A monk whose Theragāthā verse says that he walked with the Buddha when aged seven, and answered his questions. The Buddha praised him and gave him the ordination right away. Thag.480–486
 
 ``` toml
-dict_label = "DPPN"
 word = "sorata"
 summary = ""
 grammar_comment = ""
@@ -20164,7 +19187,6 @@ Sorata
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "soreyya"
 summary = ""
 grammar_comment = ""
@@ -20184,7 +19206,6 @@ A town where Soreyya\-Revata lived. Vin.ii.299 There was a direct route from Ver
 26.53389,79.301022town
 
 ``` toml
-dict_label = "DPPN"
 word = "sotthija"
 summary = ""
 grammar_comment = ""
@@ -20202,7 +19223,6 @@ SotthijaSotthiya
 The constant attendant of Koṇāgamana Buddha. DN.ii.6
 
 ``` toml
-dict_label = "DPPN"
 word = "sovīra"
 summary = ""
 grammar_comment = ""
@@ -20224,7 +19244,6 @@ In the time of King Reṇu, Bharata was king of Sovīra, and Roruka was its capi
 Eder, Gujarat?3region
 
 ``` toml
-dict_label = "DPPN"
 word = "soṇa"
 summary = ""
 grammar_comment = ""
@@ -20260,7 +19279,6 @@ Soṇa<sup>4</sup>
 A layman of Rājagaha. He is mentioned as having had two conversations with the. Buddha at Veḷuvana: one on the impermanence of the body, feelings, etc., their origin and their cessation; SN.iii.48*f.* and, on another occasion, as to why some beings achieve complete cessation in this life and others do not. SN.iv.113
 
 ``` toml
-dict_label = "DPPN"
 word = "soṇadaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -20278,7 +19296,6 @@ Soṇadaṇḍa
 A rich brahmin of Campā, very learned in the Vedas; he lived in a royal domain, given to him as royal fief by King Bimbisāra. When the Buddha was in Campā, on the banks of the Gaggarā\-lake, Soṇadaṇḍa visited him in spite of the protests of his friends and colleagues. Their conversation is recorded in the Soṇadaṇḍa Sutta. At the end of the discourse, Soṇadaṇḍa expressed his appreciation of the Buddha and his doctrine, and invited him and his monks to a meal. At the conclusion of the meal Soṇadaṇḍa asked the Buddha to forgive him if, in the presence of the brahmins, he did not make humble obeisance to the Buddha, but merely saluted him. DN.i.111*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "soṇakāyana"
 summary = ""
 grammar_comment = ""
@@ -20296,7 +19313,6 @@ Soṇakāyana
 A youth who, according to Sikhā Moggallāna, went about saying that the Buddha proclaimed the ineffectiveness of all deeds, and thereby preached the annihilation of the world. The Buddha said he did not know Soṇakāyana, even by sight. AN.ii.232
 
 ``` toml
-dict_label = "DPPN"
 word = "soṇā"
 summary = ""
 grammar_comment = ""
@@ -20318,7 +19334,6 @@ Soṇā<sup>2</sup>Bahuputtikā
 A Therī. She was declared foremost among nuns for capacity of effort. She had ten sons and daughters, and she entered the Order in her old age. Her Therīgāthā verses tell of her striving and attainment. AN.i.25 Thig.102–106
 
 ``` toml
-dict_label = "DPPN"
 word = "subha"
 summary = ""
 grammar_comment = ""
@@ -20340,7 +19355,6 @@ Subha<sup>2</sup>TodeyyaputtaBhāradvāja
 A young brahman student. He once visited the Buddha in Sāvatthī, asking him various questions. The interview is described in the Subha Sutta. DN.i.204*f.* At the end of the discourse he declared himself the Buddha’s follower. While on his way back from the city, he met Jāṇussoṇi, and, on being asked what he thought of the Buddha, spoke of him in terms of the highest praise, saying that none but Gotama’s own peer could utter sufficient praise of him.MN.i.196*f.* MN.i.208*f.* Subha is described MN.i.202 as the son of the brahmin Todeyya of Tudigāma.
 
 ``` toml
-dict_label = "DPPN"
 word = "subhadda"
 summary = ""
 grammar_comment = ""
@@ -20366,7 +19380,6 @@ Subhadda<sup>3</sup>
 A lay disciple of Nātikā. He was an *anāgāmī* and was born in the Suddhavāsā, never to be reborn. DN.ii.92 SN.v.348*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "subhagavana"
 summary = ""
 grammar_comment = ""
@@ -20386,7 +19399,6 @@ A wood in Ukkaṭṭha. Once, when the Buddha was there, he visited the Avihā g
 27.6081, 82.825243park
 
 ``` toml
-dict_label = "DPPN"
 word = "subhakinnā"
 summary = ""
 grammar_comment = ""
@@ -20406,7 +19418,6 @@ A class of Brahmas who occupy the ninth Rūpa\-world; a division of the Subha de
 They are filled and pervaded with happiness and are serenely blissful; they experience only sublime happiness, unlike the Ābhassarā, who exclaim in their joy. DN.iii.219 They agree both in body and in perceptive power. AN.iv.401 AN.iv.40
 
 ``` toml
-dict_label = "DPPN"
 word = "subhā"
 summary = ""
 grammar_comment = ""
@@ -20432,7 +19443,6 @@ Subhā<sup>3</sup>Jīvakambavanikā
 A bhikkhunī whose Therīgāthā verses speak of how in Jīvakambavana, a libertine, in the prime of youth, seeing her going to her siesta, stopped her, inviting her to sensual pleasures. She talked to him of the evils of such pleasures, but he pesagested. Seeing that he was particularly enamoured of the beauty of her eyes, she pulled out one of them, saying— “Come, here is the offending eye.” The man was appalled and asked her forgiveness. Subhā went to the Buddha, and, at sight of him, her eye recovered. Thig.366–399
 
 ``` toml
-dict_label = "DPPN"
 word = "subhūta"
 summary = ""
 grammar_comment = ""
@@ -20450,7 +19460,6 @@ Subhūta
 A monk whose Theragāthā verses speak of how, when someone lives the wrong way they blame their bad luck, and praises one who only speaks about what they actually do. Thag.320–324
 
 ``` toml
-dict_label = "DPPN"
 word = "subhūti"
 summary = ""
 grammar_comment = ""
@@ -20470,7 +19479,6 @@ He was declared chief of those who lived remote and in peace, and of those who w
 A verse attributed to him is included in the Theragāthā. Thag.1
 
 ``` toml
-dict_label = "DPPN"
 word = "subrahmā"
 summary = ""
 grammar_comment = ""
@@ -20492,7 +19500,6 @@ Subrahmā<sup>2</sup>
 A Pacceka Brahmā. He was a follower of the Buddha, and, after visiting him together with Suddhavāsa, he went on to another Brahmā, who was infatuated with his own importance. There, by a display of magic power, Subrahmā convinced him that he was far more powerful than the Brahmā, but declared that his own power was as nothing compared with that of the Buddha. SN.i.146*f.* On another occasion, Subrahmā visited the Buddha to declare the folly of Kokālika and of Katamoraka Tissa. SN.i.148 Subrahmā was present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "subāhu"
 summary = ""
 grammar_comment = ""
@@ -20518,7 +19525,6 @@ Subāhu<sup>3</sup>
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "sucimukhī"
 summary = ""
 grammar_comment = ""
@@ -20536,7 +19542,6 @@ Sucimukhī
 A wanderer. She once saw Sāriputta in Rājagaha eating his meal, which he had begged from house to house, leaning against a wall. Sucimukhī asked him why he looked downwards while eating. When Sāriputta disclaimed doing so, she asked him, respectively, why he ate looking upwards, towards the four quarters, between the four quarters. He denied the truth of all her statements, and then explained to her his reason for his denial. He lived neither by such low arts as divination, nor by star gazing, going errands, or palmistry. Sucimukhī understood, and went about Rājagaha praising the blamelessness of Sākiyan monks. SN.iii.238*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sucitti"
 summary = ""
 grammar_comment = ""
@@ -20554,7 +19559,6 @@ Sucitti
 An Asura, one of the Dānaveghasas, present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "sudassana"
 summary = ""
 grammar_comment = ""
@@ -20572,7 +19576,6 @@ Sudassana
 Nephew of Pasenadi. The Buddha taught him a stanza to recite whenever Pasenadi sat down to a meal, in order that the king might observe moderation in eating. For this service Pasenadi paid him one hundred *kahāpanas* a day. SN.i.82
 
 ``` toml
-dict_label = "DPPN"
 word = "sudassā"
 summary = ""
 grammar_comment = ""
@@ -20590,7 +19593,6 @@ Sudassā
 A Brahma world; one of the Suddhāvāsā. Five kinds of Anāgāmīs are born there. MN.i.289 DN.ii.52 DN.iii.237
 
 ``` toml
-dict_label = "DPPN"
 word = "sudassī"
 summary = ""
 grammar_comment = ""
@@ -20608,7 +19610,6 @@ Sudassī
 A Brahma world, one of the Suddhāvāsā. The inhabitants of this world are friendly with those of Akaniṭṭhā. DN.ii.52 MN.i.259 DN.iii.237 MN.iii.103
 
 ``` toml
-dict_label = "DPPN"
 word = "sudatta"
 summary = ""
 grammar_comment = ""
@@ -20634,7 +19635,6 @@ Sudatta<sup>3</sup>SudantaKumāputtassa therassa sahāyaka
 A monk whose Theragāthā verse criticizes those who wander unrestrained. Thag.37
 
 ``` toml
-dict_label = "DPPN"
 word = "suddhanā"
 summary = ""
 grammar_comment = ""
@@ -20652,7 +19652,6 @@ Suddhanā
 An eminent lay woman disciple of the Buddha. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "suddhavāsa"
 summary = ""
 grammar_comment = ""
@@ -20672,7 +19671,6 @@ A Pacceka Brahmā who, with Subrahmā, went to visit the Buddha, but, finding hi
 They told him of the greater power and majesty of the Buddha, whom they persuaded him to visit. SN.i.146
 
 ``` toml
-dict_label = "DPPN"
 word = "suddhikabhāradvāja"
 summary = ""
 grammar_comment = ""
@@ -20690,7 +19688,6 @@ SuddhikabhāradvājaSuddhikaBhāradvāja
 A brahmin who visited the Buddha at Jetavana and stated that a man can be purified only by knowledge of the Vedas. The Buddha answered that it is not knowledge of mantras, but the purity of heart of a man, which is important, of a man who has put forth effort to win supreme purity of conduct. SN.i.165
 
 ``` toml
-dict_label = "DPPN"
 word = "suddhodana"
 summary = ""
 grammar_comment = ""
@@ -20712,7 +19709,6 @@ A Sākiyan Rājā of Kapilavatthu and father of Gotama Buddha.
 Nanda was Suddhodana’s son by Mahā Pajāpati, and he had also a daughter called Sundarī Nandā. When the Buddha ordained both Rāhula and Nanda, Suddhodana was greatly distressed lest other parents should be similarly afflicted, and persuaded the Buddha to establish a rule that none should be ordained without the permission of his parents. Vin.i.82*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "suddhāvāsakāyikādevā"
 summary = ""
 grammar_comment = ""
@@ -20730,7 +19726,6 @@ SuddhāvāsakāyikādevāSuddhāvāsakāyikā
 A group of devas, inhabitants of the Suddhāvāsā, who appeared before the Buddha and recited three verses in praise of the Saṅgha. SN.i.26 DN.ii.253*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "suddhāvāsā"
 summary = ""
 grammar_comment = ""
@@ -20754,7 +19749,6 @@ The Buddha is mentioned as having visited the Suddhāvāsā. DN.ii.50
 5heaven
 
 ``` toml
-dict_label = "DPPN"
 word = "sudhamma"
 summary = ""
 grammar_comment = ""
@@ -20778,7 +19772,6 @@ The meeting hall of the deities in Tāvatiṃsā heaven. DN.ii.268 MN.ii.79 SN.i
 5building
 
 ``` toml
-dict_label = "DPPN"
 word = "sudinna"
 summary = ""
 grammar_comment = ""
@@ -20796,7 +19789,6 @@ SudinnaKalandakaputta
 A monk who, after being ordained, returned to his former wife and had relations with her, thus becoming guilty of the first Pārājika offence. When there was a famine in the Vajji country, Sudinna went to Vesāli, hoping to be kept by his rich relations, to the mutual benefit of both parties. They gave him sixty bowls of rice, which he distributed among his colleagues. When he went to his father’s house, in Kalandakagāma, he saw a servant girl about to throw away some boiled rice and asked her to put it into his bowl. The girl, recognizing his hands and feet and voice, told his mother of his arrival. Both she and his father visited him as he was eating the rice, and his father took him by the hand and led him home. There he was provided with a seat and asked to eat: but he refused, saying he had already eaten. The next day he was again invited; he went, and they tried to tempt him back to the lay life. His former wife joined in the attempt, but on being addressed by him as “Sister,” she fell fainting. Then he begged for his meal, saying that if they desired to give it to him they should do so without worrying him. Later his wife visited him, with his mother, at the Mahāvana, and begged that he would give her a son, so that the Licchavis might not confiscate their wealth for want of an heir. Sudinna agreed, and had intercourse three times with her. She became pregnant, and in due course a son was born, who was called Bījaka. When Sudinna realized what he had done he was filled with remorse, and his colleagues, discovering the reason, reported him to the Buddha, who blamed him greatly. Vin.iii.11–21
 
 ``` toml
-dict_label = "DPPN"
 word = "sudāṭha"
 summary = ""
 grammar_comment = ""
@@ -20814,7 +19806,6 @@ Sudāṭha
 A Pacceka Buddha in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "sugandha"
 summary = ""
 grammar_comment = ""
@@ -20832,7 +19823,6 @@ Sugandha
 A monk whose Theragāthā verse speaks of going forth after one rainy season, then attaining the Dhamma. Thag.24
 
 ``` toml
-dict_label = "DPPN"
 word = "suhemanta"
 summary = ""
 grammar_comment = ""
@@ -20850,7 +19840,6 @@ Suhemanta
 A monk whose Theragāthā verse cryptically speaks of 100 signs. Thag.106
 
 ``` toml
-dict_label = "DPPN"
 word = "sujāta"
 summary = ""
 grammar_comment = ""
@@ -20868,7 +19857,6 @@ Sujāta
 A monk who the Buddha commended on his spiritual and physical beauty. SN.ii.278*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sujātā"
 summary = ""
 grammar_comment = ""
@@ -20898,7 +19886,6 @@ Sujātā<sup>4</sup>
 She was the daughter of a seṭṭhi of Sāketa and was given in marriage to a husband of equal rank, with whom she lived happily. One day, while on her way home from a carnival, she saw the Buddha at Añjanavana and listened to his preaching. Even as she sat there her insight was completed, and she became an arahant. She went home, obtained her husband’s permission, and joined the Order. Thig.145–150
 
 ``` toml
-dict_label = "DPPN"
 word = "sukkā"
 summary = ""
 grammar_comment = ""
@@ -20920,7 +19907,6 @@ Sukkā<sup>2</sup>
 A class of Devas who were present, in the company of the Veghanasā, at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "suleyyā"
 summary = ""
 grammar_comment = ""
@@ -20938,7 +19924,6 @@ Suleyyā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "sumana"
 summary = ""
 grammar_comment = ""
@@ -20970,7 +19955,6 @@ Sumana<sup>4</sup>
 A Yakkha chief, to be invoked in time of need by followers of the Buddha. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "sumanā"
 summary = ""
 grammar_comment = ""
@@ -20992,7 +19976,6 @@ Sumanā<sup>2</sup>
 A bhikkhunī whose Therīgāthā verse is an encouragemnt not to be reborn. Thig.14
 
 ``` toml
-dict_label = "DPPN"
 word = "sumaṅgala"
 summary = ""
 grammar_comment = ""
@@ -21014,7 +19997,6 @@ Sumaṅgala<sup>2</sup>
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "sumaṅgalamātā"
 summary = ""
 grammar_comment = ""
@@ -21032,7 +20014,6 @@ Sumaṅgalamātā
 A bhikkhunī whose Therīgāthā verses celebrate her freedom from household drudgery and her brutal husband. Thig.23–24
 
 ``` toml
-dict_label = "DPPN"
 word = "sumbha"
 summary = ""
 grammar_comment = ""
@@ -21054,7 +20035,6 @@ Sumbha<sup>2</sup>
 A country in which was Desaka, where Udāyi visited the Buddha during a stay, and had a conversation with him. SN.v.89 SN.v.168
 
 ``` toml
-dict_label = "DPPN"
 word = "sumedhā"
 summary = ""
 grammar_comment = ""
@@ -21072,7 +20052,6 @@ Sumedhā
 She was the daughter of King Koñca of Mantāvatī. Her Therīgāthā verses, of which she has the greatest number of any of the nuns, speak of the emptiness of the home life and the advantages of going forth. She determined to obtain her parent’s permission even going so far as to lie down on the floor and refuse to move. She refuses the offer of marriage to King Anikaratta of Vāraṇavatī, speaking of the loathsomeness of the body and the bliss of Nibbana. She cut off her hair by herself, and then attained the first *jhāna*. When her parents entered her room with Anikadatta, she converted them all, and obtained permission to join the Order. Shortly afterwards she attained arahantship. Thig.448–522
 
 ``` toml
-dict_label = "DPPN"
 word = "sumukha"
 summary = ""
 grammar_comment = ""
@@ -21090,7 +20069,6 @@ Sumukha
 A Yakkha chief, to be invoked in time of need by followers of the Buddha. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "sumāgadhā"
 summary = ""
 grammar_comment = ""
@@ -21112,7 +20090,6 @@ Near the pond was the Moranivāpa, and within walking distance was the Paribbāj
 near Rājagaha3lake
 
 ``` toml
-dict_label = "DPPN"
 word = "sunakkhatta"
 summary = ""
 grammar_comment = ""
@@ -21134,7 +20111,6 @@ His grievance was that the Buddha showed no mystic superhuman wonders, that he h
 Later he transferred his allegiance to Kandaramasaka, who died, as the Buddha had prophesied, fallen from grace and fame. The next teacher to win the admiration of Sunakkhatta was Pātikaputta, and Sunakkhatta wished the Buddha to pay honour to him. But the Buddha quoted to Sunakkhatta the words of Ajita, the Licchavi general who had been born in Tāvatiṃsā, to the effect that Pātikaputta was “a liar and a cheat,” and was later able to prove that these words were true. But Sunakkhatta did not return to the Order. He had probably remained in it for several years before actually leaving it. For we find in the Mahāli Sutta DN.i.152 the Licchavi Oṭṭhaddha relating to the Buddha how Sunakkhatta had come to him three years after joining the Order, claiming that he could see divine forms but could not hear heavenly sounds. The Sutta itself gives DN.i.153 as the reason that he had only developed one sided concentration of mind.
 
 ``` toml
-dict_label = "DPPN"
 word = "sundara"
 summary = ""
 grammar_comment = ""
@@ -21152,7 +20128,6 @@ Sundara
 A monk of Rājagaha. One day, as he walked through the street, a woman asked him to stop for a moment that she might worship him, and, raising the end of his robe, took his penis into her mouth. A doubt arose in his mind as to whether any blame attached to him and he consulted the Buddha, who said that as Sundara had not acquiesced in the act, he was blameless. Vin.iii.36
 
 ``` toml
-dict_label = "DPPN"
 word = "sundarasamudda"
 summary = ""
 grammar_comment = ""
@@ -21170,7 +20145,6 @@ Sundarasamudda
 A monk whose Theragāthā verses tell of how he was tempted by a courtesan. She showed herself to him, decked and adorned and wearing golden slippers, and invited him in with seductive manner. But seeing this his mind went to the Dhamma and he became Awakened. Thag.459–465
 
 ``` toml
-dict_label = "DPPN"
 word = "sundarika"
 summary = ""
 grammar_comment = ""
@@ -21190,7 +20164,6 @@ A brahmin, one of the Bhāradvājas. Once, when he was performing Fire\-rites on
 Sundarika\-Bhāradvāja is also mentioned MN.i.39*f.* as meeting the Buddha on the banks of the Bāhukā and asking him whether he bathed in that river, because it had the reputation of cleansing sins. The Buddha answered that purity was not to be won that way and preached to him the Vatthūpama Sutta.
 
 ``` toml
-dict_label = "DPPN"
 word = "sundarikā"
 summary = ""
 grammar_comment = ""
@@ -21208,7 +20181,6 @@ Sundarikā
 A river in Kosala, reputed to be efficacious in washing away sins. MN.i.39 There Sundarika Bhāradvāja held sacrifices in honour of Agni and met the Buddha during such a sacrifice. SN.i.167 Snp.p.79
 
 ``` toml
-dict_label = "DPPN"
 word = "sundarī"
 summary = ""
 grammar_comment = ""
@@ -21232,7 +20204,6 @@ A Paribbājikā. She listened to the persuasions of her colleagues, the heretics
 But the Buddha pointed out to him the absurdity of running away from a false report, and said that in seven days the truth would be known. The king employed spies, who found the murderers quarrelling among themselves after strong drink. They were seized and brought before the king, where they confessed their crime. The king sent for the heretics and compelled them to retract their accusations against the Buddha and his monks and to confess their own wickedness. They were then punished for murder. Ud.iv.8
 
 ``` toml
-dict_label = "DPPN"
 word = "sundarīnandā"
 summary = ""
 grammar_comment = ""
@@ -21256,7 +20227,6 @@ A bhikkhunī whose Therīgāthā verses are an exhortation to her to overcome at
 There seems to have been some confusion in the legends of the different Therīs named Nandā.
 
 ``` toml
-dict_label = "DPPN"
 word = "sunetta"
 summary = ""
 grammar_comment = ""
@@ -21274,7 +20244,6 @@ Sunetta
 A teacher of old. He had numerous disciples, and those who followed his teachings were reborn in the Brahma world and in various other worlds. Then Sunetta, seeing that some among his disciples were as good as himself, developed mettā to a much greater degree; but even so, he could not free himself from birth, old age, etc. It was because he had not comprehended Noble Conduct, Noble Concentration, Noble Wisdom, Noble Release. AN.iv.103*f.* AN.iii.371 AN.iv.135
 
 ``` toml
-dict_label = "DPPN"
 word = "sunidha"
 summary = ""
 grammar_comment = ""
@@ -21292,7 +20261,6 @@ Sunidha
 A minister of Māgadha, who, with Vassakāra, was in charge of the fortifications of Pāṭaligāma, built in order to repel the Vajjīs. These two are always mentioned together. They invited the Buddha to a meal, and, after his departure, named the gate by which he had left the city Gotamadvāra, and the ford by which he crossed the Ganges, Gotamatittha. Vin.i.228*f.* DN.ii.86*f.* Ud.viii.6
 
 ``` toml
-dict_label = "DPPN"
 word = "sunimmita"
 summary = ""
 grammar_comment = ""
@@ -21310,7 +20278,6 @@ Sunimmita
 A *devaputta*, king of the Nimmānaratī world. SN.iv.280 AN.iv.243
 
 ``` toml
-dict_label = "DPPN"
 word = "sunāga"
 summary = ""
 grammar_comment = ""
@@ -21328,7 +20295,6 @@ Sunāga
 A monk whose Theragāthā verse speaks of one who understands the mind, practicing *jhāna* happily. Thag.85
 
 ``` toml
-dict_label = "DPPN"
 word = "sunāparanta"
 summary = ""
 grammar_comment = ""
@@ -21348,7 +20314,6 @@ A country in which was the port of Suppāraka, birthplace of Puṇṇa Thera. Wi
 22.836946,71.616212region
 
 ``` toml
-dict_label = "DPPN"
 word = "sunīta"
 summary = ""
 grammar_comment = ""
@@ -21366,7 +20331,6 @@ Sunīta
 A monk whose Theragāthā verses speak of his humble origins and how he bowed and scaped before many people, until he was lifted up by the Buddha. Practcing in the forest he realized the Dhamma, so that even the gods now pay him homage. Thag.620–631
 
 ``` toml
-dict_label = "DPPN"
 word = "supabbā"
 summary = ""
 grammar_comment = ""
@@ -21384,7 +20348,6 @@ Supabbā
 An *upāsikā* of Rājagaha. She held the view that one who offered herself for sexual intercourse gave the supreme gift. Vin.iii.39
 
 ``` toml
-dict_label = "DPPN"
 word = "supatiṭṭhita"
 summary = ""
 grammar_comment = ""
@@ -21402,7 +20365,6 @@ Supatiṭṭhita
 A Pacceka Buddha mentioned in a nominal list. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "suppabuddha"
 summary = ""
 grammar_comment = ""
@@ -21420,7 +20382,6 @@ Suppabuddha
 A poor leper of Rājagaha, who, one day seated in the outer circle of people, heard the Buddha preach and became a *sotāpanna*. While waiting the departure of the crowd so that he could pay homage to the Buddha and express his gratitude, Sakka, desiring to test him, approached him and offered him untold wealth if he would repudiate the Buddha, his teachings, and the Order. But although Sakka revealed his identity, Suppabuddha rebuked him for a fool and said he had no need of more wealth, because he possessed already the seven stores of Noble Wealth. Sakka reported this conversation to the Buddha, who said that no power in the world would change Suppabuddha. Soon after, Suppabuddha visited the Buddha, and, having worshipped him, was on his way to the city when he was gored to death by a cow. Ud.v.3
 
 ``` toml
-dict_label = "DPPN"
 word = "suppagedha"
 summary = ""
 grammar_comment = ""
@@ -21438,7 +20399,6 @@ Suppagedha
 A Yakkha, to be invoked by followers of the Buddha in time of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "suppatiṭṭha cetiya"
 summary = ""
 grammar_comment = ""
@@ -21458,7 +20418,6 @@ A shrine near the Latthivanuyyāna in Rājagaha. Vin.i.35
 near the Latthivanuyyāna3shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "suppatiṭṭhita"
 summary = ""
 grammar_comment = ""
@@ -21478,7 +20437,6 @@ A *nigrodha* tree belonging to king Koravya. The king and his court ate the firs
 One day there came a man who ate his fill of the fruit, broke a branch, and went his way. The deva of the tree was angry, and the tree bore no more fruit. Koravya visited Sakka and consulted him. Sakka sent a squall to punish the deva and made the deva appear before him full of repentance. Then Sakka warned him to keep the *Rukkhadhamma*, which was that various people take and make use of various parts of a tree; it is not for the deva of the tree to mope and pine on that account. AN.iii.369*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "suppavāsā"
 summary = ""
 grammar_comment = ""
@@ -21496,7 +20454,6 @@ SuppavāsāKoliyadhītā
 A lay woman who lived in the Koliyan village of Sajjanela, where the Buddha visited her and preached to her on the efficacy of giving food. AN.ii.62*f.* She was described by the Buddha as foremost among those who gave excellent alms. AN.i.26 She is included in a list of eminent *upāsikās*. AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "suppiya"
 summary = ""
 grammar_comment = ""
@@ -21520,7 +20477,6 @@ He was born in Sāvatthī in a family of cemetery keepers. Converted by the prea
 In the time of Padumuttara Buddha he was a brahmin, named Varuṇa, who left his ten children and became an ascetic in the forest. There he met the Buddha and his monks and gave them fruit. He belonged to a *khattiya* family in the time of Kassapa Buddha, but through pride of birth and learning used to detract his colleagues hence his birth in a low caste in his last life. Thag.32
 
 ``` toml
-dict_label = "DPPN"
 word = "suppiyā"
 summary = ""
 grammar_comment = ""
@@ -21546,7 +20502,6 @@ It was as a result of this incident that the Buddha lay down a rule forbidding m
 Suppiyā was declared by the Buddha foremost among women who waited on the sick. AN.i.26 She is mentioned in a list of eminent women lay disciples. AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "suriya"
 summary = ""
 grammar_comment = ""
@@ -21566,7 +20521,6 @@ A *devaputta*, the sun or the god of the sun. Once, when he was seized by Rāhu,
 Suriya was present at the preaching of the Mahāsamaya Sutta DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "suriyavaccasā"
 summary = ""
 grammar_comment = ""
@@ -21588,7 +20542,6 @@ When she went to dance before Sakka, Pañcasikha saw her and fell in love with h
 Later she heard Pañcasikha sing love\-songs in her honour, which also contained references to his deep attachment to the Buddha. This influenced her choice, and she became his wife. DN.ii.258 DN.ii.268*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "surādha"
 summary = ""
 grammar_comment = ""
@@ -21606,7 +20559,6 @@ Surādha
 A monks whose Theragāthā verses speak of attaining the goal of the spiritual life. Thag.135–136
 
 ``` toml
-dict_label = "DPPN"
 word = "susumāragiri"
 summary = ""
 grammar_comment = ""
@@ -21634,7 +20586,6 @@ Several Vinaya rules were passed during the Buddha’s stay at Suṃsumāragiri.
 Bhaggā3city
 
 ``` toml
-dict_label = "DPPN"
 word = "susārada"
 summary = ""
 grammar_comment = ""
@@ -21652,7 +20603,6 @@ Susārada
 A monk whose Theragāthā verse speaks of the advantages of associating with good people. Thag.75
 
 ``` toml
-dict_label = "DPPN"
 word = "susīma"
 summary = ""
 grammar_comment = ""
@@ -21680,7 +20630,6 @@ A Paribbājaka of Rājagaha. When the Buddha’s fame spread and his gains incre
 Susīma agreed, and sought, Ānanda, who, with the Buddha’s sanction, ordained him. In discussion with the monks who declared that they had obtained complete emancipation, etc., Susīma discovered that all of them did not possess supernatural powers, but thought they had gained nibbāna “through insight.” He thereupon sought the Buddha to have the matter explained. The Buddha asked him many questions, and made him realize the truth of their statement. Susīma confessed his original purpose in joining the Order and asked for forgiveness. SN.ii.119*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sutanu"
 summary = ""
 grammar_comment = ""
@@ -21700,7 +20649,6 @@ A stream at Sāvatthī. Anuruddha is mentioned as having stayed near by. SN.v.29
 Sāvatthī3river
 
 ``` toml
-dict_label = "DPPN"
 word = "sutanā"
 summary = ""
 grammar_comment = ""
@@ -21718,7 +20666,6 @@ SutanāSudhanā
 An eminent *upāsikā*. AN.iv.347
 
 ``` toml
-dict_label = "DPPN"
 word = "sutavā"
 summary = ""
 grammar_comment = ""
@@ -21740,7 +20687,6 @@ Sutavā<sup>2</sup>
 A wanderer who visited the Buddha on Gijjhakūṭa and questioned him regarding the description of an arahant. AN.iv.369*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "suvidehā"
 summary = ""
 grammar_comment = ""
@@ -21762,7 +20708,6 @@ It is that part of Videha which is opposite Māgadha, on the other side of the G
 that part of Videha which is opposite Māgadha, on the other side of the Ganges.2region
 
 ``` toml
-dict_label = "DPPN"
 word = "suvīra"
 summary = ""
 grammar_comment = ""
@@ -21782,7 +20727,6 @@ A Deva. Once, when the Asuras marched against the Devas, Sakka sent for Suvīra 
 The Buddha related the story to the monks to show them the value of exertion and energy. SN.i.216*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "suyāma"
 summary = ""
 grammar_comment = ""
@@ -21804,7 +20748,6 @@ Suyāma<sup>2</sup>Suyāmana
 A monk whose Theragāthā verses speak of abandoning unwholesome states of mind. Thag.74
 
 ``` toml
-dict_label = "DPPN"
 word = "sādhuka"
 summary = ""
 grammar_comment = ""
@@ -21822,7 +20765,6 @@ Sādhuka
 A village in Kosala where Isidatta and Purāṇa once stayed. SN.v.348
 
 ``` toml
-dict_label = "DPPN"
 word = "sāgala"
 summary = ""
 grammar_comment = ""
@@ -21840,7 +20782,6 @@ SāgalaSāgalā
 A city in India, mentioned in the Vinaya Vin.iii.67 as the residence of Daḷhika.
 
 ``` toml
-dict_label = "DPPN"
 word = "sāgata "
 summary = ""
 grammar_comment = ""
@@ -21864,7 +20805,6 @@ The next day, when Sāgata went for alms, he was invited to various houses, wher
 The Buddha later declared him foremost among those skilled in the contemplation of the heat element. AN.i.25
 
 ``` toml
-dict_label = "DPPN"
 word = "sāketa"
 summary = ""
 grammar_comment = ""
@@ -21890,7 +20830,6 @@ The Vinaya Vin.i.270*f.* mentions another seṭṭhi of Sāketa. His wife had su
 26.8, 82.21town
 
 ``` toml
-dict_label = "DPPN"
 word = "sākya"
 summary = ""
 grammar_comment = ""
@@ -21920,7 +20859,6 @@ The Buddha states, in the Aggañña Sutta, that the Sākyans were vassals of Kin
 27.56733, 83.191221region
 
 ``` toml
-dict_label = "DPPN"
 word = "sālavatikā"
 summary = ""
 grammar_comment = ""
@@ -21940,7 +20878,6 @@ A Kosalan village, given by Pasenadi to the brahmin Lohicca. There the Lohicca S
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sālavatī"
 summary = ""
 grammar_comment = ""
@@ -21958,7 +20895,6 @@ Sālavatī
 A courtesan of Rājagaha. She was the mother of Jīvaka Komārabhacca Vin.i.268*f.* and of his sister Sirimā.
 
 ``` toml
-dict_label = "DPPN"
 word = "sāleyyakā"
 summary = ""
 grammar_comment = ""
@@ -21976,7 +20912,6 @@ Sāleyyakā
 The inhabitants of Sālā. MN.i.285
 
 ``` toml
-dict_label = "DPPN"
 word = "sālā"
 summary = ""
 grammar_comment = ""
@@ -21996,7 +20931,6 @@ A brahmin village of Kosala, its inhabitants were called Sāleyyakā. The Apaṇ
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmagāma"
 summary = ""
 grammar_comment = ""
@@ -22018,7 +20952,6 @@ The Vedhaññā probably lived there, because, according to the Pāsādika Sutta
 Sākiya3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmaññakāni"
 summary = ""
 grammar_comment = ""
@@ -22036,7 +20969,6 @@ Sāmaññakāni
 A monk whose Theragāthā verse speaks of the happiness of one who practices the right way. Thag.35
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmaṇḍaka"
 summary = ""
 grammar_comment = ""
@@ -22056,7 +20988,6 @@ A Paribbājaka, mentioned SN.iv.261*f.* as having visited Sāriputta at Ukkacela
 He is, perhaps, to be identified with Sāmaññakāni.
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmidatta"
 summary = ""
 grammar_comment = ""
@@ -22074,7 +21005,6 @@ Sāmidatta
 A monk whose Theragāthā verse speaks of the end of rebirth. Thag.90
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmuga"
 summary = ""
 grammar_comment = ""
@@ -22094,7 +21024,6 @@ A village of the Koliyans, where Ānanda once stayed, and where he preached to t
 Koliya3town
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmā"
 summary = ""
 grammar_comment = ""
@@ -22116,7 +21045,6 @@ Sāmā<sup>2</sup>Aparasāmā
 A bhikkhunī whose Therīgāthā verses speak of how, despite having gone forth for 25 years, she had not had peace of mind, but later found peace. Thig.39–41
 
 ``` toml
-dict_label = "DPPN"
 word = "sāmāvatī"
 summary = ""
 grammar_comment = ""
@@ -22136,7 +21064,6 @@ One of the chief consorts of King Udena. In the Udāna it is said that she was t
 Sāmāvatī is reckoned among the moist eminent of the lay women who were followers of the Buddha, and was declared by him foremost among those who lived in kindliness. AN.i.26 AN.iv.348
 
 ``` toml
-dict_label = "DPPN"
 word = "sānu"
 summary = ""
 grammar_comment = ""
@@ -22154,7 +21081,6 @@ Sānu
 His mother took him to the monks for ordination, thinking thus to ensure for him supreme happiness. Sānu lost his intellectual discernment and grew distraught and longed to go roaming. His former Yakkha mother seeing this, warned his human mother as described in the Sānu Sutta. The latter was overwhelmed with grief, and, when Sānu visited her, he found her weeping. She told him that he was as good as dead in that he had rejected the Buddha’s teaching and turned again to lower things, hence her sorrow. Thag.44
 
 ``` toml
-dict_label = "DPPN"
 word = "sāpūgiyā"
 summary = ""
 grammar_comment = ""
@@ -22172,7 +21098,6 @@ Sāpūgiyā
 The people of Sāpūga
 
 ``` toml
-dict_label = "DPPN"
 word = "sārandadacetiya"
 summary = ""
 grammar_comment = ""
@@ -22192,7 +21117,6 @@ A shrine at Vesāli. DN.ii.75 DN.ii.102 Ud.vi.1
 Vesāli3shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "sāriputta "
 summary = ""
 grammar_comment = ""
@@ -22210,7 +21134,6 @@ Sāriputta
 The chief disciple of Gotama\- Buddha. He is also called Upatissa, which was evidently his personal name. MN.i.150 Sāriputta was a great friend of Mahāmoggallāna. After going forth together under Sañjaya, he heard the essence of the Dhamma from Assaji, and together with Moggallāna they became monks under the Buddha. This was shortly after the Buddha’s Awakening. Sāriputta soon became enlightened, and became a popular teacher, well respected by the other monks, and often praised by the Buddha. He features in many Suttas as a teacher. He passed away shortly before the Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "sātapabbata"
 summary = ""
 grammar_comment = ""
@@ -22230,7 +21153,6 @@ A mountain in the Middle country, the abode of Sātāgira. Many other Yakkas als
 4hill
 
 ``` toml
-dict_label = "DPPN"
 word = "sāti"
 summary = ""
 grammar_comment = ""
@@ -22248,7 +21170,6 @@ Sāti
 He was a fisherman’s son and held the false view that, according to the Buddha’s teaching, a man’s consciousness runs on and continues without break of identity. Sāti’s colleagues did their best to change his way of thinking, but failing to do so, they reported the matter to the Buddha. He questioned Sāti, who, however, sat silent and glum; then the Buddha preached to him and the assembled monks the Mahātaṇhāsaṅkhaya Sutta. MN.i.256*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sātāgira"
 summary = ""
 grammar_comment = ""
@@ -22268,7 +21189,6 @@ A Yakkha. He persuaded his friend Hemavata to visit the Buddha on an *uposatha* 
 Sātāgira is mentioned in the Āṭānāṭiya Sutta DN.iii.204 as one of the Yakkhas to be invoked in time of need by the Buddha’s followers.
 
 ``` toml
-dict_label = "DPPN"
 word = "sāvatthī"
 summary = ""
 grammar_comment = ""
@@ -22292,7 +21212,6 @@ His first visit there was at the invitation of Anāthapiṇḍika. The chief pat
 27.517073, 82.0506191town
 
 ``` toml
-dict_label = "DPPN"
 word = "sāvitti"
 summary = ""
 grammar_comment = ""
@@ -22310,7 +21229,6 @@ Sāvitti
 A hymn, mentioned as chief of the Vedas. Snp.568 It consists of three lines of twenty four letters. Snp.457
 
 ``` toml
-dict_label = "DPPN"
 word = "sāḷha"
 summary = ""
 grammar_comment = ""
@@ -22340,7 +21258,6 @@ Sāḷha<sup>4</sup>
 An eminent monk who took a prominent part in the Second Council. He lived in Sahajāti, and, on hearing of the heresy of the Vajjiputtakas, retired into solitude in order to decide whether he thought their contentions right. There an inhabitant of the Suddhāvāsā informed him that the Vajjiputtakas were wrong. He was one of the four appointed on behalf of the Pācinakas (Vajjiputtakas) on the committee which discussed the dispute. Vin.ii.302*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sāṭimattiya"
 summary = ""
 grammar_comment = ""
@@ -22358,7 +21275,6 @@ SāṭimattiyaSātimattiya
 A monk whose Theragāthā verses speak of one who formerly had faith but now has no more, and of wandering for alms, a little here and there. Thag.246–248
 
 ``` toml
-dict_label = "DPPN"
 word = "sīdarī"
 summary = ""
 grammar_comment = ""
@@ -22376,7 +21292,6 @@ Sīdarī
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "sīha"
 summary = ""
 grammar_comment = ""
@@ -22404,7 +21319,6 @@ Sīha<sup>3</sup>
 A novice who entered the Order at the age of seven and was a great favourite among the monks for his charm. He was much liked by the Buddha. He was a student under Nāgita, and was with him when the Buddha once stayed in Vesāli. Seeing a great number of people coming to visit the Buddha, he informed Nāgita of this, and, with his permission, went to tell the Buddha. This led to the preaching of the Mahāli Sutta. DN.i.151
 
 ``` toml
-dict_label = "DPPN"
 word = "sīhapapātā"
 summary = ""
 grammar_comment = ""
@@ -22424,7 +21338,6 @@ One of the seven great lakes of Himavā. AN.iv.107
 Himalaya3lake
 
 ``` toml
-dict_label = "DPPN"
 word = "sīhā"
 summary = ""
 grammar_comment = ""
@@ -22442,7 +21355,6 @@ Sīhā
 A bhikkhunī whose Therīgāthā verses tell of how for seven years she tried, without success, to concentrate her mind. Then she tied a noose round her neck and fastened the end to a tree, and in this position her mind was freed. Thig.77–81
 
 ``` toml
-dict_label = "DPPN"
 word = "sīlavā"
 summary = ""
 grammar_comment = ""
@@ -22460,7 +21372,6 @@ Sīlavā
 A monk whose Theragāthā verses speak in praise of virtue (*sīla*). Thag.608–619
 
 ``` toml
-dict_label = "DPPN"
 word = "sīsupacalā"
 summary = ""
 grammar_comment = ""
@@ -22478,7 +21389,6 @@ Sīsupacalā
 Māra once tempted her with thoughts of sensual pleasures, but she sent him away discomfited Thig.190–203 SN.i.133*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "sītavalāhakā"
 summary = ""
 grammar_comment = ""
@@ -22496,7 +21406,6 @@ Sītavalāhakā
 A class of devas. When they wish to regale their bodies, the weather becomes cool. SN.iii.256
 
 ``` toml
-dict_label = "DPPN"
 word = "sītavana"
 summary = ""
 grammar_comment = ""
@@ -22522,7 +21431,6 @@ Ekavihāriya is also mentioned its delighting in the solitude of Sītavana. Thag
 near Rājagaha3park
 
 ``` toml
-dict_label = "DPPN"
 word = "sīvaka"
 summary = ""
 grammar_comment = ""
@@ -22548,7 +21456,6 @@ Sīvaka<sup>3</sup>
 A monk whose Theragāthā verses speak of the impermanence of houses, and the end of rebirth. Thag.183–184
 
 ``` toml
-dict_label = "DPPN"
 word = "sīvali"
 summary = ""
 grammar_comment = ""
@@ -22568,7 +21475,6 @@ A monk whose Theragāthā verse speaks of attaining his goal and abandoning prid
 Sīvali was declared by the Buddha AN.i.24 pre\-eminent among recipients of gifts.
 
 ``` toml
-dict_label = "DPPN"
 word = "sīveyyaka"
 summary = ""
 grammar_comment = ""
@@ -22586,7 +21492,6 @@ Sīveyyaka
 The cloth produced in the Sivi country. Vin.i.278 Pajjota gave a pair of robes of this material to Jīvaka, as a present for his cure. These robes Jīvaka gave to the Buddha. Vin.i.280
 
 ``` toml
-dict_label = "DPPN"
 word = "sūciloma"
 summary = ""
 grammar_comment = ""
@@ -22604,7 +21509,6 @@ Sūciloma
 A Yakkha. Once, when the Buddha was at the Tankitamañca in Gayā, which was the abode of Sūciloma, Sūciloma and his friend, Khara, happened to be passing by, and Sūciloma, coming up to the Buddha, bent his body against the Buddha’s. The Buddha bent his body in the opposite direction, saying that contact with him was an evil thing. Then Sūciloma asked him a question regarding the origin of various persuasions, and the Buddha answered him.
 
 ``` toml
-dict_label = "DPPN"
 word = "sūkarakha"
 summary = ""
 grammar_comment = ""
@@ -22626,7 +21530,6 @@ A conversation which the Buddha had there with Sāriputta is recorded in the Sa�
 ???1cave
 
 ``` toml
-dict_label = "DPPN"
 word = "sūra"
 summary = ""
 grammar_comment = ""
@@ -22644,7 +21547,6 @@ Sūra
 A messenger of Kuvera. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "sūrambaṭṭha"
 summary = ""
 grammar_comment = ""
@@ -22662,7 +21564,6 @@ Sūrambaṭṭha
 An eminent lay disciple, declared by the Buddha foremost among his followers in unwavering loyalty. AN.i.26 AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "sūrasena"
 summary = ""
 grammar_comment = ""
@@ -22682,7 +21583,6 @@ One of the sixteen Great Nations. It is mentioned with Maccha, and was located i
 27.55211, 77.316281janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "tacchakā"
 summary = ""
 grammar_comment = ""
@@ -22700,7 +21600,6 @@ Tacchakā
 A class of Nāgas present at the Mahāsamaya. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "tadadhimutta"
 summary = ""
 grammar_comment = ""
@@ -22718,7 +21617,6 @@ Tadadhimutta
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "tagarasikhī"
 summary = ""
 grammar_comment = ""
@@ -22738,7 +21636,6 @@ A Pacceka Buddha, MN.iii.69 third among the five hundred sons of Padumavatī, al
 The Saṃyutta Nikāya SN.i.92*f.* contains the story of a man who often met Tagarasikhī begging for alms. One day, being attracted by him, he asked his wife to give him a meal and went on his way. His wife prepared excellent food and gave it to Tagarasikhī. The husband met Tagarasikhī on his way back to the town, and seeing the excellence of the food, was displeased with his wife’s generosity, thinking to himself that it were better that slaves and workmen should have eaten the food. As a result, he was born as a very rich seṭṭhi in Sāvatthī, but was never able to enjoy his wealth, and died intestate, all his possessions passing to the royal treasury.
 
 ``` toml
-dict_label = "DPPN"
 word = "takkasilā"
 summary = ""
 grammar_comment = ""
@@ -22760,7 +21657,6 @@ Takkasilā is identified with the Greek Taxila, in Rawalpindi in the Punjab.
 33.745833, 72.78751town
 
 ``` toml
-dict_label = "DPPN"
 word = "takkivīmaṃsī"
 summary = ""
 grammar_comment = ""
@@ -22778,7 +21674,6 @@ Takkivīmaṃsī
 The name of a class of brahmins who might be described as sophists and researchers. MN.ii.21
 
 ``` toml
-dict_label = "DPPN"
 word = "tapodā"
 summary = ""
 grammar_comment = ""
@@ -22800,7 +21695,6 @@ Monks and recluses were evidently in the habit of going to the Tapodā to bathe 
 25.012806,85.4182561lake
 
 ``` toml
-dict_label = "DPPN"
 word = "tapodārāma"
 summary = ""
 grammar_comment = ""
@@ -22822,7 +21716,6 @@ Near the Tapodārāma was the Tapodakandārā. They were both far from Rājagaha
 25.00939, 85.424193monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "tapussa"
 summary = ""
 grammar_comment = ""
@@ -22840,7 +21733,6 @@ TapussaTapassu
 A merchant of Ukkalā. He and his friend, Bhalluka, while on their way to Rājagaha, saw the Buddha at the foot of the Rājāyatana tree, in the eighth week after the Enlightenment. They offered the Buddha rice\-cakes and honey. They became the first lay disciples of the Buddha, and their formula of Refuge contained no reference to the Saṅgha. Vin.i.3*f.* AN.i.26 Tapussa is included in a list of eminent upāsakas. AN.iii.450
 
 ``` toml
-dict_label = "DPPN"
 word = "tatha"
 summary = ""
 grammar_comment = ""
@@ -22858,7 +21750,6 @@ Tatha
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "tatojasī"
 summary = ""
 grammar_comment = ""
@@ -22876,7 +21767,6 @@ Tatojasī
 A messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "tatolā"
 summary = ""
 grammar_comment = ""
@@ -22894,7 +21784,6 @@ Tatolā
 Messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "tatotalā"
 summary = ""
 grammar_comment = ""
@@ -22912,7 +21801,6 @@ Tatotalā
 Messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "tattalā"
 summary = ""
 grammar_comment = ""
@@ -22930,7 +21818,6 @@ Tattalā
 Messenger of Vessavaṇa. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "tavakaṇṇika"
 summary = ""
 grammar_comment = ""
@@ -22948,7 +21835,6 @@ Tavakaṇṇika, Tavannika, Tavakinnoka
 A householder who realised Nibbāna from knowledge of the Tathāgata. He is mentioned in a list of such householders, but nothing further is known of him. AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "tavakinnoka"
 summary = ""
 grammar_comment = ""
@@ -22966,7 +21852,6 @@ Tavakaṇṇika, Tavannika, Tavakinnoka
 A householder who realised Nibbāna from knowledge of the Tathāgata. He is mentioned in a list of such householders, but nothing further is known of him. AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "tavannika"
 summary = ""
 grammar_comment = ""
@@ -22984,7 +21869,6 @@ Tavakaṇṇika, Tavannika, Tavakinnoka
 A householder who realised Nibbāna from knowledge of the Tathāgata. He is mentioned in a list of such householders, but nothing further is known of him. AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "taṇhā"
 summary = ""
 grammar_comment = ""
@@ -23002,7 +21886,6 @@ Taṇhā
 One of the three daughters of Māra, who tried to tempt the Buddha under the Ajapāla\-nigrodha, soon after the Enlightenment. Snp.p.163 SN.i.124*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "taṇḍulapālidvārāya"
 summary = ""
 grammar_comment = ""
@@ -23022,7 +21905,6 @@ One of the gates of Rājagaha. Near the gate was the residence of the brahmin Dh
 Rājagaha3building
 
 ``` toml
-dict_label = "DPPN"
 word = "tejasi"
 summary = ""
 grammar_comment = ""
@@ -23040,7 +21922,6 @@ Tejasi
 One of the messengers employed by Kuvera. DN.iii.201
 
 ``` toml
-dict_label = "DPPN"
 word = "tekicchakārī"
 summary = ""
 grammar_comment = ""
@@ -23058,7 +21939,6 @@ TekicchakārīTekicchakāni
 A monk whose Theragāthā verses speak of how, by recollecting the triple Gem and the four immeasurables, he overcomes lack of food and comfort. Thag.381–386
 
 ``` toml
-dict_label = "DPPN"
 word = "tekula"
 summary = ""
 grammar_comment = ""
@@ -23076,7 +21956,6 @@ Tekula
 A monk who, with his brother Yamelu, asked from the Buddha permission to translate the Buddha’s teachings into *chandas*, which probably is Sanskrit metre. Vin.ii.139
 
 ``` toml
-dict_label = "DPPN"
 word = "thera"
 summary = ""
 grammar_comment = ""
@@ -23094,7 +21973,6 @@ Thera
 Name of a monk in Rājagaha. He lived in solitude, the virtues of which state he extolled. Hearing this, the Buddha sent for him and taught him how the solitary life could be perfected in detail. SN.ii.282*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "therikā"
 summary = ""
 grammar_comment = ""
@@ -23112,7 +21990,6 @@ Therikā
 A bhikkhunī whose Therīgāthā verse says she may sleep happily now the defilements are stilled. Thig.1
 
 ``` toml
-dict_label = "DPPN"
 word = "thullakoṭṭhika"
 summary = ""
 grammar_comment = ""
@@ -23132,7 +22009,6 @@ A township in the Kuru country. It was the birthplace of Raṭṭhapāla, and it
 Kuru3town
 
 ``` toml
-dict_label = "DPPN"
 word = "thullanandā"
 summary = ""
 grammar_comment = ""
@@ -23168,7 +22044,6 @@ She was evidently an admirer of Ānanda, and was greatly offended on hearing tha
 She befriended Ariṭṭha when he was cast out of the Order. Vin.iv.218
 
 ``` toml
-dict_label = "DPPN"
 word = "thullatissā"
 summary = ""
 grammar_comment = ""
@@ -23186,7 +22061,6 @@ Thullatissā
 A nun. She was present when Mahā\-Kassapa, in the company of Ānanda, visited the nuns and preached to them. She expressed resentment that Kassapa should dare to preach in the presence of Ānanda. It was, she said, “as if the needle\-pedlar should try to sell a needle to the needle\-maker.” Ānanda afterwards asked Kassapa to ignore Tissā’s outburst, but she later left the Order. SN.ii.215*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "thūlū"
 summary = ""
 grammar_comment = ""
@@ -23206,7 +22080,6 @@ The name of a *gotta*. The village of Uttarakā belonged to them, and when the B
 4region
 
 ``` toml
-dict_label = "DPPN"
 word = "thūṇa"
 summary = ""
 grammar_comment = ""
@@ -23226,7 +22099,6 @@ A brahmin village on the western boundary of Majjhimadesa. Vin.i.197 It was in t
 on the western boundary of Majjhimadesa, in the Kosala country, of the Mallas2town
 
 ``` toml
-dict_label = "DPPN"
 word = "thūṇeyyakā"
 summary = ""
 grammar_comment = ""
@@ -23244,7 +22116,6 @@ Thūṇeyyakā
 The people of Thūṇa.
 
 ``` toml
-dict_label = "DPPN"
 word = "tidivādhibhū"
 summary = ""
 grammar_comment = ""
@@ -23262,7 +22133,6 @@ Tidivādhibhū
 A name given to Sakka.
 
 ``` toml
-dict_label = "DPPN"
 word = "tikaṇṇa"
 summary = ""
 grammar_comment = ""
@@ -23280,7 +22150,6 @@ Tikaṇṇa
 A brahmin. He once visited the Buddha and spoke in praise of tevijja brahmins. The Buddha explained to him that the threefold lore of the Ariyan disciple was a different and a far nobler thing. The brahmin accepted the Buddha as his teacher. AN.i.164*f.* DN.i.73*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "timbaru"
 summary = ""
 grammar_comment = ""
@@ -23300,7 +22169,6 @@ A chieftain of the Gandhabbas and father of Suriyavaccasā. DN.ii.266 DN.ii.268
 He was present at the Mahāsamaya. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "tindukakandarā"
 summary = ""
 grammar_comment = ""
@@ -23320,7 +22188,6 @@ A cave outside Rājagaha where lodgings were provided for visiting monks. Vin.ii
 outside Rājagaha3monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "tindukkhānu"
 summary = ""
 grammar_comment = ""
@@ -23340,7 +22207,6 @@ A dwelling of wanderers near Vesāli. It was the residence of Pāthikaputta. DN.
 near Vesāli3non\-Buddhist monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "tissa"
 summary = ""
 grammar_comment = ""
@@ -23382,7 +22248,6 @@ Tissa<sup>8</sup>
 A monk, son of the Buddha’s paternal aunt. He told the monks of his doubts, and they took him to the Buddha, who gave a discourse to help him. SN.iii.106*f.* On another occasion, the Buddha encouraged him to be patient with harsh words. SN.ii.282 His Theragāthā verse encourages effort. Thag.39
 
 ``` toml
-dict_label = "DPPN"
 word = "tissametteyya"
 summary = ""
 grammar_comment = ""
@@ -23400,7 +22265,6 @@ TissametteyyaTissaMetteyya
 A disciple of Bāvarī. He visited the Buddha with his colleagues and when the Buddha answered his questions, he, and his thousand pupils became arahants. Tissa was his personal name and Metteyya that of his clan. Snp.1040–1042
 
 ``` toml
-dict_label = "DPPN"
 word = "tittiriyābrāhmanā"
 summary = ""
 grammar_comment = ""
@@ -23418,7 +22282,6 @@ Tittiriyābrāhmanā
 The Pāḷi equivalent of the Sanskrit Taittirīyā. It refers to students of a branch of brahmanical lore. DN.i.237
 
 ``` toml
-dict_label = "DPPN"
 word = "tivarā"
 summary = ""
 grammar_comment = ""
@@ -23436,7 +22299,6 @@ Tivarā
 The name given to the inhabitants of Mount Vepulla, then known as Pācīnavaṃsa, near Rājagaha, in the time of Kakusandha Buddha. Their term of life was forty thousand years. SN.ii.190
 
 ``` toml
-dict_label = "DPPN"
 word = "todeyya"
 summary = ""
 grammar_comment = ""
@@ -23460,7 +22322,6 @@ Todeyya<sup>2</sup>
 A disciple of Bāvarī. Snp.1006 He visited the Buddha, and his questions, with the answers given by the Buddha, are given in the Todeyya\-māṇavaa\-pucchā. Snp.1088–1091
 
 ``` toml
-dict_label = "DPPN"
 word = "toraṇavatthu"
 summary = ""
 grammar_comment = ""
@@ -23480,7 +22341,6 @@ A locality in Kosala, between Sāvatthī and Sāketa. Pasenadi once stopped ther
 27.145923,82.1255492town
 
 ``` toml
-dict_label = "DPPN"
 word = "tudu"
 summary = ""
 grammar_comment = ""
@@ -23498,7 +22358,6 @@ Tudu
 When Kokālika was grievously ill, Tudu visited him and exhorted him to put his trust in Sāriputta and Moggallāna. But Kokālika refused to accept his advice and drove him away. SN.i.149 AN.v.171
 
 ``` toml
-dict_label = "DPPN"
 word = "tusita"
 summary = ""
 grammar_comment = ""
@@ -23524,7 +22383,6 @@ It is the rule for all Bodhisattas to be born in Tusita in their last life but o
 5heaven
 
 ``` toml
-dict_label = "DPPN"
 word = "tusitā"
 summary = ""
 grammar_comment = ""
@@ -23542,7 +22400,6 @@ Tusitā
 The inhabitants of the Tusita world.
 
 ``` toml
-dict_label = "DPPN"
 word = "tuṭṭha"
 summary = ""
 grammar_comment = ""
@@ -23560,7 +22417,6 @@ Tuṭṭha
 A lay disciple of Ñātika who died and was reborn in the Suddhāvāsa, there to attain Nibbāna. SN.v.358 DN.ii.92
 
 ``` toml
-dict_label = "DPPN"
 word = "tālaputa"
 summary = ""
 grammar_comment = ""
@@ -23578,7 +22434,6 @@ TālaputaTālapuṭa
 A stage\-manager of Rājagaha. One day he visited the Buddha and asked if it was true that players who delight large audiences are reborn among the gods of laughter. Three times the Buddha refused to answer, but in the end allowed himself to be persuaded, and told Tālapuṭa that those who induce sensual states in others will be reborn in purgatory. Tālapuṭa wept to think that older actors should so have deceived him in telling him of their theories, and, having heard the Buddha preach, entered the Order and soon became an arahant SN.iv.306*ff.* Thag.1091–1145
 
 ``` toml
-dict_label = "DPPN"
 word = "tārukkha"
 summary = ""
 grammar_comment = ""
@@ -23600,7 +22455,6 @@ He was present at the assemblies of the brahmins in Icchānaṅgala and in Manas
 He was the teacher of Bhāradvāja, companion of Vāseṭṭha. Snp.p.115*f.* DN.i.235 MN.ii.202
 
 ``` toml
-dict_label = "DPPN"
 word = "tāvatiṃsā"
 summary = ""
 grammar_comment = ""
@@ -23622,7 +22476,6 @@ Tāvatiṃsā was also known as Tidasā and Tidiva. SN.i.234
 5heaven
 
 ``` toml
-dict_label = "DPPN"
 word = "tāyana"
 summary = ""
 grammar_comment = ""
@@ -23640,7 +22493,6 @@ Tāyana
 A *devaputta*. He visited the Buddha at Sāvatthī and uttered certain verses in the hearing of the monks, telling of the necessity of following the recluse’s calling with energy and sincerity. After his departure the Buddha asked the monks to learn the verses for their own good. SN.i.49
 
 ``` toml
-dict_label = "DPPN"
 word = "ubbhataka"
 summary = ""
 grammar_comment = ""
@@ -23660,7 +22512,6 @@ A mote\-hall built by the Mallas of Pāvā. When it was finished they invited th
 Pāvā3building
 
 ``` toml
-dict_label = "DPPN"
 word = "ubbirī"
 summary = ""
 grammar_comment = ""
@@ -23678,7 +22529,6 @@ Ubbirī\>
 A bhikkhunī whose verses in the Therīgāthā tell of her lamenting the death of her daughter, Jīva, and reflecting that thousands of her daughters must likewise have died in previous lives. Thus she became enlightened. Thig.51–53
 
 ``` toml
-dict_label = "DPPN"
 word = "ubhato-vibhaṅga"
 summary = ""
 grammar_comment = ""
@@ -23696,7 +22546,6 @@ Ubhato\-vibhaṅga
 A collective term, comprehending the Bhikkhu\-vibhaṅga and the Bhikkhunī\-vibhaṅga of the Vinaya Pītaka. Sometimes the word seems to be used as *varia lectio* for Ubhato\-Vinaya. Vin.ii.287
 
 ``` toml
-dict_label = "DPPN"
 word = "uccaṅgamāya"
 summary = ""
 grammar_comment = ""
@@ -23714,7 +22563,6 @@ Uccaṅgamāya
 A Pacceka Buddha found in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "udaya"
 summary = ""
 grammar_comment = ""
@@ -23736,7 +22584,6 @@ Udaya<sup>2</sup>
 A brahmin, pupil of Bāvarī. When his turn came to question the Buddha, he asked him to explain emancipation through higher knowledge and the destruction of ignorance. Because Udaya had already attained to the fourth *jhāna*, the Buddha gave his explanation in the terms of *jhāna*. Snp.1006 Snp.1105–1111
 
 ``` toml
-dict_label = "DPPN"
 word = "uddaka"
 summary = ""
 grammar_comment = ""
@@ -23762,7 +22609,6 @@ In the Saṃyutta Nikāya SN.iv.83*f.* the Buddha says that Uddaka claimed to be
 Again, in the Pāsādika Sutta DN.iii.126–127 the Buddha tells Cunda that when Uddaka said “seeing, he sees not,” he had in mind a man who saw the blade of a sharpened razor but not its edge—a low, worldly thing to speak about.
 
 ``` toml
-dict_label = "DPPN"
 word = "udena cetiya"
 summary = ""
 grammar_comment = ""
@@ -23784,7 +22630,6 @@ It is mentioned with other shrines at Vesāli—Gotamaka, Sārandada, Sattamba, 
 26.01452, 85.16122shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "udena"
 summary = ""
 grammar_comment = ""
@@ -23812,7 +22657,6 @@ Udena<sup>3</sup>
 An upāsaka of Kosala. He built a dwelling for the Order, and he invited monks for its dedication, which took place during the Vassa. It being against the rules to go on a journey before the Vassa, the monks asked him to postpone the dedication. This annoyed him. When the matter was referred to the Buddha, he altered the rule so that a journey lasting not more than seven days could be undertaken during the Vassa. Vin.i.139
 
 ``` toml
-dict_label = "DPPN"
 word = "udumbara"
 summary = ""
 grammar_comment = ""
@@ -23832,7 +22676,6 @@ A village. Revata went there from Kaṇṇakujja and stopped there before procee
 ???2town
 
 ``` toml
-dict_label = "DPPN"
 word = "udāna"
 summary = ""
 grammar_comment = ""
@@ -23850,7 +22693,6 @@ Udāna
 One of the nine sections of the teachings (*aṅga*).
 
 ``` toml
-dict_label = "DPPN"
 word = "udāyibhadda"
 summary = ""
 grammar_comment = ""
@@ -23868,7 +22710,6 @@ UdāyibhaddaUdāyibhaddaka
 Son of Ajātasattu. When Ajātasattu, after the death of his father, paid his first visit to the Buddha and saw the Buddha seated amidst the monks in a scene of perfect calm and silence, his first thought was— “Would that my son, Udāyibhadda, might have such calm as this.”. DN.i.50
 
 ``` toml
-dict_label = "DPPN"
 word = "udāyī"
 summary = ""
 grammar_comment = ""
@@ -23906,7 +22747,6 @@ Udāyī<sup>3</sup>
 A brahmin. He visited the Buddha at Sāvatthī and asked if the Buddha ever praised sacrifice. The Buddha’s answer was that he did not commend sacrifices which involved butchery, but praised those which were innocent of any killing. AN.ii.43*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "ugga"
 summary = ""
 grammar_comment = ""
@@ -23950,7 +22790,6 @@ Ugga<sup>4</sup>
 A monk whose verse is recorded in the Theragāthā. Thag.80
 
 ``` toml
-dict_label = "DPPN"
 word = "uggaha"
 summary = ""
 grammar_comment = ""
@@ -23968,7 +22807,6 @@ UggahaMeṇḍakanattā
 The grandson of the banker Meṇḍaka; he lived in Bhaddiya. Once when the Buddha was staying in the Jātiyāvana at Bhaddiya, Uggaha invited him and three monks to a meal at his house. At the conclusion of the meal, he asked the Buddha to speak a few words of advice to his daughters who were about to be married. The Buddha preached to them the Uggaha Sutta. AN.iii.36*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "uggatasarīra"
 summary = ""
 grammar_comment = ""
@@ -23988,7 +22826,6 @@ A great brahmin. Having made preparations for a great sacrifice, in which numero
 At the end of the discourse, Uggatasarīra became a convert to the Buddha’s faith and set free the animals destined for the sacrifice. AN.iv.41–46
 
 ``` toml
-dict_label = "DPPN"
 word = "uggāhamāna"
 summary = ""
 grammar_comment = ""
@@ -24006,7 +22843,6 @@ UggāhamānaSamaṇamaṇḍikāputtaSamaṇamuṇḍikāputta
 A Paribbājaka. Once when he was staying near Sāvatthī in Mallikā’s pleasance at the Samayappavādaka hall, the carpenter, Pañcakaṅga, on his way to see the Buddha, visited him and had a conversation with him, which conversation Pañcakaṅga later reported to the Buddha. MN.ii.22*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "ujjaya"
 summary = ""
 grammar_comment = ""
@@ -24034,7 +22870,6 @@ A brahmin. He once went to the Buddha and asked him if he thought well of sacrif
 The same Nikāya AN.iv.285*f.* records another visit of Ujjaya wherein he tells the Buddha that he wishes to observe a period of retreat, and asks for a teaching which will bring welfare both in this world and in the next.
 
 ``` toml
-dict_label = "DPPN"
 word = "ujjenī"
 summary = ""
 grammar_comment = ""
@@ -24060,7 +22895,6 @@ We find Māhissatī mentioned just before Ujjenī among the places passed by Bā
 23.182778, 75.7772221town
 
 ``` toml
-dict_label = "DPPN"
 word = "ujjhānasaññikā"
 summary = ""
 grammar_comment = ""
@@ -24078,7 +22912,6 @@ Ujjhānasaññikā
 The name given to a group of devas who once visited the Buddha at Jetavana late at night. They charged the Buddha with inconsistency, but later, begging his forgiveness, they were pardoned by him. SN.i.23–25
 
 ``` toml
-dict_label = "DPPN"
 word = "ukkacelā"
 summary = ""
 grammar_comment = ""
@@ -24102,7 +22935,6 @@ The Cūḷagopālaka Sutta was also preached at Ukkacela. MN.i.225
 25.723207,85.0396662town
 
 ``` toml
-dict_label = "DPPN"
 word = "ukkalā"
 summary = ""
 grammar_comment = ""
@@ -24124,7 +22956,6 @@ The men of Ukkalā, together with those of Vassa and Bhañña, are represented a
 ???1region
 
 ``` toml
-dict_label = "DPPN"
 word = "ukkaṭṭha"
 summary = ""
 grammar_comment = ""
@@ -24150,7 +22981,6 @@ In the Brahmanimantika Sutta MN.i.326 SN.i.142 the Buddha says that it was while
 27.593501,82.817232town
 
 ``` toml
-dict_label = "DPPN"
 word = "ukkhepakatavaccha"
 summary = ""
 grammar_comment = ""
@@ -24168,7 +22998,6 @@ Ukkhepakatavaccha
 A monk whose verse is recorded in the Theragāthā. Thag.65
 
 ``` toml
-dict_label = "DPPN"
 word = "ummāpupphā"
 summary = ""
 grammar_comment = ""
@@ -24186,7 +23015,6 @@ Ummāpupphā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "upacāla"
 summary = ""
 grammar_comment = ""
@@ -24204,7 +23032,6 @@ Upacāla
 Son of Upacālā and nephew of Sāriputta and Khadiravaniya\-Revata. He was ordained by Revata. Thag.43 He is mentioned in the Aṅguttara Nikāya AN.v.133 in a list of very eminent disciples, together with Cāla, Kakkaṭa, Kaḷimbha, Nikata and Kaṭissaha. They lived in the Kūṭāgārasālā in Vesāli, but when the Licchavis went there to visit the Buddha, they moved to the Gosiṅgasālavana in search of quiet.
 
 ``` toml
-dict_label = "DPPN"
 word = "upacālā"
 summary = ""
 grammar_comment = ""
@@ -24222,7 +23049,6 @@ Upacālā
 When Upacālā was taking her siesta in Andhavana, Māra tried to arouse in her sensual desires, but she vanquished him and became an arahant. This account is found in both the Therīgāthā and the Saṃyutta, but the sources ascribe different verses to the nuns Cālā, Upacālā, and Sisūpacālā. Thig.189–195 SN.i.133*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "upaka"
 summary = ""
 grammar_comment = ""
@@ -24246,7 +23072,6 @@ He once visited the Buddha at Gijjhakūṭa and stated before him his view that 
 He was apparently of low caste, and Ajātasattu addresses him as “salt\-worker’s boy” (*loṇakārakadāraka*). AN.ii.182
 
 ``` toml
-dict_label = "DPPN"
 word = "upakāla"
 summary = ""
 grammar_comment = ""
@@ -24264,7 +23089,6 @@ Upakāla
 A Pacceka Buddha mentioned in a list of Pacceka Buddhas. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "upamañña"
 summary = ""
 grammar_comment = ""
@@ -24282,7 +23106,6 @@ Upamañña
 The family to which Pokkharasāti belonged. He was, therefore, called Opamañña. MN.ii.200
 
 ``` toml
-dict_label = "DPPN"
 word = "upananda"
 summary = ""
 grammar_comment = ""
@@ -24318,7 +23141,6 @@ Upananda<sup>3</sup>
 Commander\-in\-chief of the Māgadha kingdom. He was present at the conversation, recorded in the Gopaka\-Moggallāna Sutta, between Ānanda and Vassakāra. MN.iii.13
 
 ``` toml
-dict_label = "DPPN"
 word = "upanemi"
 summary = ""
 grammar_comment = ""
@@ -24336,7 +23158,6 @@ Upanemi
 A Pacceka Buddha, mentioned in nominal lists. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "upanīta"
 summary = ""
 grammar_comment = ""
@@ -24354,7 +23175,6 @@ Upanīta
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "upariṭṭha"
 summary = ""
 grammar_comment = ""
@@ -24372,7 +23192,6 @@ Upariṭṭha
 A Pacceka Buddha. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "upasamā"
 summary = ""
 grammar_comment = ""
@@ -24390,7 +23209,6 @@ Upasamā\>
 A bhikkhunī whose verse is found in the Therīgāthā. Thig.10
 
 ``` toml
-dict_label = "DPPN"
 word = "upasena"
 summary = ""
 grammar_comment = ""
@@ -24412,7 +23230,6 @@ In the Theragāthā are found several verses ascribed to Upasena as having been 
 One day, while Upasena was sitting after his meal in the shadow of the Sappasondika\-pabbhāra, fanned by the gentle breeze, mending his outer robe, two young snakes were sporting in the tendrils overhanging the cave. One fell on his shoulder and bit him, and the venom spread rapidly throughout his body; he called to Sāriputta and other monks who were near, and requested that he might be taken outside on a couch, there to die. This was done, and his body “was scattered there and then like a handful of chaff.”. SN.iv.40*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "upasīdarī"
 summary = ""
 grammar_comment = ""
@@ -24430,7 +23247,6 @@ Upasīdarī
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "upasīva"
 summary = ""
 grammar_comment = ""
@@ -24448,7 +23264,6 @@ Upasīva
 One of the disciples of Bāvarī. Snp.1007 The questions he asked the Buddha, when he visited him in the company of his colleagues, are recorded in the Upasīva\-māṇavaa\-pucchā. Snp.1069–1076
 
 ``` toml
-dict_label = "DPPN"
 word = "upatissa"
 summary = ""
 grammar_comment = ""
@@ -24466,7 +23281,6 @@ Upatissa
 A Pacceka Buddha, found in a nominal list. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "upavatta"
 summary = ""
 grammar_comment = ""
@@ -24488,7 +23302,6 @@ Here Subhadda visited the Buddha in the earlier part of the last night of his li
 26.73012,83.898632park
 
 ``` toml
-dict_label = "DPPN"
 word = "upavāna"
 summary = ""
 grammar_comment = ""
@@ -24512,7 +23325,6 @@ Two occasions are mentioned on which Upavāna consulted the Buddha on matters of
 When an unpleasant interview took place between Sāriputta and Lāludāyī and no one was found to support Sāriputta, the matter is reported to the Buddha, who declares that Ānanda should have taken Sāriputta’s side. Soon afterwards Ānanda seeks Upavāna and tells him that he was too timid to interfere, and if the Buddha referred to the matter again, would Upavāna undertake to answer? In the evening the Buddha engages Upavāna in conversation and asks him to explain the five qualities which make a monk esteemed and loved by his colleagues. At the end of the discourse the Buddha applauds Upavāna. AN.iii.195*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "uposatha"
 summary = ""
 grammar_comment = ""
@@ -24530,7 +23342,6 @@ Uposatha
 The name of the Elephant Treasure of the Cakkavatti Mahāsudassana. He was “all white, sevenfold firm (*sattappatiṭṭha*), wonderful in power, flying through the sky.”. DN.ii.174 MN.iii.173*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "uppala"
 summary = ""
 grammar_comment = ""
@@ -24554,7 +23365,6 @@ A hell realm. SN.i.152 Snp.p.126
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "uppalavaṇṇā "
 summary = ""
 grammar_comment = ""
@@ -24578,7 +23388,6 @@ Mention is made of a pupil of Uppalavaṇṇā, who followed the Buddha for seve
 The Buddha declares that Khemā and Uppalavaṇṇā are the measure of his women disciples, and that the believing nun, if she would aspire perfectly, should aspire to be like them. AN.i.88 AN.ii.164 SN.ii.236
 
 ``` toml
-dict_label = "DPPN"
 word = "upāli "
 summary = ""
 grammar_comment = ""
@@ -24620,7 +23429,6 @@ Upāli<sup>3</sup>Upāligahapati
 He was present when Dīgha\-Tapassī reported to Nāṭaputta an account of his visit to the Buddha in the Pāvārika Mango\-grove. Upāli undertook to go himself to the Buddha and refute his views, in spite of the protestations of Dīgha\-Tapassī. At the end of his discussion with the Buddha, which is recorded in the Upāli Sutta, Upāli is converted and invites the Buddha to a meal. Although the Buddha enjoins upon Upāli that his benefactions to the Nigaṇṭhas should not cease because of his conversion, Upāli gives instructions that no Nigaṇṭha be admitted to his presence, but that if they need food it shall be given to them. Hearing a rumour of his conversion, first Tapassī, and later Nāṭaputta himself, go to Upāli’s house, where they learn the truth. When Nāṭaputta is finally convinced that Upāli has become a follower of the Buddha, hot blood gushes from his mouth. MN.i.371*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "upāsabha"
 summary = ""
 grammar_comment = ""
@@ -24638,7 +23446,6 @@ Upāsabha
 Name of a Pacceka Buddha. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "uruvelakappa"
 summary = ""
 grammar_comment = ""
@@ -24660,7 +23467,6 @@ Once when the Buddha was staying at Uruvelakappa, he informed Ānanda that he wi
 26.98572,84.05093town
 
 ``` toml
-dict_label = "DPPN"
 word = "uruvelā"
 summary = ""
 grammar_comment = ""
@@ -24686,7 +23492,6 @@ It was at Uruvelā, too, that the Buddha had misgivings in his own mind as to th
 24.695102, 84.9912751town
 
 ``` toml
-dict_label = "DPPN"
 word = "uruvelākassapa"
 summary = ""
 grammar_comment = ""
@@ -24710,7 +23515,6 @@ From Gayāsīsa the Buddha went to Rājagaha with the Kassapas and their pupils,
 Later, in the assembly of monks, Uruvelā\-Kassapa was declared to be the chief of those who had large followings. AN.i.25 Six verses attributed to him are found in the Theragāthā, Thag.375–380 wherein he reviews his achievement and relates how he was won over by the Buddha.
 
 ``` toml
-dict_label = "DPPN"
 word = "uruññā"
 summary = ""
 grammar_comment = ""
@@ -24732,7 +23536,6 @@ It was here too that Nigaṇṭha Kassapa came to see the Buddha. This visit is 
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "usabha "
 summary = ""
 grammar_comment = ""
@@ -24758,7 +23561,6 @@ Usabha <sup>3</sup>
 A Pacceka Buddha, mentioned in the Isigili Sutta. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "ussada"
 summary = ""
 grammar_comment = ""
@@ -24778,7 +23580,6 @@ A hell realm. It resembled a city with four gates and a wall.
 5hell
 
 ``` toml
-dict_label = "DPPN"
 word = "usīraddhaja"
 summary = ""
 grammar_comment = ""
@@ -24798,7 +23599,6 @@ A mountain range forming the northern boundary of Majjhimadesa. Vin.i.197
 ???3hill
 
 ``` toml
-dict_label = "DPPN"
 word = "uttamā"
 summary = ""
 grammar_comment = ""
@@ -24820,7 +23620,6 @@ Uttamā<sup>2</sup>
 A bhikkhunī whose verses in the Therīgāthā tell of how, as a daughter of the Buddha, she has developed the seven awakening\-factors and attained Nibbāna. Thig.45–47
 
 ``` toml
-dict_label = "DPPN"
 word = "uttara"
 summary = ""
 grammar_comment = ""
@@ -24872,7 +23671,6 @@ A township of the Koliyans. Once, when the Buddha was staying there, he was visi
 27.35469,83.564753town
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarakuru"
 summary = ""
 grammar_comment = ""
@@ -24900,7 +23698,6 @@ The Buddha is said to have travelled with his psychic powers to Uttarakuru for a
 5region
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarakurukā"
 summary = ""
 grammar_comment = ""
@@ -24918,7 +23715,6 @@ Uttarakurukā
 The inhabitants of Uttarakuru. AN.iv.396
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarakā"
 summary = ""
 grammar_comment = ""
@@ -24938,7 +23734,6 @@ A village of the Thūlūs. The Buddha once stayed there and Sunakkhatta was in h
 4town
 
 ``` toml
-dict_label = "DPPN"
 word = "uttaramātā"
 summary = ""
 grammar_comment = ""
@@ -24956,7 +23751,6 @@ Uttaramātā
 A Yakkhinī, mother of Punabbasu and Uttarā. Once as she passed Jetavana at sunset looking for food, with her daughter on her hip and holding her son by his finger, she saw the assembly, intently listening to the Buddha’s sermon. She, too, hoping to get some benefit, listened quietly and with great earnestness, hushing her children to quietness. The Buddha preached in such a manner that both she and her son could understand, and at the end of the sermon they both became Sotāpannā. She immediately got rid of her sad Yakkha\-state and obtained heavenly bliss, and took up her residence in a tree near the Buddha’s Fragrant Chamber. Little Uttarā was too young to realise the Truth. SN.i.210
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarapāla"
 summary = ""
 grammar_comment = ""
@@ -24974,7 +23768,6 @@ Uttarapāla
 A monk whose Theragāthā verse tell of how he overcame his desire and confusion and attained arahantship. Thag.252–254
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarikā"
 summary = ""
 grammar_comment = ""
@@ -24992,7 +23785,6 @@ Uttarikā
 A diminutive form of Uttarā used by Uttaramātā, the Yakkhinī, in addressing her daughter. SN.i.210
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarā"
 summary = ""
 grammar_comment = ""
@@ -25030,7 +23822,6 @@ Uttarā<sup>6</sup>
 Chief female lay disciple of Koṇāgamana Buddha. DN.ii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarāpa"
 summary = ""
 grammar_comment = ""
@@ -25050,7 +23841,6 @@ The name given to the region to the north of the river Mahī. See also Aṅgutta
 ???3region
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarāpatha"
 summary = ""
 grammar_comment = ""
@@ -25072,7 +23862,6 @@ This region was famous from very early times for its horses and horse\-dealers, 
 ???3region
 
 ``` toml
-dict_label = "DPPN"
 word = "uttarāpathaka"
 summary = ""
 grammar_comment = ""
@@ -25090,7 +23879,6 @@ Uttarāpathaka
 A resident of Uttarāpatha. Vin.iii.6
 
 ``` toml
-dict_label = "DPPN"
 word = "uttiya"
 summary = ""
 grammar_comment = ""
@@ -25120,7 +23908,6 @@ Uttiya<sup>3</sup>
 A monk whose Theragāthā verse warns of how addiction to the senses increases defilement. Thag.99
 
 ``` toml
-dict_label = "DPPN"
 word = "uvāla"
 summary = ""
 grammar_comment = ""
@@ -25138,7 +23925,6 @@ UvālaUpavāla
 He was examined by the Saṅgha in connection with an offence he had committed. He first denied it, then confessed it, then denied it again, and made counter\-charges and spoke lies, knowing them to be such. The Buddha requested the monks to carry out the *tassa\-pāpiyyasikā\-kamma* against him. Vin.ii.85*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "uṇṇābha"
 summary = ""
 grammar_comment = ""
@@ -25160,7 +23946,6 @@ When the brahmin, greatly pleased with the Buddha’s teaching, goes away, the B
 The same Nikāya SN.v.272*f.* records a visit of Uṇṇābha to Ānanda at Kosambī. He asks Ānanda what is the aim of holy life and, on being told that it is the abandoning of desire by means of *jhāna*, suggests that it would be a task without end. But Ānanda, by means of an illustration, explains how the task does come to an end, and Uṇṇābha expresses great satisfaction with the answer. Perhaps this refers to another brahmin of the same name.
 
 ``` toml
-dict_label = "DPPN"
 word = "vacchagotta"
 summary = ""
 grammar_comment = ""
@@ -25184,7 +23969,6 @@ Vacchagotta was a native of Rājagaha, but seems to have travelled widely, for w
 in the Aṅguttara Nikāya AN.i.180*f.* a Vacchagotta who is a wanderer visits the Buddha at Venāgapura, where he was at the head of the brahmins. He is possibly the same person, though here he is called Venāgapurika.
 
 ``` toml
-dict_label = "DPPN"
 word = "vacchapāla"
 summary = ""
 grammar_comment = ""
@@ -25202,7 +23986,6 @@ Vacchapāla
 A monk whose Theragāthā verse speaks of the ease of attaining Nibbana for one who practices well. Thag.71
 
 ``` toml
-dict_label = "DPPN"
 word = "vaggumudā"
 summary = ""
 grammar_comment = ""
@@ -25222,7 +24005,6 @@ A river in the Vajji country. On its banks lived Yasoja and his five hundred com
 Vajjī3river
 
 ``` toml
-dict_label = "DPPN"
 word = "vajirakumārī"
 summary = ""
 grammar_comment = ""
@@ -25240,7 +24022,6 @@ VajirakumārīVajirāVajirī
 Daughter of Pasenadi. MN.ii.110
 
 ``` toml
-dict_label = "DPPN"
 word = "vajirapāṇi"
 summary = ""
 grammar_comment = ""
@@ -25260,7 +24041,6 @@ A Yakkha. It is said that whoever, even up to the third time of being asked, ref
 Two instances of this are given in the books—once in the case of Ambaṭṭha, DN.i.95 and again in that of Saccaka Nigaṇṭhaputta. MN.i.231
 
 ``` toml
-dict_label = "DPPN"
 word = "vajirā"
 summary = ""
 grammar_comment = ""
@@ -25278,7 +24058,6 @@ Vajirā<sup>2</sup>
 The Saṃyutta Nikāya SN.i.134*f.* relates that one day, when she was meditating in Andhavana at Sāvatthī, Māra questioned her as to the origin of a “being”, its creator, its origin, its destiny. Vajirā answers that there is no such thing as a “being,” apart from certain conditioned factors, like a chariot, which exists only because of its parts. Māra retires discomfited.
 
 ``` toml
-dict_label = "DPPN"
 word = "vajjiputta"
 summary = ""
 grammar_comment = ""
@@ -25298,7 +24077,6 @@ A monk whose Theragāthā verse speaks of dwelling alone in the forest. Thag.62 
  A Vajjiputta, perhaps the same person, has another verse that encourages a certain “Gotama” to meditate in the forest. Thag.119 In the Saṃyutta SN.i.199 the same verse is attributed to a forest deva who wished to agitate Ānanda.
 
 ``` toml
-dict_label = "DPPN"
 word = "vajjita"
 summary = ""
 grammar_comment = ""
@@ -25316,7 +24094,6 @@ Vajjita
 A monk whose Theragāthā verses speak of how, after many rebirths he has found peace. Thag.215–216
 
 ``` toml
-dict_label = "DPPN"
 word = "vajjiyamāhita"
 summary = ""
 grammar_comment = ""
@@ -25334,7 +24111,6 @@ Vajjiyamāhita
 A householder of Campā, a devout and skilled follower of the Buddha. Once, when on his way to see the Buddha at Gaggarā Lake, he found he had arrived too early and went into the Paribbājakārāma near by. The Paribbājakas asked him if it was true that the Buddha ridicules all forms of asceticism and austerity. They spoke of the Buddha as a teacher of a discipline which he himself did not follow, a nihilist. Vajjiyamāhita refuted their arguments, maintaining that the Buddha declared what was good and what was bad, and that the truth of his teachings could be proved. Having thus silenced them, he sought the Buddha, to whom he repeated the conversation. The Buddha praised him, and said it was untrue that he discouraged all austerity and asceticism; such penances as led to the destruction of evil states and the promotion of good states, he welcomed and encouraged. When Vajjiyamāhita had left him, the Buddha held him up to the monks as an example of a good householder, capable of profitable discussion with followers of other persuasions. AN.v.189*ff.* AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "vajjī"
 summary = ""
 grammar_comment = ""
@@ -25362,7 +24138,6 @@ During the Buddha’s lifetime some monks of Vajji joined Devadatta. Vin.ii.199*
 26.23922, 85.435181janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "vakkali "
 summary = ""
 grammar_comment = ""
@@ -25382,7 +24157,6 @@ A monk whose Theragāthā verses speak of never relinquishing energy, whether il
 In the Saṃyutta, SN.iii.119*ff.* Vakkali fell ill while on his way to visit the Buddha at Rājagaha, and was carried in a litter to a potter’s shed in Rājagaha. There, at his request, the Buddha visited him and comforted him. He questioned Vakkali, who assured him that he had no cause to reprove himself with regard to morals; his only worry was that he had not been able to see the Buddha earlier. The Buddha told him that seeing the Dhamma was equivalent to seeing him, and because Vakkali had realized the Dhamma, there would be no hereafter for him. After the Buddha had left, Vakkali asked his attendants to take him to Kāḷasilā on Isigili. The Buddha was on Gijjhakūṭa and was told by two devas that Vakkali was about to “obtain release.” The Buddha sent word to him— “Fear not, Vakkali, your dying will not be evil.” Vakkali rose from his bed to receive the Buddha’s message, and sending word to the Buddha that he had no desire or love for the body or the other *khandhas*, he drew a knife and killed himself. The Buddha went to see his body, and declared that he had obtained Nibbāna and that Māra’s attempt to find the consciousness of Vakkali would prove useless.
 
 ``` toml
-dict_label = "DPPN"
 word = "valliya"
 summary = ""
 grammar_comment = ""
@@ -25404,7 +24178,6 @@ Two further verses ascribed to a monk of the same name address a monkey who trie
 Another pair verses speak of energetically practicing and following the straight path to the undying. Thag.167–168
 
 ``` toml
-dict_label = "DPPN"
 word = "valāhaka"
 summary = ""
 grammar_comment = ""
@@ -25422,7 +24195,6 @@ Valāhaka
 The horse of Mahāsudassana. He is all white, with a crow black head and a dark mane. DN.ii.174 SN.iii.145
 
 ``` toml
-dict_label = "DPPN"
 word = "valāhakāyikādevā"
 summary = ""
 grammar_comment = ""
@@ -25440,7 +24212,6 @@ Valāhakāyikādevā
 A class of deities, spirits of the skies, divided into cloud spirits of heat, cloud spirits of cold, cloud spirits of air, cloud spirits of wind, cloud spirits of rain. The changes of weather are due to these spirits. SN.iii.254*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "vanasavhaya"
 summary = ""
 grammar_comment = ""
@@ -25460,7 +24231,6 @@ A city lying between Vedisa and Kosambī, on the road taken by Bāvarī’s disc
 24.69943,80.1727292town
 
 ``` toml
-dict_label = "DPPN"
 word = "vanavaccha"
 summary = ""
 grammar_comment = ""
@@ -25480,7 +24250,6 @@ A monk whose Theragāthā verse speaks of his delight to be meditating in nature
 There is a separate verse also ascribed to a Vacchagotta on the same theme. Thag.113
 
 ``` toml
-dict_label = "DPPN"
 word = "vappa "
 summary = ""
 grammar_comment = ""
@@ -25502,7 +24271,6 @@ Vappa<sup>2</sup>
 A Sākiyan, disciple of the Nigaṇṭhas. He visits Moggallāna and they talk of the *āsavas*. The Buddha joins them and tells Vappa how the *āsavas* can be completely destroyed so that the monk who has so destroyed them will abide in the six satata vihāras with equanimity, mindful and comprehending. Vappa is convinced of the superiority of the Buddha’s teaching and becomes his follower. AN.ii.196*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "varadhara"
 summary = ""
 grammar_comment = ""
@@ -25520,7 +24288,6 @@ Varadhara
 A noted wanderer in the time of the Buddha. He lived with Annabhāra, Sakuludāyī and others in the Paribbājakārāma, on the banks of the Sappinikā, AN.ii.29 AN.ii.176 and again in the Moranivāpa in Rājagaha. MN.ii.1
 
 ``` toml
-dict_label = "DPPN"
 word = "varaṇā"
 summary = ""
 grammar_comment = ""
@@ -25540,7 +24307,6 @@ A city on the banks of the Kaddamadaha, where Ārāmadaṇḍa visited Mahākacc
 Avanti3town
 
 ``` toml
-dict_label = "DPPN"
 word = "varuṇa"
 summary = ""
 grammar_comment = ""
@@ -25562,7 +24328,6 @@ In the Tevijja Sutta. DN.i.244 Varuṇa is mentioned with Indra, Soma, Isāna, P
 In the Āṭānāṭiya Sutta DN.iii.204 he is mentioned with Indra and others as a Yakkha chief.
 
 ``` toml
-dict_label = "DPPN"
 word = "varuṇā"
 summary = ""
 grammar_comment = ""
@@ -25580,7 +24345,6 @@ Varuṇā
 A class of deities present at the preaching of the Mahāsamaya Sutta.DN.ii.259 DN.ii.260 They probably form the retinue of Varuṇa.
 
 ``` toml
-dict_label = "DPPN"
 word = "vasabha"
 summary = ""
 grammar_comment = ""
@@ -25598,7 +24362,6 @@ Vasabha
 A monk whose Theragāthā verses speak of one who kills himself and others, and then address a certain Sujampati, saying that a brahmin has color on the inside. Thag.139–140
 
 ``` toml
-dict_label = "DPPN"
 word = "vasavattī"
 summary = ""
 grammar_comment = ""
@@ -25616,7 +24379,6 @@ Vasavattī
 A *devaputta*, king of the devas of the Parinimmita\-vassavatti world. DN.i.219 Because of his generosity and virtue practised in past births, he surpasses the devas of his world in ten things: divine life, beauty, happiness, pomp and power, divine shapes, sounds, perfumes, tastes and touch. AN.iv.243
 
 ``` toml
-dict_label = "DPPN"
 word = "vassa"
 summary = ""
 grammar_comment = ""
@@ -25634,7 +24396,6 @@ Vassa
 Mentioned with Bhañña in the compound Vassabhaññā, as dwellers of Ukkalā and as “denying cause, consequence and reality.” There were certain aspects of the Buddha’s teaching which even they would accept. SN.iii.73 AN.ii.31 MN.iii.78
 
 ``` toml
-dict_label = "DPPN"
 word = "vassakāra"
 summary = ""
 grammar_comment = ""
@@ -25660,7 +24421,6 @@ Three conversations between the Buddha and Vassakāra are recorded in the Aṅgu
 On discovering that a certain forest official had given tribute to Dhaniya without the king’s special leave, he reported the man to the king and had him punished. Vin.iii.42*ff.* In this context we find that Vassakāra was Mahāmatta to Bimbisāra as well.
 
 ``` toml
-dict_label = "DPPN"
 word = "vasū"
 summary = ""
 grammar_comment = ""
@@ -25678,7 +24438,6 @@ Vasū
 A class of devas of whom Sakka is the chief. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "vaḍḍha"
 summary = ""
 grammar_comment = ""
@@ -25702,7 +24461,6 @@ Vaḍḍha<sup>2</sup>
 A monk whose Theragāthā verses express thanks to his mother and sister for encouraging him in the Dhamma. Thag.335–339 The Therīgāthā conatins an exchange between he and his mother. Thig.204–212
 
 ``` toml
-dict_label = "DPPN"
 word = "vaḍḍhamāna "
 summary = ""
 grammar_comment = ""
@@ -25720,7 +24478,6 @@ Vaḍḍhamāna
 A monk whose Theragāthā verse speaks of putting forth effort as if one’s haor was on fire. Thag.40 Elsewhere Thag.1162 this same verse is ascribed to Moggallāna as having been spoken by him to a monk named Tissa and again repeated Thag.1163 by him to Vaḍḍhamāna.
 
 ``` toml
-dict_label = "DPPN"
 word = "vaḍḍhamātā"
 summary = ""
 grammar_comment = ""
@@ -25738,7 +24495,6 @@ Vaḍḍhamātā\>
 An arahant, mother of Vaḍḍha. Her conversation with Vaḍḍha and his declaration to her after becoming an arahant are included in the Therīgāthā. Thig.204–212
 
 ``` toml
-dict_label = "DPPN"
 word = "vaṃsa"
 summary = ""
 grammar_comment = ""
@@ -25762,7 +24518,6 @@ The district of Bhagga, in which was Suṃsumāragiri, seems to have been subjec
 25.93828, 79.639892janapada
 
 ``` toml
-dict_label = "DPPN"
 word = "vaṅgīsa"
 summary = ""
 grammar_comment = ""
@@ -25784,7 +24539,6 @@ The Theragāthā contains numerous verses spoken by him on various occasions Tha
 The Saṃyutta SN.i.185*ff.* devotes one whole section to Vaṅgīsa, dealing with the incidents connected with his life and giving poems made by him on these occasions.
 
 ``` toml
-dict_label = "DPPN"
 word = "vaṭajālikāyaṃ"
 summary = ""
 grammar_comment = ""
@@ -25804,7 +24558,6 @@ A monastery on Sankheyyaka mountain in Mahisa country. A monk, named Uttara, onc
 Sankheyyaka mountain in Mahisa3monastery
 
 ``` toml
-dict_label = "DPPN"
 word = "vebhāra"
 summary = ""
 grammar_comment = ""
@@ -25824,7 +24577,6 @@ One of the five hills surrounding Rājagaha. MN.iii.68 In this hill was the Satt
 25.000154,85.3989261hill
 
 ``` toml
-dict_label = "DPPN"
 word = "vedalla"
 summary = ""
 grammar_comment = ""
@@ -25842,7 +24594,6 @@ Vedalla
 The last of the nine aṅgas or portions of the Dhamma classified according to literary form. MN.i.133 Vin.iii.8 It probably included analytical texts.
 
 ``` toml
-dict_label = "DPPN"
 word = "vedehikā"
 summary = ""
 grammar_comment = ""
@@ -25860,7 +24611,6 @@ Vedehikā
 A lady of Sāvatthī who had a reputation for gentleness till her servant girl, Kāḷī, convinced people that it was not deserved. MN.i.125*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "vedehiputta"
 summary = ""
 grammar_comment = ""
@@ -25878,7 +24628,6 @@ Vedehiputta
 An epithet of Ajātasattu. It means either “son of the lady from Videha” or “son of the wise woman”.
 
 ``` toml
-dict_label = "DPPN"
 word = "vedehā"
 summary = ""
 grammar_comment = ""
@@ -25896,7 +24645,6 @@ Vedehā
 The people of Videha.
 
 ``` toml
-dict_label = "DPPN"
 word = "vedhaññā"
 summary = ""
 grammar_comment = ""
@@ -25914,7 +24662,6 @@ VedhaññāVedañña
 A family of Sākiyans. It was to them that the Pāsādika Sutta was preached. DN.iii.17 From the Sāmagāma Sutta MN.ii.244 it would appear that these Sākiyans lived in Sāmagāma.
 
 ``` toml
-dict_label = "DPPN"
 word = "vedisa"
 summary = ""
 grammar_comment = ""
@@ -25938,7 +24685,6 @@ Vedisa is identified with the modern Bhilsa in Gwalior State, twenty six miles n
 23.535478,77.8127445town
 
 ``` toml
-dict_label = "DPPN"
 word = "vediyaka"
 summary = ""
 grammar_comment = ""
@@ -25958,7 +24704,6 @@ A mountain to the north of Ambasaṇḍā, in which was the Indasālaguhā, wher
 ???1hill
 
 ``` toml
-dict_label = "DPPN"
 word = "veghanasā"
 summary = ""
 grammar_comment = ""
@@ -25976,7 +24721,6 @@ Veghanasā
 A class of devas present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "vehapphala"
 summary = ""
 grammar_comment = ""
@@ -25996,7 +24740,6 @@ One of the Brahma worlds of the Rūpaloka plane. Beings are born there as a resu
 5heaven
 
 ``` toml
-dict_label = "DPPN"
 word = "vejayanta"
 summary = ""
 grammar_comment = ""
@@ -26024,7 +24767,6 @@ Vejayanta<sup>3</sup>
 The chief of the eighty four thousand chariots owned by Mahāsudassana. SN.iii.145 DN.ii.187
 
 ``` toml
-dict_label = "DPPN"
 word = "vekaliṅga"
 summary = ""
 grammar_comment = ""
@@ -26046,7 +24788,6 @@ The township was in Kosala, and once, during his long stay in Kosala, the Buddha
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "vekhaṇassa"
 summary = ""
 grammar_comment = ""
@@ -26064,7 +24805,6 @@ Vekhaṇassa
 A Paribbājaka teacher of Sakuladāyī.
 
 ``` toml
-dict_label = "DPPN"
 word = "velāmikā"
 summary = ""
 grammar_comment = ""
@@ -26082,7 +24822,6 @@ Velāmikā
 Chief of the eighty four thousand women who waited on Mahāsudassana, king of Kusāvatī. She was also called Khattiyānī. SN.iii.146 But in the Dīgha DN.ii.187 the chief queen is called Subhaddā.
 
 ``` toml
-dict_label = "DPPN"
 word = "venāgapura"
 summary = ""
 grammar_comment = ""
@@ -26102,7 +24841,6 @@ A brahmin village of Kosala, where the Buddha preached the Venāga Sutta. AN.i.1
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "vepacitti"
 summary = ""
 grammar_comment = ""
@@ -26128,7 +24866,6 @@ When Vepacitti lay ill, Sakka visited him and offered to cure him if he would te
 Mention is made SN.i.226 of a visit once paid by Sakka and Vepacitti to a company of seers dwelling in a forest hut. Vepacitti, in his buskins, his sword hanging at his side and his state canopy borne over his head, entered by the main gate, while Sakka, in all humility, used the side gate.
 
 ``` toml
-dict_label = "DPPN"
 word = "vepulla"
 summary = ""
 grammar_comment = ""
@@ -26156,7 +24893,6 @@ Vepulla was the abode of the Yakkha Kumbhīra and his one hundred thousand follo
 24.967362,85.3868581hill
 
 ``` toml
-dict_label = "DPPN"
 word = "verahaccāni"
 summary = ""
 grammar_comment = ""
@@ -26176,7 +24912,6 @@ A brahmin clan. The Saṃyutta Nikāya mentions a lady of the gotta living in K�
 He was asked to invite Udāyī to a meal, and, when it was over, the teacher put on her sandals, sat on a high seat, and, with her head veiled, asked Udāyī to preach the doctrine. “A time will come for that, sister,” he said, and went away. Three times this happened, and then she told her pupil. He pointed out to her her mistake in not showing respect for the Doctrine. The next time Udāyī came, she approached him after the meal with all humility and asked him what, according to the arahants, was the cause of weal and woe. “The existence of the senses,” answered Udāyī; and she, expressing her satisfaction, declared herself a follower of Udāyī. SN.iv.121*f.*
 
 ``` toml
-dict_label = "DPPN"
 word = "verañja"
 summary = ""
 grammar_comment = ""
@@ -26194,7 +24929,6 @@ Verañja
 A brahmin who lived at Verañjā.
 
 ``` toml
-dict_label = "DPPN"
 word = "verañjakā"
 summary = ""
 grammar_comment = ""
@@ -26212,7 +24946,6 @@ Verañjakā
 The brahmins of Verañjā, to whom the Verañjaka Sutta was preached. MN.i.290
 
 ``` toml
-dict_label = "DPPN"
 word = "verañjā"
 summary = ""
 grammar_comment = ""
@@ -26242,7 +24975,6 @@ A road led from Verañjā to Madhurā, and the Aṅguttara Nikāya AN.ii.57*f.* 
 26.81651,78.857272city
 
 ``` toml
-dict_label = "DPPN"
 word = "veroca"
 summary = ""
 grammar_comment = ""
@@ -26262,7 +24994,6 @@ An Asura chieftain. All the hundred sons of Bali were named after him. DN.ii.259
 He is probably identical with Verocana, lord of the Asuras’ who, according to the Saṃyutta Nikāya, SN.i.225*f.* went with Sakka to visit the Buddha during his siesta. They waited upon the Buddha, leaning against a doorpost, and each uttered two stanzas on the necessity of striving until one’s aim is accomplished.
 
 ``` toml
-dict_label = "DPPN"
 word = "vessabhū"
 summary = ""
 grammar_comment = ""
@@ -26280,7 +25011,6 @@ Vessabhū
 King of Avanti in the time of Reṇu. His capital was Māhissatī. DN.ii.236
 
 ``` toml
-dict_label = "DPPN"
 word = "vessāmitta"
 summary = ""
 grammar_comment = ""
@@ -26302,7 +25032,6 @@ Vessāmitta<sup>2</sup>
 A Yakkha chief who, with five hundred others of the same name, was present at the preaching of the Mahāsamaya Sutta. DN.ii.257 He is mentioned among the Yakkha chiefs to be invoked in time of need by followers of the Buddha. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "vesāli"
 summary = ""
 grammar_comment = ""
@@ -26342,7 +25071,6 @@ There were Nāgas living in Vesāli; these were called Vesālā. DN.ii.258
 26.013904,85.1091671town
 
 ``` toml
-dict_label = "DPPN"
 word = "vesālā"
 summary = ""
 grammar_comment = ""
@@ -26360,7 +25088,6 @@ Vesālā
 The Nāgas of Vesāli who were present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "vetambarī"
 summary = ""
 grammar_comment = ""
@@ -26378,7 +25105,6 @@ Vetambarī
 One of a group of devas who visited the Buddha at Veḷuvana and spoke of their beliefs. Vetambarī spoke two verses, one condemning asceticism, and the other, which followed immediately on the first, in praise of the same. SN.i.65 SN.i.67
 
 ``` toml
-dict_label = "DPPN"
 word = "vetaraṇi"
 summary = ""
 grammar_comment = ""
@@ -26398,7 +25124,6 @@ A river in the Great Hell. SN.i.21 Snp.674 It may be the same as the great “Ca
 5river
 
 ``` toml
-dict_label = "DPPN"
 word = "veteṇḍu"
 summary = ""
 grammar_comment = ""
@@ -26416,7 +25141,6 @@ Veteṇḍu
 A vassal of the Four Great Kings, present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "vethadīpaka"
 summary = ""
 grammar_comment = ""
@@ -26434,7 +25158,6 @@ Vethadīpaka
 The brahmin of Vethadīpa, who claimed an eighth share of the Buddha’s relics. DN.ii.165 DN.ii.167
 
 ``` toml
-dict_label = "DPPN"
 word = "veyyākaraṇa"
 summary = ""
 grammar_comment = ""
@@ -26452,7 +25175,6 @@ Veyyākaraṇa
 One of the nine *aṅgas*, into which the Dhamma was organized by way of literary style. It means “Answer” or “Explanation” and refers to discourses elaborated by way of question and answer.
 
 ``` toml
-dict_label = "DPPN"
 word = "veḷudvāra"
 summary = ""
 grammar_comment = ""
@@ -26472,7 +25194,6 @@ A brahmin village of the Kosalans where the Buddha once stayed and preached the 
 Kosala3town
 
 ``` toml
-dict_label = "DPPN"
 word = "veḷukaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -26492,7 +25213,6 @@ A city in Avanti. Moggallāna and Sāriputta visited the place in the course of 
 22.85379, 82.155763town
 
 ``` toml
-dict_label = "DPPN"
 word = "veḷukaṇṭakī"
 summary = ""
 grammar_comment = ""
@@ -26512,7 +25232,6 @@ A lady of Veḷukaṇṭa. She is mentioned as an exemplary lay woman.AN.i.88 AN
 Once she rose before dawn and sang the Parāyana. Vessavaṇa happened to be passing over her house on his way from north to south, and hearing the song, stopped at her window to praise it and to reveal his identity. She greeted him cordially, and in return for her greeting he announced to her that Sāriputta and Moggallāna were on their way to Velukanta. She, delighted with the news, made all preparations and sent word to the monastery, inviting the monks to the house. After the meal, she informed the Elders that Vessavaṇa had told her of their arrival. When they expressed their amazement, she told them of several other virtues possessed by her. Her only son Nanda was seized by the king’s men and killed before her eyes, but she experienced no disquiet, nor did she when her husband, after his death, having been born as a Yakkha, revealed himself to her. She was guilty of no transgression of the precepts, could enter into the four *jhānas* at will, and had cast off the five lower fetters. The monks expressed their great admiration and Sāriputta preached to her. AN.iv.63*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "veḷuvana"
 summary = ""
 grammar_comment = ""
@@ -26546,7 +25265,6 @@ A bamboo grove in Kimbilā, where the Buddha stayed and was visited by Kimbila. 
 Kimbilā3park
 
 ``` toml
-dict_label = "DPPN"
 word = "veṇhu"
 summary = ""
 grammar_comment = ""
@@ -26564,7 +25282,6 @@ Veṇhu
 A deva who was present, with his retinue, at the preaching of the Mahāsamaya Sutta. DN.ii.259 Veṇhu is a Pāḷi form of Viṣṇu.
 
 ``` toml
-dict_label = "DPPN"
 word = "veṇḍu"
 summary = ""
 grammar_comment = ""
@@ -26582,7 +25299,6 @@ Veṇḍu
 A *devaputta*. He visited the Buddha and asked him a question. SN.i.52
 
 ``` toml
-dict_label = "DPPN"
 word = "veṭṭhadīpaka"
 summary = ""
 grammar_comment = ""
@@ -26602,7 +25318,6 @@ A brahmin settlement, the chieftain of which claimed a part of the Buddha’s re
 near Māgadha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "vicakkanā"
 summary = ""
 grammar_comment = ""
@@ -26620,7 +25335,6 @@ Vicakkanā
 A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.261
 
 ``` toml
-dict_label = "DPPN"
 word = "videha"
 summary = ""
 grammar_comment = ""
@@ -26640,7 +25354,6 @@ A country and its people. At the time of the Buddha, Videha formed one of the tw
 26.712222, 85.9216671region
 
 ``` toml
-dict_label = "DPPN"
 word = "vidhura"
 summary = ""
 grammar_comment = ""
@@ -26658,7 +25371,6 @@ Vidhura
 One of the two chief disciples of Kakusandha Buddha. DN.ii.4 SN.ii.191 He received his name because he was a peerless preacher of the Dhamma. MN.i.333
 
 ``` toml
-dict_label = "DPPN"
 word = "vijaya"
 summary = ""
 grammar_comment = ""
@@ -26680,7 +25392,6 @@ Vijaya<sup>2</sup>
 A monk whose Theragāthā verse says that one without defilements may not be traced, like birds in the sky. Thag.92
 
 ``` toml
-dict_label = "DPPN"
 word = "vijayā"
 summary = ""
 grammar_comment = ""
@@ -26698,7 +25409,6 @@ Vijayā
 A bhikkhunī whose Therīgāthā verses say that she went to the monastery up to five times before being approached by a bhikkhunī, who taght her the Dhamma, so that now she dwells in freedom and bliss. Thig.169–174 In the Saṃyutta Nikāya. SN.i.130 Māra, assuming the form of a young man, tried unsuccessfully to tempt her.
 
 ``` toml
-dict_label = "DPPN"
 word = "vijita"
 summary = ""
 grammar_comment = ""
@@ -26716,7 +25426,6 @@ Vijita
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "vijitasena"
 summary = ""
 grammar_comment = ""
@@ -26734,7 +25443,6 @@ Vijitasena
 Several verses uttered by him in self admonition, in which he displays his knowledge of elephant training, are included in the Theragāthā. Thag.355–359
 
 ``` toml
-dict_label = "DPPN"
 word = "vimala"
 summary = ""
 grammar_comment = ""
@@ -26764,7 +25472,6 @@ Vimala<sup>4</sup>
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "vimalakoṇḍañña"
 summary = ""
 grammar_comment = ""
@@ -26782,7 +25489,6 @@ Vimalakoṇḍañña
 A monk whose Theragāthā verse is in the form of a riddle. Thag.64
 
 ``` toml
-dict_label = "DPPN"
 word = "vimalā"
 summary = ""
 grammar_comment = ""
@@ -26800,7 +25506,6 @@ Vimalā
 A bhikkhunī whose Therīgāthā verses speak of the fading beuaty of youth and the peace of liberation. Thig.72–76
 
 ``` toml
-dict_label = "DPPN"
 word = "vipassī"
 summary = ""
 grammar_comment = ""
@@ -26818,7 +25523,6 @@ Vipassī
 A Buddha of the past, whose story is told in the Mahāpadāna Sutta. He was born in the Khema park in Bandhumatī, his father being Bandhumā and his mother Bandhumatī. He belonged to the Koṇḍañña gotta. He preached his first sermon in Khemamigadāya to his step brother Khandha and his purohita’s son Tissa; these two later became his chief disciples. His constant attendant was Asoka; Caṇḍā and Candamittā were his chief women disciples. His chief lay patrons were Punabbasummitta and Nāga among men, and Sirimā and Uttarā among women. DN.ii.2*ff.*
 
 ``` toml
-dict_label = "DPPN"
 word = "viraja"
 summary = ""
 grammar_comment = ""
@@ -26836,7 +25540,6 @@ Viraja
 A Pacceka Buddha. MN.iii.70
 
 ``` toml
-dict_label = "DPPN"
 word = "virūpakkha"
 summary = ""
 grammar_comment = ""
@@ -26858,7 +25561,6 @@ Virūpakkha<sup>2</sup>
 A family of snakes or nāgas. Vin.ii.109 AN.ii.72 They were, perhaps, followers of Virūpakkha.
 
 ``` toml
-dict_label = "DPPN"
 word = "virūḷha"
 summary = ""
 grammar_comment = ""
@@ -26876,7 +25578,6 @@ VirūḷhaVirūḷhaka
 One of the Four Great Kings. He is the king of the south, and, in the assembly of the devas, sits facing north.DN.ii.207 DN.ii.221 He is lord of the Kumbhaṇḍas. DN.iii.198
 
 ``` toml
-dict_label = "DPPN"
 word = "visākha"
 summary = ""
 grammar_comment = ""
@@ -26900,7 +25601,6 @@ A monk whose Theragāthā verses speaks of not attacking the virtuous, nor prais
 Visākha was evidently a clever and arresting preacher, and the books mention that the Buddha heard him preach and praised him. SN.ii.280 AN.ii.51
 
 ``` toml
-dict_label = "DPPN"
 word = "visākhā"
 summary = ""
 grammar_comment = ""
@@ -26936,7 +25636,6 @@ Among Visākhā’s relations are also mentioned, in addition to her two sons Mi
 The books contain numerous suttas preached by the Buddha to Visākhā during her frequent visits to him, chief among such suttas being the famous discourse on the keeping of the *uposatha*, AN.i.205*ff.* AN.iv.255 the discourse of the eight qualities which win for women power in this world and power and happiness in the next, AN.iv.269 and eight qualities which win for a woman birth among the Manāpakāyikā devas. AN.iv.267
 
 ``` toml
-dict_label = "DPPN"
 word = "viññānañcāyatanūpagādevā"
 summary = ""
 grammar_comment = ""
@@ -26954,7 +25653,6 @@ Viññānañcāyatanūpagādevā
 A class of devas living in the Formless Realms. Their life lasts for forty thousand great aeons. MN.iii.103
 
 ``` toml
-dict_label = "DPPN"
 word = "viḍūḍabha"
 summary = ""
 grammar_comment = ""
@@ -26972,7 +25670,6 @@ ViḍūḍabhaViḍūḍabha
 Son of Pasenadi and Vāsabhakhattiyā. Both in the Piyajātika Sutta MN.ii.110 and the Kaṇṇakatthala Suttas. MN.ii.127 Viḍūḍabha is spoken of as general.
 
 ``` toml
-dict_label = "DPPN"
 word = "viṭeṇḍu"
 summary = ""
 grammar_comment = ""
@@ -26990,7 +25687,6 @@ Viṭeṇḍu
 One of the vassals of the Four Great Kings present at the preaching of the Mahāsamaya Sutta. DN.ii.257
 
 ``` toml
-dict_label = "DPPN"
 word = "viṭu"
 summary = ""
 grammar_comment = ""
@@ -27008,7 +25704,6 @@ Viṭu
 Vassal of the Four Great Kings present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "viṭucca"
 summary = ""
 grammar_comment = ""
@@ -27026,7 +25721,6 @@ Viṭucca
 Vassal of the Four Great Kings present at the preaching of the Mahāsamaya Sutta. DN.ii.258
 
 ``` toml
-dict_label = "DPPN"
 word = "vājapeyya"
 summary = ""
 grammar_comment = ""
@@ -27044,7 +25738,6 @@ Vājapeyya
 A sacrificial offering.
 
 ``` toml
-dict_label = "DPPN"
 word = "vāmadeva"
 summary = ""
 grammar_comment = ""
@@ -27062,7 +25755,6 @@ Vāmadeva
 One of the great sages honoured by the brahmins as authors of hymns. Vin.i.245 DN.i.104 Compare Rigveda 5.26; Rāmāyana 1.7, etc.
 
 ``` toml
-dict_label = "DPPN"
 word = "vāmaka"
 summary = ""
 grammar_comment = ""
@@ -27080,7 +25772,6 @@ Vāmaka
 One of the great sages held in esteem by the brahmins. Vin.i.245 DN.i.104 DN.i.238 MN.ii.169 MN.ii.200 Vin.i.2451 Compare Vaṃsa in Rigveda 10.99.
 
 ``` toml
-dict_label = "DPPN"
 word = "vāraṇa"
 summary = ""
 grammar_comment = ""
@@ -27098,7 +25789,6 @@ Vāraṇa
 A monk whose Theragāthā verses praise non\-harming and seclusion. Thag.237–239
 
 ``` toml
-dict_label = "DPPN"
 word = "vāruṇā"
 summary = ""
 grammar_comment = ""
@@ -27116,7 +25806,6 @@ Vāruṇā
 A class of deities, followers of Varuda, who were present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "vāsabhagāmaka"
 summary = ""
 grammar_comment = ""
@@ -27136,7 +25825,6 @@ A village in Kāsī. It was once the residence of Kassapa Thera. Vin.i.312*f.*
 Kāsī3town
 
 ``` toml
-dict_label = "DPPN"
 word = "vāsabhagāmī"
 summary = ""
 grammar_comment = ""
@@ -27154,7 +25842,6 @@ VāsabhagāmīVāsabhagāmika
 One of the four Western monks appointed to the committee which considered the Ten Points raised by the Vajjiputtaka at the Second Council. Vin.ii.305
 
 ``` toml
-dict_label = "DPPN"
 word = "vāsabhā"
 summary = ""
 grammar_comment = ""
@@ -27172,7 +25859,6 @@ Vāsabhā
 The second queen of King Pasenadi. MN.ii.110
 
 ``` toml
-dict_label = "DPPN"
 word = "vāsavanesī"
 summary = ""
 grammar_comment = ""
@@ -27190,7 +25876,6 @@ Vāsavanesī
 A class of devas, present at the preaching of the Mahāsamaya Sutta. DN.ii.260
 
 ``` toml
-dict_label = "DPPN"
 word = "vāseṭṭha"
 summary = ""
 grammar_comment = ""
@@ -27220,7 +25905,6 @@ Vāseṭṭha<sup>4</sup>
 A lay disciple, evidently distinct from the Vāseṭṭha who became a monk. He visited the Buddha at the Kūṭagārasālā in Vesāli and the Buddha preached to him. AN.iv.258 He is mentioned among the Buddha’s eminent lay disciples. AN.iii.451
 
 ``` toml
-dict_label = "DPPN"
 word = "vāseṭṭhī"
 summary = ""
 grammar_comment = ""
@@ -27240,7 +25924,6 @@ A bhikkhunī whose Therīgāthā verses tell of her child’s death and her subs
 It is said that the brahmin Sujāta, father of Sundarī, met Vāsetthī, and, hearing her story, himself sought the Buddha at Mithilā where he joined the Order, becoming an arahant at the end of three days. Thig.313–325
 
 ``` toml
-dict_label = "DPPN"
 word = "vāyodevā"
 summary = ""
 grammar_comment = ""
@@ -27258,7 +25941,6 @@ Vāyodevā
 A class of deities present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "vīra "
 summary = ""
 grammar_comment = ""
@@ -27276,7 +25958,6 @@ Vīra
 A monk whose Theragāthā verse speaks of taming oneself like a hero. Thag.8
 
 ``` toml
-dict_label = "DPPN"
 word = "vīrā"
 summary = ""
 grammar_comment = ""
@@ -27294,7 +25975,6 @@ VīrāCīrā
 A certain lay follower gave her a robe, and a Yakkha aware of this, went about praising his piety. SN.i.213
 
 ``` toml
-dict_label = "DPPN"
 word = "vītarāga"
 summary = ""
 grammar_comment = ""
@@ -27312,7 +25992,6 @@ Vītarāga
 A Pacceka Buddha. MN.iii.71
 
 ``` toml
-dict_label = "DPPN"
 word = "vītasokā"
 summary = ""
 grammar_comment = ""
@@ -27330,7 +26009,6 @@ Vītasokā
 A monk whose Theragāthā verses speak of how, while shaving, he gained insight. Thag.169–170
 
 ``` toml
-dict_label = "DPPN"
 word = "yakkha"
 summary = ""
 grammar_comment = ""
@@ -27364,7 +26042,6 @@ No one, apparently, is free from this necessity of waiting upon the king even Ja
 It is sometimes difficult to decide whether the Yakkhas were non\-humans spirits or aboriginal tribespeople. In the Vinaya, intercourse with *yakkhas* is forbidden. Vin.iii.37 Vin.iv.20
 
 ``` toml
-dict_label = "DPPN"
 word = "yama"
 summary = ""
 grammar_comment = ""
@@ -27386,7 +26063,6 @@ In the Mahāsamaya Sutta DN.ii.259 mention is made of two Yamas.
 There is a tradition AN.i.142 that once Yama longed to be born as a human being and to sit at the feet of a Tathāgata.
 
 ``` toml
-dict_label = "DPPN"
 word = "yamaka"
 summary = ""
 grammar_comment = ""
@@ -27404,7 +26080,6 @@ Yamaka
 A man belonging to the retinue of King Eḷeyya. He was a follower of Uddaka Rāmaputta. AN.ii.180
 
 ``` toml
-dict_label = "DPPN"
 word = "yamataggi"
 summary = ""
 grammar_comment = ""
@@ -27422,7 +26097,6 @@ Yamataggi
 A sage of old who led a good life and persuaded his followers to do likewise. He was among the originators of the Vedic hymns. Vin.i.245 DN.i.238 DN.i.239 MN.ii.169 MN.ii.200 AN.iii.224 AN.iii.229 AN.iv.61
 
 ``` toml
-dict_label = "DPPN"
 word = "yamelutekulā"
 summary = ""
 grammar_comment = ""
@@ -27440,7 +26114,6 @@ Yamelutekulā
 Two brahmins, probably named Yamelu and Tekula, who proposed to the Buddha that the Dhamma should be put into Sanskrit metre *chandasi*. The Buddha refused their request. Vin.ii.139
 
 ``` toml
-dict_label = "DPPN"
 word = "yamunā"
 summary = ""
 grammar_comment = ""
@@ -27460,7 +26133,6 @@ The second of the five great rivers of Jambudīpa, which are often used in simil
 Yamunā1river
 
 ``` toml
-dict_label = "DPPN"
 word = "yasa "
 summary = ""
 grammar_comment = ""
@@ -27494,7 +26166,6 @@ Yasa <sup>3</sup>
 A deva, present at the preaching of the Mahāsamaya Sutta. DN.ii.259 Perhaps the name is Yasasā.
 
 ``` toml
-dict_label = "DPPN"
 word = "yasadatta"
 summary = ""
 grammar_comment = ""
@@ -27512,7 +26183,6 @@ Yasadatta
 While journeying in the company of Sabhiya, he came to Sāvatthī, where he was present at the discussion between Sabhiya and the Buddha. It was his purpose to try and discover flaws in the Buddha’s argument. The Buddha knew what was in his mind, and at the end of the Sabhiya Sutta admonished him in five verses. Thag.360–364
 
 ``` toml
-dict_label = "DPPN"
 word = "yasoja"
 summary = ""
 grammar_comment = ""
@@ -27534,7 +26204,6 @@ His Theragāthā verses speak in praise of a thin monk who is dedicated and cont
 The Vinaya relates Vin.i.239 how once, when Yasoja was ill, drugs were brought for his use, but as the Buddha had forbidden the use of a special place for storing such things they were left out of doors and were partly eaten by vermin, the remainder being carried away by robbers. When the matter was reported to the Buddha, he allowed the use of a duly chosen storage place.
 
 ``` toml
-dict_label = "DPPN"
 word = "yassasī"
 summary = ""
 grammar_comment = ""
@@ -27552,7 +26221,6 @@ Yassasī
 The name of a Pacceka Buddha. MN.iii.69
 
 ``` toml
-dict_label = "DPPN"
 word = "yaññadatta"
 summary = ""
 grammar_comment = ""
@@ -27570,7 +26238,6 @@ Yaññadatta
 A brahmin, father of Koṇāgamana Buddha. DN.ii.7
 
 ``` toml
-dict_label = "DPPN"
 word = "yodhājīva"
 summary = ""
 grammar_comment = ""
@@ -27588,7 +26255,6 @@ Yodhājīva
 A headman who visited the Buddha and asked if it was true that men who fall fighting in battle are reborn among the Sārañjita devas. At first the Buddha refused to answer the question, but finding that Yodhājīva insisted, explained to him that fighting men were reborn after death either in the Sārājita niraya or among animals. The headman became the Buddha’s follower. SN.iv.308
 
 ``` toml
-dict_label = "DPPN"
 word = "yona"
 summary = ""
 grammar_comment = ""
@@ -27608,7 +26274,6 @@ A country and its people. The name is probably the Pāḷi equivalent for Ionian
 37.45,26.52region
 
 ``` toml
-dict_label = "DPPN"
 word = "yugandhara"
 summary = ""
 grammar_comment = ""
@@ -27626,7 +26291,6 @@ Yugandhara
 One of the chief Yakkhas to be invoked by the Buddha’s followers in time of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "yāma"
 summary = ""
 grammar_comment = ""
@@ -27644,7 +26308,6 @@ Yāma
 A class of Devas, mentioned in lists of devas between those of Tāvatiṃsā and those of Tusita.Vin.i.12 AN.i.228 AN.iii.287 MN.ii.194 MN.iii.100 Two hundred years of human life are but one day to the Yāma devā, and two thousand Years, composed of such days, form their life period. AN.i.213 AN.iv.253
 
 ``` toml
-dict_label = "DPPN"
 word = "ābha"
 summary = ""
 grammar_comment = ""
@@ -27662,7 +26325,6 @@ also_written_as = []
 A generic name for devas distinguished for their brilliance, such as the Parittābhā and the Appamāṇābhā. MN.iii.102
 
 ``` toml
-dict_label = "DPPN"
 word = "ābhassarā"
 summary = ""
 grammar_comment = ""
@@ -27682,7 +26344,6 @@ A Brahma\-world where live radiant devas from whose bodies rays of light are emi
 5heaven
 
 ``` toml
-dict_label = "DPPN"
 word = "ādicca"
 summary = ""
 grammar_comment = ""
@@ -27702,7 +26363,6 @@ Another name for Suriya, the Sun. DN.iii.196
 Ādicca was also the gotta name of the Sākyans who were called the Ādiccā. Snp.423
 
 ``` toml
-dict_label = "DPPN"
 word = "ājīvakā"
 summary = ""
 grammar_comment = ""
@@ -27728,7 +26388,6 @@ The doctrines held by the Ājīvaka are mentioned in several places, but the bes
 The fundamental point in their teaching seems, therefore, to have been “*saṃsāra\-suddhi*,” purification through transmigration, which probably meant that all beings, all lives, all existent things, all living substances attain and must attain, perfection in course of time.
 
 ``` toml
-dict_label = "DPPN"
 word = "ākiñcāyatanūpagādevā"
 summary = ""
 grammar_comment = ""
@@ -27746,7 +26405,6 @@ also_written_as = []
 A class of devas born in the Ākiñcāyatana, the third Arūpa world. MN.iii.103 Their life term is sixty thousand kappas. AN.i.267
 
 ``` toml
-dict_label = "DPPN"
 word = "ākoṭaka"
 summary = ""
 grammar_comment = ""
@@ -27764,7 +26422,6 @@ also_written_as = []
 A deva who visited the Buddha at Veḷuvana accompanied by Asama, Sahali, Ninka, Vetambarī and Mānava\-Gāmiya. Ākoṭaka spoke before the Buddha in praise of various teachers of other schools: Pakuddha\-Kātiyāna (sic), Nigaṇṭha, Makkhali, Pūraṇa. Vetambari made rejoinder to Ākoṭaka, speaking disparagingly of the teachers he had mentioned. SN.i.65.
 
 ``` toml
-dict_label = "DPPN"
 word = "ākāsagotta"
 summary = ""
 grammar_comment = ""
@@ -27782,7 +26439,6 @@ also_written_as = []
 A physician of Rājagaha who lanced the fistula of a monk. Meeting the Buddha, he told him of the lancing, trying to make fun of it. The Buddha, having made inquiries, declared the performance of such an operation a thullaccaya offence. Vin.i.215–216
 
 ``` toml
-dict_label = "DPPN"
 word = "ākāsānañcāyatanūpagādevā"
 summary = ""
 grammar_comment = ""
@@ -27800,7 +26456,6 @@ also_written_as = []
 A class of devas born in the Realm of Infinite Space. MN.iii.103 They belong to the Formless world and their life term is twenty thousand kappas. AN.i.267
 
 ``` toml
-dict_label = "DPPN"
 word = "āmalakīvana"
 summary = ""
 grammar_comment = ""
@@ -27820,7 +26475,6 @@ A grove at Cātumā. The Buddha once stayed there, and it was on that occasion t
 Cātumā3park
 
 ``` toml
-dict_label = "DPPN"
 word = "ānanda"
 summary = ""
 grammar_comment = ""
@@ -27838,7 +26492,6 @@ also_written_as = []
 One of the principal disciples of the Buddha. He was a first cousin of the Buddha and was deeply attached to him. Ānanda entered the Order in the second year of the Buddha’s ministry, together with other Sākiyan princes, such as Bhaddiya, Anuruddha, Bhagu, Kimbila and Devadatta, and was ordained by the Buddha himself, Vin.ii.182 his upajjhāya being Belatthasīsa.Vin.i.202 Vin.iv.86 Soon after, he heard a discourse by Puṇṇa Mantāniputta and became a Sotāpanna SN.iii.105 Ānanda remained close to the Buddha for the following 25 years, and participates in numerous discourses. He was one of the principal reciters at the First Council after the Buddha passed away, and was responsible for the recitation of the Suttas.
 
 ``` toml
-dict_label = "DPPN"
 word = "ānandacetiya"
 summary = ""
 grammar_comment = ""
@@ -27858,7 +26511,6 @@ A shrine in Bhoganagara dedicated to a *yakkha* called Ānanda. There the Buddha
 26.584229,84.3097693shrine
 
 ``` toml
-dict_label = "DPPN"
 word = "ānandakumāra"
 summary = ""
 grammar_comment = ""
@@ -27876,7 +26528,6 @@ also_written_as = []
 A shipwright, who, with three hundred others, was sent by Mahosadha to the Upper Ganges to secure timber wherewith to build three hundred ships in preparation for Mahosadha’s visit to the capital of Pañcala in order to erect buildings for King Vedeha. AN.vi.427
 
 ``` toml
-dict_label = "DPPN"
 word = "āpaṇa"
 summary = ""
 grammar_comment = ""
@@ -27900,7 +26551,6 @@ On the occasion of the Buddha’s visit to Āpaṇa, during which he converted S
 25.465594,87.1325682town
 
 ``` toml
-dict_label = "DPPN"
 word = "āpā"
 summary = ""
 grammar_comment = ""
@@ -27918,7 +26568,6 @@ also_written_as = []
 A class of deities who were present at the preaching of the Mahāsamaya Sutta. DN.ii.259
 
 ``` toml
-dict_label = "DPPN"
 word = "ārohanta"
 summary = ""
 grammar_comment = ""
@@ -27936,7 +26585,6 @@ also_written_as = []
 One of the chief ministers at Sāvatthī. He joined the Order of monks and his wife became a nun. They had their meals together and she waited on him, fetching him water and fanning him. He forbade her to wait on him as it was improper and, angered by his words, she poured the water over his head and struck him with the fan. For this she was rebuked by the Buddha. Vin.iv.263
 
 ``` toml
-dict_label = "DPPN"
 word = "ārāmadaṇḍa"
 summary = ""
 grammar_comment = ""
@@ -27954,7 +26602,6 @@ also_written_as = []
 A brahmin. Once when Mahā Kaccāna was staying at Vāraṇā on the banks of the Kaddamadaha, Ārāmadaṇḍa came to see him and asked him why nobles quarrelled with nobles, brahmins with brahmins, and householders with householders. “Because of their bondage and servitude to sensual lusts,” answered Mahā Kaccāna; and for the same reason recluses quarrelled with recluses. “Is there anybody in the world who has passed beyond this bondage?” “Yes,” said Mahā Kaccāna, “in Sāvatthī lives the Exalted One,” and he proceeded to describe the Buddha’s virtues. Ārāmadaṇḍa stood up with clasped hands and, turning in the direction of Sāvatthī, he uttered his adoration of the Buddha. Thenceforward he became a disciple of Mahā Kaccāna. A.i.65–67.
 
 ``` toml
-dict_label = "DPPN"
 word = "ārāmikagāma"
 summary = ""
 grammar_comment = ""
@@ -27974,7 +26621,6 @@ The name given to the village in which lived the five hundred park\-keepers who 
 near Rajagaha3town
 
 ``` toml
-dict_label = "DPPN"
 word = "āthabbaṇa"
 summary = ""
 grammar_comment = ""
@@ -27992,7 +26638,6 @@ also_written_as = []
 A branch of knowledge, dabbling in which is forbidden to monks. Probably the Atharva Veda, which includes sorcery and magic spells. Snp.927
 
 ``` toml
-dict_label = "DPPN"
 word = "ātuma"
 summary = ""
 grammar_comment = ""
@@ -28010,7 +26655,6 @@ also_written_as = []
 A monk whose verse is in the Theragāthā. Thag.72
 
 ``` toml
-dict_label = "DPPN"
 word = "ātumā"
 summary = ""
 grammar_comment = ""
@@ -28034,7 +26678,6 @@ In the Mahā Parinibbāna Sutta DN.ii.131–132 the Buddha tells Pukkusa of anot
 27.024878,82.9632572town
 
 ``` toml
-dict_label = "DPPN"
 word = "āḷakamandā"
 summary = ""
 grammar_comment = ""
@@ -28058,7 +26701,6 @@ In the Culla Vagga Vin.ii.152 the word is used as an adjective (*vihārā āḷa
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "āḷavaka"
 summary = ""
 grammar_comment = ""
@@ -28078,7 +26720,6 @@ The *yakkha* of Āḷavī. The Buddha once stayed at his dweling, at which the *
 Āḷavaka’s name appears in the Āṭānāṭīya Sutta, among the Yakkhas to whom followers of the Buddha should appeal for protection in time of need. DN.iii.205
 
 ``` toml
-dict_label = "DPPN"
 word = "āḷavakā"
 summary = ""
 grammar_comment = ""
@@ -28098,7 +26739,6 @@ A name given to the monks of Āḷavī.
 The Āḷavaka\-bhikkhū are mentioned several times in the Vinaya Vin.ii.172*ff.* Vin.iii.85 Vin.iv.34–35 in connection with offences relating to repairing and reconstruction of buildings, and rules are laid down by the Buddha restricting these monks in their activities.
 
 ``` toml
-dict_label = "DPPN"
 word = "āḷavī"
 summary = ""
 grammar_comment = ""
@@ -28118,7 +26758,6 @@ A town between Sāvatthī and Rājagaha. The Buddha goes from Sāvatthī to Kī�
 26.926968,80.1909262town
 
 ``` toml
-dict_label = "DPPN"
 word = "āḷavīgotama"
 summary = ""
 grammar_comment = ""
@@ -28136,7 +26775,6 @@ also_written_as = []
 A thera, who is mentioned in the Sutta Nipāta Snp.1146 in a verse spoken by the Buddha to Piṅgiya when the Buddha appeared in a ray of light at Bāvarī’s hermitage.
 
 ``` toml
-dict_label = "DPPN"
 word = "āḷārakālāma"
 summary = ""
 grammar_comment = ""
@@ -28156,7 +26794,6 @@ One of the two teachers to whom Gotama, after his renunciation, first attached h
 The Mahā Parinibbāna Sutta DN.ii.130 mentions a Mallian, Pukkusa, who says he had been Āḷāra’s disciple, but who, when he hears the Buddha’s sermon, confesses faith in the Buddha. Pukkusa describes Āḷāra to the Buddha as one who practised great concentration. Once Āḷāra was sitting in the open air and neither saw nor heard five hundred passing carts though he was awake and conscious.
 
 ``` toml
-dict_label = "DPPN"
 word = "āṇi"
 summary = ""
 grammar_comment = ""
@@ -28174,7 +26811,6 @@ also_written_as = []
 A *mutiṅga* (kettle\-drum) belonging to the Dasārahas. As it grew old and began to split, they fixed in another peg, and this process was continued, until, at last, the original drumhead vanished, leaving only the framework of pegs. SN.ii.266
 
 ``` toml
-dict_label = "DPPN"
 word = "āṭānāṭā"
 summary = ""
 grammar_comment = ""
@@ -28194,7 +26830,6 @@ A city in Uttarakuru, mentioned with Kusināṭā, Parakusināṭā and Nātāpu
 5town
 
 ``` toml
-dict_label = "DPPN"
 word = "īsāna"
 summary = ""
 grammar_comment = ""
@@ -28216,7 +26851,6 @@ In the Tevijja Sutta DN.i.244 he is mentioned with Indra, Soma, Varuṇa, Pajāp
 He was in the battle of the devas against the Asuras and led a section of the deva host. Indra tells the devas that if, during the struggle, they felt faint\-hearted, they should look at the crest of his own banner or at that of Pajāpati, Varuṇa or Īsāna, and their fear would disappear. SN.i.219
 
 ``` toml
-dict_label = "DPPN"
 word = "ṭaṅkitamañca"
 summary = ""
 grammar_comment = ""

@@ -2,6 +2,7 @@
 
 ``` toml
 title = "Nyanatiloka Buddhist Dictionary"
+dict_label = "Nyana"
 description = "Pali - English"
 creator = "Simsapa Dhamma Reader"
 email = ""
@@ -18,7 +19,6 @@ add_velthuis = true
 --- DICTIONARY WORD ENTRIES ---
 
 ``` toml
-dict_label = "Nyana"
 word = "abandonment"
 summary = "Abandonment: contemplation of: patinissaggānupassa"
 grammar_comment = ""
@@ -34,7 +34,6 @@ also_written_as = []
 **Abandonment:** contemplation of: *patinissaggānupassanā* is one of the 18 chief kinds of insight; see: *vipassanā* further *ānāpānasati* 16.
 
 ``` toml
-dict_label = "Nyana"
 word = "abbhokāsikanga"
 summary = "Abbhokāsik’anga: 'living in the open air', is one"
 grammar_comment = ""
@@ -50,7 +49,6 @@ also_written_as = []
 **Abbhokāsik’anga:** 'living in the open air', is one of the ascetic means to purification *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "aberration"
 summary = "Aberration: Failure & going wrong in morality and"
 grammar_comment = ""
@@ -66,7 +64,6 @@ also_written_as = []
 **Aberration:** Failure & going wrong in morality and understanding: see: *vipatti*
 
 ``` toml
-dict_label = "Nyana"
 word = "abhabbāgamana"
 summary = "Abhabbāgamana: 'incapable of progressing'. Those b"
 grammar_comment = ""
@@ -82,7 +79,6 @@ also_written_as = []
 **Abhabbāgamana:** 'incapable of progressing'. Those beings who are obstructed by their evil actions *kamma* see. kamma, by their defilements *kilesa*, by the result of their evil actions see: *vipāka*, or who are devoid of faith, energy and understanding, and unable to enter the right path and reach perfection in advantageous things, all those are said to be incapable of progressing Pug. 13. According to Commentary the 'evil actions' denote the 5 heinous actions with immediate result *ānantarika\-kamma*, whilst the 'defilements' refer to the 'evil views with fixed destiny' *niyata\-micchā\-ditthi*, see: *ditthi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "abhibhāyatana"
 summary = "Abhibhāyatana: the 8 'stages of mastery', are powe"
 grammar_comment = ""
@@ -156,7 +152,6 @@ A kasina\-object of small size is said to be suitable for a mentally unsteady na
 In Vis.M V it is said: By means of the earth\- kasina one succeeds in reaching the stage of mastery with regard to small and large objects. By means of the blue\- kasina one succeeds in causing blue forms to appear, in producing darkness, in reaching the stage of mastery with regard to beautiful and ugly colours, in reaching 'deliverance through the beautiful', etc. cf. *vimokkha* II, 3. The same is also said with regard to the other colour kasinas.
 
 ``` toml
-dict_label = "Nyana"
 word = "abhijjhā"
 summary = "Abhijjhā: 'covetousness=greediness=acquisitiveness"
 grammar_comment = ""
@@ -172,7 +167,6 @@ also_written_as = []
 **Abhijjhā:** 'covetousness=greediness=acquisitiveness=jealousy & envy' is a synonym of *lobha* and *tanhā* see: *mūla* and is the 8th link of the disadvantageous courses of action see: *kamma\-patha* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "abhinibbatti"
 summary = "Abhinibbatti: a Sutta term for rebirth; see: punab"
 grammar_comment = ""
@@ -188,7 +182,6 @@ also_written_as = []
 **Abhinibbatti:** a Sutta term for rebirth; see: *punabbhava*
 
 ``` toml
-dict_label = "Nyana"
 word = "abhisamaya"
 summary = "Abhisamaya: 'breakthrough or penetration to the re"
 grammar_comment = ""
@@ -204,7 +197,6 @@ also_written_as = []
 **Abhisamaya:** 'breakthrough or penetration to the realization of the truth', is the full and direct comprehension of the Four Noble Truths by the Stream\-winner *sotāpanna* see: *ariya\-puggala*. In the Com. the term is represented by 'penetration' *pativedha*. Frequently occurring as *dhammābhisamaya* 'realization of the doctrine' se e: XIII *ābhisamaya* \- *samyutta* and Pts.M. *ābhisamaya* \- *kathā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "abhisamācārika-sīla"
 summary = ": ' morality consisting in good behaviour', relate"
 grammar_comment = ""
@@ -220,7 +212,6 @@ also_written_as = []
 **Abhisamācārika\-sīla: '** morality consisting in good behaviour', relates to the external duties of a Bhikkhu such as towards his senior, etc. **abhisamācārika\-sīla** is a name for those moral rules other than the 8 ending with right livelihood i.e. 4\-fold right speech, 3\-fold right action and right livelihood, as in the 8\-fold path Vis.M I; see: *sacca* IV, 3\-5. Impossible is it, o Bhikkhus, that without having fulfilled the law of good behaviour, a Bhikkhu could fulfill the law of genuine pure conduct A. V, 21. Cf. *ādibrahmacariyaka\-sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "abhisankhāra"
 summary = "Abhisankhāra: Construction identical with the 2nd"
 grammar_comment = ""
@@ -236,7 +227,6 @@ also_written_as = []
 **Abhisankhāra:** Construction identical with the 2nd link of the *paticca* \- *samuppāda*, *sankhāra*, under I, 1 or kammic\-constructions.
 
 ``` toml
-dict_label = "Nyana"
 word = "abhiññā"
 summary = "Abhiññā: The 6 'higher powers', or supernormal kno"
 grammar_comment = ""
@@ -308,7 +298,6 @@ Vis.M XI\-XIII gives a detailed explanation of the 5 mundane higher powers, toge
 In connection with the 4 kinds of progress see: *patipadā,* **abhiññā** means the 'comprehension' achieved on attainment of the paths and fruitions
 
 ``` toml
-dict_label = "Nyana"
 word = "ability to acquire insight"
 summary = "Ability to acquire insight: cf. ugghatitaññū, vipa"
 grammar_comment = ""
@@ -324,7 +313,6 @@ also_written_as = []
 **[[ability to acquire insight]]Ability to acquire insight:** cf. *ugghatitaññū,* *vipacitaññū*
 
 ``` toml
-dict_label = "Nyana"
 word = "abodes"
 summary = "Abodes: vihāra The 4 Divine abodes: brahma-vihāra"
 grammar_comment = ""
@@ -340,7 +328,6 @@ also_written_as = []
 **Abodes:** *vihāra* The 4 Divine **abodes:** *brahma\-vihāra* The 9 **abodes** of beings: *sattāvāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "absence"
 summary = "Absence: natthi - Paccaya, is one of the 24 condit"
 grammar_comment = ""
@@ -356,7 +343,6 @@ also_written_as = []
 **Absence:** natthi \- Paccaya, is one of the 24 conditions paccaya,.
 
 ``` toml
-dict_label = "Nyana"
 word = "absorption"
 summary = "Absorption: see: jhāna"
 grammar_comment = ""
@@ -372,7 +358,6 @@ also_written_as = []
 **Absorption:** see: *jhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "abstentions"
 summary = "Abstentions: the 3: virati"
 grammar_comment = ""
@@ -388,7 +373,6 @@ also_written_as = []
 **Abstentions:** the 3: *virati*
 
 ``` toml
-dict_label = "Nyana"
 word = "access"
 summary = "Access: Moment of access into one-pointed concentr"
 grammar_comment = ""
@@ -404,7 +388,6 @@ also_written_as = []
 **Access:** Moment of access into one\-pointed concentration: see: *javana*
 
 ``` toml
-dict_label = "Nyana"
 word = "access-concentration"
 summary = ": see: samādhi"
 grammar_comment = ""
@@ -420,7 +403,6 @@ also_written_as = []
 **Access\-concentration:** see: *samādhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "accumulation"
 summary = "Accumulation: of Kamma see: āyūhana"
 grammar_comment = ""
@@ -436,7 +418,6 @@ also_written_as = []
 **Accumulation:** of Kamma see: *āyūhana*
 
 ``` toml
-dict_label = "Nyana"
 word = "acinteyya"
 summary = "Acinteyya: lit. 'That which cannot not be thought"
 grammar_comment = ""
@@ -454,7 +435,6 @@ also_written_as = []
 Therefore, o Bhikkhus, do not speculate over the world as to whether it is eternal or temporal, limited or endless. Such speculation, O Bhikkhus, is senseless, has nothing to do with genuine pure conduct see: *ādibrahmacariyaka\-sīla*, does neither lead to aversion, detachment, ceasing, nor to peace, not to full comprehension, not to enlightenment or *Nibbāna.* S. LVI, 41.
 
 ``` toml
-dict_label = "Nyana"
 word = "acquired image"
 summary = "Acquired ! em nimitta /em  samādhi kasina"
 grammar_comment = ""
@@ -470,7 +450,6 @@ also_written_as = []
 **[[acquired image]]Acquired !nimitta *samādhi*  *kasina***
 
 ``` toml
-dict_label = "Nyana"
 word = "action"
 summary = "Action: Kamma - Right bodily action: sammā - kamma"
 grammar_comment = ""
@@ -486,7 +465,6 @@ also_written_as = []
 **Action:** *Kamma* \- Right bodily action: *sammā* \- *kammanta* see: *sacca* IV.4
 
 ``` toml
-dict_label = "Nyana"
 word = "adaptability"
 summary = "Adaptability: of body, mental properties and consc"
 grammar_comment = ""
@@ -502,7 +480,6 @@ also_written_as = []
 **Adaptability:** of body, mental properties and consciousness: *kammaññatā*, cf. *khandha* materiality and Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "adaptation-knowledge"
 summary = ": anuloma-ñāna"
 grammar_comment = ""
@@ -518,7 +495,6 @@ also_written_as = []
 **Adaptation\-knowledge:** *anuloma\-ñāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "adherence"
 summary = "Adherence: parāmāsa clinging or attachment."
 grammar_comment = ""
@@ -534,7 +510,6 @@ also_written_as = []
 **Adherence:** *parāmāsa* clinging or attachment.
 
 ``` toml
-dict_label = "Nyana"
 word = "adherent"
 summary = "Adherent: upāsaka disciple."
 grammar_comment = ""
@@ -550,7 +525,6 @@ also_written_as = []
 **Adherent:** *upāsaka* disciple.
 
 ``` toml
-dict_label = "Nyana"
 word = "adhicitta-sikkhā"
 summary = "'training in higher mentality'; see: sikkhā"
 grammar_comment = ""
@@ -566,7 +540,6 @@ also_written_as = []
 **Adhicitta\-sikkhā** 'training in higher mentality'; see: *sikkhā*
 
 ``` toml
-dict_label = "Nyana"
 word = "adhimokkha"
 summary = "Adhimokkha: 'determination', decision, resolve: is"
 grammar_comment = ""
@@ -582,7 +555,6 @@ also_written_as = []
 **Adhimokkha:** 'determination', decision, resolve: is one of the mental properties *cetasika* and belongs to the group of mental constructions *sankhāra* \- *khandha.* In M. 111, it is mentioned together with other mental properties. See Tab. II, III.
 
 ``` toml
-dict_label = "Nyana"
 word = "adhipati-paccaya"
 summary = ": ' Predominance-condition ' is one of the 24 cond"
 grammar_comment = ""
@@ -598,7 +570,6 @@ also_written_as = []
 **Adhipati\-paccaya:** ' Predominance\-condition ' is one of the 24 conditions *paccaya*, if developed, it is considered as the fourfold road to force *iddhi\-pāda*.
 
 ``` toml
-dict_label = "Nyana"
 word = "adhipaññā-dhamma-vipassanā"
 summary = ": 'insight into things based on higher understandi"
 grammar_comment = ""
@@ -614,7 +585,6 @@ also_written_as = []
 **Adhipaññā\-dhamma\-vipassanā:** 'insight into things based on higher understanding', is one of the 18 chief kinds of insight see: *vipassanā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "adhisīla-sikkhā"
 summary = ": 'training in higher morality': see: sikkhā"
 grammar_comment = ""
@@ -630,7 +600,6 @@ also_written_as = []
 **Adhisīla\-sikkhā:** 'training in higher morality': see: *sikkhā*
 
 ``` toml
-dict_label = "Nyana"
 word = "adhitthāna"
 summary = "Adhitthāna, as a doctrinal term, occurs chiefly in"
 grammar_comment = ""
@@ -672,7 +641,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "adosa"
 summary = "Adosa: 'hatelessness, is one of the 3 advantageous"
 grammar_comment = ""
@@ -688,7 +656,6 @@ also_written_as = []
 **Adosa:** 'hatelessness, is one of the 3 advantageous roots *mūla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "adukkha-m-asukhā vedanā"
 summary = "vedanā: 'feeling which is neither painful nor plea"
 grammar_comment = ""
@@ -704,7 +671,6 @@ also_written_as = []
 **[[adukkha\-m\-asukhā vedanā]]Adukkha\-m\-asukhā vedanā:** 'feeling which is neither painful nor pleasant', i.e. neutral or indifferent feeling; see: *vedanā* \- *khandha*
 
 ``` toml
-dict_label = "Nyana"
 word = "advertence"
 summary = "Advertence: Directing of mind to the object: āvajj"
 grammar_comment = ""
@@ -720,7 +686,6 @@ also_written_as = []
 **Advertence:** Directing of mind to the object: *āvajjana* is one of the functions of consciousness *viññāna\-kicca*. Cf. *manasikāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "aeon"
 summary = "Aeon: kappa"
 grammar_comment = ""
@@ -736,7 +701,6 @@ also_written_as = []
 **Aeon:** *kappa*
 
 ``` toml
-dict_label = "Nyana"
 word = "agati"
 summary = "Agati: the 4 'wrong Paths ' are: the path of desir"
 grammar_comment = ""
@@ -752,7 +716,6 @@ also_written_as = []
 **Agati:** the 4 'wrong Paths ' are: the path of desire *chanda*, the path of hate, the path of confusion, the path of fear *bhaya.* One who is freed from these evil impulses is no longer liable to take any wrong path. A. IV, 17; IX, 7.
 
 ``` toml
-dict_label = "Nyana"
 word = "age"
 summary = "Age: Old: Jarā"
 grammar_comment = ""
@@ -768,7 +731,6 @@ also_written_as = []
 **Age:** Old: *Jarā*
 
 ``` toml
-dict_label = "Nyana"
 word = "aggregates or clusters"
 summary = "Aggregates or clusters: khandha"
 grammar_comment = ""
@@ -784,7 +746,6 @@ also_written_as = []
 **[[aggregates or clusters]]Aggregates or clusters:** *khandha*
 
 ``` toml
-dict_label = "Nyana"
 word = "agility"
 summary = "Agility: Lahutā"
 grammar_comment = ""
@@ -800,7 +761,6 @@ also_written_as = []
 **Agility:** *Lahutā*
 
 ``` toml
-dict_label = "Nyana"
 word = "ahetu-patisandhika"
 summary = ": see: patisandhi"
 grammar_comment = ""
@@ -816,7 +776,6 @@ also_written_as = []
 **Ahetu\-patisandhika:** see: *patisandhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "ahetuka-citta"
 summary = ": see: hetu"
 grammar_comment = ""
@@ -832,7 +791,6 @@ also_written_as = []
 **Ahetuka\-citta:** see: *hetu*
 
 ``` toml
-dict_label = "Nyana"
 word = "ahetuka-ditthi"
 summary = ": View or opinion of uncausedness or randomness of"
 grammar_comment = ""
@@ -848,7 +806,6 @@ also_written_as = []
 **Ahetuka\-ditthi:** View or opinion of uncausedness or randomness of existence & phenomena; see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "ahimsā"
 summary = "Ahimsā: see: avihimsā"
 grammar_comment = ""
@@ -864,7 +821,6 @@ also_written_as = []
 **Ahimsā:** see: *avihimsā*
 
 ``` toml
-dict_label = "Nyana"
 word = "ahirika-anottappa"
 summary = ": 'lack of moral shame and fear of wongdoing', are"
 grammar_comment = ""
@@ -882,7 +838,6 @@ also_written_as = []
 The Buddha pointed that: There are two evil things, namely, lack of moral shame and lack of fear of wongdoing A. II, 6. Not to be ashamed of what one should be ashamed of; not to be ashamed of evil, disadvantageous states: this is called lack of moral shame Pug. 59. Not to fear what one should feared… this is called lack of Fear of Wrongdoing Pug. 60.
 
 ``` toml
-dict_label = "Nyana"
 word = "ahosi-kamma"
 summary = ": 'ineffective kamma'; see: kamma."
 grammar_comment = ""
@@ -898,7 +853,6 @@ also_written_as = []
 **Ahosi\-kamma:** 'ineffective kamma'; see: *kamma.*
 
 ``` toml
-dict_label = "Nyana"
 word = "akanittha"
 summary = "Akanittha: the 'Great or Non-junior Ones', i.e. 'H"
 grammar_comment = ""
@@ -914,7 +868,6 @@ also_written_as = []
 **Akanittha:** the 'Great or Non\-junior Ones', i.e. 'Highest Gods', are the inhabitants of the 5th and highest heaven of the Pure Abodes *suddhāvāsa*, cf. *avacara* deva II *Anāgāmī*
 
 ``` toml
-dict_label = "Nyana"
 word = "akiriya-ditthi"
 summary = ": The false view or opinion of the inefficacy of a"
 grammar_comment = ""
@@ -930,7 +883,6 @@ also_written_as = []
 **Akiriya\-ditthi:** The false view or opinion of the inefficacy of action: That neither moral good nor moral evil action have any delayed consequences for anyone. This wrong view w as taught by Pūrana\-Kassapa; see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "akuppa-dhamma"
 summary = ": The unshakeable state; is that of one who has at"
 grammar_comment = ""
@@ -946,7 +898,6 @@ also_written_as = []
 **Akuppa\-dhamma:** The unshakeable state; is that of one who has attained full mastery over the absorptions *jhāna*. In Pug. 4 it is said: What person is unshakable? If a person gains the meditative attainments of the fine\-material and formless sphere *rūpāvacara* \- *arūpāvacara;* and he gains them at his wish, without any problem or strain with free choice of place, object and duration, and enters them and emerges from them effortlessly, then it is impossible that in such a person the attainments may become shaken through negligence. This person is unshakeable.
 
 ``` toml
-dict_label = "Nyana"
 word = "akuppā-ceto-vimutti"
 summary = ": Unshakeable release of mind; see ceto-vimutti"
 grammar_comment = ""
@@ -962,7 +913,6 @@ also_written_as = []
 **Akuppā\-ceto\-vimutti:** Unshakeable release of mind; see *ceto\-vimutti*
 
 ``` toml
-dict_label = "Nyana"
 word = "akusala"
 summary = "Akusala: Disadvantageous, are all those kammic int"
 grammar_comment = ""
@@ -978,7 +928,6 @@ also_written_as = []
 **Akusala:** Disadvantageous, are all those kammic intentions *kamma* \- *cetanā* see: *cetanā* and all consciousness and mental properties associated therewith, which are accompanied either by greed *lobha*, hate *dosa* or confusion *moha* or derivatives thereof. All these mental states are causing disadvantageous kamma\-results and contain the initiating seeds of unhappy & painful future, destiny and rebirth. Cf. kamma, *paticca* \- *samuppāda* 1, Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "akusala-sādhārana-cetasika"
 summary = ": Universal, general or primary disadvantageous me"
 grammar_comment = ""
@@ -994,7 +943,6 @@ also_written_as = []
 **Akusala\-sādhārana\-cetasika:** Universal, general or primary disadvantageous mental properties associated with all disadvantageous intentions: These are four; 1: Lack of moral shame *ahirika,* 2: Lack of fear of wrongdoing *anottappa*, 3: Restlessness *uddhacca*, 4: Confusion *moha*. For 1 and 2 see: *ahirika\-anottappa;* for 3 see: *nīvarana;* for 4 see: *mūla* see also the Appendix. The corresponding opposite term designating advantageous (beautiful) mental property is *sobhana\-sādhārana\-cetasika* see: *sobhana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "akusala-vitakka"
 summary = ": Disadvantageous thoughts as defined under akusal"
 grammar_comment = ""
@@ -1021,7 +969,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "alcohol prohibition"
 summary = "Alcohol restriction: see: surāmeraya - majja - ppa"
 grammar_comment = ""
@@ -1037,7 +984,6 @@ also_written_as = []
 **[[alcohol prohibition]]Alcohol restriction:** see: *surāmeraya* \- *majja* \- *ppamādatthānā*. The 5th training rule.
 
 ``` toml
-dict_label = "Nyana"
 word = "alms"
 summary = "er: V ow of going for alms-food without omitting a"
 grammar_comment = ""
@@ -1053,7 +999,6 @@ also_written_as = []
 **Alms\-Food er:** V ow of going for alms\-food without omitting any house: see: *dhutānga* 3, 4.
 
 ``` toml
-dict_label = "Nyana"
 word = "alms-bowl eater"
 summary = "eater: the practice of the: see: dhutānga 6."
 grammar_comment = ""
@@ -1069,7 +1014,6 @@ also_written_as = []
 **[[alms\-bowl eater]]Alms\-Food\-bowl eater:** the practice of the: see: *dhutānga* 6.
 
 ``` toml
-dict_label = "Nyana"
 word = "alms-giving"
 summary = ": dāna"
 grammar_comment = ""
@@ -1085,7 +1029,6 @@ also_written_as = []
 **Alms\-Food\-giving:** *dāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "alms-goer"
 summary = ": the practice of the; see: dhutānga 3."
 grammar_comment = ""
@@ -1101,7 +1044,6 @@ also_written_as = []
 **Alms\-Food\-goer:** the practice of the; see: *dhutānga* 3.
 
 ``` toml
-dict_label = "Nyana"
 word = "alobha"
 summary = "Alobha: G reedlessness is one of the 3 kammically"
 grammar_comment = ""
@@ -1117,7 +1059,6 @@ also_written_as = []
 **Alobha:** G reedlessness is one of the 3 kammically advantageous roots *mūla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "altruistic joy"
 summary = "Altruistic Mutual Joy: muditā is one of the 4 subl"
 grammar_comment = ""
@@ -1133,7 +1074,6 @@ also_written_as = []
 **[[altruistic joy]]Altruistic Mutual Joy:** *muditā* is one of the 4 sublime & divine abodes *brahma\-vihāra.*
 
 ``` toml
-dict_label = "Nyana"
 word = "amata"
 summary = "Amata: Sanskrit amrta Not to die = Deathlessness,"
 grammar_comment = ""
@@ -1149,7 +1089,6 @@ also_written_as = []
 **Amata:** Sanskrit *amrta* Not to die = Deathlessness, immortality, is a name for *Nibbāna* the final liberation from the wheel of rebirths *samsāra*, and therefore also from the ever\-repeated deaths, since the unborn cannot die…
 
 ``` toml
-dict_label = "Nyana"
 word = "amoha"
 summary = "Amoha: N on-confusion = understanding, is one of t"
 grammar_comment = ""
@@ -1165,7 +1104,6 @@ also_written_as = []
 **Amoha:** N on\-confusion = understanding, is one of the 3 kammically advantageous roots *mūla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "anabhijjhā"
 summary = "Anabhijjhā: F reedom from covetousness, jealously"
 grammar_comment = ""
@@ -1181,7 +1119,6 @@ also_written_as = []
 **Anabhijjhā:** F reedom from covetousness, jealously and envy = unselfishness; see: *kamma\-patha* II. 8.
 
 ``` toml
-dict_label = "Nyana"
 word = "anabhirati-saññā"
 summary = ": Disgustes with the entire world; see: sabba - lo"
 grammar_comment = ""
@@ -1197,7 +1134,6 @@ also_written_as = []
 **Anabhirati\-saññā:** Disgustes with the entire world; see: *sabba* \- *loke* *anabhirati* \- *sañña*.
 
 ``` toml
-dict_label = "Nyana"
 word = "analysis of the 4 elements"
 summary = "Analysis of the 4 primary elements: dhātu-vavatthā"
 grammar_comment = ""
@@ -1213,7 +1149,6 @@ also_written_as = []
 **[[analysis of the 4 elements]]Analysis of the 4 primary elements:** *dhātu\-vavatthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "analytical doctrine"
 summary = "Analytical doctrine: vibhajja-vāda"
 grammar_comment = ""
@@ -1229,7 +1164,6 @@ also_written_as = []
 **[[analytical doctrine]]Analytical doctrine:** *vibhajja\-vāda*
 
 ``` toml
-dict_label = "Nyana"
 word = "analytical knowledge"
 summary = "Analytical knowledge: the 4 kinds of: patisambhidā"
 grammar_comment = ""
@@ -1245,7 +1179,6 @@ also_written_as = []
 **[[analytical knowledge]]Analytical knowledge:** the 4 kinds of: *patisambhidā*
 
 ``` toml
-dict_label = "Nyana"
 word = "anantara-paccaya"
 summary = ": P roximity, is one of the 24 conditional relatio"
 grammar_comment = ""
@@ -1261,7 +1194,6 @@ also_written_as = []
 **Anantara\-paccaya:** P roximity, is one of the 24 conditional relations *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "anattā"
 summary = "Anattā: No-self, egolessness, soullessness, impers"
 grammar_comment = ""
@@ -1310,7 +1242,6 @@ For further details, see *paramattha\-sacca, paticca\-samuppāda, khandha, ti\-l
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "anattā-saññā"
 summary = ": Perception of no-self; of impersonality see A. V"
 grammar_comment = ""
@@ -1326,7 +1257,6 @@ also_written_as = []
 **Anattā\-saññā:** Perception of no\-self; of impersonality see A. VI, 104; A. VII, 48; A. X, 60; Ud. IV, 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "anattā-vāda"
 summary = ": The doctrine of impersonality; see: anattā"
 grammar_comment = ""
@@ -1342,7 +1272,6 @@ also_written_as = []
 **Anattā\-vāda:** The doctrine of impersonality; see: *anattā*
 
 ``` toml
-dict_label = "Nyana"
 word = "anattānupassanā"
 summary = "Anattānupassanā: C ontemplation of no-self is one"
 grammar_comment = ""
@@ -1358,7 +1287,6 @@ also_written_as = []
 **Anattānupassanā:** C ontemplation of no\-self is one of the 18 chief kinds of insight see: *vipassanā*. See also above.
 
 ``` toml
-dict_label = "Nyana"
 word = "anaññātañ-ñassāmītindriya"
 summary = ": is one of the 3 supra-mundane mental abilities;"
 grammar_comment = ""
@@ -1374,7 +1302,6 @@ also_written_as = []
 **Anaññātañ\-ñassāmīt\-indriya:** is one of the 3 supra\-mundane mental abilities; see: *indriya* 20.
 
 ``` toml
-dict_label = "Nyana"
 word = "anger"
 summary = "Anger: D iluted derivative of Hate, which is a roo"
 grammar_comment = ""
@@ -1390,7 +1317,6 @@ also_written_as = []
 **Anger:** D iluted derivative of Hate, which is a root condition; see: *mūla*
 
 ``` toml
-dict_label = "Nyana"
 word = "anicca"
 summary = "Anicca: Impermanent, transient or, as abstract nou"
 grammar_comment = ""
@@ -1424,7 +1350,6 @@ Without this deep insight into the impermanence and insubstantiality of all phen
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "anicca-saññā"
 summary = ": Perception of impermanence, is defined in the Gi"
 grammar_comment = ""
@@ -1442,7 +1367,6 @@ also_written_as = []
 Though, with a faithful heart, one takes refuge in the Buddha, his Dhamma\-Teaching and the Sangha Community of Bhikkhus; or with a faithful heart observes the rules of morality, or develops a mind full of loving\-kindness, far more advantageous is it if one cultivates the perception of impermanence, be it only for a moment A. X. 20. See A. VI, 102; A. VII, 48; Ud. IV, 1; S. XXII, 102.
 
 ``` toml
-dict_label = "Nyana"
 word = "aniccānupassanā"
 summary = "Aniccānupassanā: C ontemplation of impermanence, i"
 grammar_comment = ""
@@ -1458,7 +1382,6 @@ also_written_as = []
 **Aniccānupassanā:** C ontemplation of impermanence, is one of the 18 chief kinds of insight development see: *vipassanā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "animitta-ceto-vimutti"
 summary = ": see: ceto-vimutti"
 grammar_comment = ""
@@ -1474,7 +1397,6 @@ also_written_as = []
 **Animitta\-ceto\-vimutti:** see: *ceto\-vimutti*
 
 ``` toml
-dict_label = "Nyana"
 word = "animitta-vimokkha"
 summary = ": see: vimokkha"
 grammar_comment = ""
@@ -1490,7 +1412,6 @@ also_written_as = []
 **Animitta\-vimokkha:** see: *vimokkha*
 
 ``` toml
-dict_label = "Nyana"
 word = "animittānupassanā"
 summary = "Animittānupassanā: see: vipassanā"
 grammar_comment = ""
@@ -1506,7 +1427,6 @@ also_written_as = []
 **Animittānupassanā:** see: *vipassanā*
 
 ``` toml
-dict_label = "Nyana"
 word = "anottappa"
 summary = "Anottappa: see: ahirika"
 grammar_comment = ""
@@ -1522,7 +1442,6 @@ also_written_as = []
 **Anottappa:** see: *ahirika*
 
 ``` toml
-dict_label = "Nyana"
 word = "answering questions"
 summary = "Answering questions: 4 ways of: see: pañhā-byākara"
 grammar_comment = ""
@@ -1538,7 +1457,6 @@ also_written_as = []
 **[[answering questions]]Answering questions:** 4 ways of: see: *pañhā\-byākarana*
 
 ``` toml
-dict_label = "Nyana"
 word = "antarā-parinibbāyī"
 summary = ": is one of the 5 kinds of Non-Returners or Anāgām"
 grammar_comment = ""
@@ -1554,7 +1472,6 @@ also_written_as = []
 **Antarā\-parinibbāyī:** is one of the 5 kinds of Non\-Returners or *Anāgāmī*.
 
 ``` toml
-dict_label = "Nyana"
 word = "antinomies"
 summary = "Antinomies: see: ditthi"
 grammar_comment = ""
@@ -1570,7 +1487,6 @@ also_written_as = []
 **Antinomies:** see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "anuloma-citta"
 summary = ": 'adaptation-moment of consciousness', denotes th"
 grammar_comment = ""
@@ -1586,7 +1502,6 @@ also_written_as = []
 **Anuloma\-citta:** 'adaptation\-moment of consciousness', denotes the third of the 4 moments of impulsion *javana* flashing up immediately before either reaching the absorptions *jhāna* or the supra\-mundane paths see: *ariya\-puggala*. These 4 moments of impulsion are: the preparation *parikamma*, access *upacāra*, adaptation *anuloma* and change\-of\-lineage *gotrabhū* moments. For further details see: *javana* *gotrabhū*
 
 ``` toml
-dict_label = "Nyana"
 word = "anuloma-ñāna"
 summary = ": 'adaptation-knowledge' or conformity-knowledge,"
 grammar_comment = ""
@@ -1602,7 +1517,6 @@ also_written_as = []
 **Anuloma\-ñāna:** 'adaptation\-knowledge' or conformity\-knowledge, is identical with the 'adaptation\-to\-truth knowledge', the last of 9 insight\-knowledges *vipassanā* \- *ñāna* which constitute the purification of knowledge and vision of the path \-progress' see: *visuddhi* VI, 9. Cf. Vis.M XXI.
 
 ``` toml
-dict_label = "Nyana"
 word = "anupassanā"
 summary = "Anupassanā: Contemplation, deep reflection, profou"
 grammar_comment = ""
@@ -1629,7 +1543,6 @@ The 7 fold: The seven contemplations:
 Pts.M. I, p. 58. \- See also Vis.M XXI, 43; XXII, 114.
 
 ``` toml
-dict_label = "Nyana"
 word = "anupubba-nirodha"
 summary = ": The 9 'successive ceasings', are the 8 ceasings"
 grammar_comment = ""
@@ -1647,7 +1560,6 @@ also_written_as = []
 In him who has entered the 1st absorption, the sensual\-perception *kāma* \- *saññā* are extinguished. Having entered the 2nd absorption, thought\-conception and discursive thinking *vitakka \- vicāra* are extinguished. Having entered the 3rd absorption, joy *pīti* is extinguished. Having entered the 4th absorption, in\-and\-out breathing *assāsa\-passāsa* are extinguished. Having entered the sphere of Infinite space *ākāsānañcāyatana*, the perception of forms *rūpa* \- *saññā* are extinguished. Having entered the sphere of Infinite consciousness *viññānañcāyatana*, the perception of the sphere of Infinite space is extinguished. Having entered the sphere of nothingness *ākiñcaññāyatana*, the perception of the sphere of Infinite consciousness is extinguished. Having entered the sphere of neither\-perception\-nor\-non\-perception *neva* \- *saññā* \- *nāsaññāyatana* the perception of the sphere of nothingness is extinguished. Having entered the ceasing of perception and feeling *saññā\-vedayita\-nirodha* perception and feeling are extinguished. For further details, see: *jhāna* *nirodha\-samāpatti*
 
 ``` toml
-dict_label = "Nyana"
 word = "anupubba-vihāra"
 summary = ": the 9 'successive abodes', are identical with th"
 grammar_comment = ""
@@ -1663,7 +1575,6 @@ also_written_as = []
 **Anupubba\-vihāra:** the 9 'successive abodes', are identical with the 9 *anupubba\-nirodha* see: above. In A. IX, 33 they are called successive attainments *anupubba* \- *samāpatti*.
 
 ``` toml
-dict_label = "Nyana"
 word = "anupādisesa-nibbāna"
 summary = ": see Nibbāna & upādi"
 grammar_comment = ""
@@ -1679,7 +1590,6 @@ also_written_as = []
 **Anupādisesa\-nibbāna:** see *Nibbāna* *& upādi*
 
 ``` toml
-dict_label = "Nyana"
 word = "anurakkhana-padhāna"
 summary = ": the 'effort to maintain' advantageous states; se"
 grammar_comment = ""
@@ -1695,7 +1605,6 @@ also_written_as = []
 **Anurakkhana\-padhāna:** the 'effort to maintain' advantageous states; see: *padhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "anusaya"
 summary = "Anusaya: The 7 'latent tendencies', hidden inclina"
 grammar_comment = ""
@@ -1723,7 +1632,6 @@ These things are called 'latent tendencies' since, in consequence of their endur
 Yam. VII, first determines in which beings such and such latent tendencies exist, and which latent tendencies, and with regard to what, and in which sphere of existence. Thereafter it gives an explanation concerning their overcoming, their penetration, etc. Cf. Guide VI vii. According to Kath. several ancient Buddhist schools erroneously held the opinion that the *anusayas* as such, meant merely latent, hence kammically neutral qualities, which however contradicts the Theravāda conception. Cf. Guide V, 88, 108, 139.
 
 ``` toml
-dict_label = "Nyana"
 word = "anussati"
 summary = "Anussati: 'recollection', reflection, meditation,"
 grammar_comment = ""
@@ -1807,7 +1715,6 @@ In A. I, 21 PTS: I, xvi and A. I, 27 PTS: xx. 2 another 4 recollections are adde
 The first six recollections are fully explained in Vis.M VII, the latter four in Vis.M VIII.
 
 ``` toml
-dict_label = "Nyana"
 word = "anāgāmī"
 summary = "Anāgāmī: T he Non-Returner is a Noble Disciple Ari"
 grammar_comment = ""
@@ -1867,7 +1774,6 @@ A being, through the disappearing of the 5 lower mental chains *samyojana*, reap
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "aparihāna-dhamma"
 summary = ": 'incapable of relapse', or 'of falling away', na"
 grammar_comment = ""
@@ -1883,7 +1789,6 @@ also_written_as = []
 **Aparihāna\-dhamma:** 'incapable of relapse', or 'of falling away', namely, with regard to deliverance from some or all mental chains of existence see: *samyojana*. Thus all Noble Disciples are called, i.e. all those who have attained any of the 4 noble paths to Nobility see: *ariya\-puggala.* With regard to the absorptions *jhāna*, anyone is called 'unrelapsable' who has attained full mastery over the absorptions. See A. VI, 62; Pug. 6. Cf. *akuppa\-dhamma*
 
 ``` toml
-dict_label = "Nyana"
 word = "aparihāniya-dhamma"
 summary = ": 'conditions of welfare' lit. of non-decline, for"
 grammar_comment = ""
@@ -1899,7 +1804,6 @@ also_written_as = []
 **Aparihāniya\-dhamma:** 'conditions of welfare' lit. of non\-decline, for a nation. Seven such conditions are mentioned in the Mahā\-Parinibbāna Sutta D. 16. They are followed by five sets of 7, and one set of 6 conditions, conducive to the welfare of the Community of Bhikkhus, the Sangha. Identical texts at A. VII, 20\-25. To be distinguished from the preceding term.
 
 ``` toml
-dict_label = "Nyana"
 word = "aparāpariya-vedanīya-kamma"
 summary = ": 'kamma bearing fruits in later births'; see: kam"
 grammar_comment = ""
@@ -1915,7 +1819,6 @@ also_written_as = []
 **Aparāpariya\-vedanīya\-kamma:** 'kamma bearing fruits in later births'; see: *kamma.*
 
 ``` toml
-dict_label = "Nyana"
 word = "appamaññā"
 summary = "Appamaññā: The 4 'Infinite States', identical with"
 grammar_comment = ""
@@ -1931,7 +1834,6 @@ also_written_as = []
 **Appamaññā:** The 4 'Infinite States', identical with the 4 *brahma\-vihāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "appamāda"
 summary = "Appamāda: Alertness, attentiveness, carefulness, n"
 grammar_comment = ""
@@ -1951,7 +1853,6 @@ Just as all the footprints of living beings are surpassed by the footprint of th
 Cf. the Chapter on alertness Appamāda Vagga in Dhp., and the Buddha’s last exhortation: Transient are all constructions. Be Alert & Train! *appamādenasampādetha* D. 16 \- In the commentaries, it is often explained as the presence lit. 'non\-absence' of awareness *satiyāavippavāsa.*
 
 ``` toml
-dict_label = "Nyana"
 word = "appamāna-ceto-vimutti"
 summary = ": Infinite mental release see: ceto-vimutti Appamā"
 grammar_comment = ""
@@ -1969,7 +1870,6 @@ also_written_as = []
 **Appamāna\-subha:** a kind of divine being: see: *deva* II.
 
 ``` toml
-dict_label = "Nyana"
 word = "appamānābha"
 summary = "Appamānābha: a kind of divine being; see: deva II."
 grammar_comment = ""
@@ -1985,7 +1885,6 @@ also_written_as = []
 **Appamānābha:** a kind of divine being; see: *deva* II.
 
 ``` toml
-dict_label = "Nyana"
 word = "appanihita-vimokkha"
 summary = ": D esireless mental release see: vimokkha _ Appan"
 grammar_comment = ""
@@ -2003,7 +1902,6 @@ also_written_as = []
 \_ **Appanihitānupassanā:** Contemplation of desirelessness see: \_vipassanā*
 
 ``` toml
-dict_label = "Nyana"
 word = "appanā-samādhi"
 summary = ": Absorption concentration or full concentration f"
 grammar_comment = ""
@@ -2019,7 +1917,6 @@ also_written_as = []
 **Appanā\-samādhi:** Absorption concentration or full concentration from *apeti* to fix, is the concentration existing during absorption *jhāna*, whilst the neighbourhood or access\-concentration *upacāra* *samādhi* only approaches the 1st absorption without attaining it; see: *samādhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "appendants"
 summary = "Appendants: The 3 sticky mental glues: kiñcana"
 grammar_comment = ""
@@ -2035,7 +1932,6 @@ also_written_as = []
 **Appendants:** The 3 sticky mental glues: *kiñcana*
 
 ``` toml
-dict_label = "Nyana"
 word = "appicchatā"
 summary = "Appicchatā: Having only few wishes, contentedness,"
 grammar_comment = ""
@@ -2051,7 +1947,6 @@ also_written_as = []
 **Appicchatā:** Having only few wishes, contentedness, is one of the indispensable virtues of the monk; cf. A. X. 181\-190, and *ariya\-vamsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "apuññābhisankhāra"
 summary = "Apuññābhisankhāra: see: sankhāra"
 grammar_comment = ""
@@ -2067,7 +1962,6 @@ also_written_as = []
 **Apuññābhisankhāra:** see: *sankhāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "apāya"
 summary = "Apāya: The 4 'lower worlds'. are: the animal world"
 grammar_comment = ""
@@ -2083,7 +1977,6 @@ also_written_as = []
 **Apāya:** The 4 'lower worlds'. are: the animal world, ghost world, demon\-world, hell. See Vis.M XIII, 92f.
 
 ``` toml
-dict_label = "Nyana"
 word = "arahat"
 summary = "Arahat: and Arahatta-magga, Arahatta-phala: see: a"
 grammar_comment = ""
@@ -2099,7 +1992,6 @@ also_written_as = []
 **Arahat:** and **Arahatta\-magga, Arahatta\-phala:** see: *ariya\-puggala*
 
 ``` toml
-dict_label = "Nyana"
 word = "arising and vanishing"
 summary = "Arising and vanishing: of things. The knowledge co"
 grammar_comment = ""
@@ -2115,7 +2007,6 @@ also_written_as = []
 **[[arising and vanishing]]Arising and vanishing:** of things. The knowledge consisting in the contemplation of; see: *visuddhi* VI.1.
 
 ``` toml
-dict_label = "Nyana"
 word = "ariya-iddhi"
 summary = ": Noble Force see: iddhi"
 grammar_comment = ""
@@ -2131,7 +2022,6 @@ also_written_as = []
 **Ariya\-iddhi:** Noble Force see: *iddhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "ariya-magga"
 summary = ": see: The following."
 grammar_comment = ""
@@ -2147,7 +2037,6 @@ also_written_as = []
 **Ariya\-magga:** see: The following.
 
 ``` toml
-dict_label = "Nyana"
 word = "ariya-puggala"
 summary = ": or simply Ariya: Noble Ones, noble persons: The"
 grammar_comment = ""
@@ -2375,7 +2264,6 @@ B: The sevenfold grouping of the Noble Disciples is as follows:
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "ariya-sacca"
 summary = ": The Four 'Noble Truths'; see: sacca"
 grammar_comment = ""
@@ -2391,7 +2279,6 @@ also_written_as = []
 **Ariya\-sacca:** The Four 'Noble Truths'; see: *sacca*
 
 ``` toml
-dict_label = "Nyana"
 word = "ariya-vamsa"
 summary = ": The four Noble Usage’s, are: 1: Contentedness of"
 grammar_comment = ""
@@ -2414,7 +2301,6 @@ In the Ariya\-vamsa Sutta, A. IV, 28 and similarly in D. 33, it is said:
 Now the Bhikkhu is contented with any robe, with any alms\-food, with any dwelling, finds pleasure and enjoyment in mental training and detachment. But neither is he haughty on that account, nor does he look down upon others. Now, of a Bhikkhu who herein is fit and indefatigable, who remains aware and clearly comprehending, of such a Bhikkhu it is said that he is firmly established in the ancient lineage of Noble Usage known as the most lofty one. Full translation of the Ariya\-vamsa Sutta.
 
 ``` toml
-dict_label = "Nyana"
 word = "ariya-vihāra"
 summary = ": Noble dwelling see: vihāra"
 grammar_comment = ""
@@ -2430,7 +2316,6 @@ also_written_as = []
 **Ariya\-vihāra:** Noble dwelling see: *vihāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "arūpa-bhava"
 summary = ": Formless becoming see: Becoming bhava, and world"
 grammar_comment = ""
@@ -2446,7 +2331,6 @@ also_written_as = []
 **Arūpa\-bhava:** Formless becoming see: Becoming *bhava*, and worlds *loka.*
 
 ``` toml
-dict_label = "Nyana"
 word = "arūpa-jjhāna"
 summary = ": Formless mental absorption see: jhāna Arūpa-khan"
 grammar_comment = ""
@@ -2464,7 +2348,6 @@ also_written_as = []
 **Arūpa\-khandha:** The four formless immaterial groups of sentient existence are: feeling, perception, mental constructions, and consciousness; see: *khandha*
 
 ``` toml
-dict_label = "Nyana"
 word = "arūpāvacara"
 summary = "Arūpāvacara: Formless spheres see: avacara"
 grammar_comment = ""
@@ -2480,7 +2363,6 @@ also_written_as = []
 **Arūpāvacara:** Formless spheres see: *avacara*
 
 ``` toml
-dict_label = "Nyana"
 word = "asankhata"
 summary = "Asankhata: The Unformed, Unoriginated, Uncondition"
 grammar_comment = ""
@@ -2496,7 +2378,6 @@ also_written_as = []
 **Asankhata:** The Unformed, Unoriginated, Unconditioned, Uncreated & Unconstructed is a name for *Nibbāna,* the beyond of all becoming and conditionality.
 
 ``` toml
-dict_label = "Nyana"
 word = "asankhāra-parinibbāyī"
 summary = ": The one reaching Nibbāna without effort, is one"
 grammar_comment = ""
@@ -2512,7 +2393,6 @@ also_written_as = []
 **Asankhāra\-parinibbāyī:** The one reaching *Nibbāna* without effort, is one of the five classes of Non\-Returners *anāgāmī*
 
 ``` toml
-dict_label = "Nyana"
 word = "asankhārika-citta"
 summary = ": An Abhidhamma term signifying a 'state of consci"
 grammar_comment = ""
@@ -2528,7 +2408,6 @@ also_written_as = []
 **Asankhārika\-citta:** An Abhidhamma term signifying a 'state of consciousness arisen spontaneously, i. e. without previous deliberation, preparation, or prompting by others; hence: 'unprepared, unprompted'. This term and its counterpart *sasankhārikacitta,* probably go back to a similar distinction made in the Suttas A. IV, 171; path 184. See Tab. I; examples in Vis.M XIV, 84f.
 
 ``` toml
-dict_label = "Nyana"
 word = "asañña-satta"
 summary = ": The unconscious beings, are a class of divine be"
 grammar_comment = ""
@@ -2544,7 +2423,6 @@ also_written_as = []
 **Asañña\-satta:** The unconscious beings, are a class of divine beings in the fine\-material world; see: *deva* II. There are, Bhikkhus, divine beings known as the unconscious ones. As soon, however, as in those beings consciousness arises, those beings will vanish from that world. Now, Bhikkhus, it may happen that one of those beings after vanishing from that world, may reappear in this world. D. 24. Further details, see: Kath., Yam. Guide, pp. 68, 79, 96 ff..
 
 ``` toml
-dict_label = "Nyana"
 word = "ascending insight"
 summary = "Ascending insight: see: vutthāna - gāminī - vipass"
 grammar_comment = ""
@@ -2560,7 +2438,6 @@ also_written_as = []
 **[[ascending insight]]Ascending insight:** see: *vutthāna* \- *gāminī* \- *vipassanā*
 
 ``` toml
-dict_label = "Nyana"
 word = "ascetic purification practices"
 summary = "Ascetic purification practices: see: dhutānga"
 grammar_comment = ""
@@ -2576,7 +2453,6 @@ also_written_as = []
 **[[ascetic purification practices]]Ascetic purification practices:** see: *dhutānga*
 
 ``` toml
-dict_label = "Nyana"
 word = "asekha"
 summary = "Asekha: lit.: Learned = not-anymore-learner see: s"
 grammar_comment = ""
@@ -2592,7 +2468,6 @@ also_written_as = []
 **Asekha:** lit.: Learned = not\-anymore\-learner see: *sekha*, a disciple perfected in training, one beyond training, an adept. This is a name for the Arahat, the Noble One see: *ariya\-puggala*, since he has reached the perfection in higher moral training, higher mental training and higher understanding see: *sikkhā* and needs no longer to train himself therein.
 
 ``` toml
-dict_label = "Nyana"
 word = "asmi-māna"
 summary = ": lit.: 'I am'-conceit, 'ego-conceit', may range f"
 grammar_comment = ""
@@ -2608,7 +2483,6 @@ also_written_as = []
 **Asmi\-māna:** lit.: 'I am'\-conceit, 'ego\-conceit', may range from the coarsest pride and self\-assertion to a subtle feeling of one’s distinctiveness or superiority that persists, as the 8th fetter *samyojana*, until the attainment of Arahatship or Nobility. It falsely assumes an entity 'I' the be real and existent. It is based upon the comparison of oneself with others, and may, therefore, manifest itself also as a feeling of inferiority or the claim to be equal see: *māna*. It has to be distinguished from 'ego\-belief' *sakkāya\-ditthi* which implies a definite belief or view *ditthi* concerning the assumption of a self, personality or soul, and, being the 1st of the mental chains, which disappears at attainment of Stream\-Entry *sotāpatti*. Even when the five lower mental chains have vanished in a Noble Disciple, there is still in him, with regard to the five groups of clinging, a slight remaining measure of the conceit 'I am', of the desire 'I am', of the latent tendency 'I am' see: S. XXII, 89. *māna* This is the root assumption of Egoism.
 
 ``` toml
-dict_label = "Nyana"
 word = "association"
 summary = "Association: sampayutta-paccaya is one of the 24 c"
 grammar_comment = ""
@@ -2627,7 +2501,6 @@ Asubha:\* Impurity, loathsomeness, foulness, disgust. \- In Vis.M VI, it is the 
 It is the single\-most important tool to counteract sensual and sexual greed.
 
 ``` toml
-dict_label = "Nyana"
 word = "assāsa-passāsa"
 summary = ": In-and-out-breathing, are bodily constructions k"
 grammar_comment = ""
@@ -2643,7 +2516,6 @@ also_written_as = []
 **Assāsa\-passāsa:** In\-and\-out\-breathing, are bodily constructions *kāya* \- *sankhāra*, while directed thought and sustained thinking *vitakka* and *vicāra* are called verbal constructions *vacī\-sankhāra*, see: *sankhāra* 2. In\-and\-out\-breathing forms one of the 6 aspects of the wind\-element see: *dhātu*. Cf. M. 62.
 
 ``` toml
-dict_label = "Nyana"
 word = "asura"
 summary = "Asura: D emons, goblin, evil spirit or titan inhab"
 grammar_comment = ""
@@ -2659,7 +2531,6 @@ also_written_as = []
 **Asura:** D emons, goblin, evil spirit or titan inhabiting one of the lower worlds *apāya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "atappa"
 summary = "Atappa: T he unworried, is the name of a class of"
 grammar_comment = ""
@@ -2675,7 +2546,6 @@ also_written_as = []
 **Atappa:** T he unworried, is the name of a class of deities see: *deva* inhabiting the first of the five Pure Abodes *suddhāvāsa*, in which the *Anāgāmī* has his last rebirth.
 
 ``` toml
-dict_label = "Nyana"
 word = "atimāna"
 summary = "Atimāna: Superiority-conceit; arrogance see: māna"
 grammar_comment = ""
@@ -2691,7 +2561,6 @@ also_written_as = []
 **Atimāna:** Superiority\-conceit; arrogance see: *māna*
 
 ``` toml
-dict_label = "Nyana"
 word = "atta-ditthi"
 summary = ": - vāda: ' ego-belief ', ' personality-belief ',"
 grammar_comment = ""
@@ -2707,7 +2576,6 @@ also_written_as = []
 **Atta\-ditthi:** \- *vāda:* ' ego\-belief ', ' personality\-belief ', see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "atta-kilamatha"
 summary = ": Self-mortification = self-torture, is one of the"
 grammar_comment = ""
@@ -2723,7 +2591,6 @@ also_written_as = []
 **Atta\-kilamatha:** Self\-mortification = self\-torture, is one of the two extremes to be avoided, the other extreme being addiction to sensual pleasures *kāma* \- *sukha*, whilst the Noble 8\-fold path constitutes the Middle path *majjhima* \- *patipadā.* See the Buddha’s first sermon, The Establishment of the Realm of Dhamma: Dhamma\-cakkappavattana\-Sutta.
 
 ``` toml
-dict_label = "Nyana"
 word = "atta-saññā"
 summary = ": Atta- citta & atta- ditthi: perception, thought,"
 grammar_comment = ""
@@ -2739,7 +2606,6 @@ also_written_as = []
 **Atta\-saññā:** Atta\- *citta* *& atta\- ditthi:* perception, thought, & view of an ego, self or soul is one of the 4 perversions *vipallāsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "atta-vādupādāna"
 summary = ": Attachment to the belief or view in a constant e"
 grammar_comment = ""
@@ -2755,7 +2621,6 @@ also_written_as = []
 **Atta\-vādupādāna:** Attachment to the belief or view in a constant ego, self or soul, is one of the 4 kinds of clinging *upādāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "attachments"
 summary = "Attachments: see: parāmāsa"
 grammar_comment = ""
@@ -2771,7 +2636,6 @@ also_written_as = []
 **Attachments:** see: *parāmāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "attainment-concentration"
 summary = ": appanā-samādhi, see: samādhi"
 grammar_comment = ""
@@ -2787,7 +2651,6 @@ also_written_as = []
 **Attainment\-concentration:** *appanā\-samādhi*, see: *samādhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "attainments"
 summary = "Attainments: The 8 Attainments see: samāpatti"
 grammar_comment = ""
@@ -2803,7 +2666,6 @@ also_written_as = []
 **Attainments:** The 8 Attainments see: *samāpatti*
 
 ``` toml
-dict_label = "Nyana"
 word = "attention"
 summary = "Attention: see: manasikāra"
 grammar_comment = ""
@@ -2819,7 +2681,6 @@ also_written_as = []
 **Attention:** see: *manasikāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "attentiveness"
 summary = "Attentiveness: Attention, awareness or mindfulness"
 grammar_comment = ""
@@ -2835,7 +2696,6 @@ also_written_as = []
 **Attentiveness:** Attention, awareness or mindfulness; see: *sati* *satipatthāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "attha-patisambhidā"
 summary = ": The 'analytical knowledge of meaning', is one of"
 grammar_comment = ""
@@ -2851,7 +2711,6 @@ also_written_as = []
 **Attha\-patisambhidā:** The 'analytical knowledge of meaning', is one of the 4 kinds of analytical knowledge *patisambhidā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "atthangika-magga"
 summary = ": The Noble 8-Fold Path see: Magga."
 grammar_comment = ""
@@ -2867,7 +2726,6 @@ also_written_as = []
 **Atthangika\-magga:** The Noble 8\-Fold Path see: *Magga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "atthi-paccaya"
 summary = ": Presence, is one of the 24 conditional relations"
 grammar_comment = ""
@@ -2883,7 +2741,6 @@ also_written_as = []
 **Atthi\-paccaya:** Presence, is one of the 24 conditional relations *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "attā"
 summary = "Attā: Self, ego, personality, soul, is in Buddhism"
 grammar_comment = ""
@@ -2899,7 +2756,6 @@ also_written_as = []
 **Attā:** Self, ego, personality, soul, is in Buddhism a mere conventional expression *vohāradesanā,* and not a designation for anything really existing; see: *paramattha\-desanā, anattā, puggala, satta, jīva.*
 
 ``` toml
-dict_label = "Nyana"
 word = "auditory organ"
 summary = "Auditory organ: Ear, ability to hear see: āyatana."
 grammar_comment = ""
@@ -2915,7 +2771,6 @@ also_written_as = []
 **[[auditory organ]]Auditory organ:** Ear, ability to hear see: *āyatana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "avacara"
 summary = "Avacara: S phere, realm, level or dimension. The 3"
 grammar_comment = ""
@@ -2931,7 +2786,6 @@ also_written_as = []
 **Avacara:** S phere, realm, level or dimension. The 3 levels of existence are: the sense\-level *kāmāvacara*, the fine\-material level *rūpāvacara*, the formless level *arūpāvacara*. Which things are of the sense\-level *kāmāvacara*? Whatever things exist within the interval bounded beneath by the *Avīci* hell and above by the *paranimmitavasavatti* heaven (see: *deva* ), being therein included, to wit: the groups of existence, the elements, sources (see: *khandha* *dhātu* *āyatana )* #āyatana, form, feeling, perception, mental constructions and consciousness, all these things are of the sense\-level. But which things are then of the fine material level *rūpāvacara*? Whatever things exist within the interval bounded beneath by the Brahma\-world and above by the *akanittha* world (see: *deva* ), having therein their level, and being therein included… and also consciousness and mental properties in one who has entered the fine\-material absorptions, or who has been reborn at that level, or who already during his life\-time is living in happiness of the absorptions, all these things are of the fine\-material level. Which things are of the formless level *arūpāvacara*? Consciousness and mental properties arising within the interval bounded beneath by the beings reborn in the level of unbounded space and above by the beings reborn at the level of neither\-perception\-nor\-non\-perception (see: *jhāna* 5\-8), and the consciousness and mental properties in one who has entered the formless absorptions, or who has been reborn at that level, or who already during his lifetime is living in happiness of the formless absorptions, all these things are of the formless level. Cf. Dhs. se e: 1280, 1282, 1284; Vibh. XVIII. App.
 
 ``` toml
-dict_label = "Nyana"
 word = "aversion"
 summary = "Aversion: Towards all existence, contemplation of:"
 grammar_comment = ""
@@ -2947,7 +2801,6 @@ also_written_as = []
 **Aversion:** Towards all existence, contemplation of: see: *vipassanā* 4.
 
 ``` toml
-dict_label = "Nyana"
 word = "avigata-paccaya"
 summary = ": Non-disappearance, is one of the 24 conditional"
 grammar_comment = ""
@@ -2963,7 +2816,6 @@ also_written_as = []
 **Avigata\-paccaya:** Non\-disappearance, is one of the 24 conditional relations *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "aviha"
 summary = "Aviha: Non-falling, immovable yet derivation is un"
 grammar_comment = ""
@@ -2979,7 +2831,6 @@ also_written_as = []
 **Aviha:** Non\-falling, immovable yet derivation is uncertain; Sanskrit *avrha* is one of the five Pure Abodes *suddhāvāsa* in the fine\-material level. For details, see: under *Anāgāmī*
 
 ``` toml
-dict_label = "Nyana"
 word = "avihimsā"
 summary = "Avihimsā, ahimsā, avihesā: harmlessness, nonviolen"
 grammar_comment = ""
@@ -2995,7 +2846,6 @@ also_written_as = []
 **Avihimsā,** *ahimsā,* *avihesā:* harmlessness, nonviolence, absence of cruelty. The thought of harmlessness or non\-cruelty; *avihimsā* \- *vitakka* is one of the three constituents of right motivation *sammā\-sankappa,* i.e. the 2nd factor of the 8\-fold path see: *magga*. In the several lists of elements *dhātu* appears also an element of harmlessness *avihesā* \- *dhātu*, in the sense of an irreducible elementary quality of Noble thought, speech & behaviour. See Dhp. 225, 261, 270, 300.
 
 ``` toml
-dict_label = "Nyana"
 word = "avijjā"
 summary = "Avijjā: I gnorance, nescience, the blindness of no"
 grammar_comment = ""
@@ -3017,7 +2867,6 @@ As ignorance still exists though in a very refined way until the attainment of A
 Ignorance is one of the fermentations *āsava* and latent tendencies *anusaya*. It is often called a hindrance *nīvarana* e.g. in S. XV, 3; A. X, 61 but does not appear together with the usual list of five hindrances. It is however immanent in them all, yet especially dominant in doubt & uncertainty *vicikicchā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "avikkhepa"
 summary = "Avikkhepa: Undistractedness, is a synonym of conce"
 grammar_comment = ""
@@ -3033,7 +2882,6 @@ also_written_as = []
 **Avikkhepa:** Undistractedness, is a synonym of concentration *samādhi*, one\-pointedness of mind *citt’ekaggatā* and calm tranquillity *samatha*, further see: *samatha* \- *vipassanā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "avoidance"
 summary = "Avoidance: see: Cāritta-sīla - The effort to avoid"
 grammar_comment = ""
@@ -3049,7 +2897,6 @@ also_written_as = []
 **Avoidance:** see: *Cāritta\-sīla* \- The effort to avoid all evil states, see: *padhāna* 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "avyākata"
 summary = "Avyākata: Indeterminable - i.e. neither determined"
 grammar_comment = ""
@@ -3065,7 +2912,6 @@ also_written_as = []
 **Avyākata:** Indeterminable \- i.e. neither determined as kammically advantageous nor as disadvantageous \- are the kammically neutral or inert, i.e. amoral, states of consciousness and mental properties. They are either 1: Mere kamma\-results *vipāka*, as e.g. all the sense perceptions and the mental properties associated therewith, or they are 2: Kammically independent & inert functions *kiriya* \- *citta*, i.e. neither kammic nor kamma\-resultant. See Tab. I. App.
 
 ``` toml
-dict_label = "Nyana"
 word = "avyāpāda"
 summary = "Avyāpāda: Hatelessness, non-ill-will, good-will, a"
 grammar_comment = ""
@@ -3081,7 +2927,6 @@ also_written_as = []
 **Avyāpāda:** Hatelessness, non\-ill\-will, good\-will, amity, goodness; is one of the three kinds of right motivation (see: *sacca* IV. 2), or advantageous thoughts *vitakka* and is the 9th of the 10 advantageous courses of actions *kamma\-patha* II. The most frequently used synonyms are *adosa* (see: *mūla* ) and *mettā* (see: *brahma\-vihāra* ).
 
 ``` toml
-dict_label = "Nyana"
 word = "avīci"
 summary = "Avīci: is the name of one of the most frightful he"
 grammar_comment = ""
@@ -3097,7 +2942,6 @@ also_written_as = []
 **Avīci:** is the name of one of the most frightful hells *niraya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "awakenment"
 summary = "Awakening: see: Bodhi"
 grammar_comment = ""
@@ -3113,7 +2957,6 @@ also_written_as = []
 **Awakening:** see: *Bodhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "añña"
 summary = "Añña: Other, being of the opposite category."
 grammar_comment = ""
@@ -3129,7 +2972,6 @@ also_written_as = []
 **Añña:** Other, being of the opposite category.
 
 ``` toml
-dict_label = "Nyana"
 word = "aññindriya"
 summary = "Aññindriya: T he ability of highest knowledge; see"
 grammar_comment = ""
@@ -3145,7 +2987,6 @@ also_written_as = []
 **Aññindriya:** T he ability of highest knowledge; see: *aññā* and *indriya* 21.
 
 ``` toml
-dict_label = "Nyana"
 word = "aññā"
 summary = "Aññā: 'highest knowledge', gnosis, refers to the p"
 grammar_comment = ""
@@ -3163,7 +3004,6 @@ also_written_as = []
 The 'ability of highest knowledge' *aññ* *indriya* *=* *aññā* \- *indriya*; see: *indriya*, however, is present in six of the eight stages of Nobility, that is, beginning with the fruition of Stream\-Winning *sotāpatti* \- *phala* up to the path of Nobility *arahatta* \- *magga*. See Dhs. PTS 362\-364, 505, 553; Indriya Vibhanga; path 162.
 
 ``` toml
-dict_label = "Nyana"
 word = "aññāmañña-paccaya"
 summary = ": M utuality-condition, is one of the 24 condition"
 grammar_comment = ""
@@ -3179,7 +3019,6 @@ also_written_as = []
 **Aññāmañña\-paccaya:** M utuality\-condition, is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "aññātāvindriya"
 summary = "Aññātāvindriya: T he ability of one who knows; see"
 grammar_comment = ""
@@ -3195,7 +3034,6 @@ also_written_as = []
 **Aññātāvindriya:** T he ability of one who knows; see: *indriya* 22.
 
 ``` toml
-dict_label = "Nyana"
 word = "bahula-kamma"
 summary = ": 'habitual kamma': see: kamma."
 grammar_comment = ""
@@ -3211,7 +3049,6 @@ also_written_as = []
 **Bahula\-kamma:** 'habitual kamma': see: kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "bala"
 summary = "Bala: 'powers'. Among various groups of powers the"
 grammar_comment = ""
@@ -3235,7 +3072,6 @@ Cf. see: XLVIII, 43; see: L. Bala Samyutta.
 In A. VII, 3, the powers of moral shame *hiri* and Fear of Wrongdoing *ottappa* are added to the aforementioned five Several other groups of 2 see: *patisankhāna\-bala*, 4, 5 and more powers are mentioned in the texts. \- About the 10 powers of a Buddha, see: *dasa* \- *bala*
 
 ``` toml
-dict_label = "Nyana"
 word = "balance of mental faculties"
 summary = "Balance of mental abilities: indriya samatta."
 grammar_comment = ""
@@ -3251,7 +3087,6 @@ also_written_as = []
 **[[balance of mental faculties]]Balance of mental abilities:** *indriya samatta*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bases"
 summary = "Bases: The 12 of the perceptual process: āyatana"
 grammar_comment = ""
@@ -3267,7 +3102,6 @@ also_written_as = []
 **Bases:** The 12 of the perceptual process: *āyatana*
 
 ``` toml
-dict_label = "Nyana"
 word = "beautiful"
 summary = "Beautiful: sobhana."
 grammar_comment = ""
@@ -3283,7 +3117,6 @@ also_written_as = []
 **Beautiful:** *sobhana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "beauty"
 summary = "Beauty: deliverance through the perception of: cf."
 grammar_comment = ""
@@ -3299,7 +3132,6 @@ also_written_as = []
 **Beauty:** deliverance through the perception of: cf. *vimokkha* II. 3 To hold for beautiful or pure *subha* what is impure *asubha*, is one of the 4 perversions see: *vipallāsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "behaviour"
 summary = "Behaviour: morality consisting in good: abhisamācā"
 grammar_comment = ""
@@ -3315,7 +3147,6 @@ also_written_as = []
 **Behaviour:** morality consisting in good: *abhisamācārikasīla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "being"
 summary = "Being: living: satta, further see: puggala. - Beli"
 grammar_comment = ""
@@ -3331,7 +3162,6 @@ also_written_as = []
 **Being:** living: *satta*, further see: *puggala*. \- Belief in eternal personality: *bhava\-ditthi* see: *ditthi*, *sassata\-ditthi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "beings"
 summary = "Beings: The 9 worlds of: sattāvāsa."
 grammar_comment = ""
@@ -3347,7 +3177,6 @@ also_written_as = []
 **Beings:** The 9 worlds of: *sattāvāsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "belief"
 summary = "Belief: blind: see: indriya-samatta."
 grammar_comment = ""
@@ -3363,7 +3192,6 @@ also_written_as = []
 **Belief:** blind: see: *indriya\-samatta*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bhangānupassanā-ñāna"
 summary = ": 'knowledge consisting in contemplation of dissol"
 grammar_comment = ""
@@ -3379,7 +3207,6 @@ also_written_as = []
 **Bhangānupassanā\-ñāna:** 'knowledge consisting in contemplation of dissolution' of all forms of existence, is one kind of insight: see: *visuddhi* VI, 2.
 
 ``` toml
-dict_label = "Nyana"
 word = "bhava"
 summary = "Bhava: 'becoming', 'process of existence', consist"
 grammar_comment = ""
@@ -3415,7 +3242,6 @@ The whole process of existence may be divided into two aspects:
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "bhava-ditthi"
 summary = ": 'belief in being' eternal personality; see: sass"
 grammar_comment = ""
@@ -3431,7 +3257,6 @@ also_written_as = []
 **Bhava\-ditthi:** 'belief in being' eternal personality; see: *sassataditthi, ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "bhava-tanhā"
 summary = ": 'craving for eternal existence'; see: tanhā"
 grammar_comment = ""
@@ -3447,7 +3272,6 @@ also_written_as = []
 **Bhava\-tanhā:** 'craving for eternal existence'; see: *tanhā*
 
 ``` toml
-dict_label = "Nyana"
 word = "bhavanga-santāna"
 summary = ": 'continuity of subconsciousness'; see: santāna"
 grammar_comment = ""
@@ -3463,7 +3287,6 @@ also_written_as = []
 **Bhavanga\-santāna:** 'continuity of subconsciousness'; see: *santāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "bhavanga-sota"
 summary = ": and Bhavanga-citta: The first term may tentative"
 grammar_comment = ""
@@ -3483,7 +3306,6 @@ It should be noted that *bhavanga\-citta* is a kamma\-resultant state of conscio
 As soon as rebirth\-consciousness in the embryo at the time of conception has ceased, there arises a similar subconsciousness with exactly the same object, following immediately upon rebirth\-consciousness and being the result of this or that kamma intentional action done in a former birth and remembered there at the moment before death. And again a further similar state of subconsciousness arises. Now, as long as no other consciousness arises to interrupt the continuity of the life\-stream, so long the life\-stream, like the flow of a river, rises in the same way again and again, even during dreamless sleep and at other times. In this way one has to understand the continuous arising of those states of consciousness in the life\-stream. Cf. *viññāna\-kicca*. For more details, see: Fund. 11. App..
 
 ``` toml
-dict_label = "Nyana"
 word = "bhavāsava"
 summary = "Bhavāsava: 'fermentation of existence'; see: āsava"
 grammar_comment = ""
@@ -3499,7 +3321,6 @@ also_written_as = []
 **Bhavāsava:** 'fermentation of existence'; see: *āsava*
 
 ``` toml
-dict_label = "Nyana"
 word = "bhayatupatthāna-ñāna"
 summary = ": 'knowledge consisting in the awareness of terror"
 grammar_comment = ""
@@ -3515,7 +3336,6 @@ also_written_as = []
 **Bhayatupatthāna\-ñāna:** 'knowledge consisting in the awareness of terror', is one of those kinds of insight\-knowledge that form the 'purification by knowledge and vision of the path \-progress' see: *visuddhi*, VI..
 
 ``` toml
-dict_label = "Nyana"
 word = "bhikkhu"
 summary = "Bhikkhu: A fully ordained disciple of the Buddha i"
 grammar_comment = ""
@@ -3531,7 +3351,6 @@ also_written_as = []
 **Bhikkhu:** A fully ordained disciple of the Buddha is called a Bhikkhu. Mendicant Bhikkhu may be suggested as the closest equivalent for Bhikkhu, literally it means he who begs but Bhikkhus do not beg. They silently stand at the door for food. They live on what is spontaneously given by the supporters. He is not a priest as he is no mediator between God and man. He has no vows for life, but he is bound by his rules which he takes of his own accord. He leads a life of voluntary poverty and celibacy. If he is unable to live the Noble Life, he can discard the robe at any time.
 
 ``` toml
-dict_label = "Nyana"
 word = "bhojane mattaññutā"
 summary = "Bhojane mattaññutā: 'knowing the measure in eating"
 grammar_comment = ""
@@ -3549,7 +3368,6 @@ also_written_as = []
 Now, o Bhikkhus, the Bhikkhu wisely reflecting partakes of his foodfood, neither for pastime, nor for indulgence, nor to become beautiful or handsome, but only to maintain and support this body, to avoid harm and to assist the Noble life, knowing: 'In this way I shall dispel the former pain of hunger, etc. and no new pain shall I let arise, and long life, blamelessness and ease will be my share ' This, o Bhikkhus, is knowing the measure in eating. A. III. 16. How o Bhikkhus, would it be possible for Nanda to lead the absolutely pure life of Nobility, if he did not watch over his senses and did not know the measure in eating? A. VII, 9.
 
 ``` toml
-dict_label = "Nyana"
 word = "bhāva"
 summary = "Bhāva: feminine and masculine 'nature', refers to"
 grammar_comment = ""
@@ -3565,7 +3383,6 @@ also_written_as = []
 **Bhāva:** feminine and masculine 'nature', refers to the sexual characteristics of the body, and belongs to the group of materiality see: *khandha*. It is a commentarial term for the abilities of femininity and masculinity see: *indriya* 7, 8. App..
 
 ``` toml
-dict_label = "Nyana"
 word = "bhāvanā"
 summary = "Bhāvanā: 'mental development' lit. 'calling into e"
 grammar_comment = ""
@@ -3649,7 +3466,6 @@ Vis.M III\-XI gives full directions how to attain full concentration and the abs
 Mental development forms one of the 3 kinds of meritorious action *puñña\-kiriya\-vatthu*. 'Delight in meditation' *bhāvanā* \- *rāmatā* is one of the noble usages *ariya\-vamsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bhāvanā-bala"
 summary = ": see: patisankhāna-bala"
 grammar_comment = ""
@@ -3665,7 +3481,6 @@ also_written_as = []
 **Bhāvanā\-bala:** see: *patisankhāna\-bala*
 
 ``` toml
-dict_label = "Nyana"
 word = "bhāvanā-maya-paññā"
 summary = ": understanding based on mental development'; see:"
 grammar_comment = ""
@@ -3681,7 +3496,6 @@ also_written_as = []
 **Bhāvanā\-maya\-paññā:** understanding based on mental development'; see: *paññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "biases"
 summary = "Biases: see: Āsava"
 grammar_comment = ""
@@ -3697,7 +3511,6 @@ also_written_as = []
 **Biases:** see: *Āsava*
 
 ``` toml
-dict_label = "Nyana"
 word = "birth process"
 summary = "Birth process: upapatti-bhava: see: bhava. Further"
 grammar_comment = ""
@@ -3713,7 +3526,6 @@ also_written_as = []
 **[[birth process]]Birth process:** *upapatti\-bhava*: see: *bhava*. Further see: *patisandhi, jāti*
 
 ``` toml
-dict_label = "Nyana"
 word = "bodhi"
 summary = "Bodhi: from verbal root budhi to awaken, to unders"
 grammar_comment = ""
@@ -3739,7 +3551,6 @@ The commentaries e.g. to M., Buddhavamsa, Cariyapitaka generally give a 4\-fold 
 Neither in the canonical texts nor in the old commentaries is it stated that a follower of the Buddha may choose between the three kinds of enlightenment and aspire either to become a Buddha, a Pacceka\-Buddha, or an Arahat\-disciple. This conception of a choice between three aspirations is, however, frequently found in present\-day Theravāda countries, e.g. in Sri Lanka.
 
 ``` toml
-dict_label = "Nyana"
 word = "bodhipakkhiya-dhammā"
 summary = ": The 37 'things pertaining to enlightenment', or"
 grammar_comment = ""
@@ -3783,7 +3594,6 @@ In M. 77 all the 37 *bodhipakkhiya\-dhammā* are enumerated and explained though
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "bodhisatta"
 summary = "Bodhisatta: 'Enlightenment Being', is a being dest"
 grammar_comment = ""
@@ -3801,7 +3611,6 @@ also_written_as = []
 In the Pāli Canon and commentaries, the designation 'Bodhisatta' is given only to Prince Siddhattha before his enlightenment and to his former existences. The Buddha himself uses this term when speaking of his life prior to enlightenment e.g. M. 4, M. 26. Bodhisattahood is neither mentioned nor recommended as an ideal higher than or alternative to Arahatship; nor is there any record in the Pāli scriptures of a disciple declaring it as his aspiration. \- See *bodhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bodily action"
 summary = "Bodily action: advantageous or disadvantageous; se"
 grammar_comment = ""
@@ -3817,7 +3626,6 @@ also_written_as = []
 **[[bodily action]]Bodily action:** advantageous or disadvantageous; see: kamma, kamma constructions \- Right **b.a.** = *sammā* \- *kammanta*, see: *magga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bodily postures"
 summary = "Bodily postures: the 4: iriyā-patha"
 grammar_comment = ""
@@ -3833,7 +3641,6 @@ also_written_as = []
 **[[bodily postures]]Bodily postures:** the 4: *iriyā\-patha*
 
 ``` toml
-dict_label = "Nyana"
 word = "body"
 summary = "Body: kāya Contemplation on the b. is one of the 4"
 grammar_comment = ""
@@ -3849,7 +3656,6 @@ also_written_as = []
 **Body:** *kāya* Contemplation on the **b.** is one of the 4 *satipatthāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "body-witness"
 summary = ": kāya-sakkhi."
 grammar_comment = ""
@@ -3865,7 +3671,6 @@ also_written_as = []
 **Body\-witness:** *kāya\-sakkhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bojjhanga"
 summary = "Bojjhanga: 'the 7 factors of enlightenment', are:"
 grammar_comment = ""
@@ -3955,7 +3760,6 @@ They may be attained by means of the 4 foundations of awareness or mindfulness *
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "bondages"
 summary = "Bondages: mental: cetaso vinibandha."
 grammar_comment = ""
@@ -3971,7 +3775,6 @@ also_written_as = []
 **Bondages:** mental: *cetaso vinibandha*.
 
 ``` toml
-dict_label = "Nyana"
 word = "bonds"
 summary = "Bonds: the 4: yoga."
 grammar_comment = ""
@@ -3987,7 +3790,6 @@ also_written_as = []
 **Bonds:** the 4: *yoga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "both-ways liberated"
 summary = "liberated: see: ubhato-bhāga-vimutta ariyapuggala"
 grammar_comment = ""
@@ -4003,7 +3805,6 @@ also_written_as = []
 **[[both\-ways liberated]]Both\-ways liberated:** see: *ubhato\-bhāga\-vimutta* *ariyapuggala* B. 4.
 
 ``` toml
-dict_label = "Nyana"
 word = "brahma-cariya"
 summary = ": 'pure chaste or Noble life', is a term for the l"
 grammar_comment = ""
@@ -4019,7 +3820,6 @@ also_written_as = []
 **Brahma\-cariya:** 'pure chaste or Noble life', is a term for the life of the monk. Also a lay\-devotee who observes the 8 moral precepts *sikkhāpada*, takes as the third precept the vow of chastity, i.e. full abstention from sexual relations. The highest aim and purpose of **b.** is, according to M. 29, the 'unshakable deliverance of mind' *akuppā* *ceto* \- *vimutti*.
 
 ``` toml
-dict_label = "Nyana"
 word = "brahma-kāyika-deva"
 summary = ": The 'divine beings of the Brahma-world' inhabit"
 grammar_comment = ""
@@ -4035,7 +3835,6 @@ also_written_as = []
 **Brahma\-kāyika\-deva:** The 'divine beings of the Brahma\-world' inhabit the first 3 heavens of the fine\-material world, *rūpaloka* corresponding to the 1st absorption *jhāna*. The highest ruler of them is called the Great Brahma *mahā* \- *brahmā.* With caustic humor he is said D. 11 to pretend: I am Brahma, the Great Brahmā, the Most High, the Invincible One, the Omniscient One, the Ruler, the Lord, the Creator, the Maker, the Perfect One, the Preserver, the Controller, the Father of all that was and will be. Cf. *deva* II. 1\-3.
 
 ``` toml
-dict_label = "Nyana"
 word = "brahma-loka"
 summary = ": 'Brahma-world', in the widest sense, is a name f"
 grammar_comment = ""
@@ -4051,7 +3850,6 @@ also_written_as = []
 **Brahma\-loka:** 'Brahma\-world', in the widest sense, is a name for the fine\-material *rūpa* \- *loka* and immaterial world *arūpa* \- *loka;* in a narrower sense, however, only for the first three heavens of the fine\-material world. Cf. *brahma* \- *kāyika* \- *deva*.
 
 ``` toml
-dict_label = "Nyana"
 word = "brahma-vihāra"
 summary = ": the 4 'sublime' or 'divine abodes', also called"
 grammar_comment = ""
@@ -4071,7 +3869,6 @@ The stereotype text on the development of these 4 sublime abodes *brahma* \- *vi
 Literature: Detailed explanation in Vis.M IX. \- For texts see: path, 97ff; texts on *mettā* in The Practice of Loving Kindness, by ñānamoli Thera WHEEL 7. \- The Four Sublime States, by Nyanaponika Thera WHEEL 6. \- Brahma Vihāra, by Narada Thera Vajirarama, Colombo, 1962.
 
 ``` toml
-dict_label = "Nyana"
 word = "breathing"
 summary = "Breathing: awareness or mindfulness of in-and-out-"
 grammar_comment = ""
@@ -4087,7 +3884,6 @@ also_written_as = []
 **Breathing:** awareness or mindfulness of in\-and\-out\-breathing *ānāpānasati.*
 
 ``` toml
-dict_label = "Nyana"
 word = "buddha"
 summary = "Buddha: see: sammā-sambodhi."
 grammar_comment = ""
@@ -4103,7 +3899,6 @@ also_written_as = []
 **Buddha:** see: *sammā\-sambodhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "buddha-sāsana"
 summary = ": see: sāsana"
 grammar_comment = ""
@@ -4119,7 +3914,6 @@ also_written_as = []
 **Buddha\-sāsana:** see: *sāsana*
 
 ``` toml
-dict_label = "Nyana"
 word = "buddhānussati"
 summary = "Buddhānussati: 'recollection of the Enlightened On"
 grammar_comment = ""
@@ -4135,7 +3929,6 @@ also_written_as = []
 **Buddhānussati:** 'recollection of the Enlightened One'; see: *anussati*
 
 ``` toml
-dict_label = "Nyana"
 word = "cakka"
 summary = "Cakka: 'wheel', is one of the seven 'precious poss"
 grammar_comment = ""
@@ -4165,7 +3958,6 @@ Another figurative meaning of C. is 'blessing'. There are 4 such 'auspicious whe
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "cakkhu"
 summary = "Cakkhu: 'eye' see: āyatana The foll. 5 kinds of 'e"
 grammar_comment = ""
@@ -4181,7 +3973,6 @@ also_written_as = []
 **Cakkhu:** 'eye' see: *āyatana* The foll. 5 kinds of 'eyes' are mentioned and explained in CNid. PTS, p. 235; the first 3 also in It. 52: 1. the physical eye *mamsa* *cakkhu*. the divine eye *dibba\-cakkhu* see: *abhiññā*,. the eye of understanding *paññā* \- *cakkhu* the eye of a Buddha *buddha\- **c.**,* . the eye of all\-round knowledge *samanta* **c.;** a frequent appellation of the Buddha.
 
 ``` toml
-dict_label = "Nyana"
 word = "cakkhu-dhātu"
 summary = ": 'the element;visual organ; 'see: dhātu."
 grammar_comment = ""
@@ -4197,7 +3988,6 @@ also_written_as = []
 **Cakkhu\-dhātu:** 'the element;visual organ; 'see: *dhātu*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cakkhu-viññāna"
 summary = ": 'visual-consciousness' see: viññāna."
 grammar_comment = ""
@@ -4213,7 +4003,6 @@ also_written_as = []
 **Cakkhu\-viññāna:** 'visual\-consciousness' see: *viññāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cakkhāyatana"
 summary = "Cakkhāyatana: 'the base;visual organ; ' see: āyata"
 grammar_comment = ""
@@ -4229,7 +4018,6 @@ also_written_as = []
 **Cakkhāyatana:** 'the base;visual organ; ' see: *āyatana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "carana"
 summary = "Carana: see: vijjā-carana."
 grammar_comment = ""
@@ -4245,7 +4033,6 @@ also_written_as = []
 **Carana:** see: *vijjā\-carana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "carita"
 summary = "Carita: 'nature, character'. In Vis.M III there ar"
 grammar_comment = ""
@@ -4261,7 +4048,6 @@ also_written_as = []
 **Carita:** 'nature, character'. In Vis.M III there are explained six types of men: the greedy\-natured *rāga\-carita* the hate\-natured *dosa\-carita* the stupid or dull\-natured *moha\-carita* the faithful\-natured *saddhā* \- *carita* the intelligent\-natured *buddhi* \- *carita* the ruminating\-natured *vitakka* \- *carita* App..
 
 ``` toml
-dict_label = "Nyana"
 word = "catu-dhātu-vavatthāna"
 summary = ": 'analysis of the four elements'; see: dhātu-vava"
 grammar_comment = ""
@@ -4277,7 +4063,6 @@ also_written_as = []
 **Catu\-dhātu\-vavatthāna:** 'analysis of the four elements'; see: *dhātu\-vavatthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "catu-mahārājika-deva"
 summary = ": a class of divine beings of the sense-sphere; se"
 grammar_comment = ""
@@ -4293,7 +4078,6 @@ also_written_as = []
 **Catu\-mahārājika\-deva:** a class of divine beings of the sense\-sphere; see: *deva*.
 
 ``` toml
-dict_label = "Nyana"
 word = "catu-pārisuddhi-sīla"
 summary = ": see: sīla."
 grammar_comment = ""
@@ -4309,7 +4093,6 @@ also_written_as = []
 **Catu\-pārisuddhi\-sīla:** see: *sīla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "catu-vokāra-bhava"
 summary = ": 'four-group existence', is the existence in the"
 grammar_comment = ""
@@ -4325,7 +4108,6 @@ also_written_as = []
 **Catu\-vokāra\-bhava:** 'four\-group existence', is the existence in the immaterial world *arūpa* \- *loka* see: *loka* since only the four mental groups feeling, perception, mental constructions, consciousness, see: *khandha* are found there, the materiality group being absent. Cf. *pañca\-vokāra\-bhava, eka\-vokāra\-bhava* App.: *vokāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cause"
 summary = "Cause: cf. paccaya 1. - For the five c.: of existe"
 grammar_comment = ""
@@ -4341,7 +4123,6 @@ also_written_as = []
 **Cause:** cf. *paccaya* 1. \- For the five **c.:** of existence, see: *paticca* \- *samuppāda* 10.
 
 ``` toml
-dict_label = "Nyana"
 word = "ceasing"
 summary = "Ceasing: see: nirodha; of craving: tanhakkhaya."
 grammar_comment = ""
@@ -4357,7 +4138,6 @@ also_written_as = []
 **Ceasing:** see: *nirodha*; of craving: *tanhakkhaya.*
 
 ``` toml
-dict_label = "Nyana"
 word = "cemetery"
 summary = "Cemetery: ascetic practice of living in a c.; see:"
 grammar_comment = ""
@@ -4373,7 +4153,6 @@ also_written_as = []
 **Cemetery:** ascetic practice of living in a **c.;** see: *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cemetery-meditations"
 summary = ": see: sīvathikā."
 grammar_comment = ""
@@ -4389,7 +4168,6 @@ also_written_as = []
 **Cemetery\-meditations:** see: *sīvathikā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "cetanā"
 summary = "Cetanā: 'intention', will, is one of the seven men"
 grammar_comment = ""
@@ -4407,7 +4185,6 @@ also_written_as = []
 With regard to kammical intention i.e. advantageous or disadvantageous kamma it is said in A. VI, 13:;intention is action kamma, thus I say, o Bhikkhus; for as soon as intention arises, one does the action, be it by body, speech or mind.; For details, see: *paticca* \- *samuppāda* 10, kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "cetasika"
 summary = "Cetasika: 'mental things, mental properties', are"
 grammar_comment = ""
@@ -4423,7 +4200,6 @@ also_written_as = []
 **Cetasika:** 'mental things, mental properties', are those mental properties which are bound up with the simultaneously arising consciousness *citta* *=* *viññāna* and conditioned by its presence. Whereas in the Suttas all phenomena of existence are summed up under the aspect of 5 groups: materiality, feeling, perception, mental constructions, consciousness see: *khandha* the Abhidhamma as a rule treats them under the more philosophical 3 aspects: consciousness, mental properties and materiality *citta, cetasika, rūpa* Thus, of these 3 aspects, the mental properties *cetasika* comprise feeling, perception and the 50 mental constructions, altogether 52 mental properties. Of these, 25 are lofty qualities either kammically advantageous or neutral, 14 kammically disadvantageous, while 13 are as such kammically neutral, their kammical quality depending on whether they are associated with advantageous, disadvantageous or neutral consciousness. For details see: Tab. II, III. Cf. prec. App.
 
 ``` toml
-dict_label = "Nyana"
 word = "cetaso vinibandha"
 summary = "Cetaso vinibandha: 'mental bondages', are 5 things"
 grammar_comment = ""
@@ -4439,7 +4215,6 @@ also_written_as = []
 **[[cetaso vinibandha]]Cetaso vinibandha:** 'mental bondages', are 5 things which hinder the mind from making right exertion, namely: lust for sense\-objects, for the body, for visible things, for eating and sleeping, and leading the monk’s life for the sake of divine rebirth. For details, see: A. V, 205; X, 14; D. 33; M. 16. Cf. foll.
 
 ``` toml
-dict_label = "Nyana"
 word = "ceto-pariya-ñāna"
 summary = ": 'penetrating knowledge of the mind of others', i"
 grammar_comment = ""
@@ -4455,7 +4230,6 @@ also_written_as = []
 **Ceto\-pariya\-ñāna:** 'penetrating knowledge of the mind of others', is one of the 6 higher powers *abhiññā* 3.
 
 ``` toml
-dict_label = "Nyana"
 word = "ceto-vimutti"
 summary = ": 'deliverance of mind'. In the highest sense it s"
 grammar_comment = ""
@@ -4475,7 +4249,6 @@ It is also called 'unshakable deliverance of mind' *akuppa* further 'Infinite of
 In a more restricted sense, 'Infinite deliverance of mind' is a name for the 4 Infinite states, i.e. loving\-kindness, Pity, altruistic joy and equanimity see: *brahma\-vihāra; d. of m. from the appendages stands for the sphere of nothingness ākiñcaññāyatana* see: *jhāna* 7; 'd. of mind from the conditions of existence', for of mind due to non\-attention to all conditions of existence; 'void of m' for of m. due to contemplating voidness of self. For further details, see: M. 43.
 
 ``` toml
-dict_label = "Nyana"
 word = "cetokhila"
 summary = "Cetokhila: 'mental obduracies', are 5 things which"
 grammar_comment = ""
@@ -4491,7 +4264,6 @@ also_written_as = []
 **Cetokhila:** 'mental obduracies', are 5 things which stiffen and hinder the mind from making right exertion, namely: doubt about the Master, about the Doctrine, about the Noble Brotherhood, about the training, and anger against one’s fellow\-Bhikkhus. For details A. V, 206, X 14; D. 33; M. 16. Cf. prec.
 
 ``` toml
-dict_label = "Nyana"
 word = "chal-abhiñño"
 summary = ": an Arahat who is a 'possessor of the 6 higher po"
 grammar_comment = ""
@@ -4507,7 +4279,6 @@ also_written_as = []
 **Chal\-abhiñño:** an Arahat who is a 'possessor of the 6 higher powers' see: *abhiññā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "chal-abhiññā"
 summary = ": the 6 'higher powers'; see: abhiññā"
 grammar_comment = ""
@@ -4523,7 +4294,6 @@ also_written_as = []
 **Chal\-abhiññā:** the 6 'higher powers'; see: *abhiññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "chanda"
 summary = "Chanda: intention, desire, will.           1. As a"
 grammar_comment = ""
@@ -4565,7 +4335,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "change"
 summary = "Change: contemplation of: one of the 18 chief kind"
 grammar_comment = ""
@@ -4581,7 +4350,6 @@ also_written_as = []
 **Change:** contemplation of: one of the 18 chief kinds of insight *vipassanā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "chaos"
 summary = "Chaos: cf. kappa"
 grammar_comment = ""
@@ -4597,7 +4365,6 @@ also_written_as = []
 **Chaos:** cf. *kappa*
 
 ``` toml
-dict_label = "Nyana"
 word = "character"
 summary = "Character: On the 6 kinds of human character, see:"
 grammar_comment = ""
@@ -4613,7 +4380,6 @@ also_written_as = []
 **Character:** On the 6 kinds of human character, see: *carita*.
 
 ``` toml
-dict_label = "Nyana"
 word = "characteristics"
 summary = "Characteristics: of existence, the. 3: ti-lakkhana"
 grammar_comment = ""
@@ -4629,7 +4395,6 @@ also_written_as = []
 **Characteristics:** of existence, the. 3: *ti\-lakkhana*
 
 ``` toml
-dict_label = "Nyana"
 word = "chaste life"
 summary = "Chaste life: brahma-cariya"
 grammar_comment = ""
@@ -4645,7 +4410,6 @@ also_written_as = []
 **[[chaste life]]Chaste life:** *brahma\-cariya*
 
 ``` toml
-dict_label = "Nyana"
 word = "chief-elements"
 summary = ": the 4: mahā-bhūta -d hātu"
 grammar_comment = ""
@@ -4661,7 +4425,6 @@ also_written_as = []
 **Chief\-elements:** the 4: *mahā\-bhūta* \-d *hātu*
 
 ``` toml
-dict_label = "Nyana"
 word = "cintā-maya-paññā"
 summary = ": 'Wisdom or knowledge based on thinking', see: pa"
 grammar_comment = ""
@@ -4677,7 +4440,6 @@ also_written_as = []
 **Cintā\-maya\-paññā:** 'Wisdom or knowledge based on thinking', see: *paññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "citt'ekaggatā"
 summary = "citt’ekaggatāCitt’ekaggatā: = cittass’ekaggatā"
 grammar_comment = ""
@@ -4693,7 +4455,6 @@ also_written_as = []
 **[[citt’ekaggatā]]Citt’ekaggatā:** = *cittass’ekaggatā*
 
 ``` toml
-dict_label = "Nyana"
 word = "citta"
 summary = "Citta: 'mind', 'consciousness', 'state of consciou"
 grammar_comment = ""
@@ -4711,7 +4472,6 @@ also_written_as = []
 In *adhicitta* 'higher mentality', it signifies the concentrated, quietened mind, and is one of the 3 trainings see: *sikkhā* The concentration or intensification of consciousness is one of the 4 roads to power see: *iddhipāda.*
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-ja (citta-samutthāna)-rūpa"
 summary = ": 'mind-produced materiality'; see: samutthāna"
 grammar_comment = ""
@@ -4727,7 +4487,6 @@ also_written_as = []
 **[[citta\-ja (citta\-samutthāna)\-rūpa]]Citta\-ja citta\-samutthāna\-rūpa:** 'mind\-produced materiality'; see: *samutthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-kammaññatā"
 summary = ": °lahutā, °mudutā, °paguññatā, °passaddhi, °ujuka"
 grammar_comment = ""
@@ -4743,7 +4502,6 @@ also_written_as = []
 **Citta\-kammaññatā:** *°lahutā, °mudutā, °paguññatā, °passaddhi, °ujukatā* see: Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-kkhana"
 summary = ": 'consciousness-moment', is the time occupied by"
 grammar_comment = ""
@@ -4759,7 +4517,6 @@ also_written_as = []
 **Citta\-kkhana:** 'consciousness\-moment', is the time occupied by one single stage in the perceptual process or cognitive series *cittavīthi* see: *viññāna\-kicca* This moment again is subdivided into the genetic *uppāda* static *thiti* and dissolving *bhanga* moment. One such moment is said in the commentaries to be of inconceivably short duration and to last not longer than the billionth part of the time occupied by a flash of lightning. However that may be, we ourselves know from experience that it is possible within one single second to dream of innumerable things and events. In A. I, 10 it is said:;Nothing, o Bhikkhus, do I know that changes so rapidly as consciousness. Scarcely anything may be found that could be compared with this so rapidly changing consciousness.; App. *khana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-samutthāna-rūpa"
 summary = ": 'mind-produced materiality'; see: samutthāna."
 grammar_comment = ""
@@ -4775,7 +4532,6 @@ also_written_as = []
 **Citta\-samutthāna\-rūpa:** 'mind\-produced materiality'; see: *samutthāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-sankhāra"
 summary = ": see: sankhāra"
 grammar_comment = ""
@@ -4791,7 +4547,6 @@ also_written_as = []
 **Citta\-sankhāra:** see: *sankhāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-santāna"
 summary = ": 'consciousness-continuity'; see: santāna"
 grammar_comment = ""
@@ -4807,7 +4562,6 @@ also_written_as = []
 **Citta\-santāna:** 'consciousness\-continuity'; see: *santāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-vipallāsa"
 summary = ": 'perversion of mind'; see: vipallāsa"
 grammar_comment = ""
@@ -4823,7 +4577,6 @@ also_written_as = []
 **Citta\-vipallāsa:** 'perversion of mind'; see: *vipallāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-visuddhi"
 summary = ": 'purification of mind', is the 2nd of the 7 stag"
 grammar_comment = ""
@@ -4839,7 +4592,6 @@ also_written_as = []
 **Citta\-visuddhi:** 'purification of mind', is the 2nd of the 7 stages of purification *visuddhi* II,..
 
 ``` toml
-dict_label = "Nyana"
 word = "citta-vīthi"
 summary = ": 'process of consciousness'; see: viññāna-kicca"
 grammar_comment = ""
@@ -4855,7 +4607,6 @@ also_written_as = []
 **Citta\-vīthi:** 'process of consciousness'; see: *viññāna\-kicca*
 
 ``` toml
-dict_label = "Nyana"
 word = "cittass'ekaggatā"
 summary = "cittass’ekaggatāCittass’ekaggatā: 'one-pointedness"
 grammar_comment = ""
@@ -4871,7 +4622,6 @@ also_written_as = []
 **[[cittass’ekaggatā]]Cittass’ekaggatā:** 'one\-pointedness of mind', is a synonym of concentration, or *samādhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "cittānupassanā"
 summary = "Cittānupassanā: 'contemplation of consciousness',"
 grammar_comment = ""
@@ -4887,7 +4637,6 @@ also_written_as = []
 **Cittānupassanā:** 'contemplation of consciousness', is one of the 4 foundations of awareness or mindfulness *satipatthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "clarity of consciousness"
 summary = "Clarity of consciousness: sampajañña"
 grammar_comment = ""
@@ -4903,7 +4652,6 @@ also_written_as = []
 **[[clarity of consciousness]]Clarity of consciousness:** *sampajañña*
 
 ``` toml
-dict_label = "Nyana"
 word = "clinging"
 summary = "Clinging: the 4 kinds of: upādāna"
 grammar_comment = ""
@@ -4919,7 +4667,6 @@ also_written_as = []
 **Clinging:** the 4 kinds of: *upādāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "co-nascence"
 summary = ": sahajāta-paccaya is one of the 24 conditions pac"
 grammar_comment = ""
@@ -4935,7 +4682,6 @@ also_written_as = []
 **Co\-nascence:** *sahajāta\-paccaya* is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cognitive series"
 summary = "Cognitive series: see: viññāna-kicca"
 grammar_comment = ""
@@ -4951,7 +4697,6 @@ also_written_as = []
 **[[cognitive series]]Cognitive series:** see: *viññāna\-kicca*
 
 ``` toml
-dict_label = "Nyana"
 word = "companionship"
 summary = "Companionship: Influence of good and bad° = samsev"
 grammar_comment = ""
@@ -4967,7 +4712,6 @@ also_written_as = []
 **Companionship:** Influence of good and bad° = *samseva*.
 
 ``` toml
-dict_label = "Nyana"
 word = "compassion"
 summary = "Pity: karunā see: brahma-vihāra."
 grammar_comment = ""
@@ -4983,7 +4727,6 @@ also_written_as = []
 **Pity:** *karunā* see: *brahma\-vihāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "comprehension"
 summary = "Comprehension: clear c.: see: sampajañña c. in ins"
 grammar_comment = ""
@@ -4999,7 +4742,6 @@ also_written_as = []
 **Comprehension:** clear **c.:** see: *sampajañña* **c.** in insight, see: *sammasana* As an alternative tr. for full understanding, see: *pariññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "conceit"
 summary = "Conceit: māna, further see: samyojana"
 grammar_comment = ""
@@ -5015,7 +4757,6 @@ also_written_as = []
 **Conceit:** *māna*, further see: *samyojana*
 
 ``` toml
-dict_label = "Nyana"
 word = "concentration"
 summary = "Concentration: samādhi - right°, see: sacca IV. 8,"
 grammar_comment = ""
@@ -5031,7 +4772,6 @@ also_written_as = []
 **Concentration:** *samādhi* \- right°, see: *sacca* IV. 8, *magga* 8. \- wrong°, see: *micchā\-magga* 8.
 
 ``` toml
-dict_label = "Nyana"
 word = "conception"
 summary = "Conception: 2. in the mother’s womb: okkanti"
 grammar_comment = ""
@@ -5047,7 +4787,6 @@ also_written_as = []
 **Conception:** 2. in the mother’s womb: *okkanti*
 
 ``` toml
-dict_label = "Nyana"
 word = "conditions of existence"
 summary = "Conditions of existence: deliverance from the: see"
 grammar_comment = ""
@@ -5063,7 +4802,6 @@ also_written_as = []
 **[[conditions of existence]]Conditions of existence:** deliverance from the: see *ceto\-vimutti* *vimokkha*
 
 ``` toml
-dict_label = "Nyana"
 word = "conditions"
 summary = "Conditions: the 24: paccaya"
 grammar_comment = ""
@@ -5079,7 +4817,6 @@ also_written_as = []
 **Conditions:** the 24: *paccaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "confidence"
 summary = "Confidence: see: saddhā."
 grammar_comment = ""
@@ -5095,7 +4832,6 @@ also_written_as = []
 **Confidence:** see: *saddhā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "consciousness: viññāna"
 summary = "Consciousness: viññāna see: khandha citta mano q v"
 grammar_comment = ""
@@ -5111,7 +4847,6 @@ also_written_as = []
 **[[consciousness: viññāna]]Consciousness: viññāna** see: *khandha* *citta* mano q v \- Moment of °: *citta\-kkhana* Contemplation of °: *cittānupassanā: satipatthāna* \- Materiality produced by °: *citta* \- *ja* \- *rūpa* see: *samutthāna* \- Abodes or supports of °: cf. *viññānatthiti* Functions of °: *viññāna\-kicca*.
 
 ``` toml
-dict_label = "Nyana"
 word = "contemplation"
 summary = "Contemplation: see: anupassanā."
 grammar_comment = ""
@@ -5127,7 +4862,6 @@ also_written_as = []
 **Contemplation:** see: *anupassanā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "contentedness"
 summary = "Contentedness: with whatever robe, etc. belongs to"
 grammar_comment = ""
@@ -5143,7 +4877,6 @@ also_written_as = []
 **Contentedness:** with whatever robe, etc. belongs to the noble usages: *ariya\-vamsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "contentment"
 summary = "Contentment: appicchatā is one of the ascetic virt"
 grammar_comment = ""
@@ -5159,7 +4892,6 @@ also_written_as = []
 **Contentment:** *appicchatā* is one of the ascetic virtues. Cf. A. X, 181\-90.
 
 ``` toml
-dict_label = "Nyana"
 word = "contiguity"
 summary = "Contiguity: samanantara-paccaya is one of the 24 c"
 grammar_comment = ""
@@ -5175,7 +4907,6 @@ also_written_as = []
 **Contiguity:** *samanantara\-paccaya* is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "continuity"
 summary = "Continuity: of body, subconsciousness, consciousne"
 grammar_comment = ""
@@ -5191,7 +4922,6 @@ also_written_as = []
 **Continuity:** of body, subconsciousness, consciousness or groups of existence: *santāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "control"
 summary = "Control: effort of: see: padhāna"
 grammar_comment = ""
@@ -5207,7 +4937,6 @@ also_written_as = []
 **Control:** effort of: see: *padhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "conventional"
 summary = "Conventional: expression or truth: see: desanā"
 grammar_comment = ""
@@ -5223,7 +4952,6 @@ also_written_as = []
 **Conventional:** expression or truth: see: *desanā*
 
 ``` toml
-dict_label = "Nyana"
 word = "corruptions"
 summary = "Corruptions: see: upakkilesa"
 grammar_comment = ""
@@ -5239,7 +4967,6 @@ also_written_as = []
 **Corruptions:** see: *upakkilesa*
 
 ``` toml
-dict_label = "Nyana"
 word = "cosmogony"
 summary = "Cosmogony: cf. kappa"
 grammar_comment = ""
@@ -5255,7 +4982,6 @@ also_written_as = []
 **Cosmogony:** cf. *kappa*
 
 ``` toml
-dict_label = "Nyana"
 word = "counter-image"
 summary = "Counter-! em nimitta /em  kasina samādhi"
 grammar_comment = ""
@@ -5271,7 +4997,6 @@ also_written_as = []
 **Counter\-!nimitta *kasina* *samādhi***
 
 ``` toml
-dict_label = "Nyana"
 word = "counteractive karma"
 summary = "Counteractive kamma: upapīlaka-kamma see: kamma."
 grammar_comment = ""
@@ -5287,7 +5012,6 @@ also_written_as = []
 **[[counteractive karma]]Counteractive kamma:** *upapīlaka\-kamma* see: kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "course of action"
 summary = "Course of action: advantageous or disadvantageous:"
 grammar_comment = ""
@@ -5303,7 +5027,6 @@ also_written_as = []
 **[[course of action]]Course of action:** advantageous or disadvantageous: *kamma \-pat ha*
 
 ``` toml
-dict_label = "Nyana"
 word = "covetousness"
 summary = "Covetousness: abhijjhā, further see: kamma-patha 1"
 grammar_comment = ""
@@ -5319,7 +5042,6 @@ also_written_as = []
 **Covetousness:** *abhijjhā*, further see: *kamma\-patha* 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "cowardice"
 summary = "Cowardice: see: agati"
 grammar_comment = ""
@@ -5335,7 +5057,6 @@ also_written_as = []
 **Cowardice:** see: *agati*
 
 ``` toml
-dict_label = "Nyana"
 word = "craving"
 summary = "Craving: Tanhā, rāga, further see: mūla"
 grammar_comment = ""
@@ -5351,7 +5072,6 @@ also_written_as = []
 **Craving:** *Tanhā,* *rāga*, further see: *mūla*
 
 ``` toml
-dict_label = "Nyana"
 word = "created"
 summary = "Created: the: sankhata"
 grammar_comment = ""
@@ -5367,7 +5087,6 @@ also_written_as = []
 **Created:** the: *sankhata*
 
 ``` toml
-dict_label = "Nyana"
 word = "cuti-citta"
 summary = ": 'death-consciousness', lit. 'departing conscious"
 grammar_comment = ""
@@ -5383,7 +5102,6 @@ also_written_as = []
 **Cuti\-citta:** 'death\-consciousness', lit. 'departing consciousness', is one of the 14 functions of consciousness *viññāna\-kicca*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cutūpapāta-ñāna"
 summary = ": the 'knowledge of the vanishing and reappearing'"
 grammar_comment = ""
@@ -5399,7 +5117,6 @@ also_written_as = []
 **Cutūpapāta\-ñāna:** the 'knowledge of the vanishing and reappearing' of beings is identical with the divine eye; see: *abhiññā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cycle of existence"
 summary = "Cycle of existence: see: samsarā vatta"
 grammar_comment = ""
@@ -5415,7 +5132,6 @@ also_written_as = []
 **[[cycle of existence]]Cycle of existence:** see: *samsarā* *vatta*
 
 ``` toml
-dict_label = "Nyana"
 word = "cāga"
 summary = "Cāga: 'generosity', is one of the 'blessings' see:"
 grammar_comment = ""
@@ -5431,7 +5147,6 @@ also_written_as = []
 **Cāga:** 'generosity', is one of the 'blessings' see: *sampadā* 'foundations' see: *adhitthāna*, recollections' see: *anussati*, treasures' see: *dhana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "cāritta-sila"
 summary = ": and Vāritta-sīla: 'morality consisting in perfor"
 grammar_comment = ""
@@ -5447,7 +5162,6 @@ also_written_as = []
 **Cāritta\-sīla:** and **Vāritta\-sīla:** 'morality consisting in performance and morality consisting in avoidance,' means;the performance of those moral rules which the Blessed one has ordained to be followed, and the avoidance of those things that the Blessed One has rejected as not to be followed; Vis.M III. \- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "earnestness"
 summary = "Earnestness: appamāda"
 grammar_comment = ""
@@ -5463,7 +5177,6 @@ also_written_as = []
 **Earnestness:** *appamāda*
 
 ``` toml
-dict_label = "Nyana"
 word = "earth-element"
 summary = ": see: dhātu I."
 grammar_comment = ""
@@ -5479,7 +5192,6 @@ also_written_as = []
 **Earth\-element:** see: *dhātu* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "eating"
 summary = "Eating: knowing the measure in bhojane mattaññutā."
 grammar_comment = ""
@@ -5495,7 +5207,6 @@ also_written_as = []
 **Eating:** knowing the measure in *bhojane* *mattaññutā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "effort"
 summary = "Effort: the 4 right e.: samma - ppadhāna see: padh"
 grammar_comment = ""
@@ -5511,7 +5222,6 @@ also_written_as = []
 **Effort:** the 4 right **e.:** *samma* \- *ppadhāna* see: *padhāna* Right **e.** see: *sacca* IV 6, *magga* 6. \- 5 elements of **e.:** *padhāniyanga*
 
 ``` toml
-dict_label = "Nyana"
 word = "ego-belief"
 summary = ": see: ditthi, sakkāya-ditthi, vipallāsa."
 grammar_comment = ""
@@ -5527,7 +5237,6 @@ also_written_as = []
 **Ego\-belief:** see: *ditthi*, *sakkāya\-ditthi*, *vipallāsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ego-entity"
 summary = ": attā"
 grammar_comment = ""
@@ -5543,7 +5252,6 @@ also_written_as = []
 **Ego\-entity:** *attā*
 
 ``` toml
-dict_label = "Nyana"
 word = "ego-idea"
 summary = "or Ego-perception: see: vipallāsa"
 grammar_comment = ""
@@ -5559,7 +5267,6 @@ also_written_as = []
 **Ego\-idea or Ego\-perception:** see: *vipallāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "egolessness"
 summary = "Egolessness: anattā"
 grammar_comment = ""
@@ -5575,7 +5282,6 @@ also_written_as = []
 **Egolessness:** *anattā*
 
 ``` toml
-dict_label = "Nyana"
 word = "eightfold path"
 summary = "Eightfold Path: see: magga."
 grammar_comment = ""
@@ -5591,7 +5297,6 @@ also_written_as = []
 **[[eightfold path]]Eightfold Path:** see: *magga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "eka-bījī"
 summary = ": 'germinating only once more', is the name for on"
 grammar_comment = ""
@@ -5607,7 +5312,6 @@ also_written_as = []
 **Eka\-bījī:** 'germinating only once more', is the name for one of the 3 kinds of Stream\-winners: see: *sotāpanna.*
 
 ``` toml
-dict_label = "Nyana"
 word = "eka-vokāra-bhava"
 summary = ": one-group existence, is the existence of the unc"
 grammar_comment = ""
@@ -5623,7 +5327,6 @@ also_written_as = []
 **Eka\-vokāra\-bhava:** one\-group existence, is the existence of the unconscious beings *asañña\-satta* as they possess only the materiality\-group. Cf. *catu\-vokāra\-bhava* *pañca\-vokāra\-bhava*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ekāsanik'anga"
 summary = "ekāsanik’angaEkāsanik’anga: the exercise of eating"
 grammar_comment = ""
@@ -5639,7 +5342,6 @@ also_written_as = []
 **[[ekāsanik’anga]]Ekāsanik’anga:** the exercise of eating at one sitting, is one of the ascetic practices; see: *dhutānga*
 
 ``` toml
-dict_label = "Nyana"
 word = "elasticity"
 summary = "Elasticity: of materiality, mental properties or c"
 grammar_comment = ""
@@ -5655,7 +5357,6 @@ also_written_as = []
 **Elasticity:** of materiality, mental properties or consciousness: *mudutā* see: *khandha* Materiality I.B. and Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "elders"
 summary = "Elders: the teaching of the: theravāda"
 grammar_comment = ""
@@ -5671,7 +5372,6 @@ also_written_as = []
 **Elders:** the teaching of the: *theravāda*
 
 ``` toml
-dict_label = "Nyana"
 word = "elements"
 summary = "Elements: dhātu - Analysis of the 4 e.: dhātu-vava"
 grammar_comment = ""
@@ -5687,7 +5387,6 @@ also_written_as = []
 **Elements:** *dhātu* \- Analysis of the 4 **e.:** *dhātu\-vavatthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "emotion"
 summary = "Emotion: 8 sources of e.: samvega-vatthu. The 4 pl"
 grammar_comment = ""
@@ -5703,7 +5402,6 @@ also_written_as = []
 **Emotion:** 8 sources of **e.:** *samvega\-vatthu*. The 4 places rousing emotion; *samvejanīya\-tthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "emptiness"
 summary = "Emptiness: Suññatā - Contemplation of e.: suññatān"
 grammar_comment = ""
@@ -5719,7 +5417,6 @@ also_written_as = []
 **Emptiness:** *Suññatā* \- Contemplation of **e.:** *suññatānupassanā* \- For emptiness of self, pertaining to the 4 truths, see: *sacca*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ends"
 summary = "Ends: 'attaining two ends simultaneously'; sama -"
 grammar_comment = ""
@@ -5735,7 +5432,6 @@ also_written_as = []
 **Ends:** 'attaining two ends simultaneously'; *sama* \- *sīsī.*
 
 ``` toml
-dict_label = "Nyana"
 word = "energy"
 summary = "Energy: viriya, further see: bojjhanga, bala, pāra"
 grammar_comment = ""
@@ -5751,7 +5447,6 @@ also_written_as = []
 **Energy:** *viriya*, further see: *bojjhanga, bala, pāramī*
 
 ``` toml
-dict_label = "Nyana"
 word = "enlightened one"
 summary = "Enlightened one: the: Buddha; see: sammā - sambudd"
 grammar_comment = ""
@@ -5767,7 +5462,6 @@ also_written_as = []
 **[[enlightened one]]Enlightened one:** the: Buddha; see: *sammā* \- *sambuddha.*
 
 ``` toml
-dict_label = "Nyana"
 word = "enlightenment"
 summary = "Enlightenment: bodhi - The 7 elements of e.: bojjh"
 grammar_comment = ""
@@ -5783,7 +5477,6 @@ also_written_as = []
 **Enlightenment:** *bodhi* \- The 7 elements of **e.:** *bojjhanga* \- A being destined for **e.:** *Bodhisatta*.
 
 ``` toml
-dict_label = "Nyana"
 word = "enthusiasm"
 summary = "Enthusiasm: pīti"
 grammar_comment = ""
@@ -5799,7 +5492,6 @@ also_written_as = []
 **Enthusiasm:** *pīti*
 
 ``` toml
-dict_label = "Nyana"
 word = "envy"
 summary = "Envy: Issā"
 grammar_comment = ""
@@ -5815,7 +5507,6 @@ also_written_as = []
 **Envy:** *Issā*
 
 ``` toml
-dict_label = "Nyana"
 word = "equality-conceit"
 summary = ": see: māna."
 grammar_comment = ""
@@ -5831,7 +5522,6 @@ also_written_as = []
 **Equality\-conceit:** see: *māna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "equanimity"
 summary = "Equanimity: upekkhā = tatra - majjhattatā. - Knowl"
 grammar_comment = ""
@@ -5847,7 +5537,6 @@ also_written_as = []
 **Equanimity:** *upekkhā* = *tatra* \- *majjhattatā.* \- Knowledge consisting in **e.** with regard to all constructions, see: *visuddhi* VI, 8. \- Indulging in **e.,** see: *manopavicāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "equilibrium of mental faculties"
 summary = "Equilibrium of mental abilities: indriya-samatta."
 grammar_comment = ""
@@ -5863,7 +5552,6 @@ also_written_as = []
 **[[equilibrium of mental faculties]]Equilibrium of mental abilities:** *indriya\-samatta*.
 
 ``` toml
-dict_label = "Nyana"
 word = "escape"
 summary = "Escape: nissarana see: pahāna."
 grammar_comment = ""
@@ -5879,7 +5567,6 @@ also_written_as = []
 **Escape:** *nissarana* see: *pahāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "eternity"
 summary = "Eternity: cf. kappa"
 grammar_comment = ""
@@ -5895,7 +5582,6 @@ also_written_as = []
 **Eternity:** cf. *kappa*
 
 ``` toml
-dict_label = "Nyana"
 word = "eternity-belief"
 summary = ": sassata-ditthi see: ditthi"
 grammar_comment = ""
@@ -5911,7 +5597,6 @@ also_written_as = []
 **Eternity\-belief:** *sassata\-ditthi* see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "exertion"
 summary = "Exertion: see padhāna viriya magga 6. - Reaching N"
 grammar_comment = ""
@@ -5927,7 +5612,6 @@ also_written_as = []
 **Exertion:** see *padhāna* *viriya* *magga* 6. \- Reaching *Nibbāna* with or without **e.;** see: *anāgāmi*
 
 ``` toml
-dict_label = "Nyana"
 word = "existence"
 summary = "Existence: bhava - The 5 groups of e.: khandha - T"
 grammar_comment = ""
@@ -5943,7 +5627,6 @@ also_written_as = []
 **Existence:** *bhava* \- The 5 groups of **e.:** *khandha* \- The 4 substrata of **e.:** *upadhi* \- Courses of **e.:** *gati* \- Wheel of **e.:** *samsāra*. \- Craving for **e.:** *bhava\-tanhā* see: *tanhā* \- The 3 characteristics of **e.:** *ti\-lakkhana*
 
 ``` toml
-dict_label = "Nyana"
 word = "expression"
 summary = "Expression: bodily and verbal: see: viññatti"
 grammar_comment = ""
@@ -5959,7 +5642,6 @@ also_written_as = []
 **Expression:** bodily and verbal: see: *viññatti*
 
 ``` toml
-dict_label = "Nyana"
 word = "extremes"
 summary = "Extremes: the two e. and the middle path; see: maj"
 grammar_comment = ""
@@ -5975,7 +5657,6 @@ also_written_as = []
 **Extremes:** the two **e.** and the middle path; see: *majjhima* \- *patipadā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "eye"
 summary = "Eye: 5 kinds, see: cakkhu - Visual organ, see: āya"
 grammar_comment = ""
@@ -5991,7 +5672,6 @@ also_written_as = []
 **Eye:** 5 kinds, see: *cakkhu* \- Visual organ, see: *āyatana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "eye-consciousness"
 summary = ": cakkhu-viññāna see: dhātu, khandha"
 grammar_comment = ""
@@ -6007,7 +5687,6 @@ also_written_as = []
 **visual\-consciousness:** *cakkhu\-viññāna* see: *dhātu*, *khandha*
 
 ``` toml
-dict_label = "Nyana"
 word = "eye-organ"
 summary = ": see: āyatana"
 grammar_comment = ""
@@ -6023,7 +5702,6 @@ also_written_as = []
 **Eye\-organ:** see: *āyatana*
 
 ``` toml
-dict_label = "Nyana"
 word = "factors:"
 summary = "Factors: mental: see: cetasika - F. of absorption,"
 grammar_comment = ""
@@ -6041,7 +5719,6 @@ also_written_as = []
 **abilities = Abilities:** *indriya*, see also *paccaya* 16.
 
 ``` toml
-dict_label = "Nyana"
 word = "fading away"
 summary = "Fading away (of craving) = disillusion: see: virāg"
 grammar_comment = ""
@@ -6057,7 +5734,6 @@ also_written_as = []
 **[[fading away]]Fading away (of craving) = disillusion:** see: *virāga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "faith"
 summary = "Faith: Saddhā"
 grammar_comment = ""
@@ -6073,7 +5749,6 @@ also_written_as = []
 **Faith:** *Saddhā*
 
 ``` toml
-dict_label = "Nyana"
 word = "faith-devotee"
 summary = ": and Faith-liberated one: see: ariya-puggala B."
 grammar_comment = ""
@@ -6089,7 +5764,6 @@ also_written_as = []
 **Faith\-devotee:** and **Faith\-liberated one:** see: *ariya\-puggala* B.
 
 ``` toml
-dict_label = "Nyana"
 word = "faithful-natured"
 summary = ": saddhā - carita see: carita"
 grammar_comment = ""
@@ -6105,7 +5779,6 @@ also_written_as = []
 **Faithful\-natured:** *saddhā* \- *carita* see: *carita*
 
 ``` toml
-dict_label = "Nyana"
 word = "fatalism"
 summary = "Fatalism: see: ditthi"
 grammar_comment = ""
@@ -6121,7 +5794,6 @@ also_written_as = []
 **Fatalism:** see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "favour"
 summary = "Favour: 4 ways of showing sangaha-vatthu"
 grammar_comment = ""
@@ -6137,7 +5809,6 @@ also_written_as = []
 **Favour:** 4 ways of showing *sangaha\-vatthu*
 
 ``` toml
-dict_label = "Nyana"
 word = "feeling"
 summary = "Feeling: vedanā, further see: khandha - Contemplat"
 grammar_comment = ""
@@ -6153,7 +5824,6 @@ also_written_as = []
 **Feeling:** *vedanā*, further see: *khandha* \- Contemplation of **f.:** *vedanānupassanā* see: *satipatthāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "femininity"
 summary = "Femininity: s bhāva indriya fetters = Mental chain"
 grammar_comment = ""
@@ -6171,7 +5841,6 @@ also_written_as = []
 **fetters = Mental chains:** The 10 **f.** binding to existence; see: *samyojana*
 
 ``` toml
-dict_label = "Nyana"
 word = "fermentations"
 summary = "Fermentations: see: āsava."
 grammar_comment = ""
@@ -6187,7 +5856,6 @@ also_written_as = []
 **Fermentations:** see: *āsava*.
 
 ``` toml
-dict_label = "Nyana"
 word = "few wishes"
 summary = "Few wishes: see: appicchatā."
 grammar_comment = ""
@@ -6203,7 +5871,6 @@ also_written_as = []
 **[[few wishes]]Few wishes:** see: *appicchatā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "fine-material sphere"
 summary = "sphere: or fine-material sphereFine-material world"
 grammar_comment = ""
@@ -6219,7 +5886,6 @@ also_written_as = []
 **[[fine\-material sphere]]Fine\-material sphere:** or **[[fine\-material sphere]]Fine\-material world:** see: *avacara* *loka* Absorptions of the: *rūpa\-jjhāna* see: *jhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "fire-element"
 summary = ": see: dhātu I."
 grammar_comment = ""
@@ -6235,7 +5901,6 @@ also_written_as = []
 **Fire\-element:** see: *dhātu* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "five-group existence"
 summary = "existence: pañca-vokāra-bhava"
 grammar_comment = ""
@@ -6251,7 +5916,6 @@ also_written_as = []
 **[[five\-group existence]]Five\-group existence:** *pañca\-vokāra\-bhava*
 
 ``` toml
-dict_label = "Nyana"
 word = "fivefold sense-door"
 summary = "Fivefold sense-door: Directing to the: pañcadvārāv"
 grammar_comment = ""
@@ -6267,7 +5931,6 @@ also_written_as = []
 **[[fivefold sense\-door]]Fivefold sense\-door:** Directing to the: *pañcadvārāvajjana* see: *viññāna\-kicca*.
 
 ``` toml
-dict_label = "Nyana"
 word = "fixed destiny"
 summary = "Fixed destiny: see: niyata - micchā - ditthi, niya"
 grammar_comment = ""
@@ -6283,7 +5946,6 @@ also_written_as = []
 **[[fixed destiny]]Fixed destiny:** see: *niyata* \- *micchā* \- *ditthi*, *niyata\-puggala*.
 
 ``` toml
-dict_label = "Nyana"
 word = "fixity"
 summary = "Fixity: see: niyama tathatā dhamma-tthiti-ñāna"
 grammar_comment = ""
@@ -6299,7 +5961,6 @@ also_written_as = []
 **Fixity:** see: *niyama* *tathatā* *dhamma\-tthiti\-ñāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "floods"
 summary = "Floods: the 4: ogha are identical with the 4 ferme"
 grammar_comment = ""
@@ -6315,7 +5976,6 @@ also_written_as = []
 **Floods:** the 4: *ogha* are identical with the 4 fermentations *āsava*.
 
 ``` toml
-dict_label = "Nyana"
 word = "food"
 summary = "Food: material: is one of the 4 nutriments āhāra."
 grammar_comment = ""
@@ -6331,7 +5991,6 @@ also_written_as = []
 **Food:** material: is one of the 4 nutriments *āhāra*. Foodproduced materiality, see: *samutthāna* \- Refusing all further **f.,** see: *dhutānga* \- Loathsomeness of **f.** see: *āhārepatikkūla* \- *saññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "foolish babble"
 summary = "Foolish babble: sampha - ppalāpa see: kamma, kamma"
 grammar_comment = ""
@@ -6347,7 +6006,6 @@ also_written_as = []
 **[[foolish babble]]Foolish babble:** *sampha* \- *ppalāpa* see: kamma, *kamma \-pat ha* I; cf. *tiracchāna* \- *kathā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "forbearance"
 summary = "Forbearance: khanti"
 grammar_comment = ""
@@ -6363,7 +6021,6 @@ also_written_as = []
 **Forbearance:** *khanti*
 
 ``` toml
-dict_label = "Nyana"
 word = "forest-dweller"
 summary = ": the ascetic practice for the: see: dhutānga form"
 grammar_comment = ""
@@ -6381,7 +6038,6 @@ also_written_as = []
 **formation = Construction:** *sankhāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "foundation"
 summary = "Foundation: nissaya one of the 24 conditions pacca"
 grammar_comment = ""
@@ -6397,7 +6053,6 @@ also_written_as = []
 **Foundation:** *nissaya* one of the 24 conditions *paccaya*,. Wrong **f.** of morality, see: *nissaya* **f.** of sympathy: *sangaha\-vatthu* **f. f** orming absorptions: *pādaka\-jjhāna*, \- **f.** of an Arahat’s mentality: see: *adhitthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "foundations of awareness or mindfulness"
 summary = "Foundations of awareness or mindfulness: the 4: sa"
 grammar_comment = ""
@@ -6413,7 +6068,6 @@ also_written_as = []
 **[[foundations of awareness or mindfulness]]Foundations of awareness or mindfulness:** the 4: *satipatthāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "four-group existence"
 summary = "existence: catu-vokāra-bhava"
 grammar_comment = ""
@@ -6429,7 +6083,6 @@ also_written_as = []
 **[[four\-group existence]]Four\-group existence:** *catu\-vokāra\-bhava*
 
 ``` toml
-dict_label = "Nyana"
 word = "freedom of will"
 summary = "Freedom of will: problem of the: cf. paticcasamupp"
 grammar_comment = ""
@@ -6445,7 +6098,6 @@ also_written_as = []
 **[[freedom of will]]Freedom of will:** problem of the: cf. *paticcasamuppāda* X.
 
 ``` toml
-dict_label = "Nyana"
 word = "friend"
 summary = "Friend: noble: kalyāna-mitta"
 grammar_comment = ""
@@ -6461,7 +6113,6 @@ also_written_as = []
 **Friend:** noble: *kalyāna\-mitta*
 
 ``` toml
-dict_label = "Nyana"
 word = "frivolous talk"
 summary = "Frivolous talk: cf. tiracchāna - kathā kamma-patha"
 grammar_comment = ""
@@ -6477,7 +6128,6 @@ also_written_as = []
 **[[frivolous talk]]Frivolous talk:** cf. *tiracchāna* \- *kathā* *kamma\-patha* I, 7, kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "fruition"
 summary = "Fruition: result of supra-mundane path: phala see:"
 grammar_comment = ""
@@ -6493,7 +6143,6 @@ also_written_as = []
 **Fruition:** result of supra\-mundane path: *phala* see: *ariya\-puggala* A.
 
 ``` toml
-dict_label = "Nyana"
 word = "fruits of monk-life"
 summary = "Fruits of monk-life: sāmañña-phala"
 grammar_comment = ""
@@ -6509,7 +6158,6 @@ also_written_as = []
 **[[fruits of monk\-life]]Fruits of monk\-life:** *sāmañña\-phala*
 
 ``` toml
-dict_label = "Nyana"
 word = "full comprehension"
 summary = "Full comprehension: pariññā"
 grammar_comment = ""
@@ -6525,7 +6173,6 @@ also_written_as = []
 **[[full comprehension]]Full comprehension:** *pariññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "functional consciousness"
 summary = "Functional consciousness: or consciousness functio"
 grammar_comment = ""
@@ -6541,7 +6188,6 @@ also_written_as = []
 **[[functional consciousness]]Functional consciousness:** or consciousness functioning independently of kamma: *kiriya* \- *citta*, see *viññāna\-kicca*
 
 ``` toml
-dict_label = "Nyana"
 word = "functions of consciousness"
 summary = "Functions of consciousness: viññāna-kicca."
 grammar_comment = ""
@@ -6557,7 +6203,6 @@ also_written_as = []
 **[[functions of consciousness]]Functions of consciousness:** *viññāna\-kicca*.
 
 ``` toml
-dict_label = "Nyana"
 word = "gantha"
 summary = "Gantha: 'ties'.;There are 4 ties: the bodily tie k"
 grammar_comment = ""
@@ -6573,7 +6218,6 @@ also_written_as = []
 **Gantha:** 'ties'.;There are 4 ties: the bodily tie *kāyagantha* of covetousness *abhijjhā* of ill\-will *vyāpāda*, of clinging to rule and ritual *sīlabbata\-parāmāsa* of dogmatical fanaticism *idamsaccābhinivesa* D. 33. \-;These things are ties, since they tie this mental and material body; Vis.M XXII, 54.
 
 ``` toml
-dict_label = "Nyana"
 word = "garuka-kamma"
 summary = ": weighty kamma; see: kamma."
 grammar_comment = ""
@@ -6589,7 +6233,6 @@ also_written_as = []
 **Garuka\-kamma:** weighty kamma; see: kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "gati"
 summary = "Gati: lit. 'going': 'course of existence', destiny"
 grammar_comment = ""
@@ -6605,7 +6248,6 @@ also_written_as = []
 **Gati:** lit. 'going': 'course of existence', destiny, destination.;There are 5 courses of existence: hell, animal kingdom, ghost realm, human world, divine world; D. 33; A. XI, 68. Of these, the first 3 count as woeful courses *duggati* see: *apāya* the latter 2 as happy courses *sugati*.
 
 ``` toml
-dict_label = "Nyana"
 word = "gems"
 summary = "Gems: the 3: ti-ratana"
 grammar_comment = ""
@@ -6621,7 +6263,6 @@ also_written_as = []
 **Gems:** the 3: *ti\-ratana*
 
 ``` toml
-dict_label = "Nyana"
 word = "generation"
 summary = "Generation: the 4 modes of: yoni"
 grammar_comment = ""
@@ -6637,7 +6278,6 @@ also_written_as = []
 **Generation:** the 4 modes of: *yoni*
 
 ``` toml
-dict_label = "Nyana"
 word = "germinating once more"
 summary = "Germinating once more: eka - bījī is the name of o"
 grammar_comment = ""
@@ -6653,7 +6293,6 @@ also_written_as = []
 **[[germinating once more]]Germinating once more:** *eka* \- *bījī* is the name of one of the 3 kinds of *sotāpanna*
 
 ``` toml
-dict_label = "Nyana"
 word = "ghosts"
 summary = "Ghosts: cf. peta yakkha see: loka"
 grammar_comment = ""
@@ -6669,7 +6308,6 @@ also_written_as = []
 **Ghosts:** cf. *peta* *yakkha* see: *loka*
 
 ``` toml
-dict_label = "Nyana"
 word = "giving"
 summary = "Giving: dāna"
 grammar_comment = ""
@@ -6685,7 +6323,6 @@ also_written_as = []
 **Giving:** *dāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "gladness"
 summary = "Gladness: somanassa - Indulging in g., see: manopa"
 grammar_comment = ""
@@ -6701,7 +6338,6 @@ also_written_as = []
 **Gladness:** *somanassa* \- Indulging in **g.,** see: *manopavicāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "gnosis"
 summary = "Gnosis: see: indriya 21."
 grammar_comment = ""
@@ -6717,7 +6353,6 @@ also_written_as = []
 **Gnosis:** see: *indriya* 21.
 
 ``` toml
-dict_label = "Nyana"
 word = "gotrabhū"
 summary = "Gotrabhū: lit. 'who has entered the lineage of the"
 grammar_comment = ""
@@ -6737,7 +6372,6 @@ I. 'change\-of\-lineage\-Moment' *gotrabhū* \- *citta* is the last of the 4 imp
 II. The 'Matured One'.;He who is endowed with those things, immediately upon which follows the entrance into the noble path *ariya\-magga*, this person is called a 'Matured One'.; Pug 10. In the Com. to this passage it is said:;He who through perceiving Nibbāna, leaves behind the whole multitude of worldlings *puthujjana*, the family of worldlings, the circle of worldlings, the designation of a worldling and enters into the multitude of the Noble Ones, the family of the Noble Ones, the circle of the Noble Ones, and obtains the designation of a Noble One, such a being is called a Matured One.; By this state of consciousness is meant the lightning\-like transitional stage between the state of a worldling and that of a *sotāpanna* see: *ariya\-puggala* \- Gotrabhū is mentioned in this sense, i.e. as 9th *ariya\-puggala,* in A. IX, 10; X, 16.
 
 ``` toml
-dict_label = "Nyana"
 word = "gotrabhū-ñāna"
 summary = ": 'change-of-lineage-knowledge'; see: prec. and vi"
 grammar_comment = ""
@@ -6753,7 +6387,6 @@ also_written_as = []
 **Gotrabhū\-ñāna:** 'change\-of\-lineage\-knowledge'; see: prec. and *visuddhi* VII
 
 ``` toml
-dict_label = "Nyana"
 word = "gradual instruction"
 summary = "Gradual instruction: Ānupubbīkathā"
 grammar_comment = ""
@@ -6769,7 +6402,6 @@ also_written_as = []
 **[[gradual instruction]]Gradual instruction:** *Ānupubbīkathā*
 
 ``` toml
-dict_label = "Nyana"
 word = "grasping"
 summary = "Grasping: cf. parāmāsa, upādāna."
 grammar_comment = ""
@@ -6785,7 +6417,6 @@ also_written_as = []
 **Grasping:** cf. *parāmāsa*, *upādāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "great man"
 summary = "Great man: the 8 thoughts of a: mahāpurisa-vitakka"
 grammar_comment = ""
@@ -6801,7 +6432,6 @@ also_written_as = []
 **[[great man]]Great man:** the 8 thoughts of a: *mahāpurisa\-vitakka*.
 
 ``` toml
-dict_label = "Nyana"
 word = "greed"
 summary = "Greed: lobha"
 grammar_comment = ""
@@ -6817,7 +6447,6 @@ also_written_as = []
 **Greed:** *lobha*
 
 ``` toml
-dict_label = "Nyana"
 word = "greedy consciousness"
 summary = "Greedy consciousness: see: Tab, I, III. 22-29."
 grammar_comment = ""
@@ -6833,7 +6462,6 @@ also_written_as = []
 **[[greedy consciousness]]Greedy consciousness:** see: Tab, I, III. 22\-29.
 
 ``` toml
-dict_label = "Nyana"
 word = "greedy-natured"
 summary = ": rāga-carita see: carita"
 grammar_comment = ""
@@ -6849,7 +6477,6 @@ also_written_as = []
 **Greedy\-natured:** *rāga\-carita* see: *carita*
 
 ``` toml
-dict_label = "Nyana"
 word = "grief"
 summary = "Grief: domanassa - Indulging in g. see: manopavicā"
 grammar_comment = ""
@@ -6865,7 +6492,6 @@ also_written_as = []
 **Grief:** *domanassa* \- Indulging in **g.** see: *manopavicāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "groups"
 summary = "Groups: of existence, see: khandha material groups"
 grammar_comment = ""
@@ -6881,7 +6507,6 @@ also_written_as = []
 **Groups:** of existence, see: *khandha* material groups, see: *rūpa\-kalāpa* materiality\-group, see: *rūpa\-kāya* mind\-group, see: *nāma\-kāya*
 
 ``` toml
-dict_label = "Nyana"
 word = "growth"
 summary = "Growth: bodily: rūpassa upacaya see: khandha I."
 grammar_comment = ""
@@ -6897,7 +6522,6 @@ also_written_as = []
 **Growth:** bodily: *rūpassa* *upacaya* see: *khandha* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "grudge"
 summary = "Grudge: see: patigha"
 grammar_comment = ""
@@ -6913,7 +6537,6 @@ also_written_as = []
 **Grudge:** see: *patigha*
 
 ``` toml
-dict_label = "Nyana"
 word = "gustatory organ"
 summary = "Gustatory organ: see: āyatana."
 grammar_comment = ""
@@ -6929,7 +6552,6 @@ also_written_as = []
 **[[gustatory organ]]Gustatory organ:** see: *āyatana*.
 
 ``` toml
-dict_label = "Nyana"
 word = "habitual karma"
 summary = "Habitual kamma: bahula-kamma see: kamma."
 grammar_comment = ""
@@ -6945,7 +6567,6 @@ also_written_as = []
 **[[habitual karma]]Habitual kamma:** *bahula\-kamma* see: kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "hadaya-vatthu"
 summary = ": 'heart as physical base' of mental life. The hea"
 grammar_comment = ""
@@ -6961,7 +6582,6 @@ also_written_as = []
 **Hadaya\-vatthu:** 'heart as physical base' of mental life. The heart, according to the commentaries as well as to the general Buddhist tradition, forms the physical base *vatthu* of consciousness In the canonical texts, however, even in the Abhidhamma Pitaka, no such base is ever localized, a fact which seems to have first been discovered by Shwe Zan Aung Compendium of Philosophy, pp. 277ff.. In the Patth. we find repeatedly only the passage:;That material thing based on which mind\-element and mind\-consciousness element function; *yam rūpam nissāya manodhātu ca mano\-viññāna\-dhātu ca vattanti, tam rūpam.*
 
 ``` toml
-dict_label = "Nyana"
 word = "happiness"
 summary = "Happiness: feeling of h.: see: sukha - The idea of"
 grammar_comment = ""
@@ -6977,7 +6597,6 @@ also_written_as = []
 **Happiness:** feeling of **h.:** see: *sukha* \- The idea of **h.** of the world, see: *vipallāsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "happy courses of existence"
 summary = "Happy courses of existence: see: gati."
 grammar_comment = ""
@@ -6993,7 +6612,6 @@ also_written_as = []
 **[[happy courses of existence]]Happy courses of existence:** see: *gati*.
 
 ``` toml
-dict_label = "Nyana"
 word = "harmlessness"
 summary = "Harmlessness: see: avihimsā."
 grammar_comment = ""
@@ -7009,7 +6627,6 @@ also_written_as = []
 **Harmlessness:** see: *avihimsā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "hasituppāda-citta"
 summary = ": lit. 'consciousness producing mirth' smile, is f"
 grammar_comment = ""
@@ -7025,7 +6642,6 @@ also_written_as = []
 **Hasituppāda\-citta:** lit. 'consciousness producing mirth' smile, is found in the Abhidhammattha Sangaha as a name for the joyful mind\-consciousness element *manoviññāna* \- *dhātu* Tab. I. 72 arising as functional consciousness independent of kamma *kiriya* \- *citta* only in the Arahat. \- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "hate"
 summary = "Hate: and hatelessness: dosa adosa are two of the"
 grammar_comment = ""
@@ -7041,7 +6657,6 @@ also_written_as = []
 **Hate:** and **hatelessness:** *dosa* *adosa* are two of the 6 kammical roots *mūla* or root\-conditions *hetu;paccaya* 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "hate-natured"
 summary = ": dosa-carita see: carita."
 grammar_comment = ""
@@ -7057,7 +6672,6 @@ also_written_as = []
 **Hate\-natured:** *dosa\-carita* see: *carita*.
 
 ``` toml
-dict_label = "Nyana"
 word = "hate-rooted consciousness"
 summary = "consciousness: see: Tab. I. 30, 31."
 grammar_comment = ""
@@ -7073,7 +6687,6 @@ also_written_as = []
 **[[hate\-rooted consciousness]]Hate\-rooted consciousness:** see: Tab. I. 30, 31.
 
 ``` toml
-dict_label = "Nyana"
 word = "health-infatuation"
 summary = ": see: mada."
 grammar_comment = ""
@@ -7089,7 +6702,6 @@ also_written_as = []
 **Health\-infatuation:** see: *mada*.
 
 ``` toml
-dict_label = "Nyana"
 word = "hearer"
 summary = "Hearer: disciple: sāvaka"
 grammar_comment = ""
@@ -7105,7 +6717,6 @@ also_written_as = []
 **Hearer:** disciple: *sāvaka*
 
 ``` toml
-dict_label = "Nyana"
 word = "heat-element"
 summary = ": tejo-dhātu see: dhātu"
 grammar_comment = ""
@@ -7121,7 +6732,6 @@ also_written_as = []
 **Heat\-element:** *tejo\-dhātu* see: *dhātu*
 
 ``` toml
-dict_label = "Nyana"
 word = "hell"
 summary = "Hell: niraya"
 grammar_comment = ""
@@ -7137,7 +6747,6 @@ also_written_as = []
 **Hell:** *niraya*
 
 ``` toml
-dict_label = "Nyana"
 word = "hetu"
 summary = "Hetu: 'cause', condition, reason; Abhidhamma root-"
 grammar_comment = ""
@@ -7157,7 +6766,6 @@ In Abhidhamma, it denotes the advantageous and disadvantageous roots *mūla*. In
 *ahetuka* \- *ditthi* the false view of the uncausedness of existence; see: *ditthi*
 
 ``` toml
-dict_label = "Nyana"
 word = "higher wisdom"
 summary = "Higher understanding: clear insight based on h. w."
 grammar_comment = ""
@@ -7173,7 +6781,6 @@ also_written_as = []
 **[[higher wisdom]]Higher understanding:** clear insight based on **h. w.:** see: vipassanā/i Training in H. W., see: *sikkhā*
 
 ``` toml
-dict_label = "Nyana"
 word = "highest knowledge"
 summary = "Highest knowledge: see: aññā."
 grammar_comment = ""
@@ -7189,7 +6796,6 @@ also_written_as = []
 **[[highest knowledge]]Highest knowledge:** see: *aññā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "hindrances"
 summary = "Hindrances: the 5: nīvarana"
 grammar_comment = ""
@@ -7205,7 +6811,6 @@ also_written_as = []
 **Hindrances:** the 5: *nīvarana*
 
 ``` toml
-dict_label = "Nyana"
 word = "hiri-ottappa"
 summary = ": 'moral shame and Fear of Wrongdoing', are associ"
 grammar_comment = ""
@@ -7225,7 +6830,6 @@ To be ashamed of what one ought to be ashamed of, to be ashamed of performing ev
 Two lucid things, o Bhikkhus, protect the world: moral shame and Fear of Wrongdoing. If these two things were not to protect the world, then one would respect neither one’s mother, nor one’s mother’s sister, nor one’s brother’s wife, nor one’s teacher’s wife.; A. II, 7. Cf. *ahirika* See Atthasālini Tr. I. pp. 164ff.
 
 ``` toml
-dict_label = "Nyana"
 word = "homelessness"
 summary = "Homelessness: going into pabbajjā Cf. Progress of"
 grammar_comment = ""
@@ -7241,7 +6845,6 @@ also_written_as = []
 **Homelessness:** going into *pabbajjā* Cf. Progress of the disciple.
 
 ``` toml
-dict_label = "Nyana"
 word = "human world"
 summary = "Human world: cf. loka gati"
 grammar_comment = ""
@@ -7257,7 +6860,6 @@ also_written_as = []
 **[[human world]]Human world:** cf. *loka* *gati*
 
 ``` toml
-dict_label = "Nyana"
 word = "hāna-bhāgiya-sīla"
 summary = ": - samādhi b h. b. p aññā morality, concentration"
 grammar_comment = ""
@@ -7275,7 +6877,6 @@ also_written_as = []
 'Decline' *hāna* is to be understood with regard to the arising of opposing qualities, 'standstill' *thiti* with regard to the standstill of the corresponding attentiveness, 'progress' *visesa* with regard to higher excellency, 'penetration' *nibbedha* with regard to the arising of perception and reflection connected with the turning away from existence; Vis.M III. Cf. *vodāna* 2.
 
 ``` toml
-dict_label = "Nyana"
 word = "iddhi"
 summary = "Iddhi: 'power', 'magical power'. The magical power"
 grammar_comment = ""
@@ -7293,7 +6894,6 @@ also_written_as = []
 'Noble power' *ariyā* \- *iddhi* is the power of controlling one’s ideas in such a way that one may consider something not repulsive as repulsive and something repulsive as not repulsive, and remain all the time imperturbable and full of equanimity. This training of mind is frequently mentioned in the Suttas e.g. M. 152, A. V. 144, but only once the name of *ariyā* \- *iddhi* is applied to it D. 28. See further Pts.M., Iddhi\-kathā, Vis.M XII.
 
 ``` toml
-dict_label = "Nyana"
 word = "iddhi-pāda"
 summary = ": 'roads to power' or success are the 4 following"
 grammar_comment = ""
@@ -7325,7 +6925,6 @@ Whosoever, o Bhikkhus, has missed the 4 roads to power, he has missed the right 
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "ignorance"
 summary = "Ignorance: avijjā, further see: paticcasamuppāda 1"
 grammar_comment = ""
@@ -7341,7 +6940,6 @@ also_written_as = []
 **\*Ignorance:** *avijjā*, further see: *paticcasamuppāda* 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "ill-humour"
 summary = ": divine beings who come to grief through: mano -"
 grammar_comment = ""
@@ -7357,7 +6955,6 @@ also_written_as = []
 **Ill\-humour:** divine beings who come to grief through: *mano* \- *padosika* \- *deva*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ill-will"
 summary = ": vyāpāda is a synonym of dosa see: mūla and patig"
 grammar_comment = ""
@@ -7373,7 +6970,6 @@ also_written_as = []
 **Ill\-will:** *vyāpāda* is a synonym of *dosa* see: *mūla* and *patigha* and is one of the 10 mental chains *samyojana*, 5 hindrances *nīvarana* and 10 disadvantageous courses of action see: *kamma \-pat ha* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "image"
 summary = "Image: mental: see: nimitta, samādhi, kasina."
 grammar_comment = ""
@@ -7389,7 +6985,6 @@ also_written_as = []
 **Image:** mental: see: *nimitta*, *samādhi*, *kasina*.
 
 ``` toml
-dict_label = "Nyana"
 word = "immaterial sphere"
 summary = "Immaterial sphere: arūpāvacara cf. avacara jhāna 5"
 grammar_comment = ""
@@ -7405,7 +7000,6 @@ also_written_as = []
 **[[immaterial sphere]]Immaterial sphere:** *arūpāvacara* cf. *avacara* *jhāna* 5\-8; Tab. I.
 
 ``` toml
-dict_label = "Nyana"
 word = "immaterial world"
 summary = "Immaterial world: arūpa - loka see: loka."
 grammar_comment = ""
@@ -7421,7 +7015,6 @@ also_written_as = []
 **[[immaterial world]]Immaterial world:** *arūpa* \- *loka* see: *loka*.
 
 ``` toml
-dict_label = "Nyana"
 word = "immediacy"
 summary = "Immediacy: an alternative rendering for contiguity"
 grammar_comment = ""
@@ -7437,7 +7030,6 @@ also_written_as = []
 **Immediacy:** an alternative rendering for contiguity\-condition, *samanatara* \- *paccaya* which is one of the 24 conditions *paccaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "immediate"
 summary = "Immediate: the: ānantariya"
 grammar_comment = ""
@@ -7453,7 +7045,6 @@ also_written_as = []
 **Immediate:** the: *ānantariya*
 
 ``` toml
-dict_label = "Nyana"
 word = "immortality"
 summary = "Immortality: see: amata."
 grammar_comment = ""
@@ -7469,7 +7060,6 @@ also_written_as = []
 **Immortality:** see: *amata*.
 
 ``` toml
-dict_label = "Nyana"
 word = "imperfections"
 summary = "Imperfections: see: upakkilesa."
 grammar_comment = ""
@@ -7485,7 +7075,6 @@ also_written_as = []
 **Imperfections:** see: *upakkilesa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "impermanence"
 summary = "Impermanence: anicca - Contemplation of i., cf. vi"
 grammar_comment = ""
@@ -7501,7 +7090,6 @@ also_written_as = []
 **Impermanence:** *anicca* \- Contemplation of **i.,** cf. *vipassanā* 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "impersonality"
 summary = "Impersonality: see: anattā - Contemplation of: see"
 grammar_comment = ""
@@ -7517,7 +7105,6 @@ also_written_as = []
 **Impersonality:** see: *anattā* \- Contemplation of: see: *vipassanā* 3.
 
 ``` toml
-dict_label = "Nyana"
 word = "imperturbable karma-formations"
 summary = "Imperturbable kammic-constructions: āneñjābhisankh"
 grammar_comment = ""
@@ -7533,7 +7120,6 @@ also_written_as = []
 **[[imperturbable karma\-formations]]Imperturbable kammic\-constructions:** *āneñjābhisankhāra* see: *sankhāra*
 
 ``` toml
-dict_label = "Nyana"
 word = "impression"
 summary = "Contact: sensorial or mental: phassa"
 grammar_comment = ""
@@ -7549,7 +7135,6 @@ also_written_as = []
 **Contact:** sensorial or mental: *phassa*
 
 ``` toml
-dict_label = "Nyana"
 word = "impulsion"
 summary = "Impulsion: javana"
 grammar_comment = ""
@@ -7565,7 +7150,6 @@ also_written_as = []
 **Impulsion:** *javana*
 
 ``` toml
-dict_label = "Nyana"
 word = "impurities"
 summary = "Impurities: see: upakkilesa"
 grammar_comment = ""
@@ -7581,7 +7165,6 @@ also_written_as = []
 **Impurities:** see: *upakkilesa*
 
 ``` toml
-dict_label = "Nyana"
 word = "impurity of the body"
 summary = "Impurity of the body: contemplation of the: see: a"
 grammar_comment = ""
@@ -7597,7 +7180,6 @@ also_written_as = []
 **[[impurity of the body]]Impurity of the body:** contemplation of the: see: *asubha,* *sīvathikā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "in-and-out-breathin"
 summary = "breathing: watching over: ānāpāna-sati"
 grammar_comment = ""
@@ -7613,7 +7195,6 @@ also_written_as = []
 **In\-and\-out\-breathing:** watching over: *ānāpāna\-sati*
 
 ``` toml
-dict_label = "Nyana"
 word = "inclinations"
 summary = "Inclinations: see: anusaya"
 grammar_comment = ""
@@ -7629,7 +7210,6 @@ also_written_as = []
 **Inclinations:** see: *anusaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "independently enlightened"
 summary = "Independently enlightened: pacceka - Buddha"
 grammar_comment = ""
@@ -7645,7 +7225,6 @@ also_written_as = []
 **[[independently enlightened]]Independently enlightened:** *pacceka* \- *Buddha*
 
 ``` toml
-dict_label = "Nyana"
 word = "indifferent feeling"
 summary = "Indifferent feeling: cf. vedanā upekkhā"
 grammar_comment = ""
@@ -7661,7 +7240,6 @@ also_written_as = []
 **[[indifferent feeling]]Indifferent feeling:** cf. *vedanā* upekkhā
 
 ``` toml
-dict_label = "Nyana"
 word = "individual"
 summary = "Individual: puggala"
 grammar_comment = ""
@@ -7677,7 +7255,6 @@ also_written_as = []
 **Individual:** *puggala*
 
 ``` toml
-dict_label = "Nyana"
 word = "indriya"
 summary = "Indriya: 'abilities', is a name for 22, partly phy"
 grammar_comment = ""
@@ -7782,7 +7359,6 @@ The abilities, excepting 7 and 8, form one of the 24 conditions *paccaya* 6.
 In Vibh. V all these abilities are treated in the above order, whereas see: XLVIII enumerates and explains them by way of the above indicated groups, leaving only 20\-22 unexplained. See Vis XVI; path 138ff. \- For the 5 spiritual abilities 15\-19, see: The Way of Wisdom WHEEL 65/66.
 
 ``` toml
-dict_label = "Nyana"
 word = "indriya-paccaya"
 summary = ": see: paccaya 16."
 grammar_comment = ""
@@ -7798,7 +7374,6 @@ also_written_as = []
 **Indriya\-paccaya:** see: *paccaya* 16.
 
 ``` toml
-dict_label = "Nyana"
 word = "indriya-samatta"
 summary = ": 'equilibrium, balance, or harmony of abilities',"
 grammar_comment = ""
@@ -7814,7 +7389,6 @@ also_written_as = []
 **Indriya\-samatta:** 'equilibrium, balance, or harmony of abilities', relates to the 5 spiritual abilities: faith, energy, awareness or mindfulness, concentration and understanding see: *indriya* 15\-19. Of these there are two pairs of abilities, in each of which both abilities should well counter\-balance each other, namely: faith and understanding *saddhā* *paññā* on the one hand and energy and concentration *viriya* *samādhi* on the other. For excessive faith with deficient understanding leads to blind belief, whilst excessive understanding with deficient faith leads to cunning. In the same way, great energy with weak concentration leads to restlessness, whilst strong concentration with deficient energy leads to indolence. Though for both abilities in each of the 2 pairs a balanced degree of intensity is desirable, awareness or mindfulness should be allowed to develop to the highest degree of strength. Cf. Vis.M III\- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "indriya-samvara-sīla"
 summary = ": 'morality consisting of purity of restraint of t"
 grammar_comment = ""
@@ -7830,7 +7404,6 @@ also_written_as = []
 **Indriya\-samvara\-sīla:** 'morality consisting of purity of restraint of the senses'; see: *sīla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "indriyesu gutta-dvāratā"
 summary = "Indriyesu gutta-dvāratā: 'guarding the sense-doors"
 grammar_comment = ""
@@ -7846,7 +7419,6 @@ also_written_as = []
 **[[indriyesu gutta\-dvāratā]]Indriyesu gutta\-dvāratā:** 'guarding the sense\-doors' is identical with sense\-control *indriya* \- *samvara* see: *sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "inducement"
 summary = "Inducement: an alternative rendering for decisive-"
 grammar_comment = ""
@@ -7862,7 +7434,6 @@ also_written_as = []
 **Inducement:** an alternative rendering for decisive\-support condition, *upanissaya* is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "indulging"
 summary = "Indulging: in joy, sadness etc.: see: manopavicāra"
 grammar_comment = ""
@@ -7878,7 +7449,6 @@ also_written_as = []
 **Indulging:** in joy, sadness etc.: see: *manopavicāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ineffective karma"
 summary = "Ineffective kamma: see: kamma."
 grammar_comment = ""
@@ -7894,7 +7464,6 @@ also_written_as = []
 **[[ineffective karma]]Ineffective kamma:** see: kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "infatuation"
 summary = "Infatuation: cf. mada, moha see: mūla, avijjā."
 grammar_comment = ""
@@ -7910,7 +7479,6 @@ also_written_as = []
 **Infatuation:** cf. *mada*, *moha* see: *mūla*, *avijjā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "inference of meaning"
 summary = "Inference of meaning: an 'expression the meaning o"
 grammar_comment = ""
@@ -7926,7 +7494,6 @@ also_written_as = []
 **[[inference of meaning]]Inference of meaning:** an 'expression the meaning of which is to be inferred': *neyyattha\-dhamma* \- Antonym: 'expression with an established meaning': *nītattha\-dhamma* see: *neyyattha\-dhamma*
 
 ``` toml
-dict_label = "Nyana"
 word = "inferiority-conceit"
 summary = ": see: māna."
 grammar_comment = ""
@@ -7942,7 +7509,6 @@ also_written_as = []
 **Inferiority\-conceit:** see: *māna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "infinite consciousness"
 summary = "Infinite consciousnessInfinite consciousness: and"
 grammar_comment = ""
@@ -7958,7 +7524,6 @@ also_written_as = []
 **[[Infinite consciousness]]Infinite consciousness:** and **b. space,** Sphere of: see: *jhāna* 5, 6.
 
 ``` toml
-dict_label = "Nyana"
 word = "influxes"
 summary = "Influxes: fermentations, the 4: āsava"
 grammar_comment = ""
@@ -7974,7 +7539,6 @@ also_written_as = []
 **Influxes:** fermentations, the 4: *āsava*
 
 ``` toml
-dict_label = "Nyana"
 word = "inoperative consciousness"
 summary = "Inoperative consciousness: kammically; see: kiriya"
 grammar_comment = ""
@@ -7990,7 +7554,6 @@ also_written_as = []
 **[[inoperative consciousness]]Inoperative consciousness:** kammically; see: *kiriyacitta.*
 
 ``` toml
-dict_label = "Nyana"
 word = "inseparable mental factors"
 summary = "Inseparable mental properties: the 7 i. m. f.: in"
 grammar_comment = ""
@@ -8006,7 +7569,6 @@ also_written_as = []
 **[[inseparable mental factors]]Inseparable mental properties:** the 7 **i. m. f.:** in all consciousness: see: *cetanā* *phassa* *nāma.*
 
 ``` toml
-dict_label = "Nyana"
 word = "insight"
 summary = "Insight: cf. Paññā vipassanā ñāna"
 grammar_comment = ""
@@ -8022,7 +7584,6 @@ also_written_as = []
 **Insight:** cf. *Paññā* *vipassanā* *ñāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "intelligent-natured"
 summary = ": see: carita"
 grammar_comment = ""
@@ -8038,7 +7599,6 @@ also_written_as = []
 **Intelligent\-natured:** see: *carita*
 
 ``` toml
-dict_label = "Nyana"
 word = "intention"
 summary = "Intention: chanda."
 grammar_comment = ""
@@ -8054,7 +7614,6 @@ also_written_as = []
 **Intention:** *chanda*.
 
 ``` toml
-dict_label = "Nyana"
 word = "interest"
 summary = "Interest: pīti, cf. Tab. II."
 grammar_comment = ""
@@ -8070,7 +7629,6 @@ also_written_as = []
 **Interest:** *pīti*, cf. Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "intimation"
 summary = "Intimation: cf. viññatti"
 grammar_comment = ""
@@ -8086,7 +7644,6 @@ also_written_as = []
 **Intimation:** cf. *viññatti*
 
 ``` toml
-dict_label = "Nyana"
 word = "intoxicants"
 summary = "Intoxicants: see: āsava."
 grammar_comment = ""
@@ -8102,7 +7659,6 @@ also_written_as = []
 **Intoxicants:** see: *āsava*.
 
 ``` toml
-dict_label = "Nyana"
 word = "intoxicating drinks"
 summary = "Intoxicating drinks: the evil effect of taking: se"
 grammar_comment = ""
@@ -8118,7 +7674,6 @@ also_written_as = []
 **[[intoxicating drinks]]Intoxicating drinks:** the evil effect of taking: see: *surāmeraya.*
 
 ``` toml
-dict_label = "Nyana"
 word = "investigating function"
 summary = "Investigating function: of consciousness: santīran"
 grammar_comment = ""
@@ -8134,7 +7689,6 @@ also_written_as = []
 **[[investigating function]]Investigating function:** of consciousness: *santīrana* see: *viññāna\-kicca*
 
 ``` toml
-dict_label = "Nyana"
 word = "investigation"
 summary = "Investigation: full understanding through: tīranap"
 grammar_comment = ""
@@ -8150,7 +7704,6 @@ also_written_as = []
 **Investigation:** full understanding through: *tīranapariññā* see: *pariññā* \- 'Investigation' *vīmamsā* is one of the 4 roads to power *iddhipāda* and one of the 4 predominants *adhipati* s *paccaya* 3. \- **i.** of truth: *dhamma* \- *vicaya* is one of the 7 factors of enlightenment *bojjhanga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "iriyā-patha"
 summary = ": lit. 'ways of movement': 'bodily postures', i.e."
 grammar_comment = ""
@@ -8168,7 +7721,6 @@ also_written_as = []
 While going, standing, sitting or lying down, the Bhikkhu knows 'I go', 'I stand', 'I sit', 'I lie down'; he understands any position of the body.; \-;The disciple understands that there is no living being, no real ego, that goes, stands, etc., but that it is by a mere figure of speech that one says: 'I go', 'I stand', and so forth.; Com..
 
 ``` toml
-dict_label = "Nyana"
 word = "issā"
 summary = "Issā: 'envy', is a kammically disadvantageous akus"
 grammar_comment = ""
@@ -8184,7 +7736,6 @@ also_written_as = []
 **\*Issā:**\* 'envy', is a kammically disadvantageous *akusala* mental property, which is occasionally associated with hate\-rooted consciousness see: Tab. I. 30, 31. Explained in Pug. 55.
 
 ``` toml
-dict_label = "Nyana"
 word = "itthindriya"
 summary = "Itthindriya: 'femininity'; see: bhāva"
 grammar_comment = ""
@@ -8200,7 +7751,6 @@ also_written_as = []
 **Itthindriya:** 'femininity'; see: *bhāva*
 
 ``` toml
-dict_label = "Nyana"
 word = "janaka-kamma"
 summary = ": 'regenerative kamma'; see: kamma."
 grammar_comment = ""
@@ -8216,7 +7766,6 @@ also_written_as = []
 **Janaka\-kamma:** 'regenerative kamma'; see: kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "jarā"
 summary = "Jarā: 'old age, decay', is one of the 3 divine mes"
 grammar_comment = ""
@@ -8232,7 +7781,6 @@ also_written_as = []
 **Jarā:** 'old age, decay', is one of the 3 divine messengers see: *deva\-dūta*. For its conditioning by birth, see: *paticcasamuppāda* 11.
 
 ``` toml
-dict_label = "Nyana"
 word = "javana"
 summary = "Javana: fr. javati to impel: 'impulsion', is the p"
 grammar_comment = ""
@@ -8250,7 +7798,6 @@ also_written_as = []
 The 4 impulse moments immediately before entering an absorption *jhāna* or one of the supra\-mundane paths *magga* see. *ariya\-puggala* are: the preparatory *parikamma* approach *upacāra* adaptation *anuloma* and change\-of\-lineage\-moment *gotrabhū* In connection with entering the earth\-kasina absorption see: *kasina* they are explained as follows, in Vis.M IV:;After the breaking off of the subconscious stream of being *bhavanga\-sota*, there arises the 'directing at the mind\-door' *manodvārāvajjana* see: *viññānakicca,* taking as object the earthkasina whilst thinking, 'Earth! Earth!' Thereupon, 4 or 5 impulse moments flash forth, amongst which the last one change\-of\-lineage\-moment belongs to the fine\-material sphere *rūpāvacara* whereas the rest belong to the sense\-sphere *kāmāvacara*, see: *avacara* though the last one is more powerful in thought conception, discursive thinking, interest rapture, joy and concentration cf. *jhāna* than the states of consciousness belonging to the sense\-sphere. They are called 'preparatory' *parikamma\-samādhi* as they are preparing for the attainment\-concentration *appanā* \- *samādhi;* access *upacāra\-samādhi* as they are close to the attainment\-concentration and are moving in its neighbourhood; adaptive *anuloma* as they adapt themselves to the preceding preparatory states and to the succeeding attainment concentration. The last one of the four is called 'matured' gotrabhū. In a similar way, the impulse moments before reaching the divine ear are described in Vis.M XIII, 1. \- Cf. Kamma \- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "jewels"
 summary = "Jewels: The 3: ti-ratana"
 grammar_comment = ""
@@ -8266,7 +7813,6 @@ also_written_as = []
 **Jewels:** The 3: *ti\-ratana*
 
 ``` toml
-dict_label = "Nyana"
 word = "jhāna"
 summary = "Jhāna: 'absorption' meditation refers chiefly to t"
 grammar_comment = ""
@@ -8382,7 +7928,6 @@ For the 8 absorptions as objects for the development of insight *vipassanā,* se
 Jhāna in its widest sense e.g. as one of the 24 conditions; see: paccaya 17, denotes any, even momentary or weak absorption of mind, when directed on a single object.
 
 ``` toml
-dict_label = "Nyana"
 word = "jhāna-paccaya"
 summary = ": is one of the 24 conditions paccaya."
 grammar_comment = ""
@@ -8398,7 +7943,6 @@ also_written_as = []
 **Jhāna\-paccaya:** is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "jhānanga"
 summary = "Jhānanga: 'constituents or factors of absorption';"
 grammar_comment = ""
@@ -8414,7 +7958,6 @@ also_written_as = []
 **Jhānanga:** 'constituents or factors of absorption'; see: prec.
 
 ``` toml
-dict_label = "Nyana"
 word = "joy"
 summary = "Joy: somanassa - Altruistic j. = muditā see: brahm"
 grammar_comment = ""
@@ -8430,7 +7973,6 @@ also_written_as = []
 **Joy:** *somanassa* \- Altruistic **j.** = *muditā* see: *brahma\-vihāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "jāti"
 summary = "Jāti: 'birth', comprises the entire embryonic proc"
 grammar_comment = ""
@@ -8448,7 +7990,6 @@ also_written_as = []
 The birth of beings belonging to this or that order of beings, their being born, their conception *okkanti* and springing into existence, the manifestation of the groups materiality, feeling, perception, mental constructions, consciousness; see: *khandha* the acquiring of their sensitive organs: this is called birth; D. 22. For its conditioning by the prenatal kamma\-making *kamma\-bhava* see. *bhava* *paticcasamuppāda* 9, 10, *patisandhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "jīva"
 summary = "Jīva: life, vital principle, individual soul. 'Sou"
 grammar_comment = ""
@@ -8466,7 +8007,6 @@ also_written_as = []
 Verily, if one holds the view that the soul life is identical with the body, in that case a Noble life is not possible; or if one holds the view that the soul life is something quite different, also in that case a Noble life is impossible. Both these extremes the Perfect One has avoided and shown the Middle Doctrine, which says: 'On ignorance depend the kammic\-constructions, on the kammic\-constructions depends consciousness', etc.; S. XII. 35.
 
 ``` toml
-dict_label = "Nyana"
 word = "jīvita"
 summary = "Jīvita: and Jīvitindriya: 'Life, vitality', may be"
 grammar_comment = ""
@@ -8482,7 +8022,6 @@ also_written_as = []
 **Jīvita:** and **Jīvitindriya:** 'Life, vitality', may be either physical *rūpa* \- *jīvitindriya* or mental *nāma* \- *jīvitindriya* The latter is one of the mental properties inseparably associated with all consciousness; cf. *nāma, cetanā, phassa.*
 
 ``` toml
-dict_label = "Nyana"
 word = "jīvita-navaka-kalāpa"
 summary = ": ninefold vital group; see: rūpa-kalāpa."
 grammar_comment = ""
@@ -8498,7 +8037,6 @@ also_written_as = []
 **Jīvita\-navaka\-kalāpa:** ninefold vital group; see: *rūpa\-kalāpa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "materiality and mind"
 summary = "Materiality and mind: see: dic3_n.htm#nāma-rūpa nā"
 grammar_comment = ""
@@ -8514,7 +8052,6 @@ also_written_as = []
 **[[materiality and mind]]Materiality and mind:** see: dic3\_n.htm#nāma\-rūpa *nāma\-rūpa*
 
 ``` toml
-dict_label = "Nyana"
 word = "materiality"
 summary = "Materiality: produced through consciousness, kamma"
 grammar_comment = ""
@@ -8530,7 +8067,6 @@ also_written_as = []
 **Materiality:** produced through consciousness, kamma, etc.; see: *samutthāna* \- Sensitive **c.:** *pasāda\-rūpa*
 
 ``` toml
-dict_label = "Nyana"
 word = "materiality-group"
 summary = ": rūpa- khandha see: khandha"
 grammar_comment = ""
@@ -8546,7 +8082,6 @@ also_written_as = []
 **Materiality\-group:** rūpa\- *khandha* see: *khandha*
 
 ``` toml
-dict_label = "Nyana"
 word = "materiality-perceptions"
 summary = ": rūpa - saññā see: jhāna"
 grammar_comment = ""
@@ -8562,7 +8097,6 @@ also_written_as = []
 **Materiality\-perceptions:** *rūpa* \- *saññā* see: *jhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "pabbajjā"
 summary = "Pabbajjā: lit. 'the going forth', or more fully st"
 grammar_comment = ""
@@ -8589,7 +8123,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "paccavekkhana-suddhi"
 summary = ": 'purity of reflection', is a name for wise consi"
 grammar_comment = ""
@@ -8605,7 +8138,6 @@ also_written_as = []
 **Paccavekkhana\-suddhi:** 'purity of reflection', is a name for wise consideration in using the 4 requisites allowed to the monk, i.e. robes, food, dwelling, and medicine; *sīla* 4.
 
 ``` toml
-dict_label = "Nyana"
 word = "paccavekkhana-ñāna"
 summary = ": 'retrospective knowledge', refers to the recolle"
 grammar_comment = ""
@@ -8621,7 +8153,6 @@ also_written_as = []
 **Paccavekkhana\-ñāna:** 'retrospective knowledge', refers to the recollected mental image obtained in concentration, or to any inner experience just passed, as for instance, any absorption *jhāna*, or any supra\-mundane path, or fruition of the path, etc. see: *ariya\-puggala* As it is said:;At the end of fruitional consciousness, consciousness sinks into the subconscious stream of existence *bhavanga\-sota*. Then, breaking off the stream of existence, mental directing *manodvārāvajjana* arises at the mind\-door, for the purpose of reviewing the just passed path \-moment. Now, as soon as this stage has passed, 7 moments of impulse consciousness *javana* \- *citta* one after the other, flash up while reviewing the path. After they again have sunk into the subconscious stream, there arise, for the purpose of reviewing the fruition of the path the moments of directing and impulsion, during whose arising the Bhikkhu is reviewing the path, reviewing the fruition, reviewing the abandoned defilements, reviewing the still remaining defilements, reviewing *Nibbāna* as object. 'This blessing have I attained'. 'This and that defilement still remains in me'. 'This object have I beheld in my mind', etc.; Vis.M XXII.
 
 ``` toml
-dict_label = "Nyana"
 word = "paccaya"
 summary = "Paccaya: 'condition', is something on which someth"
 grammar_comment = ""
@@ -8764,7 +8295,6 @@ These 24 conditions should be known thoroughly for a detailed understanding of t
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "paccaya-sannissita-sīla"
 summary = ": 'morality consisting in the wise use of the monk"
 grammar_comment = ""
@@ -8780,7 +8310,6 @@ also_written_as = []
 **Paccaya\-sannissita\-sīla:** 'morality consisting in the wise use of the monk’s requisities'; see: *sīla* 4.
 
 ``` toml
-dict_label = "Nyana"
 word = "pacceka-bodhi"
 summary = ": 'solitary enlightenment'; see: the foll. and bod"
 grammar_comment = ""
@@ -8796,7 +8325,6 @@ also_written_as = []
 **Pacceka\-bodhi:** 'solitary enlightenment'; see: the foll. and *bodhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pacceka-buddha"
 summary = ": an 'Solitarily Enlightened One'; or Separately o"
 grammar_comment = ""
@@ -8824,7 +8352,6 @@ Canonical references are few; Pug. 29 defin.; A. II, 56; in M. 116, names of man
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "pacchājāta-paccaya"
 summary = ": 'post-nascence-condition', is one of the 24 cond"
 grammar_comment = ""
@@ -8840,7 +8367,6 @@ also_written_as = []
 **Pacchājāta\-paccaya:** 'post\-nascence\-condition', is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pada-parama"
 summary = ": 'one for whom the words are the utmost attainmen"
 grammar_comment = ""
@@ -8856,7 +8382,6 @@ also_written_as = []
 **Pada\-parama:** 'one for whom the words are the utmost attainment'.;Whoever, though having learned much, speaking much, knowing many things by heart, and discoursing much, has not penetrated the truth, such a man is called by that name; Pug. 163.
 
 ``` toml
-dict_label = "Nyana"
 word = "padhāna"
 summary = "Padhāna: 'effort.' The 4 right efforts samma - pad"
 grammar_comment = ""
@@ -8908,7 +8433,6 @@ The Bhikkhu rouses his will to avoid the arising of evil, disadvantageous things
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "padhāniyanga"
 summary = "Padhāniyanga: 'elements of effort', are the follow"
 grammar_comment = ""
@@ -8924,7 +8448,6 @@ also_written_as = []
 **Padhāniyanga:** 'elements of effort', are the following 5 qualities: faith, health, sincerity, energy, and understanding M. 85, 90; A. V. 53. See *pārisuddhi\-padhāniyanga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pahāna"
 summary = "Pahāna: 'overcoming', abandoning. There are 5 kind"
 grammar_comment = ""
@@ -8982,7 +8505,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "pahāna-pariññā"
 summary = ": s. pariññā"
 grammar_comment = ""
@@ -8998,7 +8520,6 @@ also_written_as = []
 **Pahāna\-pariññā:** s. *pariññā*
 
 ``` toml
-dict_label = "Nyana"
 word = "pain"
 summary = "Pain: feeling of: see: vedanā"
 grammar_comment = ""
@@ -9014,7 +8535,6 @@ also_written_as = []
 **Pain:** feeling of: see: *vedanā*
 
 ``` toml
-dict_label = "Nyana"
 word = "pakati-sīla"
 summary = ": 'natural or genuine morality', is distinct from"
 grammar_comment = ""
@@ -9030,7 +8550,6 @@ also_written_as = []
 **Pakati\-sīla:** 'natural or genuine morality', is distinct from those outward rules of conduct laid down for either laymen or Bhikkhus. Those later are the so\-called 'prescribed morality' *paññāttisīla* Cf. *sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "pakati-upanissaya"
 summary = ": 'direct inducement'; see: paccaya"
 grammar_comment = ""
@@ -9046,7 +8565,6 @@ also_written_as = []
 **Pakati\-upanissaya:** 'direct inducement'; see: *paccaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "palibodha"
 summary = "Palibodha: 'obstacles', is the term for the follow"
 grammar_comment = ""
@@ -9062,7 +8580,6 @@ also_written_as = []
 **Palibodha:** 'obstacles', is the term for the following things if they obstruct the Bhikkhu in the strict practice of a subject of meditation: a crowded monastery, travelling, relatives, association with lay folk, gifts, pupils, repairs in the monastery, sickness, study, magical power. The latter, however, may become an obstacle only in developing insight *vipassanā.* See Vis.M III, 29ff. \- App.
 
 ``` toml
-dict_label = "Nyana"
 word = "pamsukūlik'anga"
 summary = "pamsukūlik’angaPamsukūlik’anga: the 'vow to wear o"
 grammar_comment = ""
@@ -9078,7 +8595,6 @@ also_written_as = []
 **[[pamsukūlik’anga]]Pamsukūlik’anga:** the 'vow to wear only robes made from picked\-up rags', is one of the ascetic rules of purification; see: *dhutānga*
 
 ``` toml
-dict_label = "Nyana"
 word = "papañca"
 summary = "Papañca: Sanskrit prapañca In doctrinal usage, it"
 grammar_comment = ""
@@ -9106,7 +8622,6 @@ In the commentaries, we often find a threefold classification *tanhā\-, ditthi\
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "paramattha"
 summary = "Paramattha: sacca - vacana - Desanā 'truth or term"
 grammar_comment = ""
@@ -9134,7 +8649,6 @@ The commentarial discussions on these truths Com. to D. 9 and M. 5 have not yet 
 In Mahāyana, the Mādhyamika school has given a prominent place to the teaching of the two truths.
 
 ``` toml
-dict_label = "Nyana"
 word = "paramī"
 summary = "Paramī: Pāramitā: 'perfection'. Ten qualities lead"
 grammar_comment = ""
@@ -9168,7 +8682,6 @@ In the Mahāyana scriptures, where the *pāramī* occupy a much more prominent p
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "paranimmita-vasavatti-deva"
 summary = ": 'divine beings with power over the productions o"
 grammar_comment = ""
@@ -9184,7 +8697,6 @@ also_written_as = []
 **Paranimmita\-vasavatti\-deva:** 'divine beings with power over the productions of others', constitute a class of divine beings in the sense\-sphere *kāma\-loka*. Māra is said to be their ruler. Cf. *loka* *deva* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "parassa ceto-pariya-ñāna"
 summary = "Parassa ceto-pariya-ñāna: 'penetration of the mind"
 grammar_comment = ""
@@ -9200,7 +8712,6 @@ also_written_as = []
 **[[parassa ceto\-pariya\-ñāna]]Parassa ceto\-pariya\-ñāna:** 'penetration of the mind of others', is one of the higher powers *abhiññā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "paricchinnākāsa-kasina"
 summary = ": 'limited-space kasina' = space kasina; see: kasi"
 grammar_comment = ""
@@ -9216,7 +8727,6 @@ also_written_as = []
 **Paricchinnākāsa\-kasina:** 'limited\-space kasina' = space kasina; see: *kasina* App..
 
 ``` toml
-dict_label = "Nyana"
 word = "parihāna-dhamma"
 summary = ": 'liable to decline'.;Now, someone reaches the at"
 grammar_comment = ""
@@ -9232,7 +8742,6 @@ also_written_as = []
 **Parihāna\-dhamma:** 'liable to decline'.;Now, someone reaches the attainments absorptions: *jhāna* of the fine\-material or immaterial sphere see: *avacara* But he does not reach them according to his wish, and not without trouble and exertion; and not according to his wish with regard to place, object and duration, does he enter them, or rise therefrom. Therefore it is well possible that such a monk, through negligence, may lose these attainments. Such a person is said to be liable to decline; Pug. 5.
 
 ``` toml
-dict_label = "Nyana"
 word = "parikamma"
 summary = "Parikamma: 'preparatory-moment': see: javana"
 grammar_comment = ""
@@ -9248,7 +8757,6 @@ also_written_as = []
 **Parikamma:** 'preparatory\-moment': see: *javana*
 
 ``` toml
-dict_label = "Nyana"
 word = "parikamma-nimitta"
 summary = ": 'preparatory image'; see: nimitta, kasina."
 grammar_comment = ""
@@ -9264,7 +8772,6 @@ also_written_as = []
 **Parikamma\-nimitta:** 'preparatory image'; see: *nimitta*, *kasina*.
 
 ``` toml
-dict_label = "Nyana"
 word = "parikamma-samādhi"
 summary = ": 'preparatory concentration', is the initial and"
 grammar_comment = ""
@@ -9280,7 +8787,6 @@ also_written_as = []
 **Parikamma\-samādhi:** 'preparatory concentration', is the initial and still undeveloped concentration of mind; see: *samādhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "parinibbāna"
 summary = "Parinibbāna: 'full Nibbāna', is a synonym for Nibb"
 grammar_comment = ""
@@ -9296,7 +8802,6 @@ also_written_as = []
 **Parinibbāna:** 'full Nibbāna', is a synonym for Nibbāna; this term, therefore, does not refer exclusively to the ceasing of the 5 groups of existence at the death of the Noble One, though often applied to it. Cf. *nibbāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "parittābha"
 summary = "Parittābha: and paritta-subha: are 2 classes of di"
 grammar_comment = ""
@@ -9312,7 +8817,6 @@ also_written_as = []
 **Parittābha:** and **paritta\-subha:** are 2 classes of divine beings of the fine\-material sphere; see: *deva* II.
 
 ``` toml
-dict_label = "Nyana"
 word = "pariyatti"
 summary = "Pariyatti: 'learning the doctrine', the 'wording o"
 grammar_comment = ""
@@ -9328,7 +8832,6 @@ also_written_as = []
 **Pariyatti:** 'learning the doctrine', the 'wording of the doctrine'. In the 'progress of the disciple', 3 stages may be distinguished: theory, practice, realization, i.e. 1 learning the wording of the doctrine *pariyatti* 2 practising it *patipatti* 3 penetrating it *pativedha* and realising its goal. App..
 
 ``` toml
-dict_label = "Nyana"
 word = "pariññā"
 summary = "Pariññā: 'full understanding', full comprehension."
 grammar_comment = ""
@@ -9350,7 +8853,6 @@ Full understanding by investigating is that insight\-understanding *vipassanā* 
 Full understanding by overcorning is that insight\-understanding which has the above mentioned general characteristics as its objects, and arises after overcoming the idea of permanence, etc.; \- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "parāmāsa"
 summary = "Parāmāsa: 'adherence', attachment, 'misapprehensio"
 grammar_comment = ""
@@ -9366,7 +8868,6 @@ also_written_as = []
 **Parāmāsa:** 'adherence', attachment, 'misapprehension', is according to Vis.M XXII a name for wrong views; in that sense it occurs in Dhs. 1174 ff. \- See *sīlabbata\-parāmāsa*.
 
 ``` toml
-dict_label = "Nyana"
 word = "passaddhi"
 summary = "Passaddhi: passaddhi-sambojjhanga: :  'tranquillit"
 grammar_comment = ""
@@ -9382,7 +8883,6 @@ also_written_as = []
 **Passaddhi:** passaddhi\-sambojjhanga: :\* \* 'tranquillity, as link to Awakening', consists in tranquillity of mental properties *kāya\-passaddhi* and tranquillity of consciousness *citta* \- *passaddhi* Cf. *bojjhanga* further Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "pasāda-rūpa"
 summary = ": 'sensitive materiality', is a name for the 5 phy"
 grammar_comment = ""
@@ -9398,7 +8898,6 @@ also_written_as = []
 **Pasāda\-rūpa:** 'sensitive materiality', is a name for the 5 physical sense\-organs responding to sense\-stimuli. Cf. *āyatana*
 
 ``` toml
-dict_label = "Nyana"
 word = "patched-up robes"
 summary = "robes: the practice of wearing: is one of the asce"
 grammar_comment = ""
@@ -9414,7 +8913,6 @@ also_written_as = []
 **[[patched\-up robes]]Patched\-up robes:** the practice of wearing: is one of the ascetic rules of purification *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "path and not-path"
 summary = "Path and not-path: the knowledge and vision regard"
 grammar_comment = ""
@@ -9430,7 +8928,6 @@ also_written_as = []
 **[[path and not\-path]]Path and not\-path:** the knowledge and vision regarding: see: *visuddhi* V.
 
 ``` toml
-dict_label = "Nyana"
 word = "path-condition"
 summary = ": magga-paccaya is one of the 24 conditions paccay"
 grammar_comment = ""
@@ -9446,7 +8943,6 @@ also_written_as = []
 **Path\-condition:** *magga\-paccaya* is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "path-knowledge"
 summary = ": the 4 kinds of: see: visuddhi VII."
 grammar_comment = ""
@@ -9462,7 +8958,6 @@ also_written_as = []
 **Path\-knowledge:** the 4 kinds of: see: *visuddhi* VII.
 
 ``` toml
-dict_label = "Nyana"
 word = "path-result"
 summary = ": fruition: phala"
 grammar_comment = ""
@@ -9478,7 +8973,6 @@ also_written_as = []
 **Path\-result:** fruition: *phala*
 
 ``` toml
-dict_label = "Nyana"
 word = "pathavī-dhātu"
 summary = ": 'earth-element' or 'solid element'. It is cogniz"
 grammar_comment = ""
@@ -9494,7 +8988,6 @@ also_written_as = []
 **Pathavī\-dhātu:** 'earth\-element' or 'solid element'. It is cognizable through the sensations of pressure, touch, cold, heat. pain, etc. \- About the 4 elements. see: *dhātu, khandha* I. A..
 
 ``` toml
-dict_label = "Nyana"
 word = "pathavī-kasina"
 summary = ": 'earth-kasina' see: kasina"
 grammar_comment = ""
@@ -9510,7 +9003,6 @@ also_written_as = []
 **Pathavī\-kasina:** 'earth\-kasina' see: *kasina*
 
 ``` toml
-dict_label = "Nyana"
 word = "patibhāga-nimitta"
 summary = ": s. nimitta, kasina, samādhi."
 grammar_comment = ""
@@ -9526,7 +9018,6 @@ also_written_as = []
 **Patibhāga\-nimitta:** s. *nimitta*, *kasina*, *samādhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "patibhāna-patisambhidā"
 summary = ": the 'analytical knowledge of ready wit': see: pa"
 grammar_comment = ""
@@ -9542,7 +9033,6 @@ also_written_as = []
 **Patibhāna\-patisambhidā:** the 'analytical knowledge of ready wit': see: *patisambhidā*
 
 ``` toml
-dict_label = "Nyana"
 word = "paticcasamuppāda"
 summary = "Paticcasamuppāda: 'dependent origination', is the"
 grammar_comment = ""
@@ -9793,7 +9283,6 @@ According to Buddhism, everything mental or physical happens in accordance with 
 The Buddha has said D. 15:;Profound, Ananda. is this dependent origination, and profound does it appear. It is through not understanding, not penetrating, this law that this world resembles a tangled ball of thread, a bird’s nest, a thicket of sedge or reed, and that man does not escape from the lower states of existence, from the course of woe and perdition, suffering from the round of rebirth.; And further M. 28: 'Whoso understands the dependent origination understands the Dhamma; and whoso understands the Dhamma understands the dependent origination.
 
 ``` toml
-dict_label = "Nyana"
 word = "patience"
 summary = "Patience: or forbearance khanti one of the 10 perf"
 grammar_comment = ""
@@ -9809,7 +9298,6 @@ also_written_as = []
 **Patience:** or forbearance *khanti* one of the 10 perfections *pāramī,* .
 
 ``` toml
-dict_label = "Nyana"
 word = "patigha"
 summary = "Patigha: - 1. In an ethical sense, it means: 'repu"
 grammar_comment = ""
@@ -9853,7 +9341,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "patikkūla-saññā"
 summary = ": s. kāyagatā - sati"
 grammar_comment = ""
@@ -9869,7 +9356,6 @@ also_written_as = []
 **Patikkūla\-saññā:** s. *kāyagatā* \- *sati*
 
 ``` toml
-dict_label = "Nyana"
 word = "patinissaggānupassanā"
 summary = "Patinissaggānupassanā: 'contemplation on relinquis"
 grammar_comment = ""
@@ -9885,7 +9371,6 @@ also_written_as = []
 **Patinissaggānupassanā:** 'contemplation on relinquishment ', is one of the 18 kinds of insight *vipassanā.* Further cf. the 16th exercise of anapana\-sati.
 
 ``` toml
-dict_label = "Nyana"
 word = "patipadā"
 summary = "Patipadā: 1. 'Road', ' Path '; for instance in duk"
 grammar_comment = ""
@@ -9947,7 +9432,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "patipadā-ñānadassana-visuddhi"
 summary = ": 'purification by knowledge and vision of the pat"
 grammar_comment = ""
@@ -9963,7 +9447,6 @@ also_written_as = []
 **Patipadā\-ñānadassana\-visuddhi:** 'purification by knowledge and vision of the path \-progress' forms the 6th stage of purification *visuddhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "patipannaka"
 summary = "Patipannaka: ' Path -attainer', is he who had reac"
 grammar_comment = ""
@@ -9979,7 +9462,6 @@ also_written_as = []
 **Patipannaka:** ' Path \-attainer', is he who had reached one of the 4 supra\-mundane paths of Nobility see: *ariya\-puggala* \- App.
 
 ``` toml
-dict_label = "Nyana"
 word = "patipassaddhi-pahāna"
 summary = ": 'overcoming of defilements by tranquillization'"
 grammar_comment = ""
@@ -9995,7 +9477,6 @@ also_written_as = []
 **Patipassaddhi\-pahāna:** 'overcoming of defilements by tranquillization' see: *pahāna*.
 
 ``` toml
-dict_label = "Nyana"
 word = "patipatti"
 summary = "Patipatti: practice, or 'pursuance' of the teachin"
 grammar_comment = ""
@@ -10011,7 +9492,6 @@ also_written_as = []
 **Patipatti:** practice, or 'pursuance' of the teaching, as distinguished from the mere theoretical knowledge of its wording *pariyatti*.
 
 ``` toml
-dict_label = "Nyana"
 word = "patisambhidā"
 summary = "Patisambhidā: 'analytical knowledge' or 'discrimin"
 grammar_comment = ""
@@ -10075,7 +9555,6 @@ In Vibh. it is further said: 'The knowledge of suffering is the 'analytical know
 On the 7 qualities leading to the attainment of the 4 'analytical knowledge', see: A. VII, 37 \- See Vis.M XIV, 21ff; Vibh. XV; Pts.M. Patisambhidā Kathā.
 
 ``` toml
-dict_label = "Nyana"
 word = "patisandhi"
 summary = "Patisandhi: lit. 'reunion, relinking', i.e. rebirt"
 grammar_comment = ""
@@ -10161,7 +9640,6 @@ In the suttas, the terms for rebirth are chiefly *punabbhava*, 'renewed existenc
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "patisankhāna-bala"
 summary = ": and Bhāvanā-bala: 'power of reflection', and 'po"
 grammar_comment = ""
@@ -10181,7 +9659,6 @@ What, o Bhikkhus, is the power of reflection? If, o Bhikkhus, someone thinks thu
 What, o Bhikkhus, is the power of mental development? If, o Bhikkhus, a Bhikkhu develops the factors of enlightenment *bojjhanga*, bent on solitude, on detachment, on ceasing, and ending in deliverance, namely: awareness or mindfulness, investigating of the law, energy, rapture, tranquillity, concentration, and equanimity, this, o Bhikkhus, is the power of mental development.
 
 ``` toml
-dict_label = "Nyana"
 word = "patisankhānupassanā-ñāna"
 summary = ": 'knowledge consisting in reflective contemplatio"
 grammar_comment = ""
@@ -10199,7 +9676,6 @@ also_written_as = []
 is one of the 9 knowledges constituting the 'purification by knowledge and vision of the path \-progress' *patipadā* \- *ñānadassanavisuddhi* see: *visuddhi* VI, and one of the 18 chief kinds of insight *mahāvipassanā* see: *vipassanā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "pativedha"
 summary = "Pativedha: 'penetration', signifies the realizatio"
 grammar_comment = ""
@@ -10215,7 +9691,6 @@ also_written_as = []
 **Pativedha:** 'penetration', signifies the realization of the truth of the Dhamma, as distinguished from the mere acquisition of its wording *pariyatti* or the practice *patipatti* of it, in other words, realization as distinguished from theory and practice. Cf. *pariyatti*
 
 ``` toml
-dict_label = "Nyana"
 word = "patta-pindik'anga"
 summary = "’angaPatta-pindik’anga: the 'exercise of the bowl-"
 grammar_comment = ""
@@ -10231,7 +9706,6 @@ also_written_as = []
 **[[patta\-pindik’anga]]Patta\-pindik’anga:** the 'exercise of the bowl\-eater', is one of the 13 ascetic purification\-exercises *dhutānga*, consisting in the vow of using only the food\-bowl for eating, and the rejection of any other vessel.
 
 ``` toml
-dict_label = "Nyana"
 word = "patti-dāna"
 summary = ": lit. 'giving of the acquired', i.e. 'transferenc"
 grammar_comment = ""
@@ -10257,7 +9731,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "pañca-sīla"
 summary = ": s. sikkhāpada"
 grammar_comment = ""
@@ -10273,7 +9746,6 @@ also_written_as = []
 **Pañca\-sīla:** s. *sikkhāpada*
 
 ``` toml
-dict_label = "Nyana"
 word = "pañca-vokāra-bhava"
 summary = ": 'five-group existence', is a name for existence"
 grammar_comment = ""
@@ -10289,7 +9761,6 @@ also_written_as = []
 **Pañca\-vokāra\-bhava:** 'five\-group existence', is a name for existence in the sense\-sphere *kāmāvacara* or in the fine\-material sphere *rūpāvacara* *avacara* since all the 5 groups of existence *khandha* are found there. In the immaterial sphere *arūpāvacara* see: *avacara* however, only the 4 mental groups are found, and in the world of unconscious beings *asaññā* \- *satta* only the one materiality group. Cf *eka\-vokāra\-bhava* and *catu* \- *pañca* \- *vokāra* \- *bhāva* further see: *avacara* \- App.: *vokāra*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pañcadvārāvajjana"
 summary = "Pañcadvārāvajjana: 'directing to the 5-sense-doors"
 grammar_comment = ""
@@ -10305,7 +9776,6 @@ also_written_as = []
 **Pañcadvārāvajjana:** 'directing to the 5\-sense\-doors'; see: *viññāna\-kicca*
 
 ``` toml
-dict_label = "Nyana"
 word = "pañhā-byākarana"
 summary = ": 'answering questions'.;There are, o Bhikkhus, 4"
 grammar_comment = ""
@@ -10321,7 +9791,6 @@ also_written_as = []
 **Pañhā\-byākarana:** 'answering questions'.;There are, o Bhikkhus, 4 ways of answering questions: there are questions requiring a direct answer; questions requiring an explanation; questions to be answered by counter\-questions; questions to be rejected as wrongly put.; See D. 33; A. III, 68; A. IV, 42.
 
 ``` toml
-dict_label = "Nyana"
 word = "paññatti-sīla"
 summary = ": 'prescribed morality', is a name for the discipl"
 grammar_comment = ""
@@ -10337,7 +9806,6 @@ also_written_as = []
 **Paññatti\-sīla:** 'prescribed morality', is a name for the disciplinary rules of the Bhikkhu or layman prescribed by the Buddha, as distinguished from natural or genuine morality *pakati\-sīla* see: *sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "paññā"
 summary = "Paññā: 'understanding, knowledge, understanding, i"
 grammar_comment = ""
@@ -10359,7 +9827,6 @@ With regard to the condition of its arising one distinguishes 3 kinds of knowled
 Wisdom is one of the 5 mental abilities see: *bala* one of the 3 kinds of training *sikkhā,* and one of the perfections see: *pāramī* For further details, see: *vipassanā* and the detailed exposition in Vis.M XIV, 1\-32.
 
 ``` toml
-dict_label = "Nyana"
 word = "paññā-vimutti"
 summary = ": 'deliverance through understanding' or understan"
 grammar_comment = ""
@@ -10377,7 +9844,6 @@ also_written_as = []
 The term is often linked with *ceto\-vimutti* deliverance of mind'.
 
 ``` toml
-dict_label = "Nyana"
 word = "penetration"
 summary = "Penetration: s. pativedha pariyatti - For the powe"
 grammar_comment = ""
@@ -10393,7 +9859,6 @@ also_written_as = []
 **Penetration:** s. *pativedha* *pariyatti* \- For the power of penetrating *vipphāra* knowledge and concentration, see: *iddhi* \- For morality combined with penetration *nibbedha* see: *hāna\-bhāgiya\-sīla* etc. \- For penetration *pariya* of the mind of others, see: *abhiññā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "perfect one"
 summary = "Perfect one: the: tathāgata"
 grammar_comment = ""
@@ -10409,7 +9874,6 @@ also_written_as = []
 **[[perfect one]]Perfect one:** the: *tathāgata*
 
 ``` toml
-dict_label = "Nyana"
 word = "perfections"
 summary = "Perfections: the 10: pāramī"
 grammar_comment = ""
@@ -10425,7 +9889,6 @@ also_written_as = []
 **Perfections:** the 10: *pāramī*
 
 ``` toml
-dict_label = "Nyana"
 word = "performance"
 summary = "Performance: and avoidance: cāritta - vāritta"
 grammar_comment = ""
@@ -10441,7 +9904,6 @@ also_written_as = []
 **Performance:** and **avoidance:** *cāritta* \- *vāritta*
 
 ``` toml
-dict_label = "Nyana"
 word = "permanency"
 summary = "Permanency: idea of: see: vipallāsa"
 grammar_comment = ""
@@ -10457,7 +9919,6 @@ also_written_as = []
 **Permanency:** idea of: see: *vipallāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "personality"
 summary = "Personality: s. sakkāya For personality-belief, se"
 grammar_comment = ""
@@ -10473,7 +9934,6 @@ also_written_as = []
 **Personality:** s. *sakkāya* For personality\-belief, see: *sakkāya ditthi, ditthi, attā, satta, puggala, vipallāsa.*
 
 ``` toml
-dict_label = "Nyana"
 word = "perversions"
 summary = "Perversions: the 4: vipallāsa"
 grammar_comment = ""
@@ -10489,7 +9949,6 @@ also_written_as = []
 **Perversions:** the 4: *vipallāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "peta"
 summary = "Peta: Sanskrit preta lit. 'departed spirit', ghost"
 grammar_comment = ""
@@ -10505,7 +9964,6 @@ also_written_as = []
 **Peta:** Sanskrit *preta* lit. 'departed spirit', ghost; see: *loka*
 
 ``` toml
-dict_label = "Nyana"
 word = "petti-visaya"
 summary = ": 'ghost realm'; see: loka."
 grammar_comment = ""
@@ -10521,7 +9979,6 @@ also_written_as = []
 **Petti\-visaya:** 'ghost realm'; see: *loka*.
 
 ``` toml
-dict_label = "Nyana"
 word = "phala"
 summary = "Phala: lit. 'fruit'. - 1. result, effect often tog"
 grammar_comment = ""
@@ -10539,7 +9996,6 @@ also_written_as = []
 As ' path \-result', or 'fruition', it donotes those moments of supra\-mundane consciousness which flash forth immediately after the moment of path \-consciousness see: *ariya\-puggala* and which, till the attainment of the next higher path, may during the practice of insight *vipassanā* still recur innumerable times. If thus repeated, they are called the 'attainment of fruition *phalasamāpatti* which is explained in detail in Vis.M XXIII.
 
 ``` toml
-dict_label = "Nyana"
 word = "phassa"
 summary = "Phassa: fr. phusati to touch: 'sense-contact', con"
 grammar_comment = ""
@@ -10559,7 +10015,6 @@ also_written_as = []
 Being a key function in the mind’s contact with the world of objects and being a potential source of defilements, sense\-contact is an important subject for reflective insight contemplation as succinctly formulated in many verses of the Sn.: 736/7, 778, 851, 870/72, 923.
 
 ``` toml
-dict_label = "Nyana"
 word = "picked-up rags"
 summary = "rags: wearing robes made from: see: dhutānga."
 grammar_comment = ""
@@ -10575,7 +10030,6 @@ also_written_as = []
 **[[picked\-up rags]]Picked\-up rags:** wearing robes made from: see: *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pindapātik'anga"
 summary = "pindapātik’angaPindapātik’anga: The 'practice of g"
 grammar_comment = ""
@@ -10591,7 +10045,6 @@ also_written_as = []
 **[[pindapātik’anga]]Pindapātik’anga:** The 'practice of going for food', is one of the 13 ascetic purification\-exercises see: *dhutānga*
 
 ``` toml
-dict_label = "Nyana"
 word = "planes of existence"
 summary = "Planes of existence: the 3: see: avacara."
 grammar_comment = ""
@@ -10607,7 +10060,6 @@ also_written_as = []
 **[[planes of existence]]Planes of existence:** the 3: see: *avacara*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pleasantness"
 summary = "Pleasantness: idea of: see: vipallāsa, subhanimitt"
 grammar_comment = ""
@@ -10623,7 +10075,6 @@ also_written_as = []
 **Pleasantness:** idea of: see: *vipallāsa*, *subhanimitta.*
 
 ``` toml
-dict_label = "Nyana"
 word = "pondering"
 summary = "Pondering: s. vīmamsā."
 grammar_comment = ""
@@ -10639,7 +10090,6 @@ also_written_as = []
 **Pondering:** s. *vīmamsā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "post-nascence"
 summary = ": pacchājāta-paccaya one of the 24 conditions pacc"
 grammar_comment = ""
@@ -10655,7 +10105,6 @@ also_written_as = []
 **Post\-nascence:** *pacchājāta\-paccaya* one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "postures"
 summary = "Postures: the 4 bodily: iriyāpatha"
 grammar_comment = ""
@@ -10671,7 +10120,6 @@ also_written_as = []
 **Postures:** the 4 bodily: *iriyāpatha*
 
 ``` toml
-dict_label = "Nyana"
 word = "powers"
 summary = "Powers: the 5 spiritual: see: bala - For the 6 hig"
 grammar_comment = ""
@@ -10687,7 +10135,6 @@ also_written_as = []
 **Powers:** the 5 spiritual: see: *bala* \- For the 6 higher **p.,** see: *abhiññna* For the 10 **p.** of a Buddha, see: *dasabala* \- For the 4 roads to **p.,** see: *iddhipāda.* For magical **p.,** see: *iddhi*
 
 ``` toml
-dict_label = "Nyana"
 word = "practice"
 summary = "Practice: For theory, practice and realization, se"
 grammar_comment = ""
@@ -10703,7 +10150,6 @@ also_written_as = []
 **Practice:** For theory, practice and realization, see: *pariyatti*.
 
 ``` toml
-dict_label = "Nyana"
 word = "predominance"
 summary = "Predominance: and pre-nascence: adhipati, purejāta"
 grammar_comment = ""
@@ -10719,7 +10165,6 @@ also_written_as = []
 **Predominance:** and **pre\-nascence:** adhipati, purejāta, are 2 of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "preparatory concentration"
 summary = "Preparatory concentration: and preparatory image,"
 grammar_comment = ""
@@ -10735,7 +10180,6 @@ also_written_as = []
 **[[preparatory concentration]]Preparatory concentration:** and preparatory image, etc.: see: *samādhi* *javana*
 
 ``` toml
-dict_label = "Nyana"
 word = "prescribed moral rules"
 summary = "Prescribed moral rules: paññatti - sīla"
 grammar_comment = ""
@@ -10751,7 +10195,6 @@ also_written_as = []
 **[[prescribed moral rules]]Prescribed moral rules:** *paññatti* \- *sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "produced materiality"
 summary = "Produced materiality: nipphanna-rūpa"
 grammar_comment = ""
@@ -10767,7 +10210,6 @@ also_written_as = []
 **[[produced materiality]]Produced materiality:** *nipphanna\-rūpa*
 
 ``` toml
-dict_label = "Nyana"
 word = "productive"
 summary = "Productive: or regenerative kamma: s. kamma."
 grammar_comment = ""
@@ -10783,7 +10225,6 @@ also_written_as = []
 **Productive:** or regenerative **kamma:** s. kamma.
 
 ``` toml
-dict_label = "Nyana"
 word = "proficiency"
 summary = "Proficiency: of mental properties and consciousnes"
 grammar_comment = ""
@@ -10799,7 +10240,6 @@ also_written_as = []
 **Proficiency:** of mental properties and consciousness: *pāguññatā*
 
 ``` toml
-dict_label = "Nyana"
 word = "progress of the disciple"
 summary = "Progress of the disciple: Gradual development of t"
 grammar_comment = ""
@@ -10849,7 +10289,6 @@ In what follows thereafter it is shown how the disciple watches over his 5 sense
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "progress"
 summary = "Progress: s. patipadā, abhabbagamana - p. in moral"
 grammar_comment = ""
@@ -10865,7 +10304,6 @@ also_written_as = []
 **Progress:** s. patipadā, abhabbagamana \- **p.** in morality, etc., see: *hānabhāgiya* etc. \- Purification by knowledge and vision of path \-progress, see: *visuddhi* VI. \- **p.:** of the disciple, see: foll.
 
 ``` toml
-dict_label = "Nyana"
 word = "proximity"
 summary = "Proximity: anantara is one of the 24 conditions pa"
 grammar_comment = ""
@@ -10881,7 +10319,6 @@ also_written_as = []
 **Proximity:** *anantara* is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pubbenivāsānussati"
 summary = "Pubbenivāsānussati: 'remembrance of former births'"
 grammar_comment = ""
@@ -10897,7 +10334,6 @@ also_written_as = []
 **Pubbenivāsānussati:** 'remembrance of former births', is one of the higher powers *abhiññā*, and a factor of threefold knowledge *tevijja.*
 
 ``` toml
-dict_label = "Nyana"
 word = "puggala"
 summary = "Puggala: 'individual', 'person', as well as the sy"
 grammar_comment = ""
@@ -10915,7 +10351,6 @@ also_written_as = []
 In the ultimate sense *paramattha*, however, there exist only ever\-changing physical and mental phenomena, flashing up and dying every moment. \- Kath., in its first section, discusses the question whether;in the absolute sense, any personality *puggala* can be found; see: Guide, pp. 62ff. \- See *paramattha, anattā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "punabbhava"
 summary = "Punabbhava: lit.: re-becoming; 'renewed existence'"
 grammar_comment = ""
@@ -10937,7 +10372,6 @@ Cf., in the 2nd Truth, the adj. *ponobhavika* 'leading to renewed existence'.
 See A. III, 76; Sn. 163, 273, 514, 733; S. VII, 12; X, 3.
 
 ``` toml
-dict_label = "Nyana"
 word = "pure abodes"
 summary = "Pure abodes: suddhāvāsa"
 grammar_comment = ""
@@ -10953,7 +10387,6 @@ also_written_as = []
 **[[pure abodes]]Pure abodes:** *suddhāvāsa*
 
 ``` toml
-dict_label = "Nyana"
 word = "purejāta-paccaya"
 summary = ": 'pre-nascence', is one of the 24 conditions pacc"
 grammar_comment = ""
@@ -10969,7 +10402,6 @@ also_written_as = []
 **Purejāta\-paccaya:** 'pre\-nascence', is one of the 24 conditions *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "purification"
 summary = "Purification: the 7 stages of; see: visuddhi."
 grammar_comment = ""
@@ -10985,7 +10417,6 @@ also_written_as = []
 **Purification:** the 7 stages of; see: *visuddhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "purisindriya"
 summary = "Purisindriya: 'Virility'; see: bhāva khandha"
 grammar_comment = ""
@@ -11001,7 +10432,6 @@ also_written_as = []
 **Purisindriya:** 'Virility'; see: *bhāva* *khandha*
 
 ``` toml
-dict_label = "Nyana"
 word = "purity"
 summary = "Purity: the elements of the effort for: pārisuddhi"
 grammar_comment = ""
@@ -11017,7 +10447,6 @@ also_written_as = []
 **Purity:** the elements of the effort for: *pārisuddhipadhāniyanga*
 
 ``` toml
-dict_label = "Nyana"
 word = "puthujjana"
 summary = "Puthujjana: lit.: 'one of the many folk', 'worldli"
 grammar_comment = ""
@@ -11037,7 +10466,6 @@ Whoso is neither freed from the 3 mental chains personality\-belief, sceptical d
 According to Com. to M. 9, a 'worlding' may be 1 an outsider a non\-Buddhist who, if he believed in moral causation, may be said to have right view to that extent; but he has not the 'knowledge conforming to the Truths' *saccānulomika\-ñāna* as has 2 the 'worldling inside the Buddha’s Dispensation' *sāsanika* A worlding who professes Buddhism, may be either a 'blind worldling' *andha* \- *p* who has neither knowledge of, nor interest in the fundamental teaching the Truths, groups, etc.; or he is a 'noble worldling' *kalyāna* \- *p* who has such knowledge and earnestly strives to understand and practise the Teaching. \- See Atthasālini Tr. II, 451 tr. by 'average man'; Com. to M. 1, D. 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "puñña"
 summary = "Puñña: merit, meritorious, is a popular term for k"
 grammar_comment = ""
@@ -11055,7 +10483,6 @@ also_written_as = []
 see Sn. 520, 547, 636, 790. \- See foll. 3 articles.
 
 ``` toml
-dict_label = "Nyana"
 word = "puñña-kiriya-vatthu"
 summary = ": 'bases of meritorious action'. In the suttas, 3"
 grammar_comment = ""
@@ -11083,7 +10510,6 @@ Commentaries have a list of ten *dasa* *p* which is very popular in Buddhist cou
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "puññā-dhārā"
 summary = ": 'streams of merit'. It is said that one produces"
 grammar_comment = ""
@@ -11099,7 +10525,6 @@ also_written_as = []
 **Puññā\-dhārā:** 'streams of merit'. It is said that one produces 4 streams of merit by offering the 4 requisites robes, foodfood, dwelling, medicine to a Bhikkhu who has reached the conditionless deliverance of mind; further by being filled with unshakable faith in the Buddha, his doctrine and community of disciples, and by being perfect in morality A. IV, 51, 52. A. VIII, 39 describes 4 further streams of merit.
 
 ``` toml
-dict_label = "Nyana"
 word = "puññābhisankhāra"
 summary = "Puññābhisankhāra: 'meritorious kammic-construction"
 grammar_comment = ""
@@ -11115,7 +10540,6 @@ also_written_as = []
 **Puññābhisankhāra:** 'meritorious kammic\-constructions' of the sense\-and fine\-material sphere; see: *sankhāra* I. 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "pādaka-jjhāna"
 summary = ": 'foundation-forming absorption', is an absorptio"
 grammar_comment = ""
@@ -11131,7 +10555,6 @@ also_written_as = []
 **Pādaka\-jjhāna:** 'foundation\-forming absorption', is an absorption used as a foundation, or starting point, for the higher spiritual powers *abhiññā*, or for insight *vipassanā,* leading to the supra\-mundane paths see: *ariya\-puggala* The foundation for the former is the 4th absorption; for insight, however, any absorption is suitable. For details, see: *samatha* \- *vipassanā* \- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "pāguññatā"
 summary = "Pāguññatā: 'proficiency', namely, of mental proper"
 grammar_comment = ""
@@ -11147,7 +10570,6 @@ also_written_as = []
 **Pāguññatā:** 'proficiency', namely, of mental properties *kāya* \- *pāguññatā* and of consciousness *citta* \- *pāguññatā* are 2 mental phenomena associated with all advantageous consciousness. Cf. Tab. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "pānātipātā veramanī"
 summary = "Pānātipātā veramanī: 'abstaining from the killing"
 grammar_comment = ""
@@ -11163,7 +10585,6 @@ also_written_as = []
 **[[pānātipātā veramanī]]Pānātipātā veramanī:** 'abstaining from the killing of living beings', is the first of the 5 moral rules binding upon all Buddhists; see: *sikkhāpada*
 
 ``` toml
-dict_label = "Nyana"
 word = "pārisuddhi-padhāniyanga"
 summary = ": the 4 'elements of the effort for purity', are:"
 grammar_comment = ""
@@ -11179,7 +10600,6 @@ also_written_as = []
 **Pārisuddhi\-padhāniyanga:** the 4 'elements of the effort for purity', are: effort for purity of morality *sīla* \- *parisuddhi* \- *padhāniyanga* for purity of mind *citta* of view *ditthi* of deliverance *vimutti* Cf. A. IV, 194. \- Another 9 factors are enumerated in D. 34, namely the 7 'stages of purification see: *visuddhi* and the effort for purity of higher knowledge *vijjā* \- *p. p* and of deliverance *vimutti* \- *p. p.* .
 
 ``` toml
-dict_label = "Nyana"
 word = "pārisuddhi-sīla"
 summary = ": 'morality consisting in purity', is fourfold: re"
 grammar_comment = ""
@@ -11195,7 +10615,6 @@ also_written_as = []
 **Pārisuddhi\-sīla:** 'morality consisting in purity', is fourfold: restraint with regard to the Bhikkhus' Disciplinary Code, sense restraint, purity of livelihood, morality with regard to the Bhikkhus' 4 requisites; for details, see: *sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "pātihāriya"
 summary = "Pātihāriya: 'miracle', marvel. Three marvels are a"
 grammar_comment = ""
@@ -11211,7 +10630,6 @@ also_written_as = []
 **Pātihāriya:** 'miracle', marvel. Three marvels are ascribed to the Buddha: the marvel of magic *iddhi* \- *p* the marvel of mind\-reading *ādesanā* \- *p* and the marvel of instruction *anusāsanī* \- *p* In D. 11, the Buddha says that he sees danger in the first two and therefore abhors them. In A. III, 61, the 'marvel of instruction' is called the one 'more noble and sublime'. For iddhi\-pātihāriya, see D. 25. See also *yamakapātihāriya.*
 
 ``` toml
-dict_label = "Nyana"
 word = "pātimokkha"
 summary = "Pātimokkha: 'Disciplinary Code', is the name of th"
 grammar_comment = ""
@@ -11237,7 +10655,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "pātimokkha-samvara-sīla"
 summary = ": 'morality consisting in restraint with regard to"
 grammar_comment = ""
@@ -11253,7 +10670,6 @@ also_written_as = []
 **Pātimokkha\-samvara\-sīla:** 'morality consisting in restraint with regard to the Disciplinary Code' *pātimokkha* see: prec.. For details, see: *sīla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pīta-kasina"
 summary = ": 'yellow- kasina is one of the kasina-exercises;"
 grammar_comment = ""
@@ -11269,7 +10685,6 @@ also_written_as = []
 **Pīta\-kasina:** 'yellow\- *kasina* is one of the kasina\-exercises; see: *kasina*
 
 ``` toml
-dict_label = "Nyana"
 word = "pīti"
 summary = "Pīti: rapture, enthusiasm rendered also by joy, ha"
 grammar_comment = ""
@@ -11287,7 +10702,6 @@ also_written_as = []
 A high degree of rapture is characteristic of certain stages in meditative concentration, in insight practice *vipassanā* as well as in the first two absorptions *jhāna*. In the latter it appears as one of the factors of absorption *jhānanga* see: *jhāna* and is strongest in the 2nd absorption. Five degrees of intensity in meditative rapture are described in Vis.M IV. 94ff. It is one of the factors of enlightenment *bojjhanga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "pūjā"
 summary = "Pūjā: 1 honour, respect, homage, 2 worship, devoti"
 grammar_comment = ""
@@ -11307,7 +10721,6 @@ also_written_as = []
 2: The Buddha did not think much of mere outer worship.;Not thus, Ananda, is the Tathāgata respected, venerated, esteemed, worshipped and honoured in the highest degree. But, Ananda, whatsoever Bhikkhu or Bhikkhuni, lay man or lay woman, abides by the Teaching, lives uprightly in the Teaching, walks in the way of the Teaching, it is by him that the Tathāgata is respected, venerated, esteemed, worshipped and honoured in the highest degree; D. 16. \-;There are two kinds of worship: in a material way *āmisa* \- *pūjā* and through practice of the Dhamma *dhamma* \- *pūjā* The worship through practice of the Dhamma is the better of the two; A. II.
 
 ``` toml
-dict_label = "Nyana"
 word = "tadanga-pahāna"
 summary = ": 'overcoming by the opposite', is one of the 5 ki"
 grammar_comment = ""
@@ -11323,7 +10736,6 @@ also_written_as = []
 **Tadanga\-pahāna:** 'overcoming by the opposite', is one of the 5 kinds of overcoming *pahāna*,.
 
 ``` toml
-dict_label = "Nyana"
 word = "tadārammana-citta"
 summary = ": 'registering consciousness' see: Tab. I, 40-49,"
 grammar_comment = ""
@@ -11339,7 +10751,6 @@ also_written_as = []
 **Tadārammana\-citta:** 'registering consciousness' see: Tab. I, 40\-49, 56, is the last stage in the complete process of cognition citta\-vīthi immediately before sinking into the subconscious. It does not occur with the consciousness of the absorptions nor with supra\-mundane consciousness, but only with large or distinct objects of the sense\-sphere. Cf. *viññāna\-kicca*.
 
 ``` toml
-dict_label = "Nyana"
 word = "taints"
 summary = "Taints: Āsava"
 grammar_comment = ""
@@ -11355,7 +10766,6 @@ also_written_as = []
 **Taints:** *Āsava*
 
 ``` toml
-dict_label = "Nyana"
 word = "talk"
 summary = "Talk: low: tiracchāna - kathā"
 grammar_comment = ""
@@ -11371,7 +10781,6 @@ also_written_as = []
 **Talk:** low: *tiracchāna* \- *kathā*
 
 ``` toml
-dict_label = "Nyana"
 word = "tanhā"
 summary = "Tanhā: lit. 'thirst': 'craving', is the chief root"
 grammar_comment = ""
@@ -11399,7 +10808,6 @@ Of craving for existence *bhava\-tanhā* it is said A. X, 62:;No first beginning
 The most frequent synonyms of *tanhā* are *rāga* and *lobha* see: *mūla*.
 
 ``` toml
-dict_label = "Nyana"
 word = "tanhā-kkhaya"
 summary = ": 'ceasing of craving', is identical with 'ceasing"
 grammar_comment = ""
@@ -11415,7 +10823,6 @@ also_written_as = []
 **Tanhā\-kkhaya:** 'ceasing of craving', is identical with 'ceasing of fermentations' *āsavakkhaya* and the attainment of perfect Nobility or Arahatship. Cf. *ariya\-puggala*.
 
 ``` toml
-dict_label = "Nyana"
 word = "tanhā-nissita-sīla"
 summary = ": 'morality based on craving' see: nissaya."
 grammar_comment = ""
@@ -11431,7 +10838,6 @@ also_written_as = []
 **Tanhā\-nissita\-sīla:** 'morality based on craving' see: *nissaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "tathatā"
 summary = "Tathatā: 'Suchness', designates the firmly fixed n"
 grammar_comment = ""
@@ -11447,7 +10853,6 @@ also_written_as = []
 **Tathatā:** 'Suchness', designates the firmly fixed nature *bhāva* of all things whatever. The only passage in the Canon where the word occurs in this sense, is found in Kath. 186 see: Guide, p. 83. On the Mahāyana term *tathatā* see: Suzuki, Awakening of Faith, p. 53f. App..
 
 ``` toml
-dict_label = "Nyana"
 word = "tathāgata"
 summary = "Tathāgata: the 'Perfect One', lit. the one who has"
 grammar_comment = ""
@@ -11479,7 +10884,6 @@ Cf. *anattā, paramattha, puggala, jīva, satta.*
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "tathāgata-bala"
 summary = ": the 'ten powers of the Perfect One'; see: dasa -"
 grammar_comment = ""
@@ -11495,7 +10899,6 @@ also_written_as = []
 **Tathāgata\-bala:** the 'ten powers of the Perfect One'; see: *dasa* \- *bala*.
 
 ``` toml
-dict_label = "Nyana"
 word = "tatra-majjhattatā"
 summary = ": 'equanimity, equipoise, mental balance' lit., 'r"
 grammar_comment = ""
@@ -11511,7 +10914,6 @@ also_written_as = []
 **Tatra\-majjhattatā:** 'equanimity, equipoise, mental balance' lit., 'remaining here and there in the middle', is the name for a high ethical quality belonging to the *sankhāra* \- *khandha* see: *khandha* and is mostly known by the name *upekkhā* In its widest sense it is associated with all pure consciousness see: Tab. II.. *tatra* \- *majjhattatā* is called the 'keeping in the middle of all things'. It has as charactcristic that it effects the balance of consciousness and mental properties; as nature function; *rasa* that it prevents excessiveness and deficiency, or that it puts an end to partiality; as manifestation, that it keeps the proper middle; Vis.M XIV. App..
 
 ``` toml
-dict_label = "Nyana"
 word = "te-cīvarik'anga"
 summary = "’angaTe-cīvarik’anga: 'practice of the three-rober"
 grammar_comment = ""
@@ -11527,7 +10929,6 @@ also_written_as = []
 **[[te\-cīvarik’anga]]Te\-cīvarik’anga:** 'practice of the three\-rober', is one of the ascetical means for purificaton *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "te-vijja"
 summary = ": 'one endowed with the threefold higher knowledge"
 grammar_comment = ""
@@ -11543,7 +10944,6 @@ also_written_as = []
 **Te\-vijja:** 'one endowed with the threefold higher knowledge'. In Brahmanism means 'knower of the 3 Vedas' *tri* \- *vidyā* in Buddhism means one who has realised 3 kinds of knowledge, to wit: remembrance of former rebirths, the divine eye, ceasing of all fermentations. For details, see: *abhiññā* 4\-6. Cf. Tevijjā Sutta, D. 13 WHEEL 57/58.
 
 ``` toml
-dict_label = "Nyana"
 word = "tejo-dhātu"
 summary = ": 'fire-element, heat-element'; see: dhātu"
 grammar_comment = ""
@@ -11559,7 +10959,6 @@ also_written_as = []
 **Tejo\-dhātu:** 'fire\-element, heat\-element'; see: *dhātu*
 
 ``` toml
-dict_label = "Nyana"
 word = "tejo-kasina"
 summary = ": 'fire-kasina', is one of the 10 kasina exercises"
 grammar_comment = ""
@@ -11575,7 +10974,6 @@ also_written_as = []
 **Tejo\-kasina:** 'fire\-kasina', is one of the 10 kasina exercises; see: *kasina*.
 
 ``` toml
-dict_label = "Nyana"
 word = "temperature"
 summary = "Temperature: utu. - For materiality produced by te"
 grammar_comment = ""
@@ -11591,7 +10989,6 @@ also_written_as = []
 **Temperature:** utu. \- For materiality produced by temperature, see: *samutthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "tendencies"
 summary = "Latent tendencies: anusaya"
 grammar_comment = ""
@@ -11607,7 +11004,6 @@ also_written_as = []
 **Latent tendencies:** *anusaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "terror"
 summary = "Terror: awareness of: one of the insight-knowledge"
 grammar_comment = ""
@@ -11623,7 +11019,6 @@ also_written_as = []
 **Terror:** awareness of: one of the insight\-knowledges; see: *visuddhi* VI. 3.
 
 ``` toml
-dict_label = "Nyana"
 word = "theravāda"
 summary = "Theravāda: 'Doctrine of the Elders', is a name of"
 grammar_comment = ""
@@ -11641,7 +11036,6 @@ also_written_as = []
 Theravāda is the only one of the old schools of Buddhism that has survived among those which Mahāyānists have called 'Hinayāna'. It is sometimes called Southern Buddhism or Pāli Buddhism. It is found today in Sri Lanka, Burma, Thailand, Cambodia, Laos and Chittagong East Bengal. \- Cf. Guide, p. 60. \- App..
 
 ``` toml
-dict_label = "Nyana"
 word = "thinking"
 summary = "Thinking: understanding based on: cintāmayapaññā s"
 grammar_comment = ""
@@ -11657,7 +11051,6 @@ also_written_as = []
 **Thinking:** understanding based on: *cintāmayapaññā* see: *paññā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "thiti-bhāgiya-sīla"
 summary = ": 'static morality, static concentration, static u"
 grammar_comment = ""
@@ -11675,7 +11068,6 @@ also_written_as = []
 **thought, Thought\-conception:** s. *vitakka.*
 
 ``` toml
-dict_label = "Nyana"
 word = "thought"
 summary = "Thought: Right: sammā - sankappa see: sacca, magga"
 grammar_comment = ""
@@ -11691,7 +11083,6 @@ also_written_as = []
 **Thought:** Right: *sammā* \- *sankappa* see: *sacca*, *magga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "thīna-middha"
 summary = ": 'lethargy and Laziness' or 'lethargy and lazines"
 grammar_comment = ""
@@ -11707,7 +11098,6 @@ also_written_as = []
 **Thīna\-middha:** 'lethargy and Laziness' or 'lethargy and laziness', constitute the 3rd of the 5 hindrances *nīvarana*. They may or may not, be associated with greedy consciousness see: Tab. 23. 25, 27, 29 and II.
 
 ``` toml
-dict_label = "Nyana"
 word = "ti-hetu-patisandhika"
 summary = ": s. patisandhi."
 grammar_comment = ""
@@ -11723,7 +11113,6 @@ also_written_as = []
 **Ti\-hetu\-patisandhika:** s. *patisandhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ti-lakkhana"
 summary = ": the '3 charactcristies of existence', or signata"
 grammar_comment = ""
@@ -11765,7 +11154,6 @@ For further details, see: *anicca, dukkha, anattā, vipassanā.*
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "ti-pitaka"
 summary = ": ' The Three Baskets', is the name for the 3 main"
 grammar_comment = ""
@@ -11781,7 +11169,6 @@ also_written_as = []
 **Ti\-pitaka:** ' The Three Baskets', is the name for the 3 main divisions of the Pāli Canon: the Basket of Discipline Vinaya Pitaka, the Basket of Discourses Sutta Pitaka and the Basket ot Philosophy Abhidhamma Pitaka.
 
 ``` toml
-dict_label = "Nyana"
 word = "ti-ratana"
 summary = ": 'Three Jewels' or Three Gems, which by all Buddh"
 grammar_comment = ""
@@ -11797,7 +11184,6 @@ also_written_as = []
 **Ti\-ratana:** 'Three Jewels' or Three Gems, which by all Buddhists are revered as the most venerable things, are the Buddha, the Dhamma and the Noble Sangha.' i.e.: the Enlightened One; the law of deliverance discovered, realized and proclaimed by him; and the Community of Noble Disciples and those who live in accordance with the Law. \- The contemplations of the 3 Jewels belong to the 10 contemplations *anussati*.
 
 ``` toml
-dict_label = "Nyana"
 word = "ti-sarana"
 summary = ": 'Threefold Refuge', in which every faithful adhe"
 grammar_comment = ""
@@ -11841,7 +11227,6 @@ The 3\-fold Refuge in Pāli, by the uttering of which one may also outwardly pro
 Literature: The Threefold Refuge by Nyanaponika Thera WHEEL 76. \- Devotion in Buddhism WHEEL 18. Going for Refuge, by Bhikkhu Bodhi WHEEL 282/284 \- Khp. Tr. pp. 4ff.
 
 ``` toml
-dict_label = "Nyana"
 word = "ties"
 summary = "Ties: the 4: gantha"
 grammar_comment = ""
@@ -11857,7 +11242,6 @@ also_written_as = []
 **Ties:** the 4: *gantha*
 
 ``` toml
-dict_label = "Nyana"
 word = "tiracchāna-kathā"
 summary = ": 'low talk', lit. 'beastly talk', is the name in"
 grammar_comment = ""
@@ -11875,7 +11259,6 @@ also_written_as = []
 In the commentaries 4 further kinds are enumerated, thus bringing the number to 32, as mostly counted, namely: talk about sense\-enjoyment, self\-mortification, eternity and self\-annihilation.
 
 ``` toml
-dict_label = "Nyana"
 word = "tiracchāna-yoni"
 summary = ": 'animal womb'; birth as animal. The animal kingd"
 grammar_comment = ""
@@ -11891,7 +11274,6 @@ also_written_as = []
 **Tiracchāna\-yoni:** 'animal womb'; birth as animal. The animal kingdom belongs to the sense\-world see: *loka* is one of the 4 lower worlds see: *apāya* and one of the 3 woeful courses of existence see: *gati*
 
 ``` toml
-dict_label = "Nyana"
 word = "titthāyatana"
 summary = "Titthāyatana: the 3 'articles of heretical belief'"
 grammar_comment = ""
@@ -11911,7 +11293,6 @@ also_written_as = []
 According to the above 3 doctrines, man is not responsible for his actions, so that all moral exertions become useless.
 
 ``` toml
-dict_label = "Nyana"
 word = "torpor"
 summary = "Laziness: thīna, see: thīna - middha"
 grammar_comment = ""
@@ -11927,7 +11308,6 @@ also_written_as = []
 **Laziness:** thīna, see: *thīna* \- *middha*
 
 ``` toml
-dict_label = "Nyana"
 word = "training"
 summary = "Training: the 3-fold: sikkhā - The steps of: sikkh"
 grammar_comment = ""
@@ -11943,7 +11323,6 @@ also_written_as = []
 **Training:** the 3\-fold: *sikkhā* \- The steps of: *sikkhāpada*
 
 ``` toml
-dict_label = "Nyana"
 word = "trance"
 summary = "Trance: jhāna"
 grammar_comment = ""
@@ -11959,7 +11338,6 @@ also_written_as = []
 **Trance:** *jhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "tranquilisation"
 summary = "Tranquilisation: Overcoming of defilements by way"
 grammar_comment = ""
@@ -11975,7 +11353,6 @@ also_written_as = []
 **Tranquilisation:** Overcoming of defilements by way of: see: *pahāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "tranquillity"
 summary = "Tranquillity: of mind: see: samatha, samatha - vip"
 grammar_comment = ""
@@ -11991,7 +11368,6 @@ also_written_as = []
 **Tranquillity:** of mind: see: *samatha*, *samatha* \- *vipassanā,* *bhāvanā,* *bojjhanga* \- 'One who has taken **t.** as his vehicle': *samathayānika*
 
 ``` toml
-dict_label = "Nyana"
 word = "transference of merit"
 summary = "Transference of merit: patti-dāna"
 grammar_comment = ""
@@ -12007,7 +11383,6 @@ also_written_as = []
 **[[transference of merit]]Transference of merit:** *patti\-dāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "transformation"
 summary = "Transconstruction: power of: see: iddhi."
 grammar_comment = ""
@@ -12023,7 +11398,6 @@ also_written_as = []
 **Transconstruction:** power of: see: *iddhi*.
 
 ``` toml
-dict_label = "Nyana"
 word = "transitoriness"
 summary = "Transitoriness: anicca"
 grammar_comment = ""
@@ -12039,7 +11413,6 @@ also_written_as = []
 **Transitoriness:** *anicca*
 
 ``` toml
-dict_label = "Nyana"
 word = "treasures"
 summary = "Treasures: the 7: see: dhana"
 grammar_comment = ""
@@ -12055,7 +11428,6 @@ also_written_as = []
 **Treasures:** the 7: see: *dhana*
 
 ``` toml
-dict_label = "Nyana"
 word = "tree"
 summary = "Tree: Living under a tree is one of the ascetical"
 grammar_comment = ""
@@ -12071,7 +11443,6 @@ also_written_as = []
 **Tree:** Living under a tree is one of the ascetical practices *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "truths"
 summary = "Truths: the 4 Noble: sacca - 2-fold knowledge of t"
 grammar_comment = ""
@@ -12087,7 +11458,6 @@ also_written_as = []
 **Truths:** the 4 Noble: *sacca* \- 2\-fold knowledge of the **t.;** *saccañāna.*
 
 ``` toml
-dict_label = "Nyana"
 word = "turning away"
 summary = "Turning away: contemplation of the: vivattanupassa"
 grammar_comment = ""
@@ -12103,7 +11473,6 @@ also_written_as = []
 **[[turning away]]Turning away:** contemplation of the: *vivattanupassanā* see: *vipassanā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "tusita"
 summary = "Tusita: a class of divine beings in the sense-plan"
 grammar_comment = ""
@@ -12119,7 +11488,6 @@ also_written_as = []
 **Tusita:** a class of divine beings in the sense\-plane; see: *deva* 1.
 
 ``` toml
-dict_label = "Nyana"
 word = "twin miracle"
 summary = "Twin miracle: yamaka-pātihāriya"
 grammar_comment = ""
@@ -12135,7 +11503,6 @@ also_written_as = []
 **[[twin miracle]]Twin miracle:** *yamaka\-pātihāriya*
 
 ``` toml
-dict_label = "Nyana"
 word = "tāvatimsa"
 summary = "Tāvatimsa: 'the Thirty-thrce Gods', a class of div"
 grammar_comment = ""
@@ -12151,7 +11518,6 @@ also_written_as = []
 **Tāvatimsa:** 'the Thirty\-thrce Gods', a class of divine beings in the sense\-sphere; see: *deva* I.
 
 ``` toml
-dict_label = "Nyana"
 word = "tīrana-pariññā"
 summary = ": 'full understanding by investigating'; see: pari"
 grammar_comment = ""
@@ -12167,7 +11533,6 @@ also_written_as = []
 **Tīrana\-pariññā:** 'full understanding by investigating'; see: *pariññā.*
 
 ``` toml
-dict_label = "Nyana"
 word = "ābhassara"
 summary = "Ābhassara: The 'Radiant Ones', are a class of divi"
 grammar_comment = ""
@@ -12183,7 +11548,6 @@ also_written_as = []
 **Ābhassara:** The 'Radiant Ones', are a class of divine beings of the fine\-material world *rūpa\-loka*, cf. *deva*
 
 ``` toml
-dict_label = "Nyana"
 word = "ācinnaka-kamma"
 summary = ": habitual kamma; see: kamma"
 grammar_comment = ""
@@ -12199,7 +11563,6 @@ also_written_as = []
 **Ācinnaka\-kamma:** habitual kamma; see: *kamma*
 
 ``` toml
-dict_label = "Nyana"
 word = "ādibrahmacariyaka-sīla"
 summary = ": 'morality of genuine pure conduct', consists in"
 grammar_comment = ""
@@ -12217,7 +11580,6 @@ also_written_as = []
 With regard to those moral states connected with and corresponding to the genuine pure conduct, he is morally strong, morally firm and trains himself in the moral rules taken up by himself. After overcoming the 3 mental chains ego\-belief, skeptic doubt and attachment to mere rules and ritual; see: *samyojana* he becomes one who will be 'reborn 7 times at most' see: *sotāpanna* and after only seven times more wandering through this round of rebirths amongst men and divine beings, he will put an end to suffering.
 
 ``` toml
-dict_label = "Nyana"
 word = "ādīnavānupassanā-ñāna"
 summary = ": 'knowledge consisting in contemplation of danger"
 grammar_comment = ""
@@ -12233,7 +11595,6 @@ also_written_as = []
 **Ādīnavānupassanā\-ñāna:** 'knowledge consisting in contemplation of danger', is one of the 8 kinds of insight *vipassanā* that form the 'purification of the knowledge and vision of the path \-progress see: *visuddhi* VI. 4. It is further one of the 18 chief kinds of insight see: *vipassanā*.
 
 ``` toml
-dict_label = "Nyana"
 word = "āhāra"
 summary = "Āhāra: 'nutriment', 'food', is used in the concret"
 grammar_comment = ""
@@ -12261,7 +11622,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "āhāra-samutthāna-rūpa"
 summary = ": 'Food-produced materiality'; see: samutthāna"
 grammar_comment = ""
@@ -12277,7 +11637,6 @@ also_written_as = []
 **Āhāra\-samutthāna\-rūpa:** 'Food\-produced materiality'; see: *samutthāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "āhāre patikkūla-saññā"
 summary = ": 'reflection on the disgusting aspects of food',"
 grammar_comment = ""
@@ -12293,7 +11652,6 @@ also_written_as = []
 **[[āhāre patikkūla\-saññā]]Āhāre\-patikkūla\-saññā:** 'reflection on the disgusting aspects of food', fully described in Vis.M XI, l.
 
 ``` toml
-dict_label = "Nyana"
 word = "ājiva"
 summary = "Ājīva: 'livelihood=job=profession=way-of-living'."
 grammar_comment = ""
@@ -12309,7 +11667,6 @@ also_written_as = []
 **Ājīva:** 'livelihood=job=profession=way\-of\-living'. About right and wrong livelihood., see: *sacca* IV. 5 and *micchā\-magga* 5.
 
 ``` toml
-dict_label = "Nyana"
 word = "ājīva-pārisuddhi-sīla"
 summary = ": 'morality consisting in purification of liveliho"
 grammar_comment = ""
@@ -12325,7 +11682,6 @@ also_written_as = []
 **Ājīva\-pārisuddhi\-sīla:** 'morality consisting in purification of livelihood', is one of the 4 kinds of perfect morality; see: *sīla*
 
 ``` toml
-dict_label = "Nyana"
 word = "ākiñcañña-ceto-vimutti"
 summary = ": Possessionless or desireless mental release. The"
 grammar_comment = ""
@@ -12341,7 +11697,6 @@ also_written_as = []
 **Ākiñcañña\-ceto\-vimutti:** Possessionless or desireless mental release. The mental liberation coming from relinquishment of all acquisitions. The end stage of realizing *Dukkha* see: *ceto\-vimutti*
 
 ``` toml
-dict_label = "Nyana"
 word = "ākiñcaññāyatana"
 summary = "Ākiñcaññāyatana: The sphere of nothingness; see: j"
 grammar_comment = ""
@@ -12357,7 +11712,6 @@ also_written_as = []
 **Ākiñcaññāyatana:** The sphere of nothingness; see: *jhāna* 7.
 
 ``` toml
-dict_label = "Nyana"
 word = "ākāsa dhātu"
 summary = "Ākāsa dhātu: 'space element'; see above and dhātu"
 grammar_comment = ""
@@ -12373,7 +11727,6 @@ also_written_as = []
 **[[ākāsa dhātu]]Ākāsa dhātu:** 'space element'; see above and *dhātu*
 
 ``` toml
-dict_label = "Nyana"
 word = "ākāsa"
 summary = "Ākāsa: 'space', is, according to Com., of two kind"
 grammar_comment = ""
@@ -12407,7 +11760,6 @@ also_written_as = []
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "ākāsa-kasina"
 summary = ": 'space-kasina exercise'; see: kasina"
 grammar_comment = ""
@@ -12423,7 +11775,6 @@ also_written_as = []
 **Ākāsa\-kasina:** 'space\-kasina exercise'; see: *kasina*
 
 ``` toml
-dict_label = "Nyana"
 word = "ākāsānañcāyatana"
 summary = "Ākāsānañcāyatana: 'Sphere of Infinite space', is i"
 grammar_comment = ""
@@ -12439,7 +11790,6 @@ also_written_as = []
 **Ākāsānañcāyatana:** 'Sphere of Infinite space', is identical with the 1st formless absorption; see: *jhāna* 5.
 
 ``` toml
-dict_label = "Nyana"
 word = "āloka-kasina"
 summary = ": L ight-kasina-meditation on bright light or the"
 grammar_comment = ""
@@ -12455,7 +11805,6 @@ also_written_as = []
 **Āloka\-kasina:** L ight\-kasina\-meditation on bright light or the white color; see: *kasina*
 
 ``` toml
-dict_label = "Nyana"
 word = "āloka-saññā"
 summary = ": Perception of light. The recurring canonical pas"
 grammar_comment = ""
@@ -12471,7 +11820,6 @@ also_written_as = []
 **Āloka\-saññā:** Perception of light. The recurring canonical passage reads: Here the Bhikkhu contemplates the perception of light. He fixes his\-mind to the experience of the daylight; as at day\-time so at night, and as at night, so in the day. In this way, with a clear and unclouded mind, he develops the stage of mind that is full of brightness. It is one of the methods of overcoming drowsiness, recommended by the Buddha to Mahā\-Moggallāna A. VII, 58. According to D. 33, it is conducive to the development of 'knowledge and vision' see: *visuddhi VI \+ VII,* and it is said to be helpful to the attainment of the 'divine eye' see: *abhiññā 5.*
 
 ``` toml
-dict_label = "Nyana"
 word = "ānantarika-kamma"
 summary = ": the 5 heinous 'actions with immediate destiny' a"
 grammar_comment = ""
@@ -12489,7 +11837,6 @@ also_written_as = []
 There are 5 hateful and incurable humans destined to the lower world and to hell, namely: the parricide, etc. About the 5th see A. X., 35, 38. With regard to the first crime, it is said in D. 2 that if King Ajātasattu had not killed his father, he would have reached entrance into the path of Stream\-entry see also: Appendix.
 
 ``` toml
-dict_label = "Nyana"
 word = "ānantariya"
 summary = "Ānantariya: Immediacy, is a name for that concentr"
 grammar_comment = ""
@@ -12505,7 +11852,6 @@ also_written_as = []
 **Ānantariya:** Immediacy, is a name for that concentration of mind which is associated with the profound and shocking insight *vipassanā* that is present in any one of the 4 kinds of supra\-mundane path consciousness see: *ariya\-puggala*, and which therefore is the cause of the immediately following fruition *phala* consciousness. According to the Abhidhamma, this path \-moment of the *Stream\-enterer sotāpanna* & the other Nobles is generated by the insight into the impermanence, misery and impersonality of all existence, reaching a certain threshold at that very moment and thus instantly transforming and ennobling the individual nature forever. It is mentioned under the name of *ānantarika* \- *samādhi* in the Ratana Sutta Sn. v. 22 and in Pts.M. 1, ñānakathā.
 
 ``` toml
-dict_label = "Nyana"
 word = "āneñja"
 summary = "Āneñja: Static imperturbability, denotes the menta"
 grammar_comment = ""
@@ -12521,7 +11867,6 @@ also_written_as = []
 **Āneñja:** Static imperturbability, denotes the mental state of being(s) in the formless sphere *arūpāvacara* *avacara*, see: *sankhāra* cf. M. 106.
 
 ``` toml
-dict_label = "Nyana"
 word = "ānupubbī-kathā"
 summary = ": 'gradual instruction', progressive teaching; giv"
 grammar_comment = ""
@@ -12538,7 +11883,6 @@ also_written_as = []
 Then the Blessed One gave him a gradual instruction \- that is to say, he spoke on generosity *dāna*, on morality *sīla* and on the heavens *sagga*, he explained the danger, the loss and the depravity of sensual pleasures, and the advantage of renunciation. When the Blessed One perceived that the listener’s mind was prepared, pliant, free from obstacles, elevated and lucid; then he explained to him that exalted teaching particular to the Buddhas *Buddhānam* *sāmukkamsikā,* that is: Suffering, its cause, its ceasing, and the path.
 
 ``` toml
-dict_label = "Nyana"
 word = "ānāpāna-sati"
 summary = ": Awareness or mindfulness on & by in-and-out-brea"
 grammar_comment = ""
@@ -12700,7 +12044,6 @@ In M 118 it is further shown how these 16 exercises bring about the 4 foundation
 »
 
 ``` toml
-dict_label = "Nyana"
 word = "āpo-dhātu"
 summary = ": Water-element, macroscopic fluidity, microscopic"
 grammar_comment = ""
@@ -12716,7 +12059,6 @@ also_written_as = []
 **Āpo\-dhātu:** Water\-element, macroscopic fluidity, microscopic cohesion; see: *dhātu*
 
 ``` toml
-dict_label = "Nyana"
 word = "ārammana"
 summary = "Ārammana: Object. There are six: visible object, s"
 grammar_comment = ""
@@ -12732,7 +12074,6 @@ also_written_as = []
 **Ārammana:** Object. There are six: visible object, sound, odour, taste, body\-contact, mental\-object. The mental\-object *dhammārammana* may be physical or mental, past, present or future, real or imaginary. The 5 sense\-objects belong to the materiality\-group *rūpa* \- *khandha* see: *khandha*. They form the external foundations for the sense\-perceptions, and without them no sense\-perception or sense\-consciousness seeing, hearing, etc. can ever arise. Cf. *āyatana* *paccaya.*
 
 ``` toml
-dict_label = "Nyana"
 word = "ārammanupanissaya"
 summary = "Ārammanupanissaya: Decisive Support Conditional Re"
 grammar_comment = ""
@@ -12748,7 +12089,6 @@ also_written_as = []
 **Ārammanupanissaya:** Decisive Support Conditional Relation. see: *paccaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "ārammanādhipati"
 summary = "Ārammanādhipati, Predominance Conditional Relation"
 grammar_comment = ""
@@ -12764,7 +12104,6 @@ also_written_as = []
 **Ārammanādhipati,** Predominance Conditional Relation. see: *paccaya*
 
 ``` toml
-dict_label = "Nyana"
 word = "āraññikanga"
 summary = "Āraññikanga: The training of living in the forest,"
 grammar_comment = ""
@@ -12780,7 +12119,6 @@ also_written_as = []
 **Āraññikanga:** The training of living in the forest, is one of the ascetic purification\-exercises *dhutānga*.
 
 ``` toml
-dict_label = "Nyana"
 word = "āruppa"
 summary = "Āruppa: Formless mental absorption see: jhāna"
 grammar_comment = ""
@@ -12796,7 +12134,6 @@ also_written_as = []
 **Āruppa:** Formless mental absorption see: *jhāna*
 
 ``` toml
-dict_label = "Nyana"
 word = "āsava"
 summary = "Āsava: lit: fermentations, taints, corruptions, in"
 grammar_comment = ""
@@ -12824,7 +12161,6 @@ M. 2 shows how to overcome the fermentations, namely, through insight, sense\-co
 *khīnāsava* = one whose fermentations are eliminated, or one who is fermentation\-free, is a name for the Arahat or Noble One. The state of Arahatship is frequently called *āsavakkhaya* the destruction of the fermentations. Suttas concluding with the attainment of Arahatship by the listeners, often end with the words: During this utterance, the minds of the Bhikkhus were freed from the mental fermentations through absence of clinging *anupādāya āsavehi cittāni vimuccimsū’ti.*
 
 ``` toml
-dict_label = "Nyana"
 word = "āsavakkhaya"
 summary = "Āsavakkhaya: see above."
 grammar_comment = ""
@@ -12840,7 +12176,6 @@ also_written_as = []
 **Āsavakkhaya:** see above.
 
 ``` toml
-dict_label = "Nyana"
 word = "āsevana-paccaya"
 summary = ": repetition, is one of the 24 conditional relatio"
 grammar_comment = ""
@@ -12856,7 +12191,6 @@ also_written_as = []
 **Āsevana\-paccaya:** repetition, is one of the 24 conditional relations *paccaya*.
 
 ``` toml
-dict_label = "Nyana"
 word = "āvajjana"
 summary = "Āvajjana: Directing of the mind towards the object"
 grammar_comment = ""
@@ -12872,7 +12206,6 @@ also_written_as = []
 **Āvajjana:** Directing of the mind towards the object, is the first stage in the process of consciousness see: *viññāna\-kicca*. If an object of the 5 physical senses is observed, it is called 'five\-door directing' *= pañca* *dvārāvajjana,* in the case of a mental object, an idea or mental state then it is called 'mind\-door directing' *mano* \- *dvārāvajjana.*
 
 ``` toml
-dict_label = "Nyana"
 word = "āyatana"
 summary = "Āyatana:  1: Spheres, is a name for the four forml"
 grammar_comment = ""
@@ -12935,7 +12268,6 @@ The 12 sense\-source are fully discussed in Vis.M XV. In Yam III see: Guide, p 9
 the 12 terms are subjected to a logical investigation The six internal bases form the 5th link of dependent origination *paticca* \- *samuppāda* 5.
 
 ``` toml
-dict_label = "Nyana"
 word = "āyūhana"
 summary = "Āyūhana: K ammic accumulation, is a name used in t"
 grammar_comment = ""
